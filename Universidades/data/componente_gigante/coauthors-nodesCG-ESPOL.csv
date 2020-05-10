@@ -1,0 +1,455 @@
+ID;Label;Keywords
+Santos, V.;Santos, V.;Point clouds,Point cloud,Texture mapping,Autonomous driving,Autonomous vehicles,Scene reconstruction,Incremental scene reconstruction,Polygonal primitives
+Sappa, A.D.;Sappa, A.D.;Image enhancement,Pixel,Siamese architecture,Infrared imaging,Image colorization,Texture mapping,Multiview environment,Pruning,Convolutional neural networks,Deep learning,Fusion,Infrared and visible spectrum,CNN,RGB-NIR dataset,Dense optical flow,Free sensor model,Image vegetation index,Stacked CGAN,Image fusion,Convolutional networks,Scene reconstruction,Contour detection,Multispectral images,Neural network,Crowdsourcing platform,Polygonal primitives,Single-sensor cameras,VGG,RGB-NIR,Cross spectral,NIR,Multispectral imaging,Cross-spectral imaging,Point cloud,Convolutional Neural Networks (CNN),Mobile crowdsourcing,Feature descriptor,LWIR-RGB cross-spectral imaging,Generative Adversarial Network (GAN),Edge detection,Generative adversarial networks,Near infrared,Dense,Neural networks,Monocular visual odometry,LWIR,Incremental scene reconstruction,Thermal infrared images,CNN in multispectral imaging,multi-spectral,Color restoration,Point clouds,Camera pose estimation,Visible spectra,Cross-spectral stereo correspondence,Near infrared images,Infrared Imagery colorization,Autonomous driving,Autonomous vehicles,multi-modal,Feature point descriptors,Cross-spectral,Thermal cameras
+Oliveira, M.;Oliveira, M.;Point clouds,Point cloud,Texture mapping,Autonomous driving,Autonomous vehicles,Scene reconstruction,Incremental scene reconstruction,Polygonal primitives
+de la Escalera, A.;de la Escalera, A.;
+Ponguillo, R.A.;Ponguillo, R.A.;Kalman filter,Messaging systems,GNU-Radio,PID control,Raspbian,NIOS II,GSM,Sprinter robot,Raspberry Pi B2+,Octave,USB DVB-T,SDR,Differential robot,Sensor fusion,Embedded systems,FPGA,Angle estimation,Alarm systems,Embedded automatic control,Tilt estimation,Dual extended kalman filter
+Padilla, V.S.;Padilla, V.S.;Intelligent Transportation Systems,Velocity control,MQTT,Kalman filter,Messaging systems,GNU-Radio,IoT Architecture,Electromagnetic shielding,NIOS II,Crop monitoring,Hirf,Sensor networks,GSM,Sprinter robot,Internet of Things,Speed measurement,CoAP,EIGRP,USB DVB-T,Wireless Sensor Network,HSRP,Differential robot,Telecontrol,SDR,Embedded systems,Faraday cage,Avionics,Routing protocols.,Ultra-Wide Band,MPLS,Telematics,Digital filter,Alarm systems,Servomotor,NIOS II processor,FPGA
+Ordoñez, D.M.;Ordoñez, D.M.;Alarm systems,NIOS II,GSM,Messaging systems
+Cordova-Garcia, J.;Cordova-Garcia, J.;delay,Power grids,failure localization,fault propagation,Power system protection,wide-area control.,Heating systems,Delays,Cascading failure,Power system faults,load shedding,network monitoring,Substations,anomaly detection,networked control,telemetry data,Communication networks
+Ortiz-Rojas, M.;Ortiz-Rojas, M.;Literature review,STEM,Programming,Learning outcomes,leaderboards,Gamification,intrinsic motivation (IM),Self-efficacy,Review of research,gamification,learning performance (LP),Intrinsic motivation,Learning
+Chiluiza, K.;Chiluiza, K.;Literature review,Learning analytics,Interactive surfaces,Group-work visualizations,Educational data mining,Review of research,Design challenge,Collocated spaces,Multimodal recording,Group work,Multimodal learning analytics,Curriculum design,Human computer interaction,Distributed framework,Collaborative skills,Gamification,intrinsic motivation (IM),Self-efficacy,Multimodal Learning Analytics,Video features,computer vision,gamification,Intrinsic motivation,Presentation skills,Data privacy,Recording quality,Programming,interactive surface,Multimodal transcripts,Computer Science Education,Multimodal interaction,User-Centered Design,Data synchronization,Automated feedback,Tabletops,intelligent tutor system,interactive floor,shape-based interaction,Collaboration,Collaboration analytics,machine learning classifiers,Audio features,Reflection,STEM,Learning outcomes,leaderboards,Multimodal,Software Design,multimodal learning analytics,human computer interaction,Learning environments,math data corpus,Self-perception,Slides features,F2f,Tabletop systems,slide assessment,learning performance (LP),automatic assessment,Argumentation,Learning
+Valcke, M.;Valcke, M.;Literature review,STEM,Programming,Learning outcomes,leaderboards,Gamification,intrinsic motivation (IM),Self-efficacy,Review of research,gamification,learning performance (LP),Intrinsic motivation,Learning
+Cobos, R.;Cobos, R.;object detection,Kalman filters,ensemble,multi-object tracking
+Hernandez, J.;Hernandez, J.;Sequential data,sequential data,time series,Kalman filters,stock market prediction,Unsupervised feature extraction,Human action recognition,multi-object tracking,Restricted Boltzmann machines,neural networks,object detection,Neural networks,ensemble,Video
+Abad, A.G.;Abad, A.G.;Sequential data,User training,Decision making,stock market prediction,Satisfaction,choice complexity,multi-object tracking,Dynamic deliberation process,neural networks,quality conforming rate,throughput,time series,Adaptive learning,Kalman filters,Gamification,object detection,ensemble,Human action recognition,operator performance,Neural networks,Decision field theory,sequential data,ERP systems,Attention weight,Unsupervised feature extraction,Restricted Boltzmann machines,Sequential estimation,thinking time,mixed assembly process,Learning,Video
+Andrade, X.;Andrade, X.;Cloud cache,natural disasters,Self partitoning,Self tuning,Memory partitioning,aggregated CDRs,human mobility patterns,reach score
+Cedeno, J.;Cedeno, J.;Memory partitioning,Self partitoning,Cloud cache,Self tuning
+Boza, E.;Boza, E.;Scheduling,Function as a service,Data locality,Cloud cache,OpenLambda,Self partitoning,Self tuning,Load balancing,Serverless computing,Cloud computing,Memory partitioning,Performance
+Abad, C.;Abad, C.;Scheduling,Function as a service,Data locality,Cloud cache,OpenLambda,Self partitoning,Self tuning,Load balancing,Serverless computing,Cloud computing,Memory partitioning,Performance
+Murillo, J.;Murillo, J.;Memory partitioning,Self partitoning,Cloud cache,Self tuning
+Torres, J.;Torres, J.;Social Computing,topic modeling,Collaborative Writing,Convolutional neural networks,NLP,Education technology,Twitter,Social computing,Big data,social computing,Machine Learning,Wikipedia,Human-Computer Interaction,combined cycle power plant,clustering,thermodynamic properties,state-space model,steam power plant,e-Health,numerical simulation,Neural Networks,power plant engineering,network analysis,Natural Language Processing,fitness,collaborative writing,gas turbine,spatial data mining
+Vaca, C.;Vaca, C.;tourism,Entrepreneurship,k-means,Twitter,Politics,social computing,Ecuador,Crime indicators,clustering,health care,reach score,microblogging,Fast Fourier Transform,Clustering,Spatio-temporal data,Political election prediction,Online learning,semantic analysis,e-Health,communities,CDRs,Text categorization,homophily,Sharing economy,fitness,census,Retail,urban clusters,natural disasters,functional areas,Convolutional neural networks,SNA,economy,authors,Data Science,TF-IDF,Quito,Streaming,Urban Science,Direct Current Artifacts,network analysis,Topic discovery,TripAdvisor,Topic tracking,human activity,Text Mining,Social Media,information retrieval,thematic maps,aggregated CDRs,LDA,Signal Preprocessing,Social Computing,Human resource management,Smart cities,Topic monitoring,Psycholinguistics,Demonstrations,Data mining,Social computing,Big data,political leaders,Foursquare,Occipital Lobe,education,spatial clustering,social media,users classification,human mobility patterns,Urban areas,Customer Experience,twitter,group recommendation,sentiment analysis,spatial data mining,LIWC,social network analysis,User activities patterns,hashtag hijackers,NLP,Linguistic clustering,Temporal and spatial analysis,Machine Learning,Electro-encephalography,crisis management,Sentiment Analysis,emerging leaders,Topic modeling,Neural Networks,Butterworth Filter,DBpedia,Collective factorization,Points of interest,Political Alignment,Scopus,Social media,political communication,small towns,racism,Affinity propagation clustering,migration,Urban mobility,Clusterization,groups of interest
+Aragon, H.;Aragon, H.;Microservices,Workload characterization,Software-as-a-service
+Braganza, S.;Braganza, S.;Microservices,Workload characterization,Software-as-a-service
+Boza, E.F.;Boza, E.F.;Cloud,Software-as-a-service,Agile management,Project management,cloud architectures,Microservices,Research project,queuing theory,eviction policy,simulation,Caching,budget,admission policy,key-value store,reserved,Scheduling,serverless,Workload characterization,Load balancing,Serverless computing,Cloud computing,Functions-as-a-service,adoption,Research group,benchmarking,trace replay,on-demand,LRU,ycsb
+Parrales, J.;Parrales, J.;Microservices,Workload characterization,Software-as-a-service
+Abad, C.L.;Abad, C.L.;Clusters,Distributed processing,Social Computing,Storage,IoT,Cloud,Undergraduate research,MapReduce,Distributed systems,Software-as-a-service,cloud architectures,Microservices,control engineering,Attack detection,HDFS,queuing theory,Data mining,eviction policy,Data processing systems,Pedagogy,Big data,Cloud architecture,Machine Learning,simulation,Caching,locality,Metadata,budget,Course project,Learning object,Miss rate curve (MRC),admission policy,key-value store,reserved,IDS,locality-aware scheduling,Big Data,Scheduling,serverless,Workload characterization,Temporal locality,Anomaly detection,Workload generation,replication,scheduling,Load balancing,Serverless computing,memory partitioning,Cloud computing,Stream processing,Functions-as-a-service,adoption,Performance,storage system,benchmarking,Workflows,Capstone,resource management,trace replay,on-demand,MDS,LRU,hot-spot mitigation,Workloads,availability,Popularity,Hadoop,ycsb,optimization,Curriculum issues
+Collaguazo Jaramillo, A.;Collaguazo Jaramillo, A.;SDN,FloodLight,OpenFlow,Traditional Network,Open vSwitch,Raspberry Pi 3
+Alcivar, R.;Alcivar, R.;SDN,FloodLight,OpenFlow,Traditional Network,Open vSwitch,Raspberry Pi 3
+Pesantez, J.;Pesantez, J.;SDN,FloodLight,OpenFlow,Traditional Network,Open vSwitch,Raspberry Pi 3
+Ponguillo, R.;Ponguillo, R.;SDN,OpenFlow,Autonomous underwater vehicle,Exoskeleton,Computer Vision,Labview,NIOS II,FloodLight,Traditional Network,Hydrogenerator,Electrodermal Skin Effect,Motor disability,Buck boost converter,GSR,Energy recovered,Open vSwitch,Embedded Systems,Rehabilitation,Inertial Navigation System,Galvanic Skin Effect,Robotics,FPGA,Raspberry Pi 3
+Echeverria, V.;Echeverria, V.;Learning analytics,Interactive surfaces,CSCW,Dashboards,Collocated spaces,Visualisations,Group work,Multimodal learning analytics,Teamwork,Information visualisation,Localisation,Computer Science Education,User-Centered Design,Automated feedback,Tabletops,Data storytelling,Movement,Collaboration,Collaboration analytics,Argumentation,Learning data,Integration,Software Design,Multimodal,Seamless learning,Analytics,Visual design,F2f,Pervasive computing
+Martinez-Maldonado, R.;Martinez-Maldonado, R.;Learning analytics,Interactive surfaces,CSCW,Dashboards,Visualisations,Teamwork,Information visualisation,Localisation,Automated feedback,Data storytelling,Movement,Collaboration,Collaboration analytics,Learning data,Integration,Multimodal,Seamless learning,Analytics,Visual design,F2f,Pervasive computing
+Shum, S.B.;Shum, S.B.;Learning data,Learning analytics,Teamwork,Pervasive computing,CSCW,Dashboards,Analytics,Visual design,Information visualisation,Data storytelling,Movement,Localisation,Collaboration,Visualisations
+Wong-Villacres, M.;Wong-Villacres, M.;Low-cost,User differentiation,Portable,Parenting,Low-trust environments,Education,Latino,Intersectionality,Consumer-to-consumer,Computer Science Education,User-Centered Design,User study,Meaningful interactions,Social network,Tabletops,Parental engagement,HCI4D,Argumentation,India,Solidarity Economy,Community building,Schools and teachers,Classrooms,VR,Software Design,Actor-network theory,Facebook Groups,Bartering,USA,Multi-touch,Depth camera,Pen-and-touch
+Kumar, N.;Kumar, N.;India,Intersectionality,Solidarity,Classrooms,VR,Education,Marginality,Actor-network theory,USA,Latino,ICTD,Parenting,HCI4D
+DiSalvo, B.;DiSalvo, B.;India,Intersectionality,Education,Actor-network theory,Latino,Parenting,HCI4D
+Vishwanath, A.;Vishwanath, A.;India,Intersectionality,Classrooms,VR,Education,USA,HCI4D
+Karusala, N.;Karusala, N.;India,Classrooms,VR,USA,HCI4D
+Aumala, G.;Aumala, G.;Scheduling,Function as a service,Data locality,OpenLambda,Load balancing,Serverless computing,Cloud computing,Performance
+Ortiz-Aviles, L.;Ortiz-Aviles, L.;Scheduling,Function as a service,Data locality,OpenLambda,Load balancing,Serverless computing,Cloud computing,Performance
+Totoy, G.;Totoy, G.;Scheduling,Function as a service,Data locality,Workload characterization,OpenLambda,Caching,Load balancing,Serverless computing,Cloud computing,Performance,Miss rate curve (MRC)
+Do, T.H.;Do, T.H.;graph-based matrix completion,variational graph autoen-coder,air quality inference,deep learning
+Minh Nguyen, D.;Minh Nguyen, D.;graph-based matrix completion,variational graph autoen-coder,air quality inference,deep learning
+Tsiligianni, E.;Tsiligianni, E.;graph-based matrix completion,variational graph autoen-coder,air quality inference,deep learning
+Philips, W.;Philips, W.;Mathematical morphology,Rigid body,variational graph autoen-coder,air quality inference,Segmentation,Active contours,Bilateral filtering,C. elegans,Morphology,deep learning,Image analysis,Close range hyperspectral image,Recognition,Data fusion,Multiple objects,graph-based matrix completion,Banana diseases,Tracking,Hyperspectral images
+Deligiannis, N.;Deligiannis, N.;graph-based matrix completion,variational graph autoen-coder,air quality inference,deep learning
+Talluri, S.;Talluri, S.;
+Łuszczak, A.;Łuszczak, A.;
+Iosup, A.;Iosup, A.;
+Bezemer, C.-P.;Bezemer, C.-P.;
+Eismann, S.;Eismann, S.;
+Ferme, V.;Ferme, V.;
+Walter, J.;Walter, J.;
+Willnecker, F.;Willnecker, F.;
+Encalada, A.;Encalada, A.;Crime indicators,Data Science,Retail,Temporal and spatial analysis,Urban Science
+Orellana Fantoni, C.;Orellana Fantoni, C.;Crime indicators,Data Science,Retail,Temporal and spatial analysis,Urban Science
+Gorotiza, J.;Gorotiza, J.;Crime indicators,Data Science,Retail,Temporal and spatial analysis,Urban Science
+Pilco, N.;Pilco, N.;Crime indicators,Data Science,Retail,Temporal and spatial analysis,Urban Science
+Pelaez, E.;Pelaez, E.;kmeans,K-means,Collaborative Writing,Electroencephalography,Tropical Seasonal Diseases,dbscan,hierarchical-clustering,NLP,machine learning,Cerebral Palsy,Electromyography,Machine Learning,indoor localization,direct current artifacts,Wikipedia,Electro-encephalography,Occipital Lobe,beacons,motor intentions,Causal Complex Systems,Fast Fourier Transform,Power Spectral Density,agents behavior,spectral clustering,Hierarchical-Clustering,DBSCAN,UAV,Fuzzy Cognitive Maps,Butterworth Filter,Direct Current Artifacts,k-medoids,collision avoidance,eddystone,farming automation,Dengue Fever,Brain Computer Interface,Signal Preprocessing,Clusterization,Knowledge Representation,artificial intelligence,swarm systems,random forest
+Fiallos, A.;Fiallos, A.;Ontologies,Event,Word2Vec,NLP,pictures,Twitter,Instagram,Reddit,modeling,Text,Dropout.,SNA,Ecuador,social network,Students,LDA,authors,Flow,Intelligent curriculum,communities,TF-IDF,Discrete,locations,curriculum,Scopus,topics,topic,TD-IDF,Simulation,ontology,domain,Classification,hashtag
+Jimenes, K.;Jimenes, K.;Word2Vec,pictures,Twitter,Instagram,Reddit,SNA,Text,Ecuador,social network,LDA,authors,communities,TF-IDF,locations,Scopus,topics,TD-IDF,Classification,hashtag
+Estrada-Cedeno, P.;Estrada-Cedeno, P.;Clustering,Sharing economy,Human resource management,Smart cities,Data mining
+Layedra, F.;Layedra, F.;Clustering,natural disasters,Sharing economy,economy,human activity,Human resource management,Smart cities,census,small towns,aggregated CDRs,education,health care,human mobility patterns,reach score,CDRs,Data mining
+Castillo-Lopez, G.;Castillo-Lopez, G.;Clustering,Sharing economy,Human resource management,Smart cities,Data mining
+Bayona, O.;Bayona, O.;Close-range hyperspectral imaging,Bean detection,calibration,Hyperspectral Imaging,Black Sigatoka,Cacao,Cocoa
+Ochoa, D.;Ochoa, D.;tourism,Hyperspectral Imaging,transport mode classification,Rigid body,Spectral vegetation indexes,Twitter,Feature extraction,Close-range hyperspectral imaging,Hyperspectral imaging,Bean detection,Statistical shape analysis,GPS,3D Recognition,Neural Network,activity classification,Segmentation,Mobility,Active contours,calibration,3D Classification,social media,Cocoa,C. elegans,Morphology,change mode detection,GIS,Image analysis,Point Cloud,Close range hyperspectral image,Recognition,Spectral calibration,Data fusion,Black Sigatoka,Multiple objects,Banana diseases,Cacao,migration,Pole Detection,Tracking,spatial data mining
+Criollo, R.;Criollo, R.;Close-range hyperspectral imaging,Hyperspectral imaging,calibration,Bean detection,Hyperspectral Imaging,Spectral calibration,Cacao,Cocoa,Spectral vegetation indexes
+Cevallos-Cevallos, J.;Cevallos-Cevallos, J.;Cocoa,calibration,Hyperspectral Imaging
+Liao, W.;Liao, W.;Mathematical morphology,Close-range hyperspectral imaging,calibration,Bean detection,Close range hyperspectral image,Hyperspectral Imaging,Data fusion,Banana diseases,Bilateral filtering,Cacao,Cocoa,Morphology,Hyperspectral images
+Ochoa, X.;Ochoa, X.;RankNet,Event,Learning Analytics,learning object repository,Collaborative Writing,Data challenge,Evaluative metadata,Sensors,Publication,Metrics,LATEX,Engines,Dropout.,Ecuador,Wikipedia,Semantic web,Internet,Multimodal Learning Analytics,Multimodal datasets,Learning object repositories,Learning objects,Relevance ranking,Electronic learning,Recording quality,Topical relevance,communities,Multimodal interaction,Data-driven decision-making,MERLOT,Filled-pauses,Discrete,Collaboration,Emerging E-Learning Technologies,Systematic Mapping,Resource recommendation,Audio features,learning object metadata,Circuit Simulation,paper based assessment,Latin America,ACM proceedings,learning object repositories,Granularity,math data corpus,Slides features,federated search,Visual Analytics,Information Visualisa-Tion,social data,Multilinguality,topic modeling,Connexions,analytics,Adaptive and intelligent educational systems,Attention metadata,SNA,RDF database,Interoperability,Communities,Blended learning,Video features,Evaluation,evaluation feedback,LOR,authors,Recommending,Text tagging,Social networks,Virtual worlds,Academic Risk,TF-IDF,Integration,harvesting,Multimodal,multimodal learning analytics,Search engines,relevance ranking,Simulation,personalized e-learning,Educational Data Mining,Early warning system,LDA,Students,Ontologies,Augmented Reality,Technology enhanced learning,Collaborative tagging,Ranking,Social LOR,Education technology,Posture,Design challenge,Uncertainty Visualization,Primary and secondary education,Artificial neural networks,Data mining,Learning resources,Gaze,computer vision,Curriculum analytics,Service oriented architectures,Academic advising,learning repositories,OCW,Repositories,Multimodal transcripts,Pattern extraction,Quality assessment,system applications and experience,Standards,fiducial mark,Reuse,Learning environments,LMS,Learning management systems,Learning analytics,Group-work visualizations,Educational data mining,metadata,NLP,Academic adviser,Multimodal recording,Personal relevance,Metasearch,Multimodal learning analytics,Learning design,Curriculum design,Education,Human computer interaction,Situational relevance,Learning object,Ratings,Presentation skills,Flow,Data privacy,Visualization,Research Groups,Intelligent curriculum,Embedded System,e-learning,Academic trajectory,Ranking mechanisms,Recommender services,Learning Object Metadata,Scopus,Recommender systems,Seamless learning,collaborative writing,Visual Learning Analytics,Learning spaces,Performance analysis,Semantic learning object repositories
+Van Gheluwe, C.;Van Gheluwe, C.;error propagation,data quality,data processing,geospatial data,crowdsensing
+Lopez, A.J.;Lopez, A.J.;Segmentation,error propagation,data quality,data processing,geospatial data,crowdsensing,change mode detection,activity classification
+Gautama, S.;Gautama, S.;Mathematical morphology,transport mode classification,geospatial data,crowdsensing,Feature extraction,Statistical shape analysis,GPS,activity classification,Segmentation,error propagation,Mobility,data processing,Bilateral filtering,C. elegans,change mode detection,GIS,Image analysis,Recognition,data quality,Data fusion,Hyperspectral images
+Cortez, D.;Cortez, D.;Hydrogenerator,Labview,Buck boost converter,Energy recovered
+Cruz, E.;Cruz, E.;human mobility patterns,reach score,aggregated CDRs,natural disasters
+Kuffó, L.;Kuffó, L.;Customer Experience,Political Alignment,Text categorization,Social media,Machine Learning,Sentiment Analysis,Data Science,Text Mining,Social Media,Twitter,Politics
+Izquierdo, E.;Izquierdo, E.;Entrepreneurship,Educational resources,Psycholinguistics,Twitter,software engineering,prototype,Machine Learning,Software engineering,low cost,Data Science,evaluation,software development process,Customer Experience,tools,Text categorization,Continuous learning,Social media,Training needs,Text Mining,Social Media,Software professional needs
+Bustamante, J.C.;Bustamante, J.C.;Customer Experience,Text categorization,Entrepreneurship,Social media,Machine Learning,Data Science,Text Mining,Social Media,Psycholinguistics,Twitter
+Cevallos, H.;Cevallos, H.;Transformational,Dynamic Power System State Estimation,weight Least Square,power System State Estimation,Leadership,holt method,sequential Importance Sampling,Regressions,index of error,Work experience,Personality,systematic Resampling,Extended Kalman Filter,Holt method,Particle Filter,particle Filter,extended Kalman Filter,Index of error
+Intriago, G.;Intriago, G.;Dynamic Power System State Estimation,weight Least Square,power System State Estimation,holt method,sequential Importance Sampling,index of error,systematic Resampling,Extended Kalman Filter,Holt method,Particle Filter,particle Filter,extended Kalman Filter,Index of error
+Plaza, D.;Plaza, D.;Fractional Order Control,Formative Tests,IoT,holt method,index of error,Extended Kalman Filter,EPSAC,extended Kalman Filter,fractional order control techniques,unmanned ground vehicles (UGVs),weight Least Square,IoT device,Holt method,Particle Filter,Dynamic Power System State Estimation,Proportional-Derivative Controller,particle Filter,unmanned aerial vehicles (UAVs),Unmanned Aerial Vehicle,Index of error,Fractional calculus,Fractional Calculus,power System State Estimation,sequential Importance Sampling,systematic Resampling
+Intriago, R.;Intriago, R.;power System State Estimation,sequential Importance Sampling,systematic Resampling,particle Filter,Index of error
+Villavicencio, M.;Villavicencio, M.;Cloud,Agile Methodologies,Large companies,Software testing,Agile management,Project management,cloud architectures,Educational resources,Research project,Usability,Linguistic clustering,learning,Twitter,Higher education,queuing theory,software engineering,engineering education,prototype,software measurement,Big data,Ecuador,Survey,Functionality,simulation,Educational framework,political leaders,Software engineering,budget,Medium and large companies,Adoption models,low cost,Constructivism,Dendrogram,Software measurement,microblogging,reserved,Big Data,serverless,Measurement,higher education,Agile software development,Business process,VSE,social media,Cloud computing,Qualitative analysis,adoption,Systematic Literature Review,Model checking,Text mining,Research group,evaluation,software development process,tools,on-demand,Continuous learning,Software training,free resources,Training needs,political communication,Text Mining,LMS,Timed automata,Task model,OER,educational resources,Affinity propagation clustering,LIWC,Software professional needs,Open Educational Resources
+Oyola, A.;Oyola, A.;Dijkstra,Continuous learning,Training needs,Dynamic environments,Software engineering,Educational resources,Shortest-safe,Software professional needs
+Collaguazo-Jaramillo, A.;Collaguazo-Jaramillo, A.;
+Moreira, V.;Moreira, V.;
+Lara, P.;Lara, P.;economy,human activity,census,small towns,education,health care,CDRs
+García, S.;García, S.;Aerospace control,Natural Language Processing,topic modeling,Collaborative Writing,Human-Computer Interaction,Global optimization,Genetic algorithms,collaborative writing,Education technology
+Peláez, E.;Peláez, E.;Fuzzy logic,Natural Language Processing,social computing,topic modeling,Collaborative Writing,Task allocation,Human-Computer Interaction,Twitter,Farming automation,Agents behavior,collaborative writing,Swarm intelligence,Education technology,UAVs,spatial data mining
+Rivadeneira, R.E.;Rivadeneira, R.E.;Image enhancement,Convolutional neural networks,Thermal cameras,Thermal infrared images
+Suárez, P.L.;Suárez, P.L.;Image enhancement,CNN in multispectral imaging,Pixel,Visible spectra,Image colorization,Near infrared,Pruning,Convolutional neural networks,Fusion,Cross-spectral,Thermal cameras,Thermal infrared images
+Vintimilla, B.X.;Vintimilla, B.X.;Image enhancement,Pixel,Siamese architecture,Infrared imaging,Image colorization,Thermal cameras,Multiview environment,Pruning,Convolutional neural networks,Deep learning,Fusion,Infrared and visible spectrum,Dense optical flow,Image vegetation index,Stacked CGAN,Image fusion,Convolutional networks,Head detection,Federated Architecture,Cross spectral,Danger management systems,Convolutional Neural Networks (CNN),Dynamic environments,Autonomous Vehicles,MatConvNet,LWIR-RGB cross-spectral imaging,Generative Adversarial Network (GAN),Shortest-safe,Fault Tolerance,Generative adversarial networks,Near infrared,Dense,Monocular visual odometry,Sensor Data Fusion,Thermal infrared images,Fall detection,TensorFlow,CNN in multispectral imaging,Dijkstra,Fault Tolerant Perception,Camera pose estimation,Visible spectra,Cross-spectral stereo correspondence,Infrared Imagery colorization,Feature point descriptors,Cross-spectral,Cross-spectral imaging,Dcnn
+Quelal, R.;Quelal, R.;Big Data,Big data,Agile Methodologies,Ecuador,Survey,Text Mining,Systematic Literature Review,Large companies
+Mendoza, L.E.;Mendoza, L.E.;Big Data,Model checking,Software specification,Agile Methodologies,Ecuador,Survey,Agile software development,Critical computer-based systems,Compositional verification,Safety-critical systems software,Software verification,Text Mining,Systematic Literature Review,Medium and large companies,Methodological approach
+Arana, R.C.;Arana, R.C.;Myo bracelet,Robotic hand prosthesis,Non-invasive sensors,Gripping movements,Control system
+Mena, L.;Mena, L.;Myo bracelet,Robotic hand prosthesis,Non-invasive sensors,Gripping movements,Control system
+Montes, H.;Montes, H.;Myo bracelet,Robotic hand prosthesis,Non-invasive sensors,Gripping movements,Control system
+Cajo, R.;Cajo, R.;Dynamic modeling,Behavioral interventions,Nonlinear Observer,Theoretical model,Gripping movements,Twin Rotor MIMO System (TRMS),Control system,Linear PID Controller,fractional order control techniques,unmanned ground vehicles (UGVs),Proportional-Integral-Derivative (PID),Nonlinear PID Controller,System identification,Robotic hand prosthesis,Yagi-uda antenna,Far-field,Radiation patterns,Sampling technique,unmanned aerial vehicles (UAVs),Fractional calculus,Myo bracelet,Non-invasive sensors
+Arévalo-Avecillas, D.;Arévalo-Avecillas, D.;Transformational,Work experience,Leadership,Regressions,Personality
+Padilla-Lozano, C.;Padilla-Lozano, C.;Transformational,Work experience,Leadership,Regressions,Personality
+Pino, R.;Pino, R.;Transformational,Work experience,Leadership,Regressions,Personality
+Recalde, L.;Recalde, L.;group recommendation,semantic analysis,hashtag hijackers,users classification,groups of interest,Demonstrations
+Mendieta, J.;Mendieta, J.;tourism,group recommendation,semantic analysis,social media,LIWC,Twitter,hashtag hijackers,users classification,Affinity propagation clustering,migration,Linguistic clustering,groups of interest,spatial data mining,Demonstrations
+Boratto, L.;Boratto, L.;group recommendation,semantic analysis,hashtag hijackers,users classification,groups of interest,Demonstrations
+Baquerizo, G.;Baquerizo, G.;microblogging,group recommendation,semantic analysis,political leaders,LIWC,Twitter,hashtag hijackers,political communication,users classification,social media,Affinity propagation clustering,Linguistic clustering,groups of interest,Demonstrations
+Macarini, L.A.;Macarini, L.A.;secondary education,learning analytics,dashboard,Academic trajectory,visualization,educational data mining
+Lemos dos Santos, H.;Lemos dos Santos, H.;secondary education,learning analytics,dashboard,Academic trajectory,visualization,educational data mining
+Cechinel, C.;Cechinel, C.;Learning analytics,Learning Analytics,Educational data mining,Evaluative metadata,Rules,educational data mining,Primary and secondary education,Artificial neural networks,RDF database,Semantic web,Evaluation,visualization,Learning object repositories,Learning objects,Ratings,Clustering,Research Groups,Quality assessment,Academic trajectory,Ranking mechanisms,MERLOT,Systematic Mapping,secondary education,At risk students,learning analytics,Latin America,dashboard,Recommender systems,Educational Data Mining,Early warning system,Performance analysis,Semantic learning object repositories
+Alonso, G.E.;Alonso, G.E.;Clustering,Learning analytics,secondary education,At risk students,learning analytics,dashboard,Academic trajectory,Educational data mining,visualization,Rules,Educational Data Mining,Early warning system,educational data mining,Primary and secondary education
+Díaz, P.;Díaz, P.;secondary education,learning analytics,dashboard,Academic trajectory,visualization,educational data mining
+Mac, T.T.;Mac, T.T.;fractional order control techniques,unmanned ground vehicles (UGVs),Fractional calculus,unmanned aerial vehicles (UAVs)
+De Keyser, R.;De Keyser, R.;fractional order control techniques,unmanned ground vehicles (UGVs),Fractional calculus,unmanned aerial vehicles (UAVs)
+Ionescu, C.;Ionescu, C.;fractional order control techniques,unmanned ground vehicles (UGVs),Fractional calculus,unmanned aerial vehicles (UAVs)
+Rottondi, C.;Rottondi, C.;
+Verticale, G.;Verticale, G.;
+Fraternali, P.;Fraternali, P.;Water resources planning and management,Social media,Microblogging,Games with a purpose,Social computation,Online attention,Crowdsourcing,Urban indicators,Social net- work analysis,Human Computation
+Hidasi, B.;Hidasi, B.;
+Vaca Ruiz, C.K.;Vaca Ruiz, C.K.;
+Ferrin, A.;Ferrin, A.;Point Cloud,3D Classification,3D Recognition,Pole Detection,Neural Network
+Larrea, J.;Larrea, J.;Point Cloud,3D Classification,3D Recognition,Pole Detection,Neural Network
+Realpe, M.;Realpe, M.;TensorFlow,Point Cloud,Fault Tolerant Perception,Federated Architecture,3D Classification,Sensor Data Fusion,Danger management systems,Fault Tolerance,Autonomous Vehicles,MatConvNet,Data Fusion,3D Recognition,Pole Detection,Dcnn,Neural Network,Head detection,Fall detection
+Campana, F.;Campana, F.;open standards,iotivity,eddystone,indoor localization,smart objects,augmented reality,beacons,artificial intelligence,random forest
+Dominguez, F.;Dominguez, F.;Augmented Reality,smart objects,Education,indoor localization,computer vision,beacons,evaluation feedback,Internet of Things,open standards,iotivity,Bluetooth mesh,Embedded System,augmented reality,fiducial mark,Circuit Simulation,paper based assessment,eddystone,LMS,artificial intelligence,random forest
+Mendieta, M.;Mendieta, M.;fine-Tuning,organ identification,feature extraction,histology,resource management,deep learning,transfer learning,knowledge transfer,memory partitioning,cross-modal learning,Cloud computing,histological images,control engineering,CNN,aquaculture,big data,Aquaculture
+Panchana, F.;Panchana, F.;fine-Tuning,organ identification,feature extraction,histology,transfer learning,CNN,big data,Aquaculture
+Andrade, B.;Andrade, B.;fine-Tuning,organ identification,feature extraction,histology,transfer learning,CNN,big data,Aquaculture
+Vintimilla, B.;Vintimilla, B.;fine-Tuning,organ identification,feature extraction,histology,Segmentation,transfer learning,Recognition,Fault Tolerance,Autonomous Vehicles,Data Fusion,Statistical shape analysis,CNN,big data,Feature extraction,Aquaculture
+Romero, D.;Romero, D.;fine-Tuning,organ identification,feature extraction,histology,deep learning,transfer learning,knowledge transfer,cross-modal learning,histological images,CNN,aquaculture,big data,Aquaculture
+Martinez, C.;Martinez, C.;Internet of Things,Bluetooth mesh
+Eras, L.;Eras, L.;Internet of Things,Bluetooth mesh
+Alcivar-Molina, E.;Alcivar-Molina, E.;Robotics,Rehabilitation,Motor disability,Exoskeleton
+Hurel, J.;Hurel, J.;Robotics,Rehabilitation,Motor disability,Exoskeleton
+Teran, E.;Teran, E.;Robotics,Rehabilitation,Motor disability,Exoskeleton
+Loayza, F.R.;Loayza, F.R.;Exoskeleton,cranioplasty,free software,alloplastic implant,Rehabilitation,Robotics,Motor disability
+Sola-Mora, J.;Sola-Mora, J.;free software,alloplastic implant,cranioplasty
+Castro-Valladares, L.;Castro-Valladares, L.;free software,alloplastic implant,cranioplasty
+Nunez-Idrovo, L.;Nunez-Idrovo, L.;free software,alloplastic implant,cranioplasty
+Mora, H.;Mora, H.;free software,alloplastic implant,cranioplasty
+Vaca-Urbano, F.;Vaca-Urbano, F.;outer rotor,Plecs,flux density,Smart grids,Bi-directional powerflow,electromagnetic torque,combined cycle power plant,wind generator,thermodynamic properties,Wave distortion mitigation,state-space model,control system stability,steam power plant,finite elements,numerical simulation,power plant engineering,Solid state transformer,permanent magnet,K-Factor,Power quality,gas turbine
+Alvarez-Alvarado, M.S.;Alvarez-Alvarado, M.S.;outer rotor,Plecs,flux density,Smart grids,Bi-directional powerflow,simulation,electromagnetic torque,combined cycle power plant,wind generator,thermodynamic properties,Wave distortion mitigation,state-space model,control system stability,steam power plant,finite elements,numerical simulation,graph theory,Body mass index,power plant engineering,human walking model,Solid state transformer,permanent magnet,K-Factor,Power quality,gas turbine
+Cordova-Villagomez, J.;Cordova-Villagomez, J.;control system stability,outer rotor,permanent magnet,flux density,electromagnetic torque,K-Factor,finite elements,wind generator
+Recalde, A.;Recalde, A.;outer rotor,flux density,information and communication technologies,network design optimization,electromagnetic torque,combined cycle power plant,wind generator,thermodynamic properties,state-space model,control system stability,steam power plant,open educational resources,distributed management,finite elements,numerical simulation,more electric aircraft,power plant engineering,reliability,renewable energy sources,permanent magnet,aircraft power system architecture,K-Factor,gas turbine,smart grids
+Blazquez, F.;Blazquez, F.;control system stability,outer rotor,permanent magnet,flux density,electromagnetic torque,K-Factor,finite elements,wind generator
+Endara, I.;Endara, I.;steam power plant,power plant engineering,open educational resources,renewable energy sources,smart grids,combined cycle power plant,distributed management,information and communication technologies,numerical simulation,gas turbine,thermodynamic properties,state-space model
+Cipriano, D.;Cipriano, D.;transient stability,DIFG,DTC,DPC
+Rengifo, J.;Rengifo, J.;DTC,transient stability,efficiency testing standards,harmonic analysis,energy efficiency,Analytical loss models,DIFG,finite element analysis,DPC
+Aller, J.M.;Aller, J.M.;DTC,transient stability,efficiency testing standards,harmonic analysis,energy efficiency,Analytical loss models,DIFG,finite element analysis,DPC
+Romero, J.;Romero, J.;efficiency testing standards,harmonic analysis,Theoretical model,Yagi-uda antenna,energy efficiency,Analytical loss models,Far-field,Radiation patterns,Sampling technique,finite element analysis
+Asanza, V.;Asanza, V.;Dynamic modeling,kmeans,Behavioral interventions,K-means,Robustness criteria,Sensor node,Electroencephalography,dbscan,hierarchical-clustering,machine learning,Cerebral Palsy,Electromyography,direct current artifacts,MPRs,Electro-encephalography,Occipital Lobe,Addressing,motor intentions,Fast Fourier Transform,Power Spectral Density,DSDV,spectral clustering,Hierarchical-Clustering,System identification,Sump,OLSR,DBSCAN,Butterworth Filter,Direct Current Artifacts,k-medoids,Brain Computer Interface,NS3,Clusterization,Signal Preprocessing
+Loayza, F.;Loayza, F.;kmeans,K-means,Electroencephalography,dbscan,hierarchical-clustering,machine learning,dimensionality reduction,Cerebral Palsy,Electromyography,neural network,direct current artifacts,Blood oxygen level dependent (BOLD) analysis,functional magnetic resonance imaging (fMRI),motor intentions,lower limbs movements,Fast Fourier Transform,Power Spectral Density,spectral clustering,Hierarchical-Clustering,brain,DBSCAN,magnetic resonance imaging (MRI) compatible device,Butterworth Filter,k-medoids,Brain Computer Interface
+Diaz, J.;Diaz, J.;Fast Fourier Transform,Electromyography,K-means,Hierarchical-Clustering,DBSCAN,Butterworth Filter
+Valarezo, E.;Valarezo, E.;Fast Fourier Transform,Electromyography,K-means,Hierarchical-Clustering,DBSCAN,Butterworth Filter
+Suarez, P.L.;Suarez, P.L.;Cross spectral,Stacked CGAN,Image vegetation index,Infrared imaging,Cross-spectral imaging,Convolutional networks,Convolutional Neural Networks (CNN),Infrared Imagery colorization,Convolutional neural networks,Generative Adversarial Network (GAN),Generative adversarial networks,Dense
+Hammoud, R.I.;Hammoud, R.I.;Generative Adversarial Network (GAN),Convolutional Neural Networks (CNN),Infrared Imagery colorization
+Villegas, P.;Villegas, P.;
+Constantine, A.;Constantine, A.;
+Villalba, R.;Villalba, R.;
+Baidal, C.S.;Baidal, C.S.;Wireless Sensor Network,Internet of Things,Intelligent Transportation Systems,Telematics
+Salazar, D.S.;Salazar, D.S.;Wireless Sensor Network,Internet of Things,Intelligent Transportation Systems,Telematics
+Estrada, R.L.;Estrada, R.L.;Wireless Sensor Network,Internet of Things,Intelligent Transportation Systems,Telematics
+Arreaga, N.X.;Arreaga, N.X.;Intelligent Transportation Systems,Crop monitoring,Telematics,Servomotor,Sensor networks,Wireless Sensor Network,Internet of Things,Telecontrol
+Velásquez, W.;Velásquez, W.;graph databases,Earthquake,Recommender system,IoT,KNN,Fast Data,geolocation,Architecture,Machine Learning,tracking,Decision Tree,Big Data,notify,eating habits,Emergency,power source,Elderly,on-line payments,BMI,Smart City,inference data,Simulation,neo4j,Building
+Chalen, M.;Chalen, M.;graph databases,Recommender system,eating habits,Emergency,BMI,inference data,Simulation,Elderly,neo4j,on-line payments,Building
+Salvachúa, J.;Salvachúa, J.;Big Data,Earthquake,IoT,Emergency,BMI,Architecture,Machine Learning,Smart City,KNN,Simulation,Elderly,Fast Data,Building,Decision Tree
+Zhao, Y.;Zhao, Y.;delay,Power grids,fault propagation,wide-area control.,Power system protection,Close range hyperspectral image,Heating systems,Data fusion,Cascading failure,Delays,Power system faults,Banana diseases,load shedding,networked control,Substations,Morphology,Communication networks
+Rugel, G.M.V.;Rugel, G.M.V.;Banana diseases,Data fusion,Morphology,Close range hyperspectral image
+Dye, M.;Dye, M.;Low-trust environments,Solidarity Economy,Intersectionality,Solidarity,Marginality,Consumer-to-consumer,Facebook Groups,Bartering,ICTD
+Schlesinger, A.;Schlesinger, A.;Solidarity,Intersectionality,ICTD,Marginality
+Pal, J.;Pal, J.;Solidarity,Intersectionality,ICTD,Marginality
+Gray, M.L.;Gray, M.L.;Solidarity,Intersectionality,ICTD,Marginality
+Lucas, P.;Lucas, P.;Fuzzy logic,Circuit Simulation,Augmented Reality,Education,Task allocation,agents behavior,collision avoidance,Farming automation,farming automation,Agents behavior,UAV,Swarm intelligence,UAVs,swarm systems
+Loayza, K.;Loayza, K.;Fuzzy logic,agents behavior,Task allocation,collision avoidance,Farming automation,farming automation,Agents behavior,UAV,Swarm intelligence,UAVs,swarm systems
+Castro, S.J.;Castro, S.J.;Caching,LRU,eviction policy,multimedia project,admission policy,multidisciplinary,Capstone
+Jácome, L.;Jácome, L.;multimedia project,multidisciplinary,Capstone
+Concha, A.G.;Concha, A.G.;multimedia project,multidisciplinary,Capstone
+Miño, M.F.;Miño, M.F.;multimedia project,multidisciplinary,Capstone
+De Lourdes Pilay, M.;De Lourdes Pilay, M.;multimedia project,multidisciplinary,Capstone
+Xie, D.-L.;Xie, D.-L.;
+Wang, X.;Wang, X.;delay,Power grids,fault propagation,wide-area control.,Power system protection,Heating systems,Delays,Cascading failure,Power system faults,load shedding,Substations,networked control,Communication networks
+Cordova Estrella, R.;Cordova Estrella, R.;DSDV,Sump,Robustness criteria,OLSR,MPRs,Sensor node,NS3,Addressing
+Marin-Garcia, I.;Marin-Garcia, I.;Network Security,DSDV,Visible Light Communication,Wireless Sensor Networks,Sump,Robustness criteria,Network Architecture,OLSR,MPRs,Sensor node,Smart Irrigation Systems,Sniffing,NS3,Addressing,Agricultural Applications
+Munoz-Arcentales, J.A.;Munoz-Arcentales, J.A.;DSDV,Sump,Robustness criteria,OLSR,MPRs,Sensor node,NS3,Addressing
+Velasquez Vargas, W.A.;Velasquez Vargas, W.A.;DSDV,Sump,Robustness criteria,OLSR,MPRs,Sensor node,NS3,Addressing
+MacArini, L.A.;MacArini, L.A.;Learning analytics,Clustering,At risk students,Educational data mining,Rules
+Dos Santos, H.L.;Dos Santos, H.L.;Learning analytics,Clustering,Learning Analytics,At risk students,Research Groups,Systematic Mapping,Latin America,RDF database,Academic trajectory,Educational data mining,Performance analysis,Rules,Educational Data Mining,Early warning system,Primary and secondary education,Semantic learning object repositories
+Casas, A.P.;Casas, A.P.;Learning analytics,Clustering,At risk students,Educational data mining,Rules
+Jurado-Verdu, C.;Jurado-Verdu, C.;WDM,LED-to-rolling shutter camera,real-time process,OCC,OWC,Indoor Positioning
+Guerra, V.;Guerra, V.;Network Security,Visible Light Communication,WDM,LED-to-rolling shutter camera,real-time process,OCC,Sniffing,OWC,Indoor Positioning
+Rabadan, J.;Rabadan, J.;Network Security,Visible Light Communication,WDM,LED-to-rolling shutter camera,real-time process,OCC,Sniffing,OWC,Indoor Positioning
+Perez-Jimenez, R.;Perez-Jimenez, R.;Network Security,Visible Light Communication,WDM,LED-to-rolling shutter camera,real-time process,OCC,Sniffing,OWC,Indoor Positioning
+Chavez-Burbano, P.;Chavez-Burbano, P.;identity theft,Wireless Sensor Networks,Network Architecture,WDM,LED-to-rolling shutter camera,real-time process,OCC,OWC,Smart Irrigation Systems,Agricultural Applications,Indoor Positioning,wireless,evil tween
+Quimba, S.;Quimba, S.;reserved,on-demand,serverless,Cloud,Software training,simulation,Software testing,Software engineering,budget,Cloud computing,cloud architectures,adoption,OER,queuing theory,Open Educational Resources
+Luzardo, G.;Luzardo, G.;Audio features,interactive surface,human computer interaction,Collaborative assessment,Multi-tabletop system,Collaborative design,Multimodal Learning Analytics,Slides features,computer vision,shape-based interaction,interactive floor,Presentation skills
+Aelterman, J.;Aelterman, J.;
+Luong, H.;Luong, H.;
+Rousseaux, S.;Rousseaux, S.;
+Velasquez, W.;Velasquez, W.;MQTT,Photosensor,Pulse sensor,IoT Architecture,wireless sensor networks,Resilient Smart City,postgresql,scala,simulation,GPS,evacuation system,Natural Disaster,Cardiac rhythm,Internet of Things,neo-4j,Kafka,Internet of things,GPRS,Emergency,docker,CoAP,couchdb,mysql,mongodb,Platform of visualization,graph theory,Body mass index,akka,human walking model,Ultra-Wide Band,photoplethysmogram,emergency situations,visualization of events,database
+Salvachua, J.;Salvachua, J.;human walking model,Resilient Smart City,Emergency,simulation,Natural Disaster,Internet of Things,graph theory,Body mass index
+Gonzalez, A.;Gonzalez, A.;Internet of things,emergency situations,visualization of events,evacuation system,Platform of visualization
+Munoz-Arcentales, A.;Munoz-Arcentales, A.;graph databases,Earthquake,Recommender system,IoT,KNN,Fast Data,Wireless sensor networks,wireless sensor networks,Resilient Smart City,postgresql,scala,Architecture,Machine Learning,broadcast messages,Decision Tree,Natural Disaster,Internet of Things,neo-4j,Kafka,Big Data,eating habits,Emergency,docker,on-line payments,couchdb,reactive signaling,mysql,mongodb,akka,Smart City,inference data,Simulation,neo4j,database,algorithms
+Rodriguez, J.S.;Rodriguez, J.S.;akka,wireless sensor networks,postgresql,scala,docker,couchdb,database,mysql,neo-4j,mongodb,Kafka
+Caio, R.;Caio, R.;Fractional Order Control,Fractional Calculus,Proportional-Derivative Controller,EPSAC,Unmanned Aerial Vehicle
+Copot, C.;Copot, C.;Fractional Order Control,Fractional Calculus,Proportional-Derivative Controller,EPSAC,Unmanned Aerial Vehicle
+Ionescu, C.M.;Ionescu, C.M.;Fractional Order Control,Fractional Calculus,Proportional-Derivative Controller,EPSAC,Unmanned Aerial Vehicle
+De Kevser, R.;De Kevser, R.;Fractional Order Control,Fractional Calculus,Proportional-Derivative Controller,EPSAC,Unmanned Aerial Vehicle
+Vaca, D.;Vaca, D.;Circuit Simulation,Augmented Reality,Education
+Oviedo, I.D.;Oviedo, I.D.;Crop monitoring,Servomotor,Sensor networks,Telecontrol
+Altamirano, C.A.;Altamirano, C.A.;Crop monitoring,Servomotor,Sensor networks,Telecontrol
+Millan, M.E.;Millan, M.E.;Crop monitoring,Servomotor,Sensor networks,Telecontrol
+Soria, X.;Soria, X.;Single-sensor cameras,Free sensor model,VGG,RGB-NIR,Color restoration,Multispectral imaging,Near infrared images,Neural networks,Multispectral images,Edge detection,CNN,RGB-NIR dataset,Contour detection,Neural network
+Charco, J.L.;Charco, J.L.;Camera pose estimation,Siamese architecture,Deep learning,Multiview environment
+Quelal, R.E.;Quelal, R.E.;Survey,Agile software development,Medium and large companies,Ecuador
+Kumar, A.;Kumar, A.;India,HCI4D,Intersectionality,Education
+Castillo, G.;Castillo, G.;twitter,homophily,sentiment analysis,economy,social media,human activity,census,small towns,racism,education,health care,CDRs
+Guaranda, M.-B.;Guaranda, M.-B.;economy,human activity,census,small towns,education,health care,CDRs
+Kuffo, L.;Kuffo, L.;Entrepreneurship,Social media,Text Mining,Psycholinguistics,Twitter
+Fiallos, C.;Fiallos, C.;Instagram,topics,pictures,social network,locations,hashtag
+Figueroa, S.;Figueroa, S.;Instagram,topics,pictures,social network,locations,hashtag
+Alomari, A.;Alomari, A.;Business process management,BPM+,Operational level of abstraction,Ontological analyses,Business process modeling,Decision tree
+April, A.;April, A.;Review,COSMIC,business process model,BPMN,Business process model,Requirements modeling,ISO 19761,FSM,Representational analysis,Functional size measurement,Decision tree,Qualigram,software requirements,BPM+,Ontological analyses,System requirements,survey,requirements modeling,empirical research,business process modeling,levels of abstraction,Business process management,Requirements elicitation,Operational level of abstraction,Software requirements,Case study,Business process modeling,Action research,Levels of abstraction
+Monsalve, C.;Monsalve, C.;Review,COSMIC,business process model,BPMN,Business process model,Requirements modeling,ISO 19761,FSM,Representational analysis,Functional size measurement,Decision tree,Qualigram,software requirements,Business process,BPM+,Ontological analyses,System requirements,Qualitative analysis,Model checking,survey,requirements modeling,empirical research,business process modeling,levels of abstraction,Business process management,Requirements elicitation,Operational level of abstraction,Software requirements,Timed automata,Case study,Task model,Business process modeling,Action research,Levels of abstraction
+Gawanmeh, A.;Gawanmeh, A.;Business process management,BPM+,Operational level of abstraction,Ontological analyses,Business process modeling,Decision tree
+Evans, H.I.;Evans, H.I.;Low-trust environments,Solidarity Economy,Consumer-to-consumer,Facebook Groups,Bartering
+Castro, D.;Castro, D.;Low-trust environments,Solidarity Economy,Consumer-to-consumer,Facebook Groups,Bartering
+Bruckman, A.;Bruckman, A.;Low-trust environments,Solidarity Economy,Consumer-to-consumer,Facebook Groups,Bartering
+Eyk, E.V.;Eyk, E.V.;Scheduling,Serverless computing,Load balancing,Cloud computing,Functions-as-a-service
+Van Eyk, E.;Van Eyk, E.;
+Grohmann, J.;Grohmann, J.;
+Bonilla, R.I.;Bonilla, R.I.;Distributed processing,IoT,Cloud architecture,Anomaly detection,Metric,Security,Stream processing,Internet-of-things,Attack detection,IDS
+Carrillo, G.E.;Carrillo, G.E.;Clusters,Distributed processing,Agile management,Workloads,Project management,Research group,Research project,Hadoop,Workflows,Data mining
+Crow, J.J.;Crow, J.J.;Security,Metric,Internet-of-things
+Basantes, L.S.;Basantes, L.S.;Security,Metric,Internet-of-things
+Cruz, L.G.;Cruz, L.G.;Security,Metric,Internet-of-things
+Akbarinia, A.;Akbarinia, A.;Single-sensor cameras,Color restoration,Multispectral images,RGB-NIR dataset,Neural networks
+Domínguez, F.;Domínguez, F.;Multimodal learning analytics,Data privacy,Learning analytics,Recording quality,Gaze,Distributed framework,Data synchronization,Posture,Filled-pauses,Multimodal recording
+Guamán, B.;Guamán, B.;machine learning classifiers,Multimodal learning analytics,Audio features,Gaze,Multimodal transcripts,multimodal learning analytics,Group-work visualizations,automatic assessment,Posture,Multimodal Learning Analytics,Slides features,intelligent tutor system,slide assessment,math data corpus,Filled-pauses,Collaboration,Presentation skills
+Falcones, G.;Falcones, G.;Multimodal learning analytics,Gaze,Posture,Filled-pauses,Collocated spaces,Collaboration,Group work
+Castells, J.;Castells, J.;Multimodal learning analytics,Audio features,Gaze,Multimodal transcripts,multimodal learning analytics,Group-work visualizations,math data corpus,Posture,Multimodal Learning Analytics,Slides features,Filled-pauses,Collocated spaces,Collaboration,Presentation skills,Group work
+Granda, R.;Granda, R.;Learning analytics,Group-work visualizations,Low-cost,Dashboards,Multi-tabletop system,User differentiation,Portable,Collocated spaces,Visualisations,Group work,Multimodal learning analytics,Collaborative skills,Multimodal transcripts,Collaborative assessment,User study,Data storytelling,Collaboration,Reflection,Collaborative design,Multi-touch,Visual design,Self-perception,Tabletop systems,Depth camera,Pen-and-touch
+Conati, C.;Conati, C.;Dashboards,Visualisations,Visual design,Data storytelling
+Ferguson, R.;Ferguson, R.;
+Merceron, A.;Merceron, A.;
+Phatak, S.S.;Phatak, S.S.;Adaptive interventions,Idiographic modeling,Dynamical systems modeling,Wearables,Adaptive goals,System identification,Walking behavior,Physical activity,Personalized behavior change,mHealth,Behavior change
+Freigoun, M.T.;Freigoun, M.T.;Adaptive interventions,Idiographic modeling,Dynamical systems modeling,Wearables,System identification,Physical activity,Behavior change
+Martín, C.A.;Martín, C.A.;Adaptive interventions,Idiographic modeling,Dynamical systems modeling,Wearables,System identification,Physical activity,Behavior change
+Klasnja, P.;Klasnja, P.;Adaptive interventions,Idiographic modeling,Dynamical systems modeling,Wearables,System identification,Physical activity,Behavior change
+Hekler, E.B.;Hekler, E.B.;Idiographic modeling,Personalized behavior change,Adaptive interventions,eHealth,Behavior change,Adaptive goals,System identification,physical activity,multiphase optimization strategy,Physical activity,behavioral maintenance,digital health,Dynamical systems modeling,Wearables,behavior change,adaptive interventions,Walking behavior,optimization,mHealth,control systems engineering
+Chalén, T.M.;Chalén, T.M.;Earthquake,Machine Learning,KNN,Simulation,Decision Tree
+Montoya, A.;Montoya, A.;graph databases,Recommender system,eating habits,inference data,on-line payments,neo4j
+Yanez, W.;Yanez, W.;spatial clustering,Resilient Smart City,Emergency,functional areas,User activities patterns,Foursquare,thematic maps,Natural Disaster,Twitter,Urban areas,Internet of Things,DBpedia
+Martin, C.A.;Martin, C.A.;Dynamic modeling,Behavioral interventions,Personalized behavior change,control engineering,eHealth,Adaptive goals,System identification,physical activity,multiphase optimization strategy,memory partitioning,Cloud computing,behavioral maintenance,resource management,digital health,behavior change,adaptive interventions,Walking behavior,optimization,mHealth,control systems engineering
+Pinargote, A.;Pinargote, A.;eddystone,indoor localization,beacons,artificial intelligence,random forest
+Quimis, M.;Quimis, M.;open educational resources,renewable energy sources,distributed management,information and communication technologies,smart grids
+Romero, C.;Romero, C.;open educational resources,renewable energy sources,distributed management,information and communication technologies,smart grids
+Ochoa, A.;Ochoa, A.;Collaborative Writing,Wikipedia,NLP
+Jimenez, A.;Jimenez, A.;AST,Descriptors,ORB,SURF,FAST,Collaborative Writing,topic modeling,Wikipedia,Education technology,SIFT,BRISK,NLP,FREAK,BRIEF,MSER,collaborative writing,Detectors
+Jurado, D.;Jurado, D.;fiducial mark,Embedded System,paper based assessment,computer vision,LMS,evaluation feedback
+Maya, R.;Maya, R.;fiducial mark,Embedded System,paper based assessment,computer vision,LMS,evaluation feedback
+Plaza, J.A.;Plaza, J.A.;on-demand,serverless,Cloud,simulation,budget,reserved,queuing theory
+Eslambolchilar, P.;Eslambolchilar, P.;Dynamic modeling,Behavioral interventions,System identification
+Salazar, C.;Salazar, C.;Dynamic modeling,Behavioral interventions,System identification
+Godoy, C.;Godoy, C.;Yagi-uda antenna,Theoretical model,Far-field,Radiation patterns,Sampling technique
+Bosquez, C.;Bosquez, C.;Yagi-uda antenna,Theoretical model,Far-field,Radiation patterns,Sampling technique
+Huilcapi, V.;Huilcapi, V.;Yagi-uda antenna,Theoretical model,Far-field,Radiation patterns,Sampling technique
+Valle, D.;Valle, D.;
+Villavicencio, J.;Villavicencio, J.;
+Muñoz, L.;Muñoz, L.;
+Molina, M.;Molina, M.;
+Veriñaz, H.I.;Veriñaz, H.I.;Angle estimation,Kalman filter,Sensor fusion,Tilt estimation,Dual extended kalman filter
+Vela, E.M.;Vela, E.M.;Angle estimation,Kalman filter,Myoelectric,Temperature characterization,Sensor fusion,Tilt estimation,EMG signal,Dual extended kalman filter
+Pincay, J.;Pincay, J.;Software training,Functionality,free resources,Software testing,Agile management,Software engineering,Project management,LMS,educational resources,Research group,OER,Usability,Text mining,Research project,Dendrogram,learning,Open Educational Resources
+Desiderio, K.;Desiderio, K.;Software training,Software testing,Software engineering,OER,Open Educational Resources
+Ortiz, K.;Ortiz, K.;Social computing,k-means,TripAdvisor,clustering,Convolutional neural networks,information retrieval,Quito,Twitter,urban clusters
+García, J.;García, J.;Twitter,Convolutional neural networks,Social computing
+Jiménes, K.;Jiménes, K.;Functionality,Software engineering,LMS,Usability,Text mining,Dendrogram
+Jiménez, A.;Jiménez, A.;Functionality,Software engineering,LMS,Usability,Text mining,Dendrogram
+Rosero, S.;Rosero, S.;AST,Descriptors,ORB,SURF,FAST,SIFT,BRISK,FREAK,BRIEF,MSER,Detectors
+Herrera, E.V.;Herrera, E.V.;Temperature characterization,EMG signal,Myoelectric
+Arce, V.A.;Arce, V.A.;Temperature characterization,EMG signal,Myoelectric
+Molina, K.G.;Molina, K.G.;Temperature characterization,EMG signal,Myoelectric
+Plaza, D.A.;Plaza, D.A.;Temperature characterization,EMG signal,Myoelectric
+Flores, M.;Flores, M.;Formative Tests,IoT,IoT device
+Garzon, A.;Garzon, A.;Formative Tests,IoT,IoT device
+Arce, V.;Arce, V.;Formative Tests,IoT,IoT device
+Coque, S.;Coque, S.;Agile software development,VSE,Adoption models,Software engineering
+Da Silva, B.;Da Silva, B.;
+Braeken, A.;Braeken, A.;
+Touhafi, A.;Touhafi, A.;
+Power, T.;Power, T.;Teamwork,Analytics,Movement,Localisation,Collaboration
+Hayes, C.;Hayes, C.;Teamwork,Analytics,Movement,Localisation,Collaboration
+Garcia, J.C.;Garcia, J.C.;Points of interest,Clustering,Spatio-temporal data,Urban mobility
+Avendaño, A.;Avendaño, A.;Points of interest,spatial clustering,Clustering,Spatio-temporal data,functional areas,Multimodal,User activities patterns,Foursquare,thematic maps,Video features,Presentation skills,Urban mobility,Twitter,Urban areas,DBpedia
+Gutiérrez, F.;Gutiérrez, F.;Visualization,Learning analytics,Data-driven decision-making,Academic adviser,Academic advising
+Seipp, K.;Seipp, K.;Visualization,Learning analytics,Data-driven decision-making,Academic adviser,Academic advising
+De Laet, T.;De Laet, T.;Visualization,Learning analytics,Data-driven decision-making,Academic adviser,Academic advising
+Verbert, K.;Verbert, K.;Learning analytics,Learning Analytics,Technology enhanced learning,Academic adviser,Adaptive and intelligent educational systems,Data mining,Metasearch,Engines,Learning design,Communities,Internet,Academic advising,Electronic learning,Visualization,e-learning,Pattern extraction,Data-driven decision-making,Emerging E-Learning Technologies,Resource recommendation,system applications and experience,Standards,learning object metadata,harvesting,Search engines,learning object repositories,personalized e-learning,federated search,Visual Analytics,Information Visualisa-Tion
+Xie, D.;Xie, D.;delay,Power grids,fault propagation,wide-area control.,Power system protection,Heating systems,Delays,Cascading failure,Power system faults,load shedding,Substations,networked control,Communication networks
+Zuo, L.;Zuo, L.;delay,Power grids,fault propagation,wide-area control.,Power system protection,Heating systems,Delays,Cascading failure,Power system faults,load shedding,Substations,networked control,Communication networks
+Rodes, V.;Rodes, V.;Learning analytics,Academic trajectory,Educational Data Mining,Early warning system,Primary and secondary education
+Prieto, L.P.;Prieto, L.P.;Multimodal learning analytics,Learning analytics,Integration,Multimodal,Datasets,Seamless learning,Blended learning,Challenges,Virtual worlds,Sensors,Learning spaces
+Worsley, M.;Worsley, M.;Multimodal learning analytics,Learning analytics,Integration,Multimodal,Human computer interaction,Data challenge,Datasets,Learning environments,Seamless learning,Educational data mining,Challenges,Multimodal interaction,Multimodal datasets,Design challenge
+Esparragoza, I.E.;Esparragoza, I.E.;International collaboration,Value,Interest,Multinational projects
+Ocampo, J.;Ocampo, J.;International collaboration,Value,Interest,Multinational projects
+Rodriguez, J.;Rodriguez, J.;International collaboration,microblogging,Value,Interest,political leaders,social media,political communication,Twitter,Multinational projects,LIWC
+Lascano, S.;Lascano, S.;International collaboration,Value,Interest,Multinational projects
+Ivashyn, U.;Ivashyn, U.;International collaboration,Value,Interest,Multinational projects
+Castro, R.;Castro, R.;Political Alignment,Close-range hyperspectral imaging,Hyperspectral imaging,Bean detection,Social media,Hyperspectral Imaging,Political election prediction,Spectral calibration,Sentiment Analysis,Black Sigatoka,Text Mining,Topic modeling,Cacao,Spectral vegetation indexes,Twitter,Politics
+Murillo, J.R.;Murillo, J.R.;Caching,Workload characterization,Miss rate curve (MRC),Performance
+Ullón, H.;Ullón, H.;
+Zambrano, D.;Zambrano, D.;
+Nunes, J.B.C.;Nunes, J.B.C.;Latin America,Research Groups,Systematic Mapping,Learning Analytics
+Rodríguez-Echeverría, J.;Rodríguez-Echeverría, J.;GIS,Mobility,GPS,transport mode classification
+Narvaez, R.B.;Narvaez, R.B.;GPRS,Photosensor,photoplethysmogram,GPS,Cardiac rhythm,Pulse sensor
+Villacis, D.M.;Villacis, D.M.;GPRS,Photosensor,photoplethysmogram,GPS,Cardiac rhythm,Pulse sensor
+Chalen, T.M.;Chalen, T.M.;GPRS,Photosensor,photoplethysmogram,GPS,Cardiac rhythm,Pulse sensor
+Donoso, D.E.O.;Donoso, D.E.O.;Mathematical morphology,Bilateral filtering,Data fusion,Hyperspectral images
+Van Coillie, F.;Van Coillie, F.;Mathematical morphology,Bilateral filtering,Data fusion,Hyperspectral images
+Douglas, A.;Douglas, A.;Particle Swarm Optimization,PID Control,Ensemble Kalman Filter,Particle Filtering Optimization
+Idrovo, R.M.;Idrovo, R.M.;Particle Swarm Optimization,PID Control,Ensemble Kalman Filter,Particle Filtering Optimization
+Valencia, A.J.;Valencia, A.J.;Particle Swarm Optimization,PID Control,Ensemble Kalman Filter,Particle Filtering Optimization
+Lopez, C.S.;Lopez, C.S.;Particle Swarm Optimization,PID Control,Ensemble Kalman Filter,Particle Filtering Optimization
+Rivera, D.E.;Rivera, D.E.;digital health,behavior change,adaptive interventions,physical activity,multiphase optimization strategy,eHealth,behavioral maintenance,optimization,mHealth,control systems engineering
+Timms, K.P.;Timms, K.P.;
+Nandola, N.N.;Nandola, N.N.;
+Morales, L.E.M.;Morales, L.E.M.;Business process,Formal verification approach,Safety-critical systems,Compositional verification,Critical software systems,Timed automata,Qualitative analysis,Task model,Model checking
+Lozano, E.;Lozano, E.;twitter,homophily,sentiment analysis,social media,emerging leaders,racism,Twitter,crisis management,social network analysis
+Cedeño, J.;Cedeño, J.;twitter,homophily,sentiment analysis,social media,racism
+Lasso, H.;Lasso, H.;twitter,homophily,sentiment analysis,social media,racism
+Velasco, M.;Velasco, M.;k-means,TripAdvisor,clustering,information retrieval,Quito,urban clusters
+San Lucas, C.;San Lucas, C.;k-means,TripAdvisor,clustering,information retrieval,Quito,urban clusters
+Vélez, J.;Vélez, J.;k-means,TripAdvisor,clustering,information retrieval,Quito,urban clusters
+Zambrano, O.;Zambrano, O.;spatial clustering,functional areas,User activities patterns,Foursquare,thematic maps,Twitter,Urban areas,DBpedia
+Ehsan, U.;Ehsan, U.;Schools and teachers,Community building,Meaningful interactions,Social network,Parental engagement
+Solomon, A.;Solomon, A.;Schools and teachers,Community building,Meaningful interactions,Social network,Parental engagement
+Buil, M.P.;Buil, M.P.;Schools and teachers,Community building,Meaningful interactions,Social network,Parental engagement
+Disalvo, B.;Disalvo, B.;Schools and teachers,Community building,Meaningful interactions,Social network,Parental engagement
+Guingla, D.P.;Guingla, D.P.;
+Puente, S.C.;Puente, S.C.;TensorFlow,Danger management systems,MatConvNet,Dcnn,Head detection,Fall detection
+Madrid, C.E.;Madrid, C.E.;TensorFlow,Danger management systems,MatConvNet,Dcnn,Head detection,Fall detection
+Alvarado, A.;Alvarado, A.;geolocation,power source,notify,tracking
+Bajaña, B.;Bajaña, B.;geolocation,power source,notify,tracking
+Munoz, J.A.;Munoz, J.A.;geolocation,power source,notify,Internet of things,reactive evacuation management,tracking,adaptive signaling and path localization
+San-Lucas, C.;San-Lucas, C.;trace replay,benchmarking,ycsb,key-value store
+Viteri, J.A.;Viteri, J.A.;trace replay,benchmarking,ycsb,key-value store
+Lucio, L.E.;Lucio, L.E.;
+Xie, Q.;Xie, Q.;locality-aware scheduling,MapReduce,hot-spot mitigation,Data processing systems
+Pundir, M.;Pundir, M.;locality-aware scheduling,MapReduce,hot-spot mitigation,Data processing systems
+Lu, Y.;Lu, Y.;Storage,Big data,MapReduce,MDS,hot-spot mitigation,locality,Metadata,replication,scheduling,HDFS,locality-aware scheduling,Data processing systems
+Campbell, R.H.;Campbell, R.H.;Storage,MapReduce,HDFS,Data processing systems,Big data,locality,Metadata,budget,locality-aware scheduling,Big Data,Temporal locality,Workload generation,replication,scheduling,storage system,MDS,hot-spot mitigation,availability,Popularity,optimization
+Molenaar, I.;Molenaar, I.;
+Dawson, S.;Dawson, S.;
+Spikol, D.;Spikol, D.;Multimodal learning analytics,Datasets,Blended learning,Virtual worlds,Challenges,Sensors,Learning spaces
+Rodríguez-Triana, M.J.;Rodríguez-Triana, M.J.;Multimodal learning analytics,Datasets,Blended learning,Virtual worlds,Challenges,Sensors,Learning spaces
+Cukurova, M.;Cukurova, M.;Challenges,Multimodal learning analytics,Datasets
+Yánez-Pazmino, W.;Yánez-Pazmino, W.;broadcast messages,reactive signaling,algorithms,Wireless sensor networks
+Vargas, W.V.;Vargas, W.V.;wireless sensor networks,broadcast messages,reactive signaling,Wireless sensor networks,algorithms,Kafka
+Rodríguez, J.S.;Rodríguez, J.S.;wireless sensor networks,broadcast messages,reactive signaling,algorithms,Kafka
+Revelo, H.V.;Revelo, H.V.;free resources,Software engineering,educational resources,OER,learning
+Capel, M.I.;Capel, M.I.;Software specification,Formal verification approach,Safety-critical systems,Critical software systems,Compositional verification,Critical computer-based systems,Safety-critical systems software,Software verification,Model checking,Methodological approach
+Veriñaz Jadan, H.I.;Veriñaz Jadan, H.I.;Kalman filter,Sprinter robot,Differential robot,FPGA
+Martinez Vera, C.R.;Martinez Vera, C.R.;Kalman filter,Sprinter robot,Differential robot,FPGA
+Espinoza, J.R.;Espinoza, J.R.;IoT Architecture,Routing protocols.,Ultra-Wide Band,MPLS,MQTT,CoAP,EIGRP,HSRP
+Astudillo, E.;Astudillo, E.;
+Romero, D.G.;Romero, D.G.;Shortest-safe,Dijkstra,Dynamic environments
+Peralta, J.A.;Peralta, J.A.;MPLS,HSRP,Routing protocols.,EIGRP
+Semanjski, I.;Semanjski, I.;
+Buckingham Shum, S.;Buckingham Shum, S.;Interactive surfaces,Multimodal,F2f,Automated feedback,Collaboration analytics
+Aguilera, C.;Aguilera, C.;Multispectral imaging,Free sensor model,Neural network
+Toledo, R.;Toledo, R.;Free sensor model,multi-spectral,NIR,Multispectral imaging,Image fusion,Feature descriptor,LWIR-RGB cross-spectral imaging,multi-modal,Monocular visual odometry,Neural network,LWIR
+Carvajal, J.A.;Carvajal, J.A.;
+Martínez-Maldonado, R.;Martínez-Maldonado, R.;Multimodal learning analytics,Blended learning,Virtual worlds,Sensors,Learning spaces
+Aguilera, C.A.;Aguilera, C.A.;multi-spectral,NIR,Image fusion,Feature descriptor,LWIR-RGB cross-spectral imaging,multi-modal,Monocular visual odometry,LWIR
+Aguilera, F.J.;Aguilera, F.J.;
+Cadena, A.;Cadena, A.;Antarctica,Unmanned Aerial Vehicle (UAV),Unmanned Ground Vehicle (UGV),Inertial Navigation System (INS),Unmanned Underwater Vehicle (UUV) Autonomous Underwater Vehicle (AUV),Autonomous underwater vehicle,Navigation and Control (GNC),Field Programmable Gate Array (FPGA),Computer Vision,Inertial Navigation System,FPGA,Autonomous Underwater Vehicle (AUV),Guidance
+Carvajal, R.;Carvajal, R.;
+Guaman, B.;Guaman, B.;interactive surface,human computer interaction,computer vision,shape-based interaction,interactive floor
+Barzola, V.E.;Barzola, V.E.;Low-cost,User study,Multi-touch,User differentiation,Portable,Depth camera,Pen-and-touch
+Ochoa, K.;Ochoa, K.;Direct Current Artifacts,Fast Fourier Transform,Electro-encephalography,Occipital Lobe,Clusterization,Butterworth Filter,Signal Preprocessing
+Sacarelo, C.;Sacarelo, C.;Direct Current Artifacts,Fast Fourier Transform,Electro-encephalography,Occipital Lobe,Clusterization,Butterworth Filter,Signal Preprocessing
+Pita, O.;Pita, O.;social media,political leaders,LIWC,political communication,Twitter,microblogging
+Carvajal Ayala, J.A.;Carvajal Ayala, J.A.;Monocular visual odometry,LWIR-RGB cross-spectral imaging,Image fusion
+Dias, P.;Dias, P.;Point clouds,Point cloud,Texture mapping,Autonomous driving,Autonomous vehicles,Scene reconstruction,Incremental scene reconstruction,Polygonal primitives
+Moreira, A.P.;Moreira, A.P.;Point clouds,Texture mapping,Autonomous driving,Autonomous vehicles,Scene reconstruction,Incremental scene reconstruction,Polygonal primitives
+Ramirez-Aguilera, A.M.;Ramirez-Aguilera, A.M.;Sniffing,Network Security,Visible Light Communication
+Vlacic, L.;Vlacic, L.;Fault Tolerant Perception,Fault Tolerance,Autonomous Vehicles,Data Fusion,Sensor Data Fusion,Federated Architecture
+Jimmy Banchon, Z.;Jimmy Banchon, Z.;prototype,tools,evaluation,low cost,software development process,software engineering
+Alcivar, I.;Alcivar, I.;User training,ERP systems,Satisfaction,Gamification,Learning
+Suárez, S.;Suárez, S.;tourism,social media,migration,Twitter,spatial data mining
+Vergara, C.;Vergara, C.;tourism,social media,migration,Twitter,spatial data mining
+Greer, J.;Greer, J.;Text tagging,ACM proceedings,LATEX
+Molinaro, M.;Molinaro, M.;Text tagging,ACM proceedings,LATEX
+Mckay, T.;Mckay, T.;Text tagging,ACM proceedings,LATEX
+Weibel, N.;Weibel, N.;Multimodal,Data challenge,Multimodal datasets
+Oviatt, S.;Oviatt, S.;Multimodal,Data challenge,Multimodal datasets
+Armijos, A.F.;Armijos, A.F.;
+Ullón, R.H.;Ullón, R.H.;
+Maya, R.D.;Maya, R.D.;
+Romero, J.A.;Romero, J.A.;
+Quiñonez, Y.;Quiñonez, Y.;Multi-tabletop system,Collaborative design,Collaborative assessment
+Sanga, B.R.;Sanga, B.R.;USB DVB-T,SDR,GNU-Radio,Embedded systems
+Villavicencio, A.M.;Villavicencio, A.M.;USB DVB-T,SDR,GNU-Radio,Embedded systems
+Alvia, S.V.;Alvia, S.V.;USB DVB-T,SDR,GNU-Radio,Embedded systems
+Medina, C.V.;Medina, C.V.;Raspberry Pi B2+,Raspbian,Octave,Embedded automatic control,PID control
+Jadan, H.I.V.;Jadan, H.I.V.;Speed measurement,Velocity control,Digital filter,NIOS II processor,Kalman filter,FPGA
+Vera, C.R.M.;Vera, C.R.M.;Speed measurement,Velocity control,Digital filter,NIOS II processor,Kalman filter,FPGA
+Intriago, R.P.;Intriago, R.P.;Speed measurement,Velocity control,Digital filter,NIOS II processor,Kalman filter,FPGA
+Salgado, W.G.;Salgado, W.G.;Electromagnetic shielding,Avionics,Hirf,Faraday cage
+Hidalgo, J.I.;Hidalgo, J.I.;Electromagnetic shielding,Avionics,Hirf,Faraday cage
+Aguilar, P.A.;Aguilar, P.A.;Electromagnetic shielding,Avionics,Hirf,Faraday cage
+Echeverría, V.;Echeverría, V.;machine learning classifiers,Bloom's taxonomy,Data privacy,Logistic regression classifier,Learning analytics,Recording quality,CSCL,Multimodal,Distributed framework,Rule-Based classifier,Data synchronization,Video features,Combined classifiers,intelligent tutor system,slide assessment,automatic assessment,Multimodal recording,Presentation skills
+Garcia, K.C.;Garcia, K.C.;Low-cost,User study,Multi-touch,User differentiation,Portable,Depth camera,Pen-and-touch
+Cevallos, J.;Cevallos, J.;Black Sigatoka,Hyperspectral Imaging
+Vargas, G.;Vargas, G.;Black Sigatoka,Hyperspectral Imaging
+Wong-Villacrés, M.;Wong-Villacrés, M.;Reflection,Learning analytics,Collaborative skills,Self-perception,Tabletop systems
+Ortiz, M.;Ortiz, M.;Reflection,Learning analytics,Software Design,Computer Science Education,Collaborative skills,User-Centered Design,Self-perception,Tabletop systems,Tabletops,Argumentation
+Sen, R.;Sen, R.;
+Quercia, D.;Quercia, D.;Social media,Microblogging,Online attention,Urban indicators,Social net- work analysis
+Ruiz, C.V.;Ruiz, C.V.;Social media,Microblogging,Online attention,Urban indicators,Social net- work analysis
+Gummadi, K.P.;Gummadi, K.P.;
+Poujol, J.;Poujol, J.;Monocular visual odometry,LWIR-RGB cross-spectral imaging,Image fusion
+Danos, E.;Danos, E.;Monocular visual odometry,LWIR-RGB cross-spectral imaging,Image fusion
+Brusilovsky, P.;Brusilovsky, P.;
+Sharples, M.;Sharples, M.;
+Alves, G.R.;Alves, G.R.;
+Ternier, S.;Ternier, S.;Electronic learning,Engines,Standards,learning object metadata,harvesting,e-learning,Search engines,Communities,learning object repositories,Internet,Recommender services,federated search,Service oriented architectures,Metasearch,Learning management systems,Emerging E-Learning Technologies,Data mining
+Seabra Lopes, L.;Seabra Lopes, L.;
+Lim, G.H.;Lim, G.H.;
+Tome, A.M.;Tome, A.M.;
+Grafsgaard, J.F.;Grafsgaard, J.F.;Human computer interaction,Learning environments,Design challenge
+Calero, V.;Calero, V.;adaptive signaling and path localization,reactive evacuation management,Internet of things
+Marin, I.;Marin, I.;adaptive signaling and path localization,reactive evacuation management,Internet of things
+Chavez, P.;Chavez, P.;adaptive signaling and path localization,reactive evacuation management,Internet of things
+Perez, R.;Perez, R.;adaptive signaling and path localization,reactive evacuation management,Internet of things
+Granda, R.X.;Granda, R.X.;
+Agila, W.;Agila, W.;Nonlinear Observer,Nonlinear PID Controller,Twin Rotor MIMO System (TRMS),Proportional-Integral-Derivative (PID),Linear PID Controller
+Duval, E.;Duval, E.;RankNet,Multilinguality,Learning Analytics,Technology enhanced learning,learning object repository,Collaborative tagging,metadata,Ranking,Publication,Adaptive and intelligent educational systems,Personal relevance,Attention metadata,Learning resources,Learning design,Interoperability,Situational relevance,Service oriented architectures,Learning object,Learning objects,LOR,OCW,Relevance ranking,Recommending,Repositories,Topical relevance,Pattern extraction,Recommender services,Learning Object Metadata,Resource recommendation,system applications and experience,Reuse,relevance ranking,Granularity,personalized e-learning,LMS,Visual Analytics,Learning management systems,Information Visualisa-Tion
+Klerkx, J.;Klerkx, J.;social data,Learning Analytics,Interoperability,metadata,Visual Analytics,analytics,Learning Object Metadata,learning repositories,Information Visualisa-Tion
+Parra, D.;Parra, D.;Information Visualisa-Tion,Learning Analytics,Visual Analytics
+Ullón, R.;Ullón, R.;
+Vásquez, A.;Vásquez, A.;Multimodal,Video features,Presentation skills
+Abran, A.;Abran, A.;Review,COSMIC,business process model,Business process model,BPMN,Requirements modeling,ISO 19761,Higher education,software engineering,software measurement,engineering education,FSM,Representational analysis,Educational framework,Software engineering,Functional size measurement,Software measurement,Constructivism,Qualigram,software requirements,Measurement,higher education,System requirements,survey,requirements modeling,empirical research,business process modeling,levels of abstraction,Requirements elicitation,Software requirements,Case study,Business process modeling,Action research,Levels of abstraction
+Muñoz-Arcentles, A.;Muñoz-Arcentles, A.;
+Calero-Bravo, V.;Calero-Bravo, V.;
+Frizera, A.;Frizera, A.;
+Bastos, T.F.;Bastos, T.F.;Mahalanobis Distance,Relative Wavelet Energy,Depth Maps,Computer Vision,Human Action Recognition
+Bonchi, F.;Bonchi, F.;
+Puyosa, H.;Puyosa, H.;
+Terán, L.;Terán, L.;
+Bozhko, S.;Bozhko, S.;aircraft power system architecture,more electric aircraft,reliability,network design optimization
+Atkin, J.;Atkin, J.;aircraft power system architecture,more electric aircraft,reliability,network design optimization
+Hill, C.;Hill, C.;aircraft power system architecture,more electric aircraft,reliability,network design optimization
+Adams, M.A.;Adams, M.A.;digital health,behavior change,adaptive interventions,physical activity,multiphase optimization strategy,eHealth,behavioral maintenance,optimization,mHealth,control systems engineering
+Buman, M.P.;Buman, M.P.;digital health,behavior change,Adaptive goals,adaptive interventions,physical activity,multiphase optimization strategy,Walking behavior,Personalized behavior change,eHealth,behavioral maintenance,optimization,mHealth,control systems engineering
+Korinek, E.V.;Korinek, E.V.;Personalized behavior change,mHealth,Walking behavior,Adaptive goals

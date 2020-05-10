@@ -1,0 +1,28 @@
+Source;Target;Weight;Year
+Li, C.;De Oliveira, J.V.;1;2019
+Li, C.;Cerrada, M.;3;2016
+Li, C.;Sanchez, R.V.;1;2019
+Li, C.;Zurita, G.;3;2016
+De Oliveira, J.V.;Cerrada, M.;1;2019
+De Oliveira, J.V.;Sanchez, R.V.;1;2019
+De Oliveira, J.V.;Zurita, G.;1;2019
+Cerrada, M.;Sanchez, R.V.;1;2019
+Cerrada, M.;Zurita, G.;3;2016
+Sanchez, R.V.;Zurita, G.;1;2019
+Villarroel, A.;Zurita, G.;1;2019
+Villarroel, A.;Velarde, R.;1;2019
+Zurita, G.;Velarde, R.;1;2019
+Li, C.;Valente De Oliveira, J.;1;2016
+Li, C.;Sanchez, V.;1;2016
+Valente De Oliveira, J.;Cerrada, M.;1;2016
+Valente De Oliveira, J.;Sanchez, V.;1;2016
+Valente De Oliveira, J.;Zurita, G.;1;2016
+Cerrada, M.;Sanchez, V.;1;2016
+Sanchez, V.;Zurita, G.;1;2016
+Cerrada, M.;Cabrera, D.;1;2016
+Cerrada, M.;Artés, M.;1;2016
+Zurita, G.;Cabrera, D.;1;2016
+Zurita, G.;Artés, M.;1;2016
+Cabrera, D.;Artés, M.;1;2016
+Cabrera, D.;Li, C.;1;2016
+Artés, M.;Li, C.;1;2016

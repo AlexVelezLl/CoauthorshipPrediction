@@ -1,0 +1,74 @@
+Source;Target;Weight;Year
+Alvarado-Diaz, W.;Meneses-Claudio, B.;1;2019
+Alvarado-Diaz, W.;Romero-Alva, V.;1;2019
+Alvarado-Diaz, W.;Roman-Gonzalez, A.;1;2019
+Alvarado-Diaz, W.;Zimic, M.;1;2019
+Meneses-Claudio, B.;Romero-Alva, V.;1;2019
+Meneses-Claudio, B.;Roman-Gonzalez, A.;3;2018
+Meneses-Claudio, B.;Zimic, M.;2;2019
+Romero-Alva, V.;Roman-Gonzalez, A.;1;2019
+Romero-Alva, V.;Zimic, M.;1;2019
+Roman-Gonzalez, A.;Zimic, M.;6;2016
+Diaz-Sotelo, W.J.;Roman-Gonzalez, A.;1;2019
+Diaz-Sotelo, W.J.;Vargas-Cuentas, N.I.;1;2019
+Diaz-Sotelo, W.J.;Meneses-Claudio, B.;1;2019
+Diaz-Sotelo, W.J.;Zimic, M.;1;2019
+Roman-Gonzalez, A.;Vargas-Cuentas, N.I.;3;2016
+Vargas-Cuentas, N.I.;Meneses-Claudio, B.;1;2019
+Vargas-Cuentas, N.I.;Zimic, M.;3;2016
+Delgado-Rivera, G.;Roman-Gonzalez, A.;1;2019
+Delgado-Rivera, G.;Alva-Mantari, A.;1;2019
+Delgado-Rivera, G.;Barrientos-Porras, F.;1;2019
+Delgado-Rivera, G.;Salguedo-Bohorquez, M.;1;2019
+Roman-Gonzalez, A.;Alva-Mantari, A.;1;2019
+Roman-Gonzalez, A.;Barrientos-Porras, F.;1;2019
+Roman-Gonzalez, A.;Salguedo-Bohorquez, M.;1;2019
+Alva-Mantari, A.;Barrientos-Porras, F.;1;2019
+Alva-Mantari, A.;Salguedo-Bohorquez, M.;1;2019
+Barrientos-Porras, F.;Salguedo-Bohorquez, M.;1;2019
+Cabanillas, J.;Tello, G.;1;2019
+Cabanillas, J.;Mercado, B.;1;2019
+Cabanillas, J.;Zimic, M.;1;2019
+Cabanillas, J.;Gilman, R.;1;2019
+Tello, G.;Mercado, B.;1;2019
+Tello, G.;Zimic, M.;1;2019
+Tello, G.;Gilman, R.;1;2019
+Mercado, B.;Zimic, M.;1;2019
+Mercado, B.;Gilman, R.;1;2019
+Zimic, M.;Gilman, R.;1;2019
+Alva Mantari, A.;Zarate Segura, G.W.;1;2018
+Alva Mantari, A.;Saldivar-Espinoza, B.;1;2018
+Alva Mantari, A.;Sotomayor Beltran, C.;1;2018
+Alva Mantari, A.;Roman-Gonzalez, A.;1;2018
+Zarate Segura, G.W.;Saldivar-Espinoza, B.;1;2018
+Zarate Segura, G.W.;Sotomayor Beltran, C.;1;2018
+Zarate Segura, G.W.;Roman-Gonzalez, A.;1;2018
+Saldivar-Espinoza, B.;Sotomayor Beltran, C.;1;2018
+Saldivar-Espinoza, B.;Roman-Gonzalez, A.;1;2018
+Sotomayor Beltran, C.;Roman-Gonzalez, A.;1;2018
+Chavez-Alarcon, E.;Segura-Saldana, P.;1;2018
+Chavez-Alarcon, E.;Meneses-Claudio, B.;1;2018
+Chavez-Alarcon, E.;Roman-Gonzalez, A.;1;2018
+Segura-Saldana, P.;Meneses-Claudio, B.;1;2018
+Segura-Saldana, P.;Roman-Gonzalez, A.;1;2018
+Roman-Gonzalez, A.;Hoyos, M.;1;2017
+Roman-Gonzalez, A.;Diaz, J.;1;2017
+Vargas-Cuentas, N.I.;Hoyos, M.;1;2017
+Vargas-Cuentas, N.I.;Diaz, J.;1;2017
+Hoyos, M.;Diaz, J.;1;2017
+Hoyos, M.;Zimic, M.;1;2017
+Diaz, J.;Zimic, M.;1;2017
+Barrientos, R.;Roman-Gonzalez, A.;2;2017
+Barrientos, R.;Barrientos, F.;2;2017
+Barrientos, R.;Gilman, R.H.;2;2017
+Barrientos, R.;Zimic, M.;2;2017
+Roman-Gonzalez, A.;Barrientos, F.;2;2017
+Roman-Gonzalez, A.;Gilman, R.H.;3;2016
+Barrientos, F.;Gilman, R.H.;2;2017
+Barrientos, F.;Zimic, M.;2;2017
+Gilman, R.H.;Zimic, M.;3;2016
+Vargas-Cuentas, N.I.;Hidalgo, D.;1;2016
+Vargas-Cuentas, N.I.;Gilman, R.H.;1;2016
+Hidalgo, D.;Roman-Gonzalez, A.;1;2016
+Hidalgo, D.;Gilman, R.H.;1;2016
+Hidalgo, D.;Zimic, M.;1;2016

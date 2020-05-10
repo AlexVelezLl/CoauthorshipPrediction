@@ -1,0 +1,581 @@
+ID;Label;Keywords
+Fuentes-Pineda, G.;Fuentes-Pineda, G.;Topic discovery,Co-occurring words,Large-scale,Beyond-pairwise,Sampled Min-Hashing
+Meza-Ruiz, I.V.;Meza-Ruiz, I.V.;Author profiling,Random forest regression,Topic discovery,Co-occurring words,Large-scale,NLP,Machine learning,Beyond-pairwise,Random forest,Sampled Min-Hashing
+Ruderman, M.;Ruderman, M.;force sensing,hydraulic actuator,High-order sliding mode observer,Robust exact differentiator
+Fridman, L.;Fridman, L.;Under-actuated systems,Stewart platform,Implementation purpose,Fault detection and isolation,Mobile platform,Magnetic bearing,sliding mode observers,Linear quadratic control,Viscous friction,Sliding mode differentiator,Time varying linear quadratic optimal control,Inverted pendulum,performance margins,nonlinear systems,variable structure systems,Periodic solution,higher order sliding mode,Observability index,Identification,non-affine systems,Symmetrical definite positive matrix,Optimal control,Vehicle modelling,Robustification,Equivalent control,output feedback,stability margins,Propose control algorithm,Nominal control,Nonlinear control,Fault detection and identification,Equilibrium point,Convex models,Uncertain linear time-varying system,Controller parameter,Nonlinear sliding surface,Finite-time convergence,force sensing,sliding mode control,Variable structure systems,Controller design,Super-Twisting Control (STC),Invariant zero,Adaptive control,sliding-mode control,Biped robot,higher order sliding-mode control,Output integral sliding-mode technique,Robust exact differentiator,Computer simulations,Time-varying control systems,Periodic orbit,Homoclinic orbit,Coulomb friction,hydraulic actuator,High-order sliding mode observer,Linear time invariant system,Time-varying systems,Nyquist plot,Sliding mode control,Describe function,Sliding-mode observer,Simulation,sliding-modes,exact differentiators,frequency-domain analysis,Electro-mechanical systems,Orbital stabilization,Periodic motion,finite time stability,Nash equilibrium,Prescribe amplitude,Differential game,Zero dynamic,Linear quadratic regulator,Sliding mode observers,adaptive control,Twisting and super-twisting algorithms,Tracking controller,global stability,Lyapunov function,global/semi-global stability,Non-minimum phase,Negative real part,higher order sliding mode observer,Uncertain nonlinear systems,Vector and non-smooth lyapunov functions,Super-Twisting observer (STO),Underactuated system,Generalized Super-Twisting Algorithm,Stability in control theory,Vertical forces,Slide mode controller,Observers,Slide mode observer,super-twisting algorithm,Linear ordinary differential equation,Discrete-time super twisting algorithm,Ship onboard crane,Sliding mode,modelling and identification,State vector,Switched systems,Unknown input,Virtual control,Robust control,Biomedical control,Levant's differentiator,higher-order sliding modes (HOSM),Parametric resonance,Estimation,Sliding mode observer,Uncertain systems,Riccati equation,Orbital stability,Slide mode control,Unknown input observer,dissipative observer,Multivariable control systems,Sliding modes,Joint position,High-order sliding mode,reaching time,Integral slide mode control,Linear matrix inequalities,Hierarchical observer,Frequency domain analysis
+Pasolli, P.;Pasolli, P.;force sensing,hydraulic actuator,High-order sliding mode observer,Robust exact differentiator
+Arroyo-Fernández, I.;Arroyo-Fernández, I.;Sentence representation,Word embedding,Information entropy,Statistical feature analysis,Artificial intelligence,Sentence embedding,TF–IDF,Automatic text summarization,Natural language processing
+Curiel, A.;Curiel, A.;Natural language processing,Statistical feature analysis,Automatic text summarization,Artificial intelligence
+Méndez-Cruz, C.-F.;Méndez-Cruz, C.-F.;Sentence representation,Morphological Segmentation,Morphology induction,Word embedding,Information entropy,Statistical feature analysis,Affixality measurements,Information retrieval,Morpheme segmentation,Artificial intelligence,Sentence embedding,TF–IDF,Automatic text summarization,Natural language processing,Unsupervised learning
+Cruz-Zavala, E.;Cruz-Zavala, E.;Finite-time differentiators,passivity-based control,sum of squares problem,Subaperture stitching,finite-time (FT) control,finite-time regulation,Newton interferometer,Nonlinear systems,Euler-Lagrange systems,Observers,Energy shaping,homogeneous systems,Sliding mode control,Euler-Lagrange (EL) systems,LMIs,fast surfaces,Lyapunov functions,convex surfaces
+Moreno, J.A.;Moreno, J.A.;Bioreactors,Euler-Lagrange systems,stability radii,Stability of nonlinear systems,nonlinear systems,Lyapunov methods,Bioprocesses and biosystems,higher order sliding mode,Detectability,Interval observers,Extended Kalman filter,Control moment gyroscope,Output feedback,Lipschitz function,Lyapunov functions,Time-varying coefficient,Tubular reactors,preserving order observers,Higher Order Sliding Modes,Parallel manipulator,homogeneous systems,C1320,Super-Twisting Control (STC),Adaptive control,finite time,sliding mode,Kinetic rate,passivity-based control,differentiators,Sensor location,Unobservable systems,Time-varying control systems,Lyapunov analysis,Time-varying systems,State and input estimation,Sliding mode control,State estimation,Nonlinear observer design,Direct and inverse kinematics,Sliding-mode observer,linear time-varying systems,Simulation,Nonlinear Estimation,time varying,satellite's attitude control,finite time stability,Supertwisting observer,C1340G,Walking rehabilitation device,second-order sliding modes,adaptive control,delayed output,Lyapunov function,Second-order systems,Euler-Lagrange (EL) systems,higher order sliding mode observer,Higher-order sliding modes,Finite-time differentiators,Variable gain,finite-time regulation,Super-Twisting observer (STO),Observer,Energy shaping,Generalized Super-Twisting Algorithm,Stability in control theory,finite-time (FT) control,friction drive,Observers,discontinuous control,super-twisting algorithm,modelling and identification,Discontinuous Observers,Parameter estimation,Bioprocesses,Sliding mode observer,positive systems,Singularity analysis,sum of squares problem,Extremum seeking,spherical stabilizer,C1220,dissipative observer,Sliding modes,Nonlinear systems,LMIs
+Sierra, G.;Sierra, G.;Morpheme segmentation,TF–IDF,Automatic Text Summarization,Aggressiveness detection,Morphological Segmentation,Spectral clustering,Doc2Vec,Unsupervised learning,Textual similarity,Mildly context sensitive grammars,Blogs,Semantics,Support vector Machine,Joint Sentiment Topic Modeling,Word embedding,One-class SVM,POS,Text representation,Natural language graphs,Machine learning,Definitional context,Tweets,Discourse,Minimalist grammars,Taxonomy,Logistic regression,Rhetorical relations,Word association norms,Text Mining,Telescope engineering,Authorship verification,Sentence representation,Document processing,San pedro martir,Natural language analysis,Generalization Ability,TSPM,Telescope design,N-grams,Word vectors,Node2vec,Natural language compilers,Sentence embedding,Authorship analysis,Regression Estimation,Sentence Importance,Ground-based telescope,Social Network,Stylometry,Literature review,Natural language parsing,Affixality measurements,Systems specification,Definition,Paraphrase,Term,Alzheimer's disease,Machine Learning,Corpus in Spanish,Information retrieval,Lexical search,Optical instrumentation,Information entropy,Conversation analysis,Weight model,Frobenius metric,Graph-based clustering,Natural language processing,Spanish,Morphology induction,Measures of Informativity,Information extraction,Text clustering,Sentiment analysis,Classification,Kernel selection,Writing style
+Torres-Moreno, J.-M.;Torres-Moreno, J.-M.;Sentence representation,Word embedding,Generalization Ability,TF–IDF,Paraphrase,N-grams,Automatic Text Summarization,POS,Machine Learning,Sentence embedding,Tweets,Discourse,Textual similarity,Weight model,Information entropy,Blogs,Regression Estimation,Natural language processing,Sentence Importance,Measures of Informativity,Semantics,Social Network,Text Mining,Classification
+Sidorov, G.;Sidorov, G.;Sentence representation,Word embedding,TF–IDF,Convolutional neural networks,Deep learning,N-grams,machine learning,Resource,Occupation identification,Author clustering,Sentence embedding,Machine learning,Authorship-link ranking,Fake news,feature extraction,emotion recognition,Information entropy,Gender identification,Corpus,Authorship analysis,Character n-grams,Natural language processing,Spanish,Author profiling,Language variety identification,Social media,sentiment analysis,Hierarchical clustering,Stylometry,balanced corpus of tweets,Location identification,Writing style
+Vargas, K.;Vargas, K.;ADD channel,Failure detector,time-To-live value,arbitrarily connected network
+Rajsbaum, S.;Rajsbaum, S.;Task,k-set agreement,Shared Memory,atomic read/write register,Set agreement,Approximate agreement,Message-passing,k-Set agreement,Distributed algorithm,linearizability,Agreement,Reliable shared memory,Johnson graph,Space complexity,Specification,Resilience,Gathering,Adversary,Tasks,Shared memory,Synchronous distributed computing,Recursion,Borowsky-Gafni (BG) simulation,iterated models,Non-determinism,Synchronous communication,Mobile robots,Topology,Shared memory system,Wait-freedom,Runtime monitoring,Anonymity,Asynchronous read/write model,Combinatorial topology,Atomic read/write register,Task solvability,arbitrarily connected network,Coordination,Robot gathering,Wait-free computing,Reliable broadcast,Locality of a computation,Distributed algorithms,Vertex coloring problem,Distributed computability,Well-quasi-ordering,K-set agreement,Decentralized algorithms for robots,snapshot object,Distributed decision,Algebraic Topology,Broadcast abstraction,Consensus with bounded memory,Checking,Sequential specification,Asynchronous message-passing system,Crash failure,Fault Tolerance,Directional antennae,Anonymous processes,Concurrency,Termination,Colorless tasks,Process crash failure,Asynchronous systems,Colorless task,Message-passing system,Iterated immediate snapshot,Model equivalence,Sequential specifications,Impossibility,Cole and Vishkin’s coloring algorithm,lower bounds,Snapshot,Failure detector,wait-free computing,M-Renaming,Object composability,Nondeterminism,Read/write registers,MWMR registers,Distributed problems,Deterministic,ADD channel,coalition,Process crash,safe-consensus,Locality,Well-quasi-order,Formal specifications,Distributed task,Fault-tolerance,Linearizability,Lower bound,Consensus,Long-lived objects,connectivity,Higman’s lemma,Decision task,Distributed computing,Runtime verification,Liveness,Asynchronous read/write wait-free model,T-resilience,Concurrent object,Multiple and Distributed Robots,Snapshot object,Distributed computing model,Read/write shared memory,t-Resilience,Mobile Robots,Distributed verification,time-To-live value,Graph Algorithms,Renaming,Sensor network,Randomized algorithms,Asynchronous system,Read–write shared memory,Single-writer/multi-reader register,Rendezvous,Neighbor discovery,Quorum,Failure detectors,Immediate snapshot,Set-linearizability,Algebraic topology,Symmetry breaking,Rotating,Fault tolerance,Iterated model,Problem hierarchy,process crash failure,distributed algorithms,Wait-free,Byzantine process,Robots Algorithms,Convergence
+Alcántara, M.;Alcántara, M.;Gathering,Termination,Mobile robots,Rendezvous,Fault tolerance,Decentralized algorithms for robots,Wait-free computing
+Castañeda, A.;Castañeda, A.;Task,Shared objects,Set agreement,Round-based algorithm,Message-passing,k-Set agreement,Distributed algorithm,Agreement,Early decision,Specification,Gathering,Self-healing fault-tolerant P2P algorithm,Internet of things,Tasks,Shared memory,Distributed message passing algorithm,Synchronous distributed computing,Lock-freedom,Non-determinism,Nonblocking,Synchronous communication,Mobile robots,Strong linearizability,Wait-freedom,Asynchronous read/write model,Combinatorial topology,Coordination,Robot gathering,Wait-free computing,Locality of a computation,Vertex coloring problem,Distributed computability,Decentralized algorithms for robots,Synchronous message-passing system,Compact Thorup–Zwick routing,Sequential specification,Crash failure,Concurrency,Termination,Process crash failure,Uniform consensus,Sequential specifications,Cole and Vishkin’s coloring algorithm,M-Renaming,Object composability,Nondeterminism,T-Resilience,Distributed problems,Early stopping,Non-blocking,Consensus number,Process crash,Formal specifications,Distributed task,Linearizability,Lower bound,Consensus,Optimality,Long-lived objects,Decision task,Distributed graph algorithms,Distributed computing,Asynchronous read/write wait-free model,Helping,Concurrent object,Low memory compact algorithm,Common2,Stacks,Renaming,Asynchronous system,Rendezvous,Multi-core algorithms,Set-linearizability,Algebraic topology,Symmetry breaking,Fault tolerance,Queues,Knowledge,Problem hierarchy,Compact Forgiving Tree
+Flores-Peñaloza, D.;Flores-Peñaloza, D.;Pick's theorem,Wait-free computing,Double circle,Rendezvous,Decentralized algorithms for robots,lattice points,Gathering,Jarnik's polygons,k-Modem,Art Gallery problem,Modem illumination,Fault tolerance,k-Transmitter,Geometric optimization,Termination,Mobile robots,Polygon illumination,Optimal algorithms,Inequalities,Combinatorial optimization
+Flores, F.C.;Flores, F.C.;Pattern recognition,Image analysis,Projectile points,CSS-map,Computer vision,Automatic classification,Lithic technology
+Ugalde, F.G.;Ugalde, F.G.;Pattern recognition,Image analysis,Projectile points,CSS-map,Computer vision,Automatic classification,Lithic technology
+Díaz, J.L.P.;Díaz, J.L.P.;Pattern recognition,Image analysis,Projectile points,CSS-map,Computer vision,Automatic classification,Lithic technology
+Del Pilar Angeles, M.;Del Pilar Angeles, M.;Pattern recognition,Image analysis,Projectile points,CSS-map,Computer vision,Automatic classification,Lithic technology,data matching,record linkage,de-duplication
+Miyatake, M.N.;Miyatake, M.N.;Pattern recognition,Image analysis,Projectile points,CSS-map,Computer vision,Automatic classification,Lithic technology
+Lithgow-Serrano, O.;Lithgow-Serrano, O.;Transcriptional-regulation,Natural Language Processing,Semantic Textual Similarity,Corpus,Similarity,Genomics
+Gama-Castro, S.;Gama-Castro, S.;Genomics,Transcriptional-regulation,Corpus,Similarity
+Ishida-Gutiérrez, C.;Ishida-Gutiérrez, C.;Genomics,Transcriptional-regulation,Corpus,Similarity
+Velázquez-Ramírez, D.;Velázquez-Ramírez, D.;Genomics,Transcriptional-regulation,Corpus,Similarity
+Collado-Vides, J.;Collado-Vides, J.;Transcriptional-regulation,Natural Language Processing,Semantic Textual Similarity,Corpus,Similarity,Ontology definition,Falsification,Necessary and sufficient conditions,Genomics
+Oliveira, T.R.;Oliveira, T.R.;higher order sliding-mode control,global stability,variable structure systems,global/semi-global stability,exact differentiators,output feedback,Uncertain nonlinear systems,Adaptive control,higher-order sliding modes (HOSM)
+Rodrigues, V.H.P.;Rodrigues, V.H.P.;higher order sliding-mode control,global stability,variable structure systems,global/semi-global stability,exact differentiators,output feedback,Uncertain nonlinear systems,Adaptive control,higher-order sliding modes (HOSM)
+González-Acuña, R.G.;González-Acuña, R.G.;
+Avendaño-Alejo, M.;Avendaño-Alejo, M.;Aspheric lens,Wavefront,Optical metrology,deectometry,Null-screen,Exact ray tracing,Aspherics,Null screen,Irradiance transport equation,Aspherical surface,Numerical methods,Deflectometry,null screen,Measurement of errors
+Gutiérrez-Vega, J.C.;Gutiérrez-Vega, J.C.;
+Pliego-Jiménez, J.;Pliego-Jiménez, J.;cooperative robots,force control,Telemanipulation,adaptive control
+Arteaga-Pérez, M.;Arteaga-Pérez, M.;Ultimate boundedness,Force control,Observer design,cooperative robots,force control,Telemanipulation,Unknown environment,adaptive control
+Sánchez-Sánchez, P.;Sánchez-Sánchez, P.;Hyperbolic tangent function,Force tracking,Design a velocity observer,Control performance,Principle of orthogonalization,Cooperative robots,Saturated function
+Alegría-Galicia, C.;Alegría-Galicia, C.;Geometric optimization,Points covering,Polyhedron,Fitting,Restricted-orientation geometry,Polygon,Convex hull,Perimeter optimization,Area optimization,Rotation
+Orden, D.;Orden, D.;Geometric optimization,Optimization,Convex subsets,Points covering,Polyhedron,Rectilinear convex hull,Erdős-Szekeres problems,Fitting,Restricted-orientation geometry,Polygon,Convex hull,Perimeter optimization,Area optimization,Rotation,Orthoconvexity
+Palios, L.;Palios, L.;Geometric optimization,Points covering,Polyhedron,Polygon,Rotation
+Seara, C.;Seara, C.;Geometric optimization,Points covering,Polyhedron,Fitting,Restricted-orientation geometry,Polygon,Convex hull,Perimeter optimization,Area optimization,Rotation
+Urrutia, J.;Urrutia, J.;High dimensional triangulations,Orthoconvexity,Equipartition,Art gallery,transversals,Erdos-Szekeres type problems,Orthogonal polyhedra,Johnson graph,Convex subsets,Modem illumination,Algorithms,Convex sets,Ray configurations,Red-blue points,Intersection graph,Optimal algorithms,Polyhedron,Erdős-Szekeres problems,Combinatorial optimization,Erdos-Szekeres-type problem,Barrier coverage,Connectedness,Empty k-gons,Stabbing,Restricted-orientation geometry,Search,Area optimization,k-Holes,Islands,Mobile sensors,Cross-section,Floodlight scheduling,Diameter,Red and blue points in the plane,Simplicial complex,Polygon illumination,Colored rays,Inequalities,rotating sensors,Empty monochromatic simplices,Algorithmic complexity,Visibility,Rotation,Robot,Non-crossing rays configurations,illumination,Dual space,Cycle,Art Gallery problem,NP-completeness,k-Transmitter,Points covering,Cyclic permutations,Perimeter optimization,Lines in 3-space,Partial orders,Rectilinear convex hull,Speed,Sensor network,Computational geometry,Enumerative problems,Multigraphs,Optimization,Solid angle sum,Splinegon,Convex hull,Convex blocking,Order type,Circular sequences,piercing,k-Modem,Fitting,Polygon,Movement,coverage,Direction,Geometric optimization,Convex and reflex vertices in orthogonal polyhedra,Moving points in the plane,Colored point sets
+Badillo-Hernandez, U.;Badillo-Hernandez, U.;Tubular heterogeneous reactor,Reduced order model,Distributed system,Structural stability,Gasification reactor,Multiplicity
+Alvarez, J.;Alvarez, J.;Bioreactors,Bioprocesses and biosystems,Sensor location,State and input estimation,Observers,Detectability,Tubular heterogeneous reactor,Reduced order model,Extended Kalman filter,Tubular reactors,Unobservable systems,Distributed system,State estimation,Structural stability,Nonlinear observer design,Gasification reactor,Multiplicity
+Alvarez-Icaza, L.;Alvarez-Icaza, L.;Projection methods,relative velocity,Parameter estimation,wind turbine,Tubular heterogeneous reactor,Quadcopter,structural analysis,Traffic flow models,Stribeck effect,traffic hysteresis,Damage detection,Wave propagation,Dynamic friction model,capacity drop,macroscopic traffic flow modeling,real-time identification,sustainable mobility,Coulomb friction,Cellular Automata models,Computer simulation,Obstacle avoidance,Least squares,On-ramps,MICMAC,Gershgorin circles,Multilane traffic flow,Reduced order model,urban transportation infrastructure,Generalized predictive control,Shear building,Computer Simulation,LuGre friction model,Multiplicity,Recursive least squares,Stable shear building models,Tridiagonal matrices,wind velocity estimation,Parameter and state identification,Structural health monitoring,Linear integral filters,Cellular automaton,Unmanned aerial vehicle,Matrix parameterization,maximum power point tracking,Distributed system,Bottlenecks,Structural stability,Adaptive observer,Gasification reactor,Traffic analysis
+Gutiérrez-Giles, A.;Gutiérrez-Giles, A.;robust control,Force control,Robust control,Speed control,state observers,force control,robotic manipulators,GPI technique,unknown environment,Transparent bilateral teleoperation,Observer design,Disturbance rejection,Switched reluctance motors,observer design,Observers design,Ultimate boundedness,position control,Velocity/force observers,Robot force control,Unknown environment,GPI control-observer
+Arteaga-Pérez, M.A.;Arteaga-Pérez, M.A.;robust control,Force reflecting,Master-slave systems,Force control,Robust control,Speed control,state observers,force control,robotic manipulators,Position-force tracking control,Transparency,GPI technique,unknown environment,Fuzzy Tracking Control,Control performance,Transparent bilateral teleoperation,Cooperative robots,Disturbance rejection,Fuzzy Observer Design,Saturated function,Switched reluctance motors,observer design,Force tracking,Design a velocity observer,Observers design,Ultimate boundedness,Visual Servoing,Stability Analysis,position control,Teleoperation,Velocity/force observers,Hyperbolic tangent function,Principle of orthogonalization,Robot force control,GPI control-observer
+Sarmiento, C.;Sarmiento, C.;hidden markov models,pattern recognition,place recognition,computer vision,object recognition
+Savage, J.;Savage, J.;Artificial Neural Networks,Mobile Robots Behaviors,place recognition,Roadmaps for mobile robots,Knowledge representation,Autonomous navigation,FPGAs,Multivariate patterns,SVM,object recognition,multimedia,pattern recognition,Space representations,Image Processing,computer vision,Domestic service robots,Service robots,Multiplatform,mobile devices,Behavior-based robotics,global position system,wireless network,Semantic reasoning,monitoring,Vector quantization clustering,hidden markov models,Fuzzy ARTMAP,Path planning,Genetic Algorithms
+Juarez, A.;Juarez, A.;hidden markov models,pattern recognition,place recognition,computer vision,object recognition
+Pacheco, A.;Pacheco, A.;hidden markov models,pattern recognition,place recognition,computer vision,object recognition
+Matamoros, M.;Matamoros, M.;Artificial Neural Networks,hidden markov models,pattern recognition,Mobile Robots Behaviors,place recognition,Roadmaps for mobile robots,Space representations,Knowledge representation,computer vision,Semantic reasoning,Vector quantization clustering,FPGAs,Genetic Algorithms,Service robots,object recognition
+Dewasme, L.;Dewasme, L.;Bioprocesses,Robust estimation,Software sensors,Kalman filter,Sensitivity analysis
+Sbarciog, M.;Sbarciog, M.;Bioprocesses,Robust estimation,Software sensors,Kalman filter,Sensitivity analysis
+Rocha-Cózatl, E.;Rocha-Cózatl, E.;Bioprocesses,Robust estimation,Software sensors,Kalman filter,Sensitivity analysis
+Haugen, F.;Haugen, F.;Bioprocesses,Robust estimation,Software sensors,Kalman filter,Sensitivity analysis
+Vande Wouwer, A.;Vande Wouwer, A.;Output feedback,Kinetic rate,Bioprocesses,Optimization,Robust estimation,Process control,Chromatography,Software sensors,Simulated moving bed,Variable gain,Kalman filter,Sensitivity analysis,State estimation,Sliding mode observer,Extremum seeking,Separation
+Rosenblueth, D.A.;Rosenblueth, D.A.;Nash equilibrium,cognitive science,Knowledge representation,Boolean network,Automatic synthesis,Gene interaction graph,Bellman-Ford,Distributed algorithms,evolutionary robotics,philosophy of mind,Service robots,model checking,Fault-tolerance,BDD,Semantic reasoning,CTL model update,dynamical approach,Model checking,Shortest path,SAT solver,extended mind hypothesis,Runtime monitoring
+Estrada, H.;Estrada, H.;Semantic reasoning,Service robots,Knowledge representation
+Okada, H.;Okada, H.;Semantic reasoning,Service robots,Knowledge representation
+Zenil, H.;Zenil, H.;Solomonoff’s induction,Adaptation,information theory,Emergence,Complexity,Open-ended evolution,linear-bounded complexity,Computationalism,Algorithmic coding-theorem,Levin’s semi-measure,computable algorithmic complexity,finite-state complexity,Natural computation,Shannon entropy,transducer complexity,Undecidability,lossless compression,Classical computation,time resource-bounded complexity,Dynamical systems,context-free grammar complexity,Computability,Turing machine model
+Badillo, L.;Badillo, L.;context-free grammar complexity,Algorithmic coding-theorem,Solomonoff’s induction,finite-state complexity,Levin’s semi-measure,Shannon entropy,transducer complexity,computable algorithmic complexity,information theory,lossless compression,time resource-bounded complexity,linear-bounded complexity
+Hernández-Orozco, S.;Hernández-Orozco, S.;context-free grammar complexity,Algorithmic coding-theorem,Solomonoff’s induction,Adaptation,finite-state complexity,Levin’s semi-measure,Shannon entropy,transducer complexity,computable algorithmic complexity,Emergence,information theory,Undecidability,lossless compression,time resource-bounded complexity,Complexity,Open-ended evolution,linear-bounded complexity,Dynamical systems
+Hernández-Quiroz, F.;Hernández-Quiroz, F.;Solomonoff’s induction,Adaptation,information theory,Emergence,Complexity,Open-ended evolution,linear-bounded complexity,Computationalism,Algorithmic coding-theorem,Levin’s semi-measure,computable algorithmic complexity,finite-state complexity,Natural computation,Shannon entropy,transducer complexity,Undecidability,lossless compression,Classical computation,time resource-bounded complexity,Dynamical systems,context-free grammar complexity,Computability,Turing machine model
+Aldana-Galván, I.;Aldana-Galván, I.;Convex and reflex vertices in orthogonal polyhedra,Orthogonal polyhedra,Computational geometry,Solid angle sum
+Álvarez-Rebollar, J.L.;Álvarez-Rebollar, J.L.;Convex and reflex vertices in orthogonal polyhedra,Orthogonal polyhedra,Computational geometry,Solid angle sum
+Catana-Salazar, J.C.;Catana-Salazar, J.C.;Networks flows,Symbolic variables,Programming macros,Recognition of graph patterns,Convex and reflex vertices in orthogonal polyhedra,Mapping problem,Computational geometry,Solid angle sum,Parallel process,Counting the number of independent sets,Orthogonal polyhedra
+Solís-Villarreal, E.;Solís-Villarreal, E.;Convex and reflex vertices in orthogonal polyhedra,Orthogonal polyhedra,Computational geometry,Solid angle sum
+Casasola, E.;Casasola, E.;Literature review,Corpus in Spanish,Systems specification,Sentiment analysis
+Pimentel, A.;Pimentel, A.;Literature review,Corpus in Spanish,Systems specification,Sentiment analysis,One-class SVM,Logistic regression,Authorship verification,Kernel selection
+Cámara, E.M.;Cámara, E.M.;Literature review,Corpus in Spanish,Systems specification,Sentiment analysis
+Marín, G.;Marín, G.;Literature review,Corpus in Spanish,Systems specification,Sentiment analysis
+Tierrafría, V.H.;Tierrafría, V.H.;
+Mejía-Almonte, C.;Mejía-Almonte, C.;Falsification,Necessary and sufficient conditions,Ontology definition
+Camacho-Zaragoza, J.M.;Camacho-Zaragoza, J.M.;
+Aichholzer, O.;Aichholzer, O.;Empty monochromatic simplices,Convexity,High dimensional triangulations,Empty k-gons,Equipartition,Computational geometry,Polygonization,k-Gons,Order type,k-Holes,Islands,Erdos-Szekeres type problems,Erdos-Szekeres problem,k-Modem,Art Gallery problem,Modem illumination,Cross-section,Convex sets,k-Transmitter,Simplicial complex,Polygon illumination,Moving points in the plane,Lines in 3-space,Colored point sets
+Fabila-Monroy, R.;Fabila-Monroy, R.;Empty monochromatic simplices,Pick's theorem,Connectedness,High dimensional triangulations,Empty k-gons,Enumerative problems,Double circle,k-Gons,Order type,lattice points,k-Holes,Johnson graph,Erdos-Szekeres type problems,Islands,Circular sequences,Lines in 3-space,Jarnik's polygons,k-Modem,Art Gallery problem,Modem illumination,Cross-section,k-Transmitter,Ray configurations,Diameter,Red and blue points in the plane,Red-blue points,Polygon illumination,Simplicial complex,Intersection graph,Colored rays,Moving points in the plane,Erdos-Szekeres-type problem,Colored point sets
+Hurtado, F.;Hurtado, F.;Ray configurations,Stabbing,Order type,Red and blue points in the plane,Colored rays,Moving points in the plane,Cyclic permutations,Enumerative problems,Cross-section,Non-crossing rays configurations,Lines in 3-space,transversals,Circular sequences,piercing
+Vogtenhuber, B.;Vogtenhuber, B.;Convexity,Empty k-gons,Equipartition,Computational geometry,Polygonization,k-Gons,Order type,k-Holes,Islands,Erdos-Szekeres type problems,Erdos-Szekeres problem,k-Modem,Art Gallery problem,Modem illumination,Cross-section,Convex sets,k-Transmitter,Polygon illumination,Moving points in the plane,Lines in 3-space
+Delporte-Gallet, C.;Delporte-Gallet, C.;Cole and Vishkin’s coloring algorithm,k-set agreement,atomic read/write register,Renaming,Wait-free computing,Read/write registers,Locality of a computation,Message-passing,MWMR registers,Distributed algorithms,Vertex coloring problem,linearizability,snapshot object,Space complexity,Consensus with bounded memory,Distributed task,Asynchronous message-passing system,Linearizability,Shared memory,Synchronous distributed computing,Anonymous processes,Synchronous communication,Process crash failure,Topology,process crash failure,Wait-freedom,Snapshot object,Wait-free,Anonymity,Atomic read/write register
+Fauconnier, H.;Fauconnier, H.;Impossibility,Cole and Vishkin’s coloring algorithm,k-set agreement,atomic read/write register,Renaming,Wait-free computing,Read/write registers,Locality of a computation,Message-passing,MWMR registers,Distributed algorithms,Asynchronous system,Vertex coloring problem,linearizability,Distributed computability,Immediate snapshot,snapshot object,K-set agreement,Space complexity,Consensus with bounded memory,Distributed task,Asynchronous message-passing system,Linearizability,Shared memory,Consensus,Synchronous distributed computing,Iterated model,Anonymous processes,Synchronous communication,Process crash failure,Topology,process crash failure,T-resilience,Wait-freedom,Snapshot object,Wait-free,Anonymity,Atomic read/write register
+Raynal, M.;Raynal, M.;Task,atomic read/write register,Set agreement,Approximate agreement,Round-based algorithm,Message-passing,k-Set agreement,Distributed algorithm,linearizability,Agreement,Reliable shared memory,Early decision,Specification,Resilience,Adversary,Tasks,Synchronous distributed computing,Recursion,Lock-freedom,Borowsky-Gafni (BG) simulation,Non-determinism,Synchronous communication,Topology,Shared memory system,Wait-freedom,Asynchronous read/write model,Atomic execution unit,Atomic read/write register,Coordination,Wait-free computing,Fetch&increment,Reliable broadcast,Locality of a computation,Vertex coloring problem,Distributed computability,K-set agreement,snapshot object,Synchronous message-passing system,Broadcast abstraction,Transaction,Sequential specification,Asynchronous message-passing system,Crash failure,Concurrency,Process crash failure,Colorless task,Message-passing system,Model equivalence,Sequential specifications,Abort/commit,Impossibility,Cole and Vishkin’s coloring algorithm,Snapshot,Compare&swap,Failure detector,M-Renaming,Object composability,Nondeterminism,Universal construction,Distributed problems,Early stopping,Concurrency management,Process crash,STM system,Formal specifications,Distributed task,Fault-tolerance,Linearizability,Consensus,Long-lived objects,Decision task,Distributed computing,Liveness,Asynchronous read/write wait-free model,T-resilience,Concurrent object,Snapshot object,Distributed computing model,t-Resilience,Renaming,Asynchronous system,Read–write shared memory,Single-writer/multi-reader register,Quorum,Immediate snapshot,Set-linearizability,Symmetry breaking,Iterated model,Problem hierarchy,process crash failure,Byzantine process,T-Resilience
+Coutinho, D.;Coutinho, D.;robust control,Robust control,biotechnology,sliding mode observers,state estimation,LMIs,State estimation,Sliding mode observers,Biological systems
+Vargas, A.;Vargas, A.;Output feedback,Kinetic rate,robust control,Bioprocesses,Variable gain,Robust control,biotechnology,sliding mode observers,state estimation,LMIs,State estimation,Sliding mode observer,Extremum seeking,Sliding mode observers,Biological systems
+Feudjio, C.;Feudjio, C.;Robust control,LMIs,State estimation,Sliding mode observers,Biological systems
+Benavides, M.;Benavides, M.;Robust control,LMIs,State estimation,Sliding mode observers,Biological systems
+Wouwer, A.V.;Wouwer, A.V.;robust control,Robust control,biotechnology,sliding mode observers,state estimation,LMIs,State estimation,Sliding mode observers,Biological systems
+Reyes-Acosta, A.V.;Reyes-Acosta, A.V.;Local correspondence,Affine transformation,Mobile robots
+Lopez-Juarez, I.;Lopez-Juarez, I.;Object detection,Fuzzy logic,Affine transformation,path plannings,Potential fields,Local correspondence,Robot Navigation,Gas metal arc welding (GMAW),Local Minimal,Industrial robotics,Robotic manipulation,Dual-arm,Robot assembly,Robot Vision,Distributed Control,Service Robot,Intelligent Spaces,Dense correspondence,Artificial Neural Network,Mobile robots,Artificial vision,Smart factories,Peg-in-hole,Flexible manufacturing systems,Robot path control
+Osorio-Comparan, R.;Osorio-Comparan, R.;Object detection,Affine transformation,Mobile robots,Local Minimal,path plannings,Robotic manipulation,Potential fields,Flexible manufacturing systems,Local correspondence,Service Robot,Distributed Control,Smart factories,Robot Navigation,Robot Vision,Intelligent Spaces,Dense correspondence
+Lefranc, G.;Lefranc, G.;Affine transformation,path plannings,Visión,Global Position System (GPS),Hough,Robot Navigation,GMAW,osteoarthritis,Image Processing,K-Nearest Neighbor,Greenhouses,Service Robot,monitoring,mobile robots,Artificial Neural Network,Mobile robots,Mobile device,Objets recognition,invariant moment,Semaphore,Gas metal arc welding (GMAW),Dual-arm,Peg-in-hole,Vision,Local correspondence,Mobile robot,Computer Vision,multimedia,Image Segmentation,Machine vision,Local Minimal,Robotic manipulation,Multiplatform,Robot Path Control,wireless network,Distributed Control,Dense correspondence,Contourn,Industrial Robotics,Artificial vision,Smart factories,Robot path control,Object detection,Fuzzy logic,Vector Field Histogram (VFH),Potential fields,Image segmentation,microcalcification,Algorithm,Multivariate patterns,SVM,Simultaneous Localization and Mapping (SLAM),Omnidirectional platform,Simultaneous localization and mapping (SLAM),Embedded,Fuzzy Logic,Robot Vision,mobile devices,Fuzzy ARTMAP,Assembly,Background subtraction,Canny,Computer vision,univariate patterns,Shape,Automatic control,PCA,knee,Industrial robotics,FastSLAM,Robot assembly,global position system,Intelligent Spaces,Artificial Vision,X-ray image,Os andorid,Cultivation,VHDL,Vector field histogram (VHF) algorithm,Image processing,Breast cancer,FPGA,Flexible manufacturing systems
+Pena-Cabrera, M.;Pena-Cabrera, M.;Embedded,FPGA,Assembly,Vision
+Jimenez, A.H.;Jimenez, A.H.;Embedded,FPGA,Assembly,Vision
+Osorio, R.;Osorio, R.;Vector Field Histogram (VFH),Affine transformation,Global Position System (GPS),Visión,Canny,Vision,univariate patterns,Local correspondence,Shape,microcalcification,Algorithm,Hough,Multivariate patterns,SVM,Micro calcifications,multimedia,Simultaneous Localization and Mapping (SLAM),PCA,knee,osteoarthritis,Machine vision,Omnidirectional platform,Omnidirectional Platform,Image Processing,Embedded,Fuzzy Logic,Multiplatform,mobile devices,global position system,wireless network,monitoring,mobile robots,Bluetooth,Dense correspondence,X-ray image,Os andorid,Contourn,Mobile device,Fuzzy ARTMAP,VHDL,Objets recognition,invariant moment,Image processing,Assembly,Breast cancer,FPGA
+Lopez, I.J.;Lopez, I.J.;Embedded,FPGA,Assembly,Vision
+De Vazquez, E.J.;De Vazquez, E.J.;Object detection,Robotic manipulation,Service Robot,Robot Vision,Intelligent Spaces
+Bustamante, M.;Bustamante, M.;Object detection,knee,osteoarthritis,Local Minimal,path plannings,Robotic manipulation,invariant moment,Potential fields,Service Robot,Image processing,microcalcification,Robot Navigation,Breast cancer,Robot Vision,Intelligent Spaces,X-ray image
+Rienzo, A.;Rienzo, A.;Cultivation,knee,osteoarthritis,Greenhouses,invariant moment,microcalcification,Image processing,Automatic control,Breast cancer,X-ray image
+Duarte, M.;Duarte, M.;knee,osteoarthritis,invariant moment,microcalcification,Image processing,Breast cancer,X-ray image
+Lomas-Barrie, V.;Lomas-Barrie, V.;Position,Information and Communication Technologies,Soccer,Humanoid,OER Building Open Access,Detection,Bibliometric Analysis,BOF. FuzzyARTMAP,Open Educational Resources
+Peña-Cabrera, M.;Peña-Cabrera, M.;Visión,Shape,Algorithm,Detection,Omnidirectional Platform,Dual-arm,Embedded,Robot assembly,Fuzzy Logic,BOF. FuzzyARTMAP,K-Nearest Neighbor,Soccer,Bluetooth,Contourn,Artificial Neural Network,Position,VHDL,FPGA,Humanoid,Semaphore,Image processing,Peg-in-hole,Background subtraction
+Durán-Ortega, J.;Durán-Ortega, J.;Position,Soccer,Humanoid,Detection,BOF. FuzzyARTMAP
+Reyes, M.E.;Reyes, M.E.;collaborative task,robotics head,angry emotion,regulatory effect,attentional effect,Facial expression
+Meza, I.V.;Meza, I.V.;The Golem-II+ Robot,angry emotion,regulatory effect,Service robots system levels,Service Robot Task Structure,RoboCup@Home competition,robotics head,The Golem-II+ robot,Robot Programming Languages,attentional effect,Service Robot Programming,Facial expression,Practical tasks,Concept of a service robot,collaborative task,Structure of a general purpose service robot,Conceptual model of service robots,Robotics' task structure,Service Robot Architecture
+Pineda, L.A.;Pineda, L.A.;Robotics cognitive architecture,The Golem-II+ Robot,angry emotion,regulatory effect,Service robots system levels,Service Robot Task Structure,Minimalist robot head,RoboCup@Home competition,Negative facial expression,Non-monotonic knowledge-base,The Golem-III robot,SitLog,HRI,DOA,Collaborative interaction,Reaction time,robotics head,The Golem-II+ robot,Robot Programming Languages,attentional effect,Waiter,Robust behavior in service robots,Non-monotonic KB-systems,Service Robot Programming,Knowledge representation in service robots,Facial expression,Practical tasks,Concept of a service robot,Narrative generation,collaborative task,Robot golem-III,Multiple users,Robot experience stories,Reasoning with preferences,Service robot,Conceptual model of service robots,Structure of a general purpose service robot,Robotics' task structure,Inference in service robots,Service Robot Architecture
+Torres, I.;Torres, I.;Robotics cognitive architecture,Robot golem-III,Reasoning with preferences,HAWC,Optofluidics,Robust behavior in service robots,Grism,Neural Network,Spectroscopy,Non-monotonic knowledge-base,Gamma/Hadron separation
+Hernández, N.;Hernández, N.;Robotics cognitive architecture,Robot golem-III,Reasoning with preferences,Robust behavior in service robots,Non-monotonic knowledge-base
+Rodríguez, A.;Rodríguez, A.;Concept of a service robot,Robotics cognitive architecture,Robot golem-III,The Golem-III robot,The Golem-II+ robot,Reasoning with preferences,Conceptual model of service robots,Structure of a general purpose service robot,Service robots system levels,Robust behavior in service robots,RoboCup@Home competition,Robotics' task structure,Non-monotonic KB-systems,Inference in service robots,Knowledge representation in service robots,Non-monotonic knowledge-base,Practical tasks
+Fuentes, G.;Fuentes, G.;Robotics cognitive architecture,The Golem-II+ Robot,Service robots system levels,Service Robot Task Structure,RoboCup@Home competition,Non-monotonic knowledge-base,The Golem-III robot,HRI,DOA,The Golem-II+ robot,Robot Programming Languages,Waiter,Robust behavior in service robots,Non-monotonic KB-systems,Service Robot Programming,Knowledge representation in service robots,Practical tasks,Concept of a service robot,Robot golem-III,Multiple users,Reasoning with preferences,Conceptual model of service robots,Structure of a general purpose service robot,Robotics' task structure,Inference in service robots,Service Robot Architecture
+Sanchez, O.;Sanchez, O.;Text clustering,Text representation,Joint Sentiment Topic Modeling
+Campos-García, M.;Campos-García, M.;Free-form Surface,Irradiance transport equation,Numerical methods,Corneal topography,Wavefront,Null-screen,Surface Measurements,Null-Screen,Corneal,Free-form surface,Ronchi test,image processing,Concentrators,Optical Metrology,Surface measurements,Transport intensity equation,Non-symmetrical Aspherics,Sub-structured Ronchigrams,Freeform,Corneal Topography,Optical metrology,Sub-structured Ronchi rulings,Normal of corneal surface,Image processing,corneal topography,optical metrology,Aspherics,null-screen
+Aguirre-Aguirre, D.;Aguirre-Aguirre, D.;ray-tracing,Subaperture stitching,polishing,optical mirror deformations,Finite Element Method,Null-screen,Point diffraction interferometer,aberration coefficients,Surface Measurements,Mercury-drop method,Optical fabrication,Ronchi test,Optical Metrology,fast surfaces,Sub-structured Ronchigrams,Corneal Topography,grinding,Sub-structured Ronchi rulings,Microlithography.,Newton interferometer,optical materials,Aspherics,convex surfaces
+Lechuga-Núñez, J.A.;Lechuga-Núñez, J.A.;Optical Metrology,Null-screen,Surface Measurements,Aspherics,Corneal Topography
+Peña-Conzuelo, A.;Peña-Conzuelo, A.;Concentrators,Optical metrology,Optical Metrology,Null-screen,Surface Measurements,Null-Screen,Aspherics,Corneal Topography
+Ortiz, G.;Ortiz, G.;Support vector Machine,Aggressiveness detection,Machine learning
+Gómez-Adorno, H.;Gómez-Adorno, H.;Convolutional neural networks,Deep learning,N-grams,Aggressiveness detection,Occupation identification,Word vectors,Node2vec,Author clustering,Information retrieval,Natural language graphs,Machine learning,Authorship-link ranking,Lexical search,Gender identification,Authorship analysis,Logistic regression,Character n-grams,Spanish,Author profiling,Language variety identification,Word association norms,Social media,Support vector Machine,Hierarchical clustering,Stylometry,Location identification,Writing style
+Reyes-Magaña, J.;Reyes-Magaña, J.;Word vectors,Node2vec,Word association norms,Support vector Machine,Information retrieval,Natural language graphs,Machine learning,Lexical search,Aggressiveness detection,Spanish
+Bel-Enguix, G.;Bel-Enguix, G.;Association graph,Natural language parsing,Aggressiveness detection,Word vectors,Node2vec,Alzheimer's disease,Natural language compilers,Information retrieval,Natural language graphs,Machine learning,Lexical search,Mildly context sensitive grammars,Conversation analysis,Minimalist grammars,Logistic regression,Natural language processing,Lexical relations,Spanish,Rhetorical relations,Word association norms,Support vector Machine
+Espinosa, D.Y.;Espinosa, D.Y.;
+Nuño, E.;Nuño, E.;passivity-based control,finite-time (FT) control,finite-time regulation,Euler-Lagrange systems,Energy shaping,Euler-Lagrange (EL) systems
+Velázquez-Velázquez, J.-E.;Velázquez-Velázquez, J.-E.;
+Galván-Guerra, R.;Galván-Guerra, R.;Output integral sliding-mode technique,Stability in control theory,Optimal control,Time-varying systems,Computer simulations,Simulation,Robust control,Observers,Linear quadratic control,Robustification,Hierarchical observer,Uncertain linear time-varying system,Variable structure systems,Time-varying control systems,Uncertain systems,Time varying linear quadratic optimal control,modelling and identification,Multivariable control systems
+Iriarte, R.;Iriarte, R.;Implementation purpose,Prescribe amplitude,Unknown input,Virtual control,Zero dynamic,Viscous friction,Controller design,Invariant zero,Biped robot,Periodic solution,Tracking controller,Periodic orbit,Homoclinic orbit,Sliding mode observer,Coulomb friction,Orbital stability,Slide mode control,Nyquist plot,Underactuated system,Describe function,Unknown input observer,Joint position,Slide mode controller,Equilibrium point,Controller parameter,Orbital stabilization,Periodic motion
+Posadas-Durán, J.-P.;Posadas-Durán, J.-P.;Corpus,Machine learning,Resource,Spanish,Fake news
+Gomez-Adorno, H.;Gomez-Adorno, H.;Corpus,Machine learning,Resource,Spanish,Fake news
+Escobar, J.J.M.;Escobar, J.J.M.;Corpus,Machine learning,Resource,Spanish,Fake news
+Mager, M.;Mager, M.;Normalization,Finite-state transducer,Low-resource,Recurrent neural networks,Endangered languages,Low resources,Noisy text,Wixarika,Morphology,Autoencoding
+Rosales, M.J.;Rosales, M.J.;Normalization,Low-resource,Recurrent neural networks,Noisy text,Autoencoding
+Çetinoǧlu, Ö.;Çetinoǧlu, Ö.;Normalization,Low-resource,Recurrent neural networks,Noisy text,Autoencoding
+Meza, I.;Meza, I.;Low-resource,Recurrent neural networks,Word2vec,Minimalist robot head,Negative facial expression,Direction-of-arrival,SitLog,The Golem-III robot,Normalization,Finite-state transducer,HRI,Endangered languages,Dialog systems,Low resources,Distance estimation,DOA,Robot audition,Collaborative interaction,Reaction time,Conversational agent,Waiter,Irony detection,Morphology,Non-monotonic KB-systems,Natural language processing,Knowledge representation in service robots,Short text,Autoencoding,Verbal irony,Narrative generation,Multiple users,Robot experience stories,Service robot,Noisy text,Sound source localization,Tracking,Dialogue corpora,Cyber-pedophilia,Wixarika
+Martínez-Rodríguez, Á.E.;Martínez-Rodríguez, Á.E.;Irradiance transport equation,Numerical methods,Transport intensity equation,Wavefront
+Granados-Agustín, F.S.;Granados-Agustín, F.S.;Mercury-drop method,Ronchi test,Wavefront,Sub-structured Ronchigrams,Sub-structured Ronchi rulings,Microlithography.,Point diffraction interferometer,Spatial light modulators,Irradiance transport equation,Numerical methods,Gray levels,Polarization states
+Fraigniaud, P.;Fraigniaud, P.;Distributed computing,Distributed algorithms,Runtime verification,Fault-tolerance,Checking,Topology,Distributed verification,Locality,Well-quasi-ordering,Higman’s lemma,Runtime monitoring,Distributed decision,Failure detectors,Wait-free computing,Well-quasi-order,Distributed graph algorithms,Combinatorial topology
+Paz, A.;Paz, A.;Distributed computing,Symmetry breaking,Distributed systems,Wait-free computation,Renaming,Distributed graph algorithms,Combinatorial topology,Shared memory systems
+Roy, M.;Roy, M.;Combinatorial topology,Shared Memory,Robot gathering,Graph Algorithms,Round-based algorithm,Early stopping,Agreement,Process crash,Synchronous message-passing system,Algebraic Topology,Early decision,Gathering,Symmetry breaking,Shared memory,Consensus,Distributed graph algorithms,Distributed computing,Wait-freedom,Robots Algorithms,T-Resilience,Convergence
+Travers, C.;Travers, C.;Distributed computing,Distributed algorithms,Runtime verification,Fault-tolerance,Checking,Topology,Distributed verification,Locality,Well-quasi-ordering,Higman’s lemma,Runtime monitoring,Distributed decision,Failure detectors,Wait-free computing,Well-quasi-order,Distributed graph algorithms,Combinatorial topology
+Montoya, O.D.;Montoya, O.D.;distributed energy resources,Passivity-based control,single-phase ac grids,voltage source converters
+Gil-González, W.;Gil-González, W.;distributed energy resources,Passivity-based control,single-phase ac grids,voltage source converters
+Avila-Becerril, S.;Avila-Becerril, S.;Passivity-based control,semi-global uniformity,single-phase ac grids,passivity-based control,under-actuated systems control,PMSM,Asymptotic stability,distributed energy resources,voltage source converters,flexible-joint robot control,multiagent systems,consensus control,Adaptive control,PID control,Synchronous motor
+Garces, A.;Garces, A.;distributed energy resources,Passivity-based control,single-phase ac grids,voltage source converters
+Espinosa-Pérez, G.;Espinosa-Pérez, G.;parameter estimation,PMSM,Adaptive control,PID control,Passivity-based control,passivity-based control,under-actuated systems control,Nonlinear passivity-based control,parameter identification,Speed tracking,multiagent systems,consensus control,High dynamic performance,Synchronous motor,electric machines,single-phase ac grids,AC drives,distributed energy resources,voltage source converters,flexible-joint robot control,switched reluctance motor modeling,switched reluctance motors,Induction Motor
+Attiya, H.;Attiya, H.;Common2,Distributed systems,Shared objects,Stacks,Renaming,Non-blocking,Consensus number,Multi-core algorithms,Symmetry breaking,Shared memory,Lock-freedom,Nonblocking,Shared memory systems,Queues,Concurrency,Helping,Strong linearizability,Wait-freedom,Wait-free computation,Combinatorial topology
+Castaneda, A.;Castaneda, A.;Gathering,Convergence,Symmetry breaking,Mobile Robots,Distributed systems,Wait-free computation,Fault Tolerance,Multiple and Distributed Robots,Rendezvous,Shared Memory,Graph Algorithms,Renaming,Algebraic Topology,Robots Algorithms,Combinatorial topology,Shared memory systems
+Herlihy, M.;Herlihy, M.;Task,Distributed systems,Snapshot,Failure detector,Wait-free computing,Renaming,Approximate agreement,Asynchronous system,Read–write shared memory,Distributed computability,Agreement,Algebraic topology,Resilience,Adversary,Fault-tolerance,Symmetry breaking,Lower bound,Crash failure,Recursion,Borowsky-Gafni (BG) simulation,Iterated model,Shared memory systems,Distributed computing,Concurrency,Liveness,Colorless tasks,Topology,Colorless task,Shared memory system,Wait-freedom,Distributed computing model,Wait-free computation,Model equivalence,Combinatorial topology
+Yanagisawa, N.;Yanagisawa, N.;MWMR registers,Distributed task,Topology,Shared memory,Wait-free,Anonymity,Anonymous processes
+Figueroa, K.;Figueroa, K.;Nearest neighbor,Metric spaces,Similarity searching
+Camarena-Ibarrola, A.;Camarena-Ibarrola, A.;Nearest neighbor,Metric spaces,Similarity searching
+Valero-Elizondo, L.;Valero-Elizondo, L.;Nearest neighbor,Metric spaces,Similarity searching
+Reyes, N.;Reyes, N.;Ground-based telescope,San pedro martir,Optical instrumentation,Metric spaces,6.5 meters,San pedro mártir,Telescope,Conceptual design,Nearest neighbor,Mechanical design,Telescope engineering,TSPM,Telescope design,Similarity searching,Visible/infra-red wavelength
+Fuentes-Alba, R.;Fuentes-Alba, R.;Author profiling,Language variety identification,Gender identification,Convolutional neural networks,Deep learning,Machine learning,Character n-grams,Spanish
+Markov, I.;Markov, I.;Author profiling,Language variety identification,Location identification,Social media,Gender identification,Occupation identification,Convolutional neural networks,Deep learning,Machine learning,N-grams,Character n-grams,Spanish
+Gelbukh, A.;Gelbukh, A.;Author profiling,Language variety identification,Unsupervised methods,Semantic orientation,Gender identification,Supervised methods,Semantic relations,Convolutional neural networks,Deep learning,Linguistic features,Machine learning,Ontology,Linguistic patterns,Character n-grams,Opinion reviews,Spanish
+Rueda-Escobedo, J.G.;Rueda-Escobedo, J.G.;sliding mode,delayed output,linear time-varying systems,Parameter estimation,Observer,time varying,finite time
+Ushirobira, R.;Ushirobira, R.;linear time-varying systems,delayed output,Observer
+Efimov, D.;Efimov, D.;Stability of nonlinear systems,Switched systems,delayed output,Non-minimum phase,High-order sliding mode,linear time-varying systems,Time-varying systems,Fault detection and identification,Observer,Adaptive control
+Ramírez-Neria, M.;Ramírez-Neria, M.;Active disturbance rejection,extended state observers,inertia wheel pendulum,underactuated systems,flat systems
+Sira-Ramírez, H.;Sira-Ramírez, H.;robust control,Active disturbance rejection,extended state observers,Force control,position control,state observers,robotic manipulators,inertia wheel pendulum,underactuated systems,flat systems
+Garrido-Moctezuma, R.;Garrido-Moctezuma, R.;Active disturbance rejection,extended state observers,inertia wheel pendulum,underactuated systems,flat systems
+Luviano-Juárez, A.;Luviano-Juárez, A.;Active disturbance rejection,extended state observers,inertia wheel pendulum,underactuated systems,flat systems
+Castán-Ricaño, D.;Castán-Ricaño, D.;Aspheric lens,deectometry,Exact ray tracing,Null screen,Aspherical surface,Deflectometry,null screen,Measurement of errors
+Granados-Agustín, F.;Granados-Agustín, F.;Aspheric lens,Wavefront,Optical metrology,deectometry,Null-screen,Exact ray tracing,Aspherics,Null screen,Irradiance transport equation,Aspherical surface,Numerical methods,Deflectometry,null screen,Measurement of errors
+Muñoz-Potosi, A.;Muñoz-Potosi, A.;Aspheric lens,Deflectometry,Measurement of errors,Null screen
+Cornejo-Rodríguez, A.;Cornejo-Rodríguez, A.;Aspheric lens,Ronchi test,Numerical methods,Wavefront,Sub-structured Ronchi rulings,deectometry,Spatial light modulators,Exact ray tracing,Gray levels,Null screen,Irradiance transport equation,Aspherical surface,Sub-structured Ronchigrams,Deflectometry,null screen,Measurement of errors,Polarization states
+Huerta-Carranza, O.;Huerta-Carranza, O.;Wavefront,Concentrators,Optical Metrology,Null-screen,flat mirror,simulation,Transport intensity equation,precision,Surface Measurements,Aspherics,Null-Screen,Numerical methods,Corneal Topography
+Santiago-Alvarado, A.;Santiago-Alvarado, A.;Wavefront,Concentrators,Optical metrology,Optical Metrology,Null-screen,Transport intensity equation,Aspherics,Null-Screen,Numerical methods
+Moreno-Oliva, V.I.;Moreno-Oliva, V.I.;Wavefront,Concentrators,Optical Metrology,Null-screen,Transport intensity equation,Surface Measurements,Aspherics,Null-Screen,Irradiance transport equation,Numerical methods,Corneal Topography
+Czyzowicz, J.;Czyzowicz, J.;Robot,Cycle,Search,Speed,Movement,Direction
+Dobrev, S.;Dobrev, S.;Mobile sensors,Robot,Algorithmic complexity,Cycle,Sensor network,Search,NP-completeness,Speed,Movement,Barrier coverage,Direction
+Godon, M.;Godon, M.;Robot,Cycle,Search,Speed,Movement,Direction
+Sakai, T.;Sakai, T.;Robot,Cycle,Search,Speed,Movement,Direction
+González-Aguilar, H.;González-Aguilar, H.;Optimization,Convex subsets,Erdos-Szekeres type problems,Rectilinear convex hull,Erdős-Szekeres problems,k-Gons,Empty k-gons,k-Holes,Orthoconvexity
+Pérez-Lantero, P.;Pérez-Lantero, P.;Geometric optimization,Optimization,Jarnik's polygons,Pick's theorem,Convex subsets,Optimal algorithms,Double circle,Inequalities,Rectilinear convex hull,Erdős-Szekeres problems,Combinatorial optimization,lattice points,Orthoconvexity
+Tejel, J.;Tejel, J.;Ray configurations,Optimization,Red and blue points in the plane,Convex subsets,Colored rays,Rectilinear convex hull,Erdős-Szekeres problems,Cyclic permutations,Enumerative problems,Non-crossing rays configurations,Orthoconvexity,Circular sequences
+Snellman, J.E.;Snellman, J.E.;Community formation,dictator game,superiority maximization,Opinion formation,agent-based social simulation,Social hierarchy
+Iñiguez, G.;Iñiguez, G.;Community formation,complex systems,rank distribution,dictator game,sports,superiority maximization,Opinion formation,agent-based social simulation,Social hierarchy,rank diversity,data analysis
+Kertész, J.;Kertész, J.;agent-based social simulation,dictator game,superiority maximization
+Kaski, K.K.;Kaski, K.K.;Community formation,dictator game,superiority maximization,Opinion formation,agent-based social simulation,Social hierarchy
+Perc, M.;Perc, M.;agent-based social simulation,dictator game,superiority maximization
+Seeber, R.;Seeber, R.;reaching time,Lyapunov function,sliding mode control
+Horn, M.;Horn, M.;reaching time,Lyapunov function,sliding mode control
+Camacho-Vázquez, V.A.;Camacho-Vázquez, V.A.;feature extraction,emotion recognition,sentiment analysis,balanced corpus of tweets,machine learning
+Galicia-Haro, S.N.;Galicia-Haro, S.N.;Context,Natural language parsing,Linguistic features,machine learning,Natural language compilers,Supervised methods,Ontology,feature extraction,Unsupervised methods,emotion recognition,Mildly context sensitive grammars,Semantic similarity,Semantic orientation,Minimalist grammars,Product reviews,Natural language processing,sentiment analysis,Semantic relations,balanced corpus of tweets,Linguistic patterns,Opinion reviews,Vector space model
+Letchindjio, C.G.F.;Letchindjio, C.G.F.;robust control,biotechnology,sliding mode observers,state estimation,LMIs
+Morales-Valdez, J.;Morales-Valdez, J.;Structural health monitoring,Linear integral filters,Damage detection,Wave propagation,Parameter estimation
+Escobar, J.A.;Escobar, J.A.;Structural health monitoring,Linear integral filters,Damage detection,Wave propagation,Parameter estimation
+Rios, A.;Rios, A.;Walking rehabilitation device,Singularity analysis,Direct and inverse kinematics,Parallel manipulator
+Hernandez, E.;Hernandez, E.;satellite's attitude control,friction drive,Parallel manipulator,spherical stabilizer,Walking rehabilitation device,Control moment gyroscope,Direct and inverse kinematics,Singularity analysis
+Keshtkar, S.;Keshtkar, S.;satellite's attitude control,Control moment gyroscope,friction drive,Parallel manipulator,Lagrange's equation,spherical stabilizer,Flexible tether,Walking rehabilitation device,Dynamic stability,Direct and inverse kinematics,Singularity analysis
+De La Garza, R.;De La Garza, R.;Walking rehabilitation device,Singularity analysis,Direct and inverse kinematics,Parallel manipulator
+Keshtkar, N.;Keshtkar, N.;Dynamic stability,Flexible tether,Lagrange's equation
+Rivo, M.S.;Rivo, M.S.;Dynamic stability,Flexible tether,Lagrange's equation
+Poznyak, A.;Poznyak, A.;Stewart platform,Nash equilibrium,Differential game,Mobile platform,Unknown input,Magnetic bearing,Linear quadratic regulator,Dynamic stability,Inverted pendulum,Parametric resonance,Negative real part,Flexible tether,Observability index,Riccati equation,Symmetrical definite positive matrix,Slide mode control,Linear time invariant system,Equivalent control,Propose control algorithm,Nominal control,Slide mode controller,Lagrange's equation,Integral slide mode control,Slide mode observer,Linear ordinary differential equation,Sliding mode,State vector
+Castillo, I.;Castillo, I.;Sliding modes,super-twisting algorithm
+Apaza-Perez, W.A.;Apaza-Perez, W.A.;nonlinear systems,Sliding-mode observer,dissipative observer
+Sanchez, T.;Sanchez, T.;Finite-time differentiators,sum of squares problem,homogeneous systems,LMIs,Lyapunov functions
+Rosales, A.;Rosales, A.;Finite-time convergence,sliding mode control,Variable structure systems,Frequency response,Second-order sliding modes,sliding-mode control,performance margins,Tracking quality,Nonideal disturbance attenuation,LPRS methods,Perturbed relay system methods,Linear systems,Linear compensators,Control system analysis and synthesis methods,Nyquist plot,System frequency response,stability margins,Multivariable control systems,frequency-domain analysis,Frequency domain analysis
+Shtessel, Y.;Shtessel, Y.;performance margins,Finite-time convergence,sliding mode control,sliding mode observers,frequency-domain analysis,Sliding mode control,stability margins,sliding-mode control,Frequency domain analysis,adaptive control
+Hendler, D.;Hendler, D.;Queues,Concurrency,Helping,Common2,Strong linearizability,Shared memory,Non-blocking,Wait-freedom,Shared objects,Lock-freedom,Stacks,Consensus number,Multi-core algorithms,Nonblocking
+Aviles, J.D.;Aviles, J.D.;stability radii,positive systems,Interval observers,preserving order observers
+Goubault, É.;Goubault, É.;
+Ledent, J.;Ledent, J.;
+Reichhartinger, M.;Reichhartinger, M.;
+Estrada, A.;Estrada, A.;higher order sliding-mode control,variable structure systems,global/semi-global stability,Mechanical Design,Telescope,6.5 meters,CIDESI,exact differentiators,Preliminary Design,output feedback,TSPM,Uncertain nonlinear systems,Visible/Infra-Red,San Pedro Mártir
+Obeid, H.;Obeid, H.;sliding-mode control,adaptive control,Levant's differentiator
+Laghrouche, S.;Laghrouche, S.;sliding-mode control,adaptive control,Levant's differentiator
+Harmouche, M.;Harmouche, M.;sliding-mode control,adaptive control,Levant's differentiator
+Golkani, M.A.;Golkani, M.A.;sliding-mode control,adaptive control,Levant's differentiator
+Avilés, J.D.;Avilés, J.D.;
+Reyes-Acosta, A.;Reyes-Acosta, A.;Affine transformation,Local Minimal,path plannings,Potential fields,Local correspondence,Robot Navigation,Dense correspondence
+Mendoza-Soto, J.L.;Mendoza-Soto, J.L.;Unmanned aerial vehicle,Quadcopter,Generalized predictive control,Obstacle avoidance
+Rodríguez-Cortés, H.;Rodríguez-Cortés, H.;Unmanned aerial vehicle,Quadcopter,Generalized predictive control,Obstacle avoidance
+Perrin, M.;Perrin, M.;Concurrency,Shared memory,Wait-freedom,Lock-freedom,Multi-core algorithms,Nonblocking
+Ortega-Arjona, J.L.;Ortega-Arjona, J.L.;Synchronization Components,Idioma,Fast Fourier Transform,Parallel Programming,Communication Components,Networks flows,Laplace Equation,Mapping problem,Parallel process,Parallel Software Design,Architectural Patterns,N-Body Simulation,Design Patterns
+Atienza, N.;Atienza, N.;Convex sets,Islands,Equipartition,Computational geometry
+Díaz-Báñez, J.M.;Díaz-Báñez, J.M.;Geometric optimization,Red-blue points,Dual space,Optimal algorithms,Partial orders,Erdos-Szekeres-type problem,Equipartition,Inequalities,Combinatorial optimization,Algorithms,Convex blocking,Empty k-gons,Convex sets,Islands,Computational geometry,Multigraphs
+Aguado-Rojas, M.;Aguado-Rojas, M.;parameter estimation,switched reluctance motor modeling,parameter identification,switched reluctance motors
+Maya-Ortiz, P.;Maya-Ortiz, P.;parameter estimation,Switched reluctance motors,Observers design,Kalman Filter,parameter identification,Robust control,Speed control,Power System,State Estimation,Disturbance rejection,switched reluctance motor modeling,switched reluctance motors
+Ramírez, C.;Ramírez, C.;
+Mendoza, L.;Mendoza, L.;Cell cycle,Compartment model,Vulva,Regulatory network,Fate determination,CD4+ cells,C. elegans,T cell differentiation
+Zúñiga, I.T.;Zúñiga, I.T.;
+García, A.;García, A.;Ray configurations,Ray tracing,octree,Circular sequences,Red and blue points in the plane,binary partition,Colored rays,Cyclic permutations,Non-crossing rays configurations,SIMD extensions,dynamic scenes,Enumerative problems
+Dolev, D.;Dolev, D.;Self-healing fault-tolerant P2P algorithm,Low memory compact algorithm,Compact Thorup–Zwick routing,Internet of things,Distributed message passing algorithm,Compact Forgiving Tree
+Trehan, A.;Trehan, A.;Self-healing fault-tolerant P2P algorithm,Low memory compact algorithm,Compact Thorup–Zwick routing,Internet of things,Distributed message passing algorithm,Compact Forgiving Tree
+Flores, I.;Flores, I.;
+De Paz, J.L.;De Paz, J.L.;
+Policroniades, G.;Policroniades, G.;
+Sánchez, O.;Sánchez, O.;Machine learning,Aggressiveness detection,Logistic regression
+Quezada, D.;Quezada, D.;Machine learning,Aggressiveness detection,Logistic regression
+Alcantara-Concepcion, T.;Alcantara-Concepcion, T.;Bibliometric Analysis,Information and Communication Technologies,OER Building Open Access,Open Educational Resources
+Estrada-Castillo, O.;Estrada-Castillo, O.;Bibliometric Analysis,Information and Communication Technologies,OER Building Open Access,Open Educational Resources
+Lozano-Moctezuma, A.A.;Lozano-Moctezuma, A.A.;Bibliometric Analysis,Information and Communication Technologies,OER Building Open Access,Open Educational Resources
+Mijangos, V.;Mijangos, V.;Association graph,Word association norms,Document processing,Natural language analysis,Spectral clustering,Frobenius metric,Information retrieval,Doc2Vec,One-class SVM,Graph-based clustering,Logistic regression,Authorship verification,Kernel selection,Lexical relations
+Bel-Engux, G.;Bel-Engux, G.;
+Arias-Trejo, N.;Arias-Trejo, N.;Word association norms,Association graph,Lexical relations
+Barrón-Martínez, J.B.;Barrón-Martínez, J.B.;Word association norms,Association graph,Lexical relations
+Zúñiga, A.;Zúñiga, A.;Natural language compilers,Natural language parsing,Mildly context sensitive grammars,Minimalist grammars,Natural language processing
+Carrillo, D.;Carrillo, D.;Finite-state transducer,Endangered languages,Low resources,Morphology,Wixarika
+Montes González, I.;Montes González, I.;Liquid-Crystal Variable Retarders,Polarization,Imaging Polarimetry,Stokes parameters
+Bruce, N.C.;Bruce, N.C.;Imaging Polarimetry,Tissue optics,Optical Retardance,Liquids,Polarization,Refractometer,Mirrors,Stokes parameters,Polarization of light,Time-resolved imaging,Kirchhoff Approximation,Diffraction Gratings,Polarimetry,Optofluidics,Liquid-crystal variable retarder,Stokes polarimeter,Kirchhoff approximation,Imaging systems,Transillumination,Multiple scatter,Optical retardance,Vector electromagnetic diffraction,Focused illumination,Surface defect,Light Scattering,Liquid-Crystal Variable Retarders,Mueller Matrix,Rough surface,Refractive Index,Ultrafast Optics,Pulse Shaping,Aberrations
+Espinoza-Nava, U.;Espinoza-Nava, U.;Aspherics,Concentrators,Optical metrology,Null-screen
+Díaz-Uribe, J.R.;Díaz-Uribe, J.R.;Free-form surface,Concentrators,Optical metrology,Optical Metrology,Null-screen,Normal of corneal surface,Image processing,Null-Screen,Corneal,Aspherics,Corneal topography
+Aguirre-Caro, J.A.;Aguirre-Caro, J.A.;Aspherics,Concentrators,Optical metrology,Null-screen
+Jasso-Rosales, M.;Jasso-Rosales, M.;Author profiling,Social media,Spanish,Machine learning,N-grams,Location identification,Occupation identification
+Martín-Del-Campo-Rodríguez, C.;Martín-Del-Campo-Rodríguez, C.;Authorship-link ranking,Author clustering,Hierarchical clustering
+Batyrshin, I.;Batyrshin, I.;
+Negrete, M.;Negrete, M.;Artificial Neural Networks,Mobile Robots Behaviors,Behavior-based robotics,Path planning,Autonomous navigation,Domestic service robots,FPGAs,Genetic Algorithms
+Contreras-Toledo, L.;Contreras-Toledo, L.;Autonomous navigation,Path planning,Behavior-based robotics,Domestic service robots
+Posadas-Duran, J.-P.;Posadas-Duran, J.-P.;Stylometry,Writing style,Authorship analysis
+Ríos-Toledo, G.;Ríos-Toledo, G.;Stylometry,Writing style,Authorship analysis
+Vélez, I.;Vélez, I.;The Golem-III robot,Inference in service robots,Robotics cognitive architecture,Robust behavior in service robots
+Ortega, H.;Ortega, H.;The Golem-III robot,Inference in service robots,Robotics cognitive architecture,Robust behavior in service robots
+Percino-Zacarías, E.;Percino-Zacarías, E.;Optical metrology,deectometry,Null-screen,Spatial light modulators,Exact ray tracing,null screen,Aspherical surface,Aspherics,Gray levels,Polarization states
+Uribe, J.;Uribe, J.;Conceptual design,TSPM,diffraction limited,Assembly Integration and Verification,Mechanical Design,Preliminary Design,Visible/infra-red wavelength,San pedro mártir,CIDESI,near infrared,Mechanical design,diffraction-limited optics,integral field spectroscopy,Infrared instrumentation,Telescope,6.5 meters,IFU,GTC,infrared,Visible/Infra-Red,imaging,San Pedro Mártir
+Tovar, C.;Tovar, C.;Mechanical Design,Telescope,6.5 meters,CIDESI,Preliminary Design,TSPM,Visible/Infra-Red,San Pedro Mártir
+Manuel, R.;Manuel, R.;Mechanical Design,Telescope,6.5 meters,CIDESI,Preliminary Design,TSPM,Visible/Infra-Red,San Pedro Mártir
+Bringas, V.;Bringas, V.;Mechanical Design,Telescope,6.5 meters,San pedro mártir,CIDESI,Conceptual design,Mechanical design,Preliminary Design,TSPM,Visible/Infra-Red,Visible/infra-red wavelength,San Pedro Mártir
+Armengol-Cruz, V.E.;Armengol-Cruz, V.E.;Optical metrology,Null-screen,Surface measurements,Aspherics,Corneal topography
+Aguirre Aguirre, D.;Aguirre Aguirre, D.;Optical metrology,Optical Metrology,Null-screen,Surface measurements,Null-Screen,Aspherics,Corneal topography,Freeform
+Camargo-Fierro, C.;Camargo-Fierro, C.;Optical metrology,Null-screen,Surface measurements,Aspherics,Corneal topography
+Vilariño, D.;Vilariño, D.;Formal concept analysis,Author clustering,Semantic similarity,Taxonomic relations,Semantic relations,hierarchical relationships,Lexico-syntactic patterns,Hierarchical clustering,Ontology evaluation,Ontology,prototype vectors,Authorship-link ranking,Ontological relations
+Pinto, D.;Pinto, D.;Formal concept analysis,Author clustering,Semantic similarity,Taxonomic relations,Semantic relations,hierarchical relationships,Lexico-syntactic patterns,Hierarchical clustering,Ontology evaluation,Ontology,prototype vectors,Authorship-link ranking,Ontological relations
+Paulino, A.;Paulino, A.;Rhetorical relations,Conversation analysis,Alzheimer's disease
+Hernandez-Dominguez, L.;Hernandez-Dominguez, L.;Rhetorical relations,Conversation analysis,Alzheimer's disease
+Da Cunha, I.;Da Cunha, I.;Rhetorical relations,Alzheimer's disease,Discourse,Textual similarity,Semantics,Conversation analysis,Paraphrase
+Flores, J.G.;Flores, J.G.;Robot experience stories,Service robot,Narrative generation,SitLog
+Colin, É.;Colin, É.;Robot experience stories,Service robot,Narrative generation,SitLog
+Gangemi, A.;Gangemi, A.;Robot experience stories,Service robot,Narrative generation,SitLog
+Moreno-Jiménez, L.-G.;Moreno-Jiménez, L.-G.;
+Castro-Sánchez, N.A.;Castro-Sánchez, N.A.;
+Nava-Zea, A.;Nava-Zea, A.;
+Panathula, C.B.;Panathula, C.B.;performance margins,Frequency domain analysis,sliding mode control
+Kojima, H.;Kojima, H.;satellite's attitude control,Control moment gyroscope,spherical stabilizer,friction drive
+Zenteno-Hernández, J.A.;Zenteno-Hernández, J.A.;Point diffraction interferometer,Microlithography.,Mercury-drop method
+Rosales-Quintero, P.;Rosales-Quintero, P.;Point diffraction interferometer,Microlithography.,Mercury-drop method
+Cornejo-Rodriguez, A.;Cornejo-Rodriguez, A.;Point diffraction interferometer,Microlithography.,Mercury-drop method
+Perez-Esquivel, N.;Perez-Esquivel, N.;Spatial light modulators,Gray levels,Polarization states
+Villalobos-Mendoza, B.;Villalobos-Mendoza, B.;Ronchi test,Finite Element Method,ray-tracing,Sub-structured Ronchi rulings,Spatial light modulators,Subaperture stitching,aberration coefficients,Newton interferometer,Gray levels,fast surfaces,optical mirror deformations,Sub-structured Ronchigrams,convex surfaces,Polarization states
+Ontiveros, M.;Ontiveros, M.;Contourn,Visión,Shape,Embedded,Algorithm
+Lomas, V.;Lomas, V.;Contourn,Fuzzy ARTMAP,Visión,VHDL,Omnidirectional Platform,Fuzzy Logic,Image Processing,Shape,Embedded,Algorithm,Bluetooth,Multivariate patterns,FPGA,SVM
+Osorio-Comparán, R.;Osorio-Comparán, R.;Cultivation,Image Segmentation,K-Nearest Neighbor,Greenhouses,Image Processing,Computer vision,Semaphore,Image segmentation,Image processing,Computer Vision,Automatic control,Background subtraction
+López-Juarez, I.;López-Juarez, I.;Semaphore,Image processing,K-Nearest Neighbor,Background subtraction
+Tovar-Medina, R.;Tovar-Medina, R.;Semaphore,Image processing,K-Nearest Neighbor,Background subtraction
+Maldonado-Ramirez, A.;Maldonado-Ramirez, A.;Distributed Control,Flexible manufacturing systems,Smart factories
+Rios-Cabrera, R.;Rios-Cabrera, R.;Distributed Control,Flexible manufacturing systems,Smart factories
+Ortega-Aranda, D.;Ortega-Aranda, D.;Dual-arm,Robot assembly,Artificial Neural Network,Peg-in-hole
+Nath-Saha, B.;Nath-Saha, B.;Dual-arm,Robot assembly,Artificial Neural Network,Peg-in-hole
+Vera, M.;Vera, M.;Automatic control,Greenhouses,Cultivation
+Duarte-Mermoud, M.;Duarte-Mermoud, M.;Automatic control,Greenhouses,Cultivation
+Govezensky, T.;Govezensky, T.;Social hierarchy,Community formation,Opinion formation
+Barrio, R.A.;Barrio, R.A.;Social hierarchy,Community formation,Opinion formation
+Schaum, A.;Schaum, A.;Sensor location,Observers,Detectability,Tubular reactors,Extended Kalman filter,State estimation
+Meurer, T.;Meurer, T.;Sensor location,Observers,Detectability,Tubular reactors,Extended Kalman filter,State estimation
+Rascon, C.;Rascon, C.;The Golem-II+ Robot,Service robots system levels,Service Robot Task Structure,RoboCup@Home competition,Direction-of-arrival,HRI,Distance estimation,DOA,Robot audition,The Golem-II+ robot,Robot Programming Languages,Waiter,Service Robot Programming,Practical tasks,Concept of a service robot,Multiple users,Structure of a general purpose service robot,Conceptual model of service robots,Sound source localization,Tracking,Robotics' task structure,Service Robot Architecture
+Loria, A.;Loria, A.;semi-global uniformity,PMSM,Asymptotic stability,Adaptive control,PID control,Synchronous motor
+Panteley, E.;Panteley, E.;semi-global uniformity,passivity-based control,under-actuated systems control,Asymptotic stability,multiagent systems,flexible-joint robot control,consensus control
+Rascón, C.;Rascón, C.;The Golem-III robot,Speech recognition,Non-monotonic KB-systems,Language models,Knowledge representation in service robots,Service robots
+Penaloza, D.F.;Penaloza, D.F.;Gathering,Mobile Robots,Fault Tolerance,Multiple and Distributed Robots,Rendezvous,Convergence
+Alcantara, M.;Alcantara, M.;Gathering,Mobile Robots,Fault Tolerance,Multiple and Distributed Robots,Rendezvous,Convergence
+Stainer, J.;Stainer, J.;Distributed computing,Asynchronous system,Read–write shared memory,Reliable shared memory,Asynchronous message-passing system,Single-writer/multi-reader register,Topology,Broadcast abstraction,Colorless task,Quorum,Byzantine process,Message-passing system,Wait-free computing,Approximate agreement,Reliable broadcast,Atomic read/write register,t-Resilience
+Martinez-Sanchez, M.E.;Martinez-Sanchez, M.E.;Plasticity,IL-10,Hyperinsulinemia,CD4+ T cells,Regulatory network,TGFβ,Development,Robustness,Insulin
+Hiriart, M.;Hiriart, M.;Plasticity,IL-10,Hyperinsulinemia,CD4+ T cells,Regulatory network,TGFβ,Development,Robustness,Insulin
+Alvarez-Buylla, E.R.;Alvarez-Buylla, E.R.;Flower development,IL-10,Boolean models,Attractor landscape,Protein-protein interaction network,Transcription factors,Development,MADS domain proteins,Plasticity,Subgraph abundance,CD4+ T cells,Regulatory network,Robustness,Insulin,Differentiation,Gene regulatory networks,Gene regulatory network,Phenotypic attractors,Attractor transitions,Arabidopsis thaliana,Carcinomas,Hyperinsulinemia,Tetramers,TGFβ,Epigenetic landscape
+Casas-Ramos, M.A.;Casas-Ramos, M.A.;Sensitivity,fiber Bragg grating,cantilever beam,Vibration,Frequency,Accelerometer,Cantilever,Fiber Bragg grating
+Sandoval-Romero, G.E.;Sandoval-Romero, G.E.;Sensitivity,Group and phase focusing,fiber Bragg grating,Mach Zehnder interferometer,cantilever beam,Er3+/Yb3+,Vibration,Frequency,Accelerometer,Spherical and chromatic aberrations,long period fiber gratings,Cantilever,Fiber Bragg grating,Femtosecond pulses
+Tapia, A.;Tapia, A.;Linear matrix inequalities,Nonlinear sliding surface,Convex models
+Bernal, M.;Bernal, M.;Linear matrix inequalities,Nonlinear sliding surface,Convex models
+Mujica Mota, M.;Mujica Mota, M.;
+Flores De La Mota, I.;Flores De La Mota, I.;Integrated nested Laplace approximation,R,GLMs,Dynamic programming,Compound process,INLA,Generalised linear models,Bank branches,Cash optimisation
+Becerra, G.;Becerra, G.;
+Lara-Rodriguez, G.A.;Lara-Rodriguez, G.A.;Foams,Manufacture,Replication casting,Pure Mg,Device
+Figueroa, I.A.;Figueroa, I.A.;DEM,Foams,Manufacture,Replication casting,Foam,Simulation,Pure Mg,Mg,Random pores,FEA,Device,Compression
+Suarez, M.A.;Suarez, M.A.;Foams,Manufacture,Replication casting,Pure Mg,Device
+Alfonso, I.;Alfonso, I.;magnetic materials,DEM,Foams,Manufacture,Replication casting,Foam,Simulation,Pure Mg,Superconducting materials,Mg,Random pores,FEA,Device,Compression,X-ray diffraction
+Goodall, R.;Goodall, R.;Foams,Manufacture,Replication casting,Pure Mg,Device
+Gutierrez, I.;Gutierrez, I.;Linear control,Crane configuration,Mechanical system,Oscillation reduction
+Collado, J.;Collado, J.;Under-actuated systems,Linear control,Vector and non-smooth lyapunov functions,Parametric resonance,Mechanical system,Ship onboard crane,Crane configuration,Twisting and super-twisting algorithms,Oscillation reduction
+García-Gómez, M.L.;García-Gómez, M.L.;
+Azpeitia, E.;Azpeitia, E.;Gene interaction graph,Boolean network,SAT solver
+Álvarez-Buylla, E.R.;Álvarez-Buylla, E.R.;C. elegans,Cell cycle,Fate determination,Vulva
+Basin, M.;Basin, M.;
+Méndez-López, L.F.;Méndez-López, L.F.;Gene regulatory networks,Boolean models,Phenotypic attractors,Epigenetic landscape,Carcinomas
+Davila-Velderrain, J.;Davila-Velderrain, J.;Flower development,Differentiation,Gene regulatory networks,Gene regulatory network,Boolean models,Attractor landscape,Phenotypic attractors,Attractor transitions,Epigenetic landscape,Carcinomas
+Domínguez-Hüttinger, E.;Domínguez-Hüttinger, E.;Gene regulatory networks,Boolean models,Phenotypic attractors,Epigenetic landscape,Carcinomas
+Martínez-García, J.C.;Martínez-García, J.C.;Gene regulatory networks,Boolean models,Phenotypic attractors,Epigenetic landscape,Carcinomas
+Ríos, H.;Ríos, H.;non-affine systems,Switched systems,nonlinear systems,Non-minimum phase,High-order sliding mode,Fault detection and isolation,Fault detection and identification,sliding-modes
+Punta, E.;Punta, E.;non-affine systems,nonlinear systems,sliding-modes,Fault detection and isolation
+Liu, X.;Liu, X.;
+Wack, M.;Wack, M.;
+Heredia, S.;Heredia, S.;
+Marinho, M.M.;Marinho, M.M.;
+Ikemoto, T.;Ikemoto, T.;
+Padilla, M.;Padilla, M.;
+Marquez, J.;Marquez, J.;Esophagus,Dysphagia,Visible Human,Three-dimensional reconstruction,Computer simulation
+Muñiz-Rascado, L.-J.;Muñiz-Rascado, L.-J.;
+Chatziioannou, I.;Chatziioannou, I.;geotechnology,urban management,MICMAC,structural analysis,urban transportation infrastructure,sustainable mobility
+Álvarez-Icaza, L.;Álvarez-Icaza, L.;sustainable mobility,urban transportation infrastructure,geotechnology,urban management
+Anaya-Vera, S.;Anaya-Vera, S.;Mirrors,Ultrafast Optics,Imaging systems,Pulse Shaping,Aberrations
+Rosete-Aguilar, M.;Rosete-Aguilar, M.;Cavity optics,Uniaxial crystals,Liquids,beam aligner,Polarization,Ti:Sapphire laser,scanners,Aberrations,Shark-Hartmann,Refractometer,Group and phase focusing,Mirrors,Beam Profiler,Focused Beam,Paraxial approximation,Grism,Diffraction Gratings,Optofluidics,Spectroscopy,Femtosecond pulses,Ray tracing,Wavefront sensor,Raspberry Pi,Ultrashort pulses,Birefringence,Imaging systems,Ultrafast optics,Optical temperature measurements,Self-Lensing,Cavity Design,Simulation,spectroscopes,Profiler,Nonlinear Optics,Refractive Index,Ultrafast Optics,Constant Deviation prism,Spherical and chromatic aberrations,Pulse Shaping,High Resolution CCD.
+Rodríguez-Herrera, O.G.;Rodríguez-Herrera, O.G.;Scattering,aliasing,active polarimetry,Remote sensing,Mueller matrix,Mirrors,polarimetry,crosstalk,Polarization,Ultrafast Optics,Coherence and statistical optics,modulated polarimetry,Imaging systems,Polarimetry,linear systems,Pulse Shaping,Aberrations
+Gardunõ-Mejiá, J.;Gardunõ-Mejiá, J.;Mirrors,Ultrafast Optics,Imaging systems,Pulse Shaping,Aberrations
+Osorio-Infante, A.I.;Osorio-Infante, A.I.;Free-form surface,image processing,Corneal,Null-screen,Normal of corneal surface,Image processing,corneal topography,optical metrology,Aspherics,Corneal topography,null-screen
+Cossio-Guerrero, C.;Cossio-Guerrero, C.;Free-form surface,image processing,Optical Metrology,Null-screen,Corneal,Normal of corneal surface,Surface Measurements,Null-Screen,corneal topography,Free-form Surface,optical metrology,Aspherics,Non-symmetrical Aspherics,Corneal topography,null-screen,Corneal Topography
+Armengol-Cruz, V.D.E.;Armengol-Cruz, V.D.E.;Optical Metrology,Null-screen,Null-Screen,Free-form Surface,Aspherics,Non-symmetrical Aspherics,Freeform,Corneal Topography
+Zapata-Farfan, J.;Zapata-Farfan, J.;Profiler,Beam Profiler,Focused Beam,High Resolution CCD.
+Garduño-Mejía, J.;Garduño-Mejía, J.;Cavity optics,Tissue optics,Wavefront sensor,Self-Lensing,Beam Profiler,Cavity Design,Focused Beam,Simulation,Time-resolved imaging,Profiler,Raspberry Pi,Ultrashort pulses,Nonlinear Optics,Ti:Sapphire laser,Transillumination,Ultrafast optics,Shark-Hartmann,High Resolution CCD.
+Ascanio, G.;Ascanio, G.;nanophotonics,Beam Profiler,Esophagus,Focused Beam,nanohole arrays,point-of-care diagnostics,Profiler,biosensing,Dysphagia,Visible Human,Surface plasmon resonance,smartphone-based sensing,Three-dimensional reconstruction,metallic nanostructures,Computer simulation,High Resolution CCD.
+Román-Moreno, C.J.;Román-Moreno, C.J.;Wavefront sensor,Beam Profiler,Focused Beam,Profiler,Raspberry Pi,Shark-Hartmann,High Resolution CCD.
+Contreras-Martinez, R.;Contreras-Martinez, R.;Raspberry Pi,Wavefront sensor,Shark-Hartmann
+Montes, A.;Montes, A.;Semantic roles classification,Document processing,Natural language analysis,Knowledge acquisition,One-class SVM,prototype vectors,Spectral clustering,Information retrieval,Doc2Vec,Ontology,Machine learning,Formal concept analysis,Ontology learning,Semantic similarity,Taxonomic relations,Frobenius metric,Eventdriven learning,Lexico-syntactic patterns,Graph-based clustering,Logistic regression,Natural language processing,Linguistics markers,Ontological relations,Discourse relations,Semantic relations,hierarchical relationships,Ontology evaluation,Authorship verification,Kernel selection
+Lázaro, J.;Lázaro, J.;
+Gomez-Cruz, J.;Gomez-Cruz, J.;nanophotonics,point-of-care diagnostics,nanohole arrays,biosensing,Surface plasmon resonance,smartphone-based sensing,metallic nanostructures
+Nair, S.;Nair, S.;nanophotonics,point-of-care diagnostics,nanohole arrays,biosensing,Surface plasmon resonance,smartphone-based sensing,metallic nanostructures
+Escobedo, C.;Escobedo, C.;nanophotonics,point-of-care diagnostics,nanohole arrays,biosensing,Surface plasmon resonance,smartphone-based sensing,metallic nanostructures
+Liñán-García, E.;Liñán-García, E.;Vehicle Routing Problem,Saving’s algorithm,Simulated annealing,Metaheuristic
+Cruz Villegas, L.C.;Cruz Villegas, L.C.;Vehicle Routing Problem,Saving’s algorithm,Simulated annealing,Metaheuristic
+Montes Dorantes, P.;Montes Dorantes, P.;Vehicle Routing Problem,Saving’s algorithm,Simulated annealing,Metaheuristic
+Méndez, G.M.;Méndez, G.M.;Industrial Robotics,Saving’s algorithm,Simulated annealing,GMAW,Robot Path Control,Metaheuristic,Fuzzy Logic,Vehicle Routing Problem,Artificial Vision
+Rinaldi, F.;Rinaldi, F.;
+Lithgow, O.;Lithgow, O.;
+Davila-Rios, I.;Davila-Rios, I.;Fuzzy logic,Industrial robotics,Artificial vision,Gas metal arc welding (GMAW),Robot path control
+Mendez, G.M.;Mendez, G.M.;Fuzzy logic,Industrial robotics,Artificial vision,Gas metal arc welding (GMAW),Robot path control
+Cubillos, C.;Cubillos, C.;Fuzzy logic,Computer vision,Image segmentation,Mobile robot,Computer Vision,GMAW,Image Segmentation,Industrial robotics,Image Processing,Simultaneous localization and mapping (SLAM),FastSLAM,Fuzzy Logic,Robot Path Control,Artificial Vision,Industrial Robotics,Vector field histogram (VHF) algorithm,Artificial vision,Image processing,Gas metal arc welding (GMAW),Robot path control
+Hernández-Espinosa, A.;Hernández-Espinosa, A.;Computationalism,Natural computation,Computability,Classical computation,Turing machine model
+Calixto, S.;Calixto, S.;Liquids,Refractometer,spectroscopes,Diffraction Gratings,beam aligner,Refractive Index,Grism,Constant Deviation prism,scanners,Optofluidics,Spectroscopy,Optical temperature measurements
+Torres-Gomez, I.;Torres-Gomez, I.;Grism,Optical temperature measurements,Constant Deviation prism
+Montes-Pérez, A.;Montes-Pérez, A.;Grism,Optical temperature measurements,Constant Deviation prism
+Jiménez-Rodríguez, M.;Jiménez-Rodríguez, M.;
+Verduzco-Grajeda, L.E.;Verduzco-Grajeda, L.E.;
+García-Díaz, R.;García-Díaz, R.;
+Díaz-Uribe, R.;Díaz-Uribe, R.;optical surfaces,Concentrators,local deformation,Optical Metrology,simulation,flat mirror,precision,Null-Screen,deflectometry,Aspherics,spherical surfaces
+Moses, Y.;Moses, Y.;Knowledge,Uniform consensus,Early stopping,Consensus,Optimality,Agreement,Process crash,Synchronous message-passing system,T-Resilience,Early decision,Round-based algorithm
+Oliva-Fonseca, P.;Oliva-Fonseca, P.;
+Noack, M.;Noack, M.;
+Reger, J.;Reger, J.;
+Koch, S.;Koch, S.;
+Steinberger, M.;Steinberger, M.;
+Moreno, J.;Moreno, J.;
+Capello, E.;Capello, E.;
+Aparicio, A.;Aparicio, A.;
+García-Illescas, M.A.;García-Illescas, M.A.;Projection methods,Gershgorin circles,Matrix parameterization,Tridiagonal matrices,Recursive least squares,Stable shear building models
+Cruz, J.;Cruz, J.;Mobile Robots Behaviors,Artificial Neural Networks,FPGAs,Genetic Algorithms
+Muñoz, S.;Muñoz, S.;Artificial Neural Networks,Cell cycle,Mobile Robots Behaviors,Gene interaction graph,Vulva,SAT solver,Fate determination,Boolean network,C. elegans,FPGAs,Genetic Algorithms
+Bustamante, S.M.;Bustamante, S.M.;X-ray image,Breast cancer,Image processing,Micro calcifications
+Lefranc, H.E.;Lefranc, H.E.;X-ray image,Breast cancer,Image processing,Micro calcifications
+Lefranc, H.G.;Lefranc, H.G.;X-ray image,Breast cancer,Image processing,Micro calcifications
+Medina-Urrea, A.;Medina-Urrea, A.;Morphological Segmentation,Morphology induction,Affixality measurements,Morpheme segmentation,Information retrieval,Unsupervised learning
+Morales, J.A.;Morales, J.A.;complex systems,rank distribution,sports,rank diversity,data analysis
+Sánchez, S.;Sánchez, S.;complex systems,rank distribution,sports,rank diversity,data analysis
+Flores, J.;Flores, J.;complex systems,rank distribution,sports,relative velocity,wind turbine,real-time identification,maximum power point tracking,rank diversity,Adaptive observer,data analysis,wind velocity estimation
+Rodríguez, R.F.;Rodríguez, R.F.;complex systems,rank distribution,sports,rank diversity,data analysis
+Alemán-Castañeda, L.A.;Alemán-Castañeda, L.A.;Ray tracing,Uniaxial crystals,Paraxial approximation,Birefringence,Polarization
+Villanueva, J.;Villanueva, J.;relative velocity,wind turbine,real-time identification,maximum power point tracking,Adaptive observer,wind velocity estimation
+Arriaga-Trejo, I.A.;Arriaga-Trejo, I.A.;relative velocity,wind turbine,real-time identification,maximum power point tracking,Adaptive observer,wind velocity estimation
+Simón, J.;Simón, J.;relative velocity,wind turbine,real-time identification,maximum power point tracking,Adaptive observer,wind velocity estimation
+Guzman, H.;Guzman, H.;On-ramps,Bottlenecks,Cellular Automata models,Computer simulation,Traffic analysis
+Larraga, M.;Larraga, M.;On-ramps,Bottlenecks,Cellular Automata models,Computer simulation,Traffic analysis
+Huerta, F.;Huerta, F.;On-ramps,Computer Simulation,Bottlenecks,Cellular Automata models,Computer simulation,Traffic analysis
+Negrete, D.Y.;Negrete, D.Y.;Sliding mode control,adaptive control
+Torres-González, V.;Torres-González, V.;Sliding mode control,adaptive control
+Plestan, F.;Plestan, F.;Sliding mode control,adaptive control,sliding mode observers
+Aguilar, C.;Aguilar, C.;Term,DEM,Information extraction,Foam,Simulation,Definition,Taxonomy,Mg,Definitional context,Random pores,FEA,Compression
+Acosta, O.;Acosta, O.;Term,Information extraction,Definition,Taxonomy,Definitional context
+Juárez, S.;Juárez, S.;Term,Information extraction,Definition,Taxonomy,Definitional context
+Infante, T.;Infante, T.;Term,Information extraction,Definition,Taxonomy,Definitional context
+Salgado, I.;Salgado, I.;Discrete-time super twisting algorithm,Sliding mode control,Electro-mechanical systems,Sliding mode differentiator
+Kamal, S.;Kamal, S.;finite time stability,higher order sliding mode,Super-Twisting observer (STO),Sliding mode control,Electro-mechanical systems,Sliding mode differentiator,higher order sliding mode observer,Super-Twisting Control (STC),Discrete-time super twisting algorithm,Generalized Super-Twisting Algorithm
+Bandyopadhyay, B.;Bandyopadhyay, B.;finite time stability,higher order sliding mode,Super-Twisting observer (STO),Sliding mode control,Electro-mechanical systems,Sliding mode differentiator,higher order sliding mode observer,Super-Twisting Control (STC),Discrete-time super twisting algorithm,Generalized Super-Twisting Algorithm
+Chairez, I.;Chairez, I.;Discrete-time super twisting algorithm,Sliding mode control,Electro-mechanical systems,Sliding mode differentiator
+Negrete-Chávez, D.Y.;Negrete-Chávez, D.Y.;second-order sliding modes,discontinuous control,adaptive control,Lyapunov analysis
+Ortega, R.;Ortega, R.;passivity-based control,under-actuated systems control,AC drives,multiagent systems,flexible-joint robot control,consensus control,electric machines
+Bonakdarpour, B.;Bonakdarpour, B.;Runtime monitoring,Distributed algorithms,Fault-tolerance
+Gafni, E.;Gafni, E.;MWMR registers,Distributed algorithms,Shared memory,k-set agreement,Wait-free computing,Renaming,Consensus with bounded memory,Read/write registers,Space complexity
+Imbs, D.;Imbs, D.;Abort/commit,Task solvability,Atomic execution unit,Coordination,Compare&swap,Renaming,Set agreement,Fetch&increment,Approximate agreement,Reliable broadcast,Nondeterminism,Universal construction,Asynchronous system,Single-writer/multi-reader register,Distributed computability,Agreement,Quorum,Concurrency management,Reliable shared memory,STM system,Broadcast abstraction,Transaction,Asynchronous message-passing system,Symmetry breaking,Crash failure,Consensus,Lock-freedom,Decision task,Distributed computing,Asynchronous systems,Problem hierarchy,Concurrent object,Wait-freedom,Shared memory system,Byzantine process,Message-passing system,Asynchronous read/write model,Iterated immediate snapshot,Read/write shared memory,Atomic read/write register,t-Resilience
+Scheleyer, G.;Scheleyer, G.;Image Segmentation,Image Processing,Computer Vision
+Millán, G.;Millán, G.;Vector Field Histogram (VFH),Simultaneous Localization and Mapping (SLAM),Image Segmentation,Global Position System (GPS),Vector field histogram (VHF) algorithm,Image Processing,Computer vision,Image segmentation,FastSLAM,Simultaneous localization and mapping (SLAM),Image processing,Mobile robot,Computer Vision,mobile robots
+Dávila-Ríos, I.;Dávila-Ríos, I.;Industrial Robotics,Artificial Vision,Robot Path Control,Fuzzy Logic,GMAW
+López-Juárez, I.;López-Juárez, I.;Industrial Robotics,Artificial Vision,VHDL,Omnidirectional Platform,Robot Path Control,Fuzzy Logic,Bluetooth,FPGA,GMAW
+Olivares, U.;Olivares, U.;Ray tracing,octree,binary partition,SIMD extensions,dynamic scenes
+Rodríguez, H.G.;Rodríguez, H.G.;Ray tracing,octree,binary partition,SIMD extensions,dynamic scenes
+Ramos, F.F.;Ramos, F.F.;Ray tracing,octree,binary partition,SIMD extensions,dynamic scenes
+Bereg, S.;Bereg, S.;Geometric optimization,Jarnik's polygons,Red-blue points,Pick's theorem,Floodlight scheduling,Optimal algorithms,Erdos-Szekeres-type problem,Double circle,Inequalities,lattice points,Combinatorial optimization,rotating sensors,Empty k-gons,illumination,coverage
+Jasso, G.;Jasso, G.;Verbal irony,Word2vec,Irony detection,Short text
+Concha, A.;Concha, A.;Parameter and state identification,Least-squares methods,Linear integral filters,Velocity control,Moment of inertia,Parameter estimation,Proportional-integral (PI) controller,Shear building,Servosystems,Adaptive observer,Friction,Least squares
+Garrido, R.;Garrido, R.;Parameter and state identification,Least-squares methods,Linear integral filters,Velocity control,Moment of inertia,Parameter estimation,Proportional-integral (PI) controller,Shear building,Servosystems,Adaptive observer,Friction,Least squares
+Gastelum, A.;Gastelum, A.;Contrast enhanced digital mammography,Esophagus,Breast imaging,Dysphagia,Visible Human,CEDM,Contrast medium,Three-dimensional reconstruction,Texture analysis,Computer simulation
+Mata, L.;Mata, L.;Esophagus,Dysphagia,Visible Human,Three-dimensional reconstruction,Computer simulation
+Brito-de-la-Fuente, E.;Brito-de-la-Fuente, E.;Esophagus,Dysphagia,Visible Human,Three-dimensional reconstruction,Computer simulation
+Rios, H.;Rios, H.;Adaptive control,Time-varying systems,Stability of nonlinear systems
+Fridman, L.M.;Fridman, L.M.;Stability of nonlinear systems,Singular systems,System structure,Time-varying systems,Decentralised control,Adaptive control,Large scale interconnected systems
+Perruquetti, W.;Perruquetti, W.;Adaptive control,Time-varying systems,Stability of nonlinear systems
+Bustos, N.;Bustos, N.;Os andorid,Machine vision,Mobile device,Objets recognition,Canny,Hough
+Godinez, J.;Godinez, J.;Os andorid,Machine vision,Mobile device,Objets recognition,Canny,Hough
+Pena, M.;Pena, M.;Os andorid,Machine vision,Mobile device,Objets recognition,Canny,Hough
+Zaragoza, M.A.;Zaragoza, M.A.;Integrated nested Laplace approximation,R,GLMs,Dynamic programming,Compound process,INLA,Generalised linear models,Bank branches,Cash optimisation
+Reyes, M.;Reyes, M.;Collaborative interaction,Minimalist robot head,Negative facial expression,Reaction time
+Mateos, M.-J.;Mateos, M.-J.;Contrast enhanced digital mammography,Breast imaging,Texture analysis,Contrast medium,CEDM
+Márquez, J.;Márquez, J.;Contrast enhanced digital mammography,Breast imaging,Texture analysis,Contrast medium,CEDM
+Brandan, M.-E.;Brandan, M.-E.;Contrast enhanced digital mammography,Breast imaging,Texture analysis,Contrast medium,CEDM
+De La Guerra, A.;De La Guerra, A.;Switched reluctance motors,Observers design,Robust control,Speed control,Disturbance rejection
+Castro-Olvera, G.;Castro-Olvera, G.;Ultrashort pulses,Cavity optics,Ultrafast optics,Ti:Sapphire laser
+Roman-Moreno, C.J.;Roman-Moreno, C.J.;Ultrashort pulses,Cavity optics,Ultrafast optics,Ti:Sapphire laser
+De Emanuel Armengol-Cruz, V.;De Emanuel Armengol-Cruz, V.;Free-form surface,Null-screen,Normal of corneal surface,Image processing,Corneal,Aspherics,Corneal topography
+Marquez-Flores, J.;Marquez-Flores, J.;Corneal topography,Image processing,Null-screen
+Montes, I.;Montes, I.;Optical Retardance,Liquid-Crystal Variable Retarders,Mueller Matrix,Polarization,Polarimetry
+López-Téllez, J.M.;López-Téllez, J.M.;Optical Retardance,Liquid-Crystal Variable Retarders,Polarization of light,Mueller Matrix,Stokes parameters,Stokes polarimeter,Polarization,Polarimetry,Liquid-crystal variable retarder,Optical retardance
+Moreno-Larios, J.A.;Moreno-Larios, J.A.;Nonlinear Optics,Simulation,Cavity Design,Self-Lensing
+Cebrian-Xochihuila, P.;Cebrian-Xochihuila, P.;simulation,flat mirror,precision,Null-Screen
+Rodríguez-Núñez, O.;Rodríguez-Núñez, O.;Focused illumination,Surface defect,Light Scattering,Kirchhoff Approximation,Rough surface
+Arroyo-Ferńandez, I.;Arroyo-Ferńandez, I.;Automatic Text Summarization,Generalization Ability,Machine Learning,Regression Estimation
+Cabrera-Diego, L.A.;Cabrera-Diego, L.A.;Automatic Text Summarization,Generalization Ability,Machine Learning,Regression Estimation
+Orozco, A.;Orozco, A.;
+Buscaldi, D.;Buscaldi, D.;Author profiling,Random forest regression,NLP,Machine learning,Random forest
+Gelbukh, A.F.;Gelbukh, A.F.;Semantic similarity,Product reviews,Vector space model,Context
+Callejas-Rodríguez, Á.;Callejas-Rodríguez, Á.;Conversational agent,Dialog systems,Dialogue corpora,Natural language processing,Cyber-pedophilia
+Villatoro-Tello, E.;Villatoro-Tello, E.;Conversational agent,Dialog systems,Dialogue corpora,Natural language processing,Cyber-pedophilia
+Ramírez-de-la-Rosa, G.;Ramírez-de-la-Rosa, G.;Conversational agent,Dialog systems,Dialogue corpora,Natural language processing,Cyber-pedophilia
+Álvarez-Carmona, M.A.;Álvarez-Carmona, M.A.;
+López-Monroy, A.P.;López-Monroy, A.P.;
+Montes-Y-Gómez, M.;Montes-Y-Gómez, M.;
+Villaseñor-Pineda, L.;Villaseñor-Pineda, L.;
+De Ita, G.;De Ita, G.;Programming macros,Counting the number of independent sets,Symbolic variables,Recognition of graph patterns
+Bello, P.;Bello, P.;Programming macros,Counting the number of independent sets,Symbolic variables,Recognition of graph patterns
+Contreras, M.;Contreras, M.;Programming macros,Counting the number of independent sets,Symbolic variables,Recognition of graph patterns
+Reyes, J.A.;Reyes, J.A.;Semantic roles classification,Ontology learning,Discourse relations,Eventdriven learning,Knowledge acquisition,Machine learning,Natural language processing,Linguistics markers
+Benavides, F.;Benavides, F.;
+Schleyer, G.;Schleyer, G.;Computer vision,Image segmentation,Image processing
+Du, J.;Du, J.;Neighbor discovery,Deterministic,Rotating,Sensor network,Directional antennae,Randomized algorithms
+Kranakis, E.;Kranakis, E.;Neighbor discovery,Deterministic,Rotating,Sensor network,Directional antennae,Randomized algorithms
+Ponce, O.M.;Ponce, O.M.;Neighbor discovery,Deterministic,Rotating,Sensor network,Directional antennae,Randomized algorithms
+Ponce-Hernández, O.;Ponce-Hernández, O.;
+Román-Hernández, E.;Román-Hernández, E.;
+Moreno-Oliva, I.;Moreno-Oliva, I.;
+Castro-Marín, P.;Castro-Marín, P.;Group and phase focusing,Spherical and chromatic aberrations,Femtosecond pulses
+Garduño-Mejí, J.;Garduño-Mejí, J.;Group and phase focusing,Spherical and chromatic aberrations,Femtosecond pulses
+Farrell, C.;Farrell, C.;Group and phase focusing,Spherical and chromatic aberrations,Femtosecond pulses
+Delporte, C.;Delporte, C.;Impossibility,Asynchronous system,Linearizability,Process crash failure,T-resilience,Consensus,Distributed computability,Wait-freedom,Snapshot object,Immediate snapshot,K-set agreement,Iterated model,Atomic read/write register
+Fages, F.;Fages, F.;
+Martinez, T.;Martinez, T.;
+Soliman, S.;Soliman, S.;
+Méndez, A.;Méndez, A.;
+Gonzalez-Gallardo, C.-E.;Gonzalez-Gallardo, C.-E.;Machine Learning,Social Network,Text Mining,Blogs,N-grams,Classification,POS,Tweets
+Rendon, A.M.;Rendon, A.M.;Machine Learning,Social Network,Text Mining,Blogs,N-grams,Classification,POS,Tweets
+Kuznetsov, P.;Kuznetsov, P.;Well-quasi-order,Higman’s lemma,Failure detectors
+Rieutord, T.;Rieutord, T.;Well-quasi-order,Higman’s lemma,Failure detectors
+Capistrán, T.;Capistrán, T.;HAWC,Neural Network,Gamma/Hadron separation
+Moreno, E.;Moreno, E.;HAWC,Neural Network,Gamma/Hadron separation
+Montes-Perez, A.;Montes-Perez, A.;Liquids,Refractive Index,Diffraction Gratings,Optofluidics,Refractometer
+Vicente, B.-R.;Vicente, B.-R.;Ground-based telescope,San pedro martir,Optical instrumentation,Telescope engineering,TSPM,Telescope design
+Gengis, K.T.-R.;Gengis, K.T.-R.;Ground-based telescope,San pedro martir,Optical instrumentation,Telescope engineering,TSPM,Telescope design
+Serrano, H.;Serrano, H.;Ground-based telescope,San pedro martir,Optical instrumentation,Telescope engineering,TSPM,Telescope design
+Rosales, F.;Rosales, F.;Telescope,San pedro mártir,6.5 meters,Conceptual design,Mechanical design,TSPM,Visible/infra-red wavelength
+Del Llano, L.;Del Llano, L.;Telescope,San pedro mártir,6.5 meters,Conceptual design,Mechanical design,TSPM,Visible/infra-red wavelength
+Posada, J.C.;Posada, J.C.;
+Betancur, M.J.;Betancur, M.J.;
+Guerra, R.D.;Guerra, R.D.;
+Tamayo, M.A.;Tamayo, M.A.;
+Weinstein, N.;Weinstein, N.;C. elegans,Cell cycle,Fate determination,Vulva
+Ortiz-Gutiérrez, E.;Ortiz-Gutiérrez, E.;C. elegans,Cell cycle,Fate determination,Vulva
+Pérez, L.;Pérez, L.;DEM,Foam,Mg,Random pores,FEA
+Lascano, S.;Lascano, S.;DEM,Foam,Mg,Random pores,FEA
+Espino-Gamez, A.;Espino-Gamez, A.;record linkage,de-duplication,data matching
+Gil-Moncada, J.;Gil-Moncada, J.;record linkage,de-duplication,data matching
+Perez-Franco, L.F.;Perez-Franco, L.F.;record linkage,de-duplication,data matching
+Hernandez, C.;Hernandez, C.;Kalman Filter,State Estimation,Power System
+Antonio-Gómez, J.M.;Antonio-Gómez, J.M.;VHDL,Omnidirectional Platform,Fuzzy Logic,Bluetooth,FPGA
+Heredia, M.A.;Heredia, M.A.;Dual space,Partial orders,Convex blocking,Algorithms,Multigraphs
+Peláez, C.;Peláez, C.;Dual space,Partial orders,Convex blocking,Algorithms,Multigraphs
+Ventura, I.;Ventura, I.;Red-blue points,Dual space,Partial orders,Erdos-Szekeres-type problem,Convex blocking,Algorithms,Empty k-gons,Multigraphs
+Weist, J.;Weist, J.;
+Vázquez, C.;Vázquez, C.;Under-actuated systems,Vector and non-smooth lyapunov functions,Parametric resonance,Ship onboard crane,Twisting and super-twisting algorithms
+Valtr, P.;Valtr, P.;Erdos-Szekeres problem,Convexity,Polygonization,k-Gons,Empty k-gons,k-Holes,Erdos-Szekeres type problems
+López, O.A.;López, O.A.;
+Martíinez, G.S.;Martíinez, G.S.;
+López, I.;López, I.;Multiplatform,mobile devices,global position system,Fuzzy ARTMAP,Image Processing,wireless network,multimedia,monitoring,Multivariate patterns,SVM
+Villarreal, C.;Villarreal, C.;Flower development,Differentiation,Gene regulatory network,Attractor landscape,Attractor transitions,Epigenetic landscape
+Vázquez, D.;Vázquez, D.;Multiplatform,mobile devices,global position system,wireless network,monitoring,multimedia
+Reyes, D.;Reyes, D.;mobile robots,Global Position System (GPS),Simultaneous Localization and Mapping (SLAM),Vector Field Histogram (VFH)
+Peña, M.;Peña, M.;VHDL,FPGA,Omnidirectional platform,Fuzzy Logic
+Gómez, J.A.;Gómez, J.A.;VHDL,FPGA,Omnidirectional platform,Fuzzy Logic
+Gómez, H.;Gómez, H.;VHDL,FPGA,Omnidirectional platform,Fuzzy Logic
+Durocher, S.;Durocher, S.;Mobile sensors,Algorithmic complexity,NP-completeness,Sensor network,Barrier coverage
+Eftekhari, M.;Eftekhari, M.;Mobile sensors,Algorithmic complexity,NP-completeness,Sensor network,Barrier coverage
+Shende, S.;Shende, S.;Mobile sensors,Algorithmic complexity,NP-completeness,Sensor network,Barrier coverage
+Chinas, P.;Chinas, P.;PCA,Fuzzy ARTMAP,univariate patterns,Multivariate patterns,SVM
+Lopez, I.;Lopez, I.;PCA,Fuzzy ARTMAP,univariate patterns,Multivariate patterns,SVM
+Vazquez, J.A.;Vazquez, J.A.;PCA,Fuzzy ARTMAP,univariate patterns,Multivariate patterns,SVM
+Salinas, L.;Salinas, L.;The Golem-II+ Robot,Multiple users,HRI,Robot Programming Languages,Waiter,DOA,Service Robot Task Structure,Service Robot Programming,Service Robot Architecture
+González-Gallardo, C.E.;González-Gallardo, C.E.;
+Salinas-López, A.J.;Salinas-López, A.J.;
+Ek, J.;Ek, J.;
+Solano, F.;Solano, F.;
+Villarreal, E.;Villarreal, E.;
+Contreras, L.;Contreras, L.;Vector quantization clustering,Space representations,Roadmaps for mobile robots
+Figueroa, I.;Figueroa, I.;Vector quantization clustering,Space representations,Roadmaps for mobile robots
+Rivera, C.;Rivera, C.;Vector quantization clustering,Space representations,Roadmaps for mobile robots
+Guzmán, H.A.;Guzmán, H.A.;Traffic flow models,Cellular automaton,Multilane traffic flow
+Lárraga, M.E.;Lárraga, M.E.;Traffic flow models,Cellular automaton,Multilane traffic flow
+Gongora, P.A.;Gongora, P.A.;Bellman-Ford,Nash equilibrium,BDD,Shortest path,model checking
+Guzmán, E.;Guzmán, E.;Stability in control theory,Lyapunov methods,Lyapunov function,Supertwisting observer,Time-varying coefficient,Second-order systems,Parameter estimation,Simulation,Time-varying systems,C1320,Observers,C1340G,Time-varying control systems,Lipschitz function,modelling and identification,C1220
+Solórzano, J.;Solórzano, J.;Authorship verification,One-class SVM,Kernel selection,Logistic regression
+Gutierrez, J.;Gutierrez, J.;
+Casillas, J.;Casillas, J.;
+Ledesma, P.;Ledesma, P.;
+Palomino-Garibay, A.;Palomino-Garibay, A.;Author profiling,Random forest regression,Unsupervised methods,Semantic orientation,Supervised methods,NLP,Linguistic features,Machine learning,Opinion reviews,Random forest
+Gallegos-Acosta, J.;Gallegos-Acosta, J.;Unsupervised methods,Semantic orientation,Supervised methods,Linguistic features,Opinion reviews
+Dediu, A.-H.;Dediu, A.-H.;
+Martín-Vide, C.;Martín-Vide, C.;
+Camacho-González, A.T.;Camacho-González, A.T.;Author profiling,Random forest regression,NLP,Machine learning,Random forest
+Fierro-Villaneda, R.A.;Fierro-Villaneda, R.A.;Author profiling,Random forest regression,NLP,Machine learning,Random forest
+Jiménez-Lizárraga, M.;Jiménez-Lizárraga, M.;
+Ibarra, E.;Ibarra, E.;
+Martínez-Rosas, J.C.;Martínez-Rosas, J.C.;Coulomb friction,LuGre friction model,Stribeck effect,Dynamic friction model
+Noriega-Pineda, D.;Noriega-Pineda, D.;Coulomb friction,LuGre friction model,Stribeck effect,Dynamic friction model
+Boiko, I.;Boiko, I.;Implementation purpose,Prescribe amplitude,Unknown input,Virtual control,Zero dynamic,Variable structure systems,Viscous friction,Controller design,Frequency response,Second-order sliding modes,Invariant zero,Biped robot,Periodic solution,Tracking controller,Tracking quality,Nonideal disturbance attenuation,LPRS methods,Perturbed relay system methods,Periodic orbit,Homoclinic orbit,Sliding mode observer,Coulomb friction,Linear systems,Linear compensators,Control system analysis and synthesis methods,Orbital stability,Slide mode control,Nyquist plot,Underactuated system,Describe function,System frequency response,Unknown input observer,Multivariable control systems,Joint position,Slide mode controller,Equilibrium point,Controller parameter,Orbital stabilization,Periodic motion
+Izazaga-Pérez, R.;Izazaga-Pérez, R.;Optical fabrication,Finite Element Method,ray-tracing,grinding,Subaperture stitching,aberration coefficients,Newton interferometer,fast surfaces,optical materials,polishing,optical mirror deformations,convex surfaces
+Carrasco-Licea, E.;Carrasco-Licea, E.;Optical fabrication,optical materials,grinding,polishing
+López-Cortés, V.;López-Cortés, V.;Optical fabrication,optical materials,grinding,polishing
+Quechol-López, J.T.;Quechol-López, J.T.;Optical fabrication,optical materials,grinding,polishing
+Muñoz Potosi, A.;Muñoz Potosi, A.;deflectometry,spherical surfaces,optical surfaces,local deformation
+Valdivieso-González, L.G.;Valdivieso-González, L.G.;deflectometry,spherical surfaces,optical surfaces,local deformation
+Campos García, M.;Campos García, M.;deflectometry,spherical surfaces,optical surfaces,local deformation
+Granados Agustin, F.;Granados Agustin, F.;deflectometry,spherical surfaces,optical surfaces,local deformation
+Salazar-Morales, M.F.;Salazar-Morales, M.F.;Subaperture stitching,fast surfaces,convex surfaces,Newton interferometer
+Garnica, G.;Garnica, G.;Optofluidics,Spectroscopy,Grism
+Eder, K.;Eder, K.;
+Magid, E.;Magid, E.;
+Valle, A.;Valle, A.;Distributed computing,Task solvability,Asynchronous systems,Consensus,Wait-freedom,Iterated immediate snapshot,Read/write shared memory
+Tovar, M.;Tovar, M.;Formal concept analysis,Semantic similarity,Taxonomic relations,Semantic relations,hierarchical relationships,Lexico-syntactic patterns,Ontology evaluation,Ontology,prototype vectors,Ontological relations
+Serna, G.;Serna, G.;Semantic relations,Formal concept analysis,Ontology
+Chalanga, A.;Chalanga, A.;finite time stability,higher order sliding mode,Super-Twisting observer (STO),Super-Twisting Control (STC),higher order sliding mode observer,Generalized Super-Twisting Algorithm
+Aguilar, L.T.;Aguilar, L.T.;Implementation purpose,Prescribe amplitude,Unknown input,Virtual control,Zero dynamic,Viscous friction,Controller design,Invariant zero,Biped robot,Periodic solution,Tracking controller,Periodic orbit,Homoclinic orbit,Sliding mode observer,Coulomb friction,Orbital stability,Slide mode control,Nyquist plot,Underactuated system,Describe function,Unknown input observer,Joint position,Slide mode controller,Equilibrium point,Controller parameter,Orbital stabilization,Periodic motion
+Vaughn, I.J.;Vaughn, I.J.;aliasing,active polarimetry,Mueller matrix,polarimetry,crosstalk,modulated polarimetry,linear systems
+Xu, M.;Xu, M.;aliasing,active polarimetry,Mueller matrix,polarimetry,crosstalk,modulated polarimetry,linear systems
+Tyo, J.S.;Tyo, J.S.;aliasing,active polarimetry,Mueller matrix,polarimetry,crosstalk,modulated polarimetry,linear systems
+Imine, H.;Imine, H.;Vertical forces,Estimation,Vehicle modelling,Sliding mode observers,Identification
+Madani, T.;Madani, T.;Vertical forces,Estimation,Vehicle modelling,Sliding mode observers,Identification
+Rodriguez-Angeles, A.;Rodriguez-Angeles, A.;Master-slave systems,Force reflecting,Position-force tracking control,Teleoperation,Transparency
+Portillo-Vélez, R.D.J.;Portillo-Vélez, R.D.J.;Master-slave systems,Force reflecting,Position-force tracking control,Teleoperation,Transparency
+Cruz-Villar, C.A.;Cruz-Villar, C.A.;Master-slave systems,Force reflecting,Position-force tracking control,Teleoperation,Transparency
+García-Cruz, K.;García-Cruz, K.;
+de la Paz Sánchez, M.;de la Paz Sánchez, M.;

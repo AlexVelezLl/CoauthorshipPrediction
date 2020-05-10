@@ -1,0 +1,970 @@
+ID;Label;Keywords
+Oliveira, H.M.N.S.;Oliveira, H.M.N.S.;Survivability,modulation,Multi-core fiber,P-cycle FIPP,Elastic optical network,Traffic grooming,Elastic Optical Net- work,elastic optical network with space division multiplexing,Multi-core Fiber,FIPP p-cycle,multi-core fiber,Elastic Optical Network with Space Division Multiplexing,Elastic optical network with space division multiplexing,Protection,Space Division Multiplexing
+da Fonseca, N.L.S.;da Fonseca, N.L.S.;Survivability,Multi-core fiber,Elastic optical network,FIPP p-cycle,Elastic optical network with space division multiplexing
+Felzmann, I.B.;Felzmann, I.B.;Modeling language,Architectural simulation,Energy efficiency,Approximate computing
+Susin, M.M.;Susin, M.M.;TSTP,Architectural simulation,Modeling language,Energy efficiency,Approximate computing,WSN,clock synchro-nization,time synchronization
+Duenha, L.;Duenha, L.;energy consumption,performance,Architectural simulation,Multicore design,Modeling language,simulation,Physical design estimates,Energy efficiency,Approximate computing,MPSoCBench,Dark silicon,Design space exploration (DSE),DVFS,Performance simulation
+Azevedo, R.;Azevedo, R.;PI,Architectural simulation,address prediction,Multicore design,load value prediction,Value prediction,Physical design estimates,Sampled simulation,instruction level parallelism,prefetching,energy consumption,Optimization,PBL,speculative execution,simulation,Approximate computing,Phase Analysis,Memory approximation,DVFS,performance,Interpreter,Active learning,CS0,Computer science,Design space exploration (DSE),Performance simulation,Energy Efficiency,Modeling language,Energy efficiency,CS1,MPSoCBench,Dark silicon,Approximate Computing,Emulation
+Wanner, L.F.;Wanner, L.F.;TSTP,Architectural simulation,Modeling language,Energy efficiency,Approximate computing,WSN,clock synchro-nization,time synchronization
+Botega, L.C.;Botega, L.C.;VANETs,Crime data,Congestion control,Situation awareness,vehicular re-routing,Knowledge discovery,public safety,multi-objective optimization,intelligent transportation systems,Data mining
+Rohmer, E.;Rohmer, E.;optical fiber sensors,human-robot interaction,Bio inspirired Robotics,Human Machine Interface,Force myography,Force sensors,Human-robot interaction,Upper Limb Prosthesis,force measurement,Prosthetics,Optical fiber sensor,force myography,Cognitive architecture,Transportation robotics
+Vargas Muñoz, J.;Vargas Muñoz, J.;Hierarchical clustering,Graph-based search,Approximate nearest neighbors search,Guided search
+Gonçalves, M.A.;Gonçalves, M.A.;Guided search,Relevance feedback,Hierarchical clustering,Graph-based search,Machine learning,Multimodal retrieval,Diversity,Approximate nearest neighbors search
+Dias, Z.;Dias, Z.;Reversals,Computational biology,Approximation algorithm,Approximation algorithms,Deep-learning,Genome rearrangement,transpositions,Super short reversals,Transpositions,Approximate nearest neighbors search,Heuristics,Guided search,Super short operations,computer vision,deep-learning,Circular permutations,weighted operations,Prefix rearrangements,Genome rearrangements,reversals,Intergenic regions,Violence classification,genome rearrangement,Nearest neighbor search,Nearest neighbors graph,Computational Biology,Sorting permutations,Graph-based search,forensic computing,Reversals and transpositions,Genetic programming,Weighted operations,Semantic concept detection,approximation algorithms,Diameter,Graph topological features,Distance learning,Hierarchical clustering,violence classification,semantic concept detection
+da S. Torres, R.;da S. Torres, R.;Hierarchical clustering,Graph-based search,Approximate nearest neighbors search,Guided search
+Werneck, R.D.O.;Werneck, R.D.O.;Bag models,Science - experiments,Graph matching,Graph-based classification,Open-set recognition,Graph-based retrieval,Machine learning,Recommendation systems (Information filtering),Cost learning,Workflow,SVM
+Raveaux, R.;Raveaux, R.;Graph matching,Cost learning,Open-set recognition,SVM
+Tabbone, S.;Tabbone, S.;Early fusion,Graph-based fusion,Bag models,Graph matching,Event prediction,Rank aggregation,Image representation,Flood detection,MediaEval,Graph-based classification,Open-set recognition,Graph-based retrieval,Graph embedding,Cost learning,Graph-based rank fusion,SVM
+Torres, R.D.S.;Torres, R.D.S.;Bag models,Graph matching,Co-occurrence Matrix,Cross-domain knowledge transfer,heterogeneous,Plant Species,Soccer analysis,Open-set recognition,Bug reports,Rank diffusion,Educational methods,Dataset bias,Image representation,Radial visualization,Severity level prediction,SVM,Unmanned Aerial Vehicles,Systematic mapping,Social network analysis,Cross-dataset classification,Science - experiments,Rank aggregation,Expanded Sensorium,phenology pattern detection,Visual Words,Embodied Cognition,Machine learning,Temporal graph,Phenology visualization,Computational thinking methodology,Unsupervised learning,Semantic Image Segmentation,Graph-based fusion,parallelization,re-ranking,sorting algorithms,genetic programming,Software maintenance,Flood detection,MediaEval,Graph-based classification,Deep Learning,Multimodal retreival,Recommendation systems (Information filtering),Software repositories,Multivariate time series,Land-cover thematic maps,Metric learning,Semi-supervised learning,motion history histogram,Content-based retrieval,Diversity,Early fusion,Affective Cane,multivariate temporal data visualization,hyper- and multi-spectral images,CBIR,Complex network,OpenCL,Relevance feedback,M-Health,Visual rhythm,Creative learning,Content-based image retrieval,Computational thinking,fusion of classifiers,Graph-based retrieval,Bug tracking systems,Multimodal retrieval,Superpixel,Cost learning,Contextual description,Workflow
+Gomes, L.A.F.;Gomes, L.A.F.;Systematic mapping,Software maintenance,Bug reports,Bug tracking systems,Machine learning,Software repositories,Severity level prediction
+Côrtes, M.L.;Côrtes, M.L.;Delay-based PUF,Physical Unclonable Function,Systematic mapping,Modeling attacks,Software maintenance,Hardware-intrinsic security,XOR fabric,Bug reports,Bug tracking systems,Machine learning,Software repositories,Severity level prediction
+Aranha, D.F.;Aranha, D.F.;Physical Unclonable Function,Searchable encryption,vectorization,XOR fabric,Homomorphic encryption,Delay-based PUF,cryptography,Security,Modeling attacks,Direct recording electronic,Privacy,Tuple space,AVX-512,LS-Design,Side-channel resistance,Electronic voting,Fantomas,Software vulnerabilities,post-quantum,secure implementation,Vectorization,Hardware-intrinsic security,Integrity,Instruction set extension
+Van De Graaf, J.;Van De Graaf, J.;
+Barcellos, M.;Barcellos, M.;
+Hasan, M.M.;Hasan, M.M.;Deep Q network,Water quality resilience,Reinforcement learning,Dynamic environment,Meta-policy selection,Artificial intelligence
+Lwin, K.;Lwin, K.;Deep Q network,Water quality resilience,Reinforcement learning,Dynamic environment,Meta-policy selection,Artificial intelligence
+Imani, M.;Imani, M.;Deep Q network,Water quality resilience,Reinforcement learning,Dynamic environment,Meta-policy selection,Artificial intelligence
+Bittencourt, L.F.;Bittencourt, L.F.;Deep Q network,Software Defined Networks,Resource management,Distributed systems,Reinforcement learning,Meta-policy selection,Fog Computing,Edge Computing,Virtual Machine Migration,hybrid clouds,Multi tier fog,Video streaming services,Edge as a Service,Network Virtualization,Workflow Ensembles,Elastic Demand,Task duplication,Workflow scheduling,Network Function Virtualization,workflow,Fog computing,Scheduling,Internet of things (IoT),scheduling,Classes of service,Artificial intelligence,Cloud computing,Internet Service Providers,Planning,Allocation,Energy Efficiency,Cloud Computing,Virtual topology,Network Management,Mobile cloud,Water quality resilience,Quality of Experience,Edge computing,Slicing,Dynamic environment,Reliability,Quality of service (QoS),Uncertainty
+Hossain, M.A.;Hossain, M.A.;Deep Q network,Water quality resilience,Reinforcement learning,Dynamic environment,Meta-policy selection,Artificial intelligence
+Seabra Oliveira, D.;Seabra Oliveira, D.;
+Epstein, J.;Epstein, J.;
+Kurose, J.;Kurose, J.;
+Rocha, A.;Rocha, A.;Feature back-projection,accelerometer sensors,Query Performance Prediction,Undirected Phylogeny Graph,Deep learning,Deep-learning,Pattern recognition,Relevance Prediction,Open-set classification,Malware,Forgery detection,LivDet,forensic computing,Media Forensics,Child pornography,presentation attack detection,image retrieval,Iris recognition,Extreme value theory,Image phylogeny reconstruction,Staged-optimization strategy,Distributional features,Phylogeny Graph,violence classification,Workflow,Authorship Attribution,Learning-from-data strategy,Violence localization,Provenance Filtering,Splicing detection,graphs,Science - experiments,Screening,Source printer attribution,Transfer learning,Machine learning,majority voting,open-set recognition,Pornography localization,Activity localization,genetic programming,History matching,Recommendation systems (Information filtering),Semantic concept detection,optimum-path forest,Bags of graphs,Android permissions,Deep Neural Network (DNN),Social Media Data,digital humanities,Violence detection,Image Phylogeny,Information Forensics,Web genre identification,computer vision,deep-learning,Dissimilarity calculation,Ontology,Information Retrieval,Feature mapping,Violence classification,Tampering heat maps,image phylogeny,image provenance,Similarity Search,Provenance Context Incorporation,Context-aware digital forensics,spoofing,Deep Learning,Referral,Digital forensics,Robust feature-extraction augmentation,SEIC content,Natural Language Processing,Dense trajectories,Sensitive scene localization,Fine tuning,Fight events,semantic concept detection,Multi-resolution training,Mutual information,Performance prediction,Feature importance,Machine Learning,Integrated patient-basis analysis,Discriminant features,Information retrieval,Diabetic retinopathy,Image forensics,Digital image forensics,Accountable machine learning,data fusion,Video surveillance,Multimedia Phylogeny,Continuous learning,Weibull distribution,Relevance prediction,Multimodal data fusion
+Matias, P.;Matias, P.;Software vulnerabilities,Security,Integrity,Direct recording electronic,Electronic voting
+Barbosa, P.;Barbosa, P.;Automatic detection,Spontaneous speech,Prosodic boundaries
+Cardoso, T.N.C.;Cardoso, T.N.C.;Software vulnerabilities,Security,Integrity,Direct recording electronic,Electronic voting
+Campos, D.M.;Campos, D.M.;
+Cavalcante, C.C.B.;Cavalcante, C.C.B.;History matching,Continuous learning,Learning-from-data strategy,Staged-optimization strategy
+Maschio, C.;Maschio, C.;Continuous learning,history matching,Bayesian inference,Reservoir simulation,History matching,Staged-optimization strategy,Learning-from-data strategy,parallel hierarchical sampling,parallel interacting Markov chain Monte Carlo
+Santos, A.A.S.;Santos, A.A.S.;Continuous learning,History matching,Staged-optimization strategy,multidisciplinary AI and CI,Learning-from-data strategy,evolutionary computation and metaheuristics
+Schiozer, D.;Schiozer, D.;History matching,Continuous learning,Learning-from-data strategy,Staged-optimization strategy
+Pelegrina, G.D.;Pelegrina, G.D.;Latent variables,Independent component analysis,Dependence among criteria,TOPSIS,Multicriteria decision making,Dependent criteria,Multi-objective optimization,Blind source separation,Multi-criteria decision making,Evolutionary algorithms
+Attux, R.;Attux, R.;Correntropy,Galois fields,Extreme learning machines,Adaptive filtering,Pattern recognition,finite fields,Graph theory,Information theoretic learning,Unorganized machines,Evolutionary algorithms,Variable selection,Second-Order Statistics,Brain signal processing,Echo state networks,Recurrence quantification,SSVEP,Independent Component Analysis (ICA),Multi-objective optimization,Blind source separation,EEG,Motor imagery,Brain-computer interface,Robotic manipulator,Signal analysis,DFT,Graphs,Entropy,Monthly seasonal streamflow series forecasting,BCI,Blind channel equalization,Post-Nonlinear mixtures,Complex networks,Coding,PDF matching,Welch’s method,Functional connectivity,Combinatorial optimization,Recurrence networks
+Duarte, L.T.;Duarte, L.T.;Multicriteria decision making,Second-order statistics,Statistical signal processing,MOX sensor,Blind Source Separation,Dependence among criteria,Dependent criteria,Post-nonlinear,Monte Carlo Markov Chain (MCMC)- Gas mixture,Evolutionary algorithms,score aggregation,Bilinear mixing model,Second-Order Statistics,ranking,Independent component analysis,TOPSIS,rank-order statistics,Multi-objective optimization,Blind source separation,aggregation,Blind separation,Latent variables,Linear-quadratic model,Post-Nonlinear mixtures,Condorcet distance,Inverse problems,ordinal decomposition,metrics,Second-order Statistics,Bayesian method,Multi-criteria decision making
+Barbosa, P.Y.S.;Barbosa, P.Y.S.;Software vulnerabilities,Security,Integrity,Direct recording electronic,Electronic voting
+Araújo, C.L.;Araújo, C.L.;Software vulnerabilities,Security,Integrity,Direct recording electronic,Electronic voting
+Menini, N.;Menini, N.;Remote sensing,Structural breaks,Time series,BFAST,Decomposition
+Almeida, A.E.;Almeida, A.E.;Remote sensing,Structural breaks,Time series,BFAST,Decomposition
+Lamparelli, R.;Lamparelli, R.;C-band SAR,Land cover mapping,Time series processing,Sensor assimilation,Landsat
+Hirota, M.;Hirota, M.;
+Benedito, M.P.L.;Benedito, M.P.L.;Hub Location Problem,Approximation algorithm,LP-rounding
+Pedrosa, L.L.C.;Pedrosa, L.L.C.;Linear Programming,Bus evacuation,Integrated inventory management,Emergency planning,Hub Location Problem,Approximation algorithm,LP-rounding,Fault tolerance,Capacitated k-center,Approximation algorithms,LP rounding,Facility location,Non-uniform capacities
+Faz-Hernández, A.;Faz-Hernández, A.;Montgomery ladder,Vector Instructions,SHA-NI,Elliptic curve scalar multiplication,AVX2 vector instructions,Diffie-hellman protocol,Secure software,Edwards digital signature algorithm,RFC 7748,AES-NI,Hash-based Digital Signatures,Diffie-Hellman protocol,Data Encryption,Elliptic curve cryptography,Ed25519
+López, J.;López, J.;Secure software,RFC 7748,Data Encryption,Implementation,SHA-NI,Elliptic curve scalar multiplication,AVX2 vector instructions,Software implementation,Scalar multiplication,Hash-based Digital Signatures,Ed25519,Vector Instructions,AES-NI,Public-key cryptography,Montgomery ladder,Diffie-hellman protocol,Edwards digital signature algorithm,Elliptic curves,Diffie-Hellman protocol,Elliptic curve cryptosystem,Elliptic curve cryptography
+Dahab, R.;Dahab, R.;Feature back-projection,Android permissions,Secure software,Feature importance,Benchmarking,Static analysis tools,Cryptography,Discriminant features,AVX2 vector instructions,Source printer attribution,Ontology,Machine learning,Feature mapping,Ed25519,Accountable machine learning,Malware,Software security,Digital forensics,Diffie-hellman protocol,Bags of graphs,Edwards digital signature algorithm,Elliptic curve cryptography
+Buchdid, S.B.;Buchdid, S.B.;Participatory design,Socially aware computing,Organizational semiotics,Human-computer interaction,Interactive digital TV,Process model
+Pereira, R.;Pereira, R.;Participatory design,Socially aware computing,Organizational semiotics,Human-computer interaction,Interactive digital TV,Process model
+Baranauskas, M.C.C.;Baranauskas, M.C.C.;Universal design,Interaction evaluation,Natural User Interfaces,Universal Design,Intentions,Human-Computer Interaction,Computer Supported Collaborative Work,Online Deliberation,Enactive systems,School,Interactive digital TV,Universal Access,Participative design,Maker culture,Actor-network theory,AttrakDiff,Tailoring,Socially aware design,Information visualization,Usability,User Experience Assessment,Process model,Socio-enactive systems,Graphical User Interfaces,Codesign,Socially aware computing,Evaluation,Tangible technology,Educational,Ubiquitous computing,Creative learning,Computational thinking,Simplicity in design,Systematic review,MindWave,Pervasive computing,Robots,Ontologies,Human-computer interaction,Emotions,Computer-mediated communication,Pragmatics,Organizational Semiotics,Computational thinking methodology,Sociotechnical networks,LGBT,Organizational semiotics,EEG,Affective states,Participatory design,Alternative and Augmentative Communication,Evaluation user experience,Graphic symbols,Interactive art,Maker movement,Ubiquitous Scenarios,Emoticons,Tangible interfaces,HCI education,Educational methods,Socially Aware Computing,Interactive design,Enactive,User participation,Affectibility,Tactile map,Pervasive Scenarios,User interface evaluation,Accessibility,User Interface Design,Meanings,HCI,Tactile floor,Social software design,Organisational Semiotics,Pervasive,Critical theory
+Sousa, R.;Sousa, R.;Heterogeneous architectures,Compilers,Data coherence
+Pereira, M.;Pereira, M.;Acceleration,image processing,Heterogeneous architectures,Parallel Programming,Heterogeneous Computing,Compiler,Programming Languages,Diffusion tensor imaging,magnetic resonance imaging,Compilers,OpenMP,image segmentation,Data coherence,FPGA,Compiler Techniques
+Pereira, F.M.Q.;Pereira, F.M.Q.;Forensics,Heterogeneous architectures,Tasks,Privacy,Cryptography,Compilers,Security,OpenMP,UbiComp,Data coherence,Parallelism
+Araujo, G.;Araujo, G.;Physical Unclonable Function,Heterogeneous architectures,Parallel Programming,Heterogeneous Computing,Programming Languages,Data coherence,performance evaluation,XOR fabric,Compiler Techniques,Delay-based PUF,Acceleration,Thread-level speculation,phase-based execution,Modeling attacks,hardware transactional memory,LLVM,Transactional memory,transactional memory,Compiler,Compilers,OpenMP,Hardware-intrinsic security,Apache spark,FPGA
+Rodrigues, P.G.;Rodrigues, P.G.;Pattern recognition,Brain-computer interface,Complex networks,Recurrence quantification,Functional connectivity,Recurrence networks,Motor imagery
+Filho, C.A.S.;Filho, C.A.S.;Pattern recognition,Brain-computer interface,Complex networks,Recurrence quantification,Functional connectivity,Recurrence networks,Motor imagery
+Castellano, G.;Castellano, G.;BCI,Interaction,Pattern recognition,Signal analysis,Virtual reality,Graph theory,Brain-computer interface,Complex networks,Recurrence quantification,Functional connectivity,EEG,Recurrence networks,Immersive environment,Rehabilitation,Motor imagery,Graphs
+Soriano, D.C.;Soriano, D.C.;Pattern recognition,Brain-computer interface,Complex networks,Recurrence quantification,Functional connectivity,Recurrence networks,Motor imagery
+Dourado, Í.C.;Dourado, Í.C.;
+Galante, R.;Galante, R.;
+da Silva Torres, R.;da Silva Torres, R.;Performance prediction,Extreme value theory,Multiclass classification,Multiscale segmentation,Weibull distribution,Majority voting,Information retrieval,Object-based classification,Multiscale,Boosting,Relevance prediction,Comparative study,Classifier ensemble
+Phellan, R.;Phellan, R.;Phantom models,Blood flow analysis,Simulated phantoms,Vascular segmentation,Convolutional neural networks,Angiography,Cerebrovascular imaging,Arterial spin labeling,Noise patterns
+Lindner, T.;Lindner, T.;Phantom models,Blood flow analysis,Angiography,Cerebrovascular imaging,Arterial spin labeling
+Helle, M.;Helle, M.;Phantom models,Blood flow analysis,Simulated phantoms,Vascular segmentation,Convolutional neural networks,Angiography,Cerebrovascular imaging,Arterial spin labeling,Noise patterns
+Okell, T.W.;Okell, T.W.;Phantom models,Blood flow analysis,Angiography,Cerebrovascular imaging,Arterial spin labeling
+Forkert, N.D.;Forkert, N.D.;Phantom models,Blood flow analysis,Simulated phantoms,Vascular segmentation,Convolutional neural networks,Angiography,Cerebrovascular imaging,Arterial spin labeling,Noise patterns
+Oliveira, T.;Oliveira, T.;Montgomery ladder,Elliptic curve scalar multiplication,Public-key cryptography,Elliptic curves,Software implementation,RFC 7748,Scalar multiplication,Diffie-Hellman protocol,Elliptic curve cryptosystem,Implementation
+Cervantes-Vázquez, D.;Cervantes-Vázquez, D.;Elliptic curve cryptosystem,Implementation,Public-key cryptography
+Rodríguez-Henríquez, F.;Rodríguez-Henríquez, F.;Montgomery ladder,Elliptic curve scalar multiplication,Public-key cryptography,Elliptic curves,Software implementation,RFC 7748,Scalar multiplication,Diffie-Hellman protocol,Elliptic curve cryptosystem,Implementation
+Dias, A.P.C.;Dias, A.P.C.;High-order mortar-based contact elements,High-order finite element methods,Computational contact mechanics,Hyperelastic materials,NURBS
+Proenca, S.P.B.;Proenca, S.P.B.;High-order mortar-based contact elements,High-order finite element methods,Computational contact mechanics,Hyperelastic materials,NURBS
+Bittencourt, M.L.;Bittencourt, M.L.;High-order mortar-based contact elements,Peridynamics,Mixed boundary conditions,Cargo horizontal stability,Robin boundary condition,static equilibrium of rigid bodies,Nonlocal models,Phase field,Computational contact mechanics,Finite element method,two-dimensional packing problem,Hyperelastic materials,Coupling method,two-dimensional knapsack problem,High-order finite element methods,Allen–Cahn,Damage,Discontinuous Galerkin method,NURBS,Cahn–Hilliard
+Lintzmayer, C.N.;Lintzmayer, C.N.;Reversals,Competitive ratio,Computational biology,Blocks Relocation Problem,Approximation algorithms,Genome rearrangement,Online algorithms,Lower bounds,Transpositions,Polynomial-time approximation scheme,Two-dimensional Knapsack,Container Relocation Problem,Prefix rearrangements,Genome rearrangements,Computational Biology,Sorting permutations,Diameter,Sphere packing,Circle packing,Exact algorithms
+Miyazawa, F.K.;Miyazawa, F.K.;Nash equilibrium,Competitive ratio,Cargo horizontal stability,network lifetime,Prize-collecting,Online algorithms,static equilibrium of rigid bodies,wireless sensor networks,Geometric problem,Steiner tree problem,Polynomial-time approximation scheme,Two-dimensional Knapsack,strong Nash equilibrium,Selfish bin packing,Genetic algorithm,square packing,routing algorithm,two-dimensional packing problem,rectangle packing,two-dimensional knapsack problem,Sphere packing,in-network aggregation,Connected facility location problem,Circle packing,price of anarchy
+Xavier, E.C.;Xavier, E.C.;Python,Competitive ratio,data grids,Blocks Relocation Problem,And phrases Steiner Cycle,Online algorithms,Lower bounds,C,Less-than-Truckload,Polynomial-time approximation scheme,Two-dimensional Knapsack,Controlled Experiment,Introductory Programming,Container Relocation Problem,data replication,Routing,approximation algorithms,Sphere packing,Pickup-and-Delivery,Circle packing,CS1,Exact algorithms,task scheduling
+Wiederhecker, G.S.;Wiederhecker, G.S.;
+Dainese, P.;Dainese, P.;Free-carrier generation,Silicon Photonics,Lifetime,Free Carriers,Semiconductor,Two-photon absorption,Free-carrier recombination,Silicon photonics
+Alegre, T.P.M.;Alegre, T.P.M.;
+Vargas-Munoz, J.E.;Vargas-Munoz, J.E.;superpixel/supervoxel segmentation,Markov random fields,Contextual classification,Image foresting transform,mixed seed sampling,connectivity function,Superpixel,spanning forests
+Chowdhury, A.S.;Chowdhury, A.S.;superpixel/supervoxel segmentation,Image foresting transform,mixed seed sampling,connectivity function,spanning forests
+Alexandre, E.B.;Alexandre, E.B.;superpixel/supervoxel segmentation,Image foresting transform,mixed seed sampling,connectivity function,spanning forests
+Vechiatto Miranda, P.A.;Vechiatto Miranda, P.A.;superpixel/supervoxel segmentation,Image foresting transform,mixed seed sampling,connectivity function,spanning forests
+Falcao, A.X.;Falcao, A.X.;superpixel/supervoxel segmentation,Markov random fields,negative mining,Contextual classification,Image foresting transform,face recognition,Interactive Label Propagation,Auto Encoder Neural Network,Differential Image Foresting Transform,mixed seed sampling,superpixels,convolutional networks,connectivity function,Image Foresting Transform,Visual Analytics,Superpixel,spanning forests,Semi Supervised Learning
+Dourado, I.C.;Dourado, I.C.;Early fusion,Graph-based fusion,Event prediction,Rank aggregation,Flood detection,MediaEval,Multimodal retreival,Graph embedding,Image representation,Graph-based rank fusion,Content-based retrieval
+Pedronette, D.C.G.;Pedronette, D.C.G.;Graph-based fusion,parallelization,re-ranking,CBIR,sorting algorithms,Rank aggregation,OpenCL,heterogeneous,Content-based image retrieval,Rank diffusion,Multimodal retreival,Unsupervised learning,Content-based retrieval
+Do Rosario, V.M.;Do Rosario, V.M.;Region Formation Techniques,IoT,Timing side-channel,Fog Computing,Capsule network,Virtual Machines,JIT Compilation,CNN,Optimization,Fog-assisted translation,multi-lane,Internet of Things,Fog computing,Interpreter,RISCV,Constrained Devices,deep learning,Dynamic translation,Cloud-assisted translation,Virtual machines,Emulation
+Borin, E.;Borin, E.;Seismic Processing,IoT,Region Formation Techniques,Cloud,heterogeneous,Timing side-channel,Fog Computing,vectorization,Capsule network,Virtual Machines,JIT Compilation,GPU seismic eficiency,performance evaluation,CNN,virtual ISA,Optimization,Fog-assisted translation,OpenACC,cryptography,CMP,virtual machines,CUDA,multi-lane,workloads,Internet of Things,CRS,Feedback Directed Optimization,Fog computing,Processing cost trade-off,graph partitioning,LLVM,parallelization,Seismic processing,re-ranking,sorting algorithms,Platform modeling,Interpreter,Resource-constrained devices,Cloud computing,AVX-512,Common Reflection Surface,RISCV,benchmarking,Constrained Devices,Common mid point,Distributed computing,deep learning,CBIR,post-quantum,secure implementation,Aws,Dynamic translation,Binary translation,OpenCL,Cloud-assisted translation,OpenMP,CPU,Virtual machines,Internet-of-Things,Economics,RISC-V,Emulation,GPU seismic performance,convolutional neural networks
+Breternitz, M.;Breternitz, M.;CNN,deep learning,multi-lane,Capsule network
+Lucena, O.;Lucena, O.;Post-processing,Silver standard masks,Face detection,Skull-stripping,Skin detection,Convolutional neural network (CNN),Data augmentation,Performance Improvement
+Souza, R.;Souza, R.;Textual inference,Semantic relatedness,Tie-zone watershed,Carotid artery,Silver standard masks,Cine FSE imaging,Portuguese,NLI,Skull-stripping,Open corpus,Max-tree,Convolutional neural network (CNN),Data augmentation
+Rittner, L.;Rittner, L.;Ischemic stroke,carotid artery distensibility,Quality screening,White matter hyperintensity,watershed transform,Magnetic resonance imaging,Data augmentation,Deep learning,Lucas-Kanade Technique,Lesion segmentation,Systematic literature review,Texture features,Perfusion,Tensorial Morphological Gradient,carotid artery segmentation,Magnetic Resonance Imaging,V-Net,Segmentation,image processing,Motion Artifacts,Silver standard masks,Cine FSE imaging,Tensorial Lucas-Kanade Technique,Skull-stripping,Max-tree,Deep Learning,Convolutional neural network (CNN),max-tree,Optical Flow,cine FSE,Corpus callosum,Neuroimaging,Tensorial Algebra,MR imaging,Tie-zone watershed,Carotid artery,Mathematical Morphology,magnetic resonance imaging,Diffusion tensor imaging,carotid artery imaging,image segmentation,U-Net
+Frayne, R.;Frayne, R.;Segmentation,MR imaging,Tie-zone watershed,Carotid artery,Silver standard masks,Cine FSE imaging,Texture features,White matter hyperintensity,Skull-stripping,carotid artery distensibility,carotid artery imaging,watershed transform,Max-tree,Convolutional neural network (CNN),Data augmentation,max-tree,carotid artery segmentation,cine FSE
+Lotufo, R.;Lotufo, R.;Neuroimaging,Segmentation,MR imaging,Tie-zone watershed,Carotid artery,Silver standard masks,Cine FSE imaging,Motion Artifacts,Quality screening,Skull-stripping,Texture features,White matter hyperintensity,Max-tree,Deep Learning,Convolutional neural network (CNN),Data augmentation,Magnetic Resonance Imaging
+Alic, A.S.;Alic, A.S.;
+Almeida, J.;Almeida, J.;
+Aloisio, G.;Aloisio, G.;
+Silva, P.;Silva, P.;
+Vieira, M.;Vieira, M.;Software security,Benchmarking,Static analysis tools,Cryptography
+Muñoz, J.A.V.;Muñoz, J.A.V.;Nearest neighbor search,Nearest neighbors graph,Graph topological features,Distance learning,Genetic programming
+Da Torres, R.S.;Da Torres, R.S.;Nearest neighbor search,Nearest neighbors graph,Graph topological features,Distance learning,Genetic programming
+Queiroz, T.A.;Queiroz, T.A.;Cargo horizontal stability,two-dimensional packing problem,two-dimensional knapsack problem,static equilibrium of rigid bodies
+Bracht, E.C.;Bracht, E.C.;Cargo horizontal stability,two-dimensional packing problem,two-dimensional knapsack problem,static equilibrium of rigid bodies
+Da Silva Vasconcelos, R.C.;Da Silva Vasconcelos, R.C.;biometric systems,Biometric Systems,fingerprint quality,Oriented Pattern,error metrics,Fingerprint Segmentation,Directional Information,directional information
+Pedrini, H.;Pedrini, H.;feature descriptors,Patch graph,Deep learning,Gigapixel image,Contrast enhancement,handwritten text,Optical flow,Multi-stream Neural Network,Anomalous Events,high level features,Palynology,Surveillance Systems,Color information,Bit planes,Video Representation,Medical Images,Qualitative evaluation,Content indexing,biometric systems,Co-occurrence matrices,Facial images,Signal classification,Remote Medical System,Interest points,volume rendering,Image inpainting,Triangular meshes,Deep features,Contourlets,Volume rendering,Trajectory smoothing,Fuzzy threshold,Video keyframes,Shot boundary,Texture,Adaptive threshold,Image similarity,medical image visualization,Point cloud,Fiducial points,Abnormal event detection,Action Recognition,Directional information,script systems,convolutional neural network,fingerprint quality,Gender recognition,Video shot boundary,Geometric features,Particle swarm optimization,Heart rhythm,Weber's Law,Genetic disorders,Hierarchical image segmentation,Action recognition,Oriented Pattern,Texture mapping,Image segmentation,Facial patterns,Data augmentation,Video Analysis,crowd counting,fall detection,multi-stream,Medical images,Motion,Motion energy image,Texture descriptor,Surface approximation,classifier ensemble,Web-based Interactive Visualization,Age estimation,Motion estimation,optical flow,Local features combination,Data Rendering,Image analysis,Cut detection,Face detection,error metrics,Syndrome recognition,Handheld camera,Fitness function,facial expression,Histogram equalization,Video stabilization,Video processing,Multiresolution Analysis,Shearlets,directional information,Video analysis,Violent Detection,density map,Electrocardiogram signals,Video summarization,Geometric descriptor,Autoencoder,Biometric Systems,emotion recognition,Quality,Pedestrian Detection,document analysis,occlusion,pollen classification,Fingerprint Segmentation,Directional Information,multi-classifiers,Accuracy metrics,image descriptors,Human action classification,Image thresholding,optical character recognition,deep learning,fiducial landmarks,Visual rhythm,Spatio-temporal features,Fingerprint images,projection techniques
+Ttito, D.;Ttito, D.;density map,convolutional neural network,deep learning,crowd counting
+Quispe, R.;Quispe, R.;density map,convolutional neural network,deep learning,crowd counting
+Rivera, A.R.;Rivera, A.R.;false positive reduction,3D convolution neural networks,neural networks,probabilistic models,crowd counting,pulmonary nodule detection,action recognition,local pattern,density map,semi-supervised learning,clustering,expression recognition,lung cancer,Face descriptor,autoencoder,edge pattern,convolution neural network,convolutional neural network,deep learning,bone suppression,face recognition,generative models,residual learning
+Dos Reis, J.C.;Dos Reis, J.C.;Background knowledge,Metadata extraction,Triplification,Knowledge-intensive process,Tangible interfaces,Knowledge management,Socially Aware Computing,Video lectures,Interaction evaluation,Natural User Interfaces,Universal Design,Graphical User Interfaces,Recoloring algorithms,Fuzzy,Process-Aware Information Systems,Semantic technologies,Complex systems modelling,Digital agriculture,Computer Supported Collaborative Work,Cognitive assistant design,Interface adaptation,Linked Data,Evaluation,Ontology,Online Deliberation,User preferences,Case management,Triples,Semantic matching,User study,Affective states,Soft Ontologies,Colorblind people,RDF,Accessibility,Ubiquitous computing,User Interface Design,Cross-lingual matching,Semantic Annotation,Universal Access,Business Process Management Systems,Interface recoloring,Organisational Semiotics,Business process modeling,Pervasive
+MacÊdo Borges, M.V.;MacÊdo Borges, M.V.;Semantic Annotation,Video lectures,Ontology,Metadata extraction
+Pereira Gribeler, G.;Pereira Gribeler, G.;Semantic Annotation,Video lectures,Ontology,Metadata extraction
+Kuehlkamp, A.;Kuehlkamp, A.;spoofing,LivDet,Iris recognition,presentation attack detection
+Pinto, A.;Pinto, A.;Multimedia Phylogeny,Iris recognition,Provenance Context Incorporation,spoofing,Undirected Phylogeny Graph,LivDet,Phylogeny Graph,Media Forensics,Image Phylogeny,presentation attack detection,Provenance Filtering
+Bowyer, K.W.;Bowyer, K.W.;spoofing,LivDet,Iris recognition,presentation attack detection
+Czajka, A.;Czajka, A.;spoofing,LivDet,Iris recognition,presentation attack detection
+Cameiro, S.A.;Cameiro, S.A.;fall detection,deep learning,multi-stream,high level features,optical flow,multi-classifiers
+Da Silva, G.P.;Da Silva, G.P.;fall detection,deep learning,multi-stream,high level features,optical flow,multi-classifiers
+Leite, G.V.;Leite, G.V.;fall detection,deep learning,multi-stream,high level features,optical flow,multi-classifiers
+Guimaraes, S.J.F.;Guimaraes, S.J.F.;fall detection,deep learning,multi-stream,high level features,optical flow,multi-classifiers
+Roberto Esouza, M.;Roberto Esouza, M.;optical character recognition,script systems,handwritten text,document analysis
+Bertolini, D.;Bertolini, D.;optical character recognition,script systems,handwritten text,document analysis
+Costa, Y.M.G.;Costa, Y.M.G.;optical character recognition,script systems,handwritten text,document analysis
+Lombello, L.O.;Lombello, L.O.;Triplification,Fuzzy,Triples,Linked Data,Soft Ontologies,Ontology,RDF
+Bonacin, R.;Bonacin, R.;Robots,Ontologies,Emoticons,Triplification,Interface adaptation,Emotions,Knowledge formalization,Coverage,Interactive design,Ontogologies,Assessment,Security assessment,Graphical User Interfaces,Heuristics,Enactive,Computer-mediated communication,Intentions,User participation,Recoloring algorithms,Fuzzy,Standard,Semantic technologies,Security,Complex systems modelling,Pragmatics,Computer Supported Collaborative Work,Cognitive assistant design,Evaluation,Linked Data,OWL,Ontology,Educational,Assessment Dimension,Test,Information security,Interactive bots,User preferences,SWRL,Affectivity,Triples,User study,Soft Ontologies,Colorblind people,RDF,Accessibility,User Interface Design,Security Property,Meanings,HCI,Interface recoloring,Digital agriculture,Process
+Gomes, R.L.;Gomes, R.L.;Future Internet,Software Defined Networks,Description Language,Smart Homes,Edge as a Service,Network Virtualization,Internet of Things,Network Function Virtualization,Elastic Demand,Cross-technology Interference,Internet Service Providers,Planning,Allocation,Energy Efficiency,Home Automation,Virtual topology,Wireless Channel,Network Management,Slicing,Reliability
+Da Ponte, F.R.P.;Da Ponte, F.R.P.;Home Automation,Network Management,Future Internet,Cross-technology Interference,Software Defined Networks,Slicing,Smart Homes,Internet Service Providers,Network Function Virtualization,Network Virtualization,Planning,Internet of Things,Elastic Demand,Energy Efficiency,Description Language,Wireless Channel
+Urbano, A.;Urbano, A.;Network Management,Software Defined Networks,Slicing,Internet Service Providers,Network Function Virtualization,Network Virtualization,Planning,Elastic Demand,Energy Efficiency
+Madeira, E.R.M.;Madeira, E.R.M.;Experiments,Ethernet networks,SDN,Future Internet,Software Defined Networks,Distributed systems,QoS provisioning,Description Language,Radio-over-Fiber,hybrid clouds,High-speed networks,Network Slicing,Smart Homes,Edge as a Service,Network Virtualization,Workflow Ensembles,Internet of Things,Elastic Demand,Task duplication,Workflow scheduling,Network Function Virtualization,workflow,Scheduling,scheduling,Cloud computing,Internet Service Providers,5G,Planning,Allocation,Energy Efficiency,Home Automation,Virtual topology,Scheduling algorithms,Network Management,Data centers,Slicing,ZigBee and Arduino,LTE,Internet-of-Things,Reliability,Uncertainty
+Celestino, J.;Celestino, J.;Home Automation,Cross-technology Interference,Smart Homes,Internet of Things,Description Language,Wireless Channel
+Pereira, W.F.;Pereira, W.F.;Cross-technology Interference,Smart Homes,Internet of Things,Wireless Channel
+Da Fonseca, N.L.S.;Da Fonseca, N.L.S.;Survivability,Experiments,SDN,DWBA,Traffic grooming,NG-EPON,NFV,Machine-to-machine communications,Resource management,Core,PDCCH scheduling algorithm,Distributed systems,Mobile Backhauling/Fronthauling,Dynamic Bandwidth Allocation,Modulation Formats,LTE/LTE-A networks,Space division multiplexing,LTE networks,Inter-Core Cross-talk,Radio-over-Fiber,hybrid clouds,Passive Optical Networks,LTE-A networks,Elastic optical networks,Multi-core fiber,Quality of Service,P-cycle FIPP,Smart Homes,elastic optical network with space division multiplexing,wildcard rules,Modulation,Network Virtualization,FIPP p-cycle,multi-core fiber,Elastic Optical Network with Space Division Multiplexing,Space-Division-Multiplexing (SDM),Random-access procedure and RAN overload control,Internet of Things,flow routing,Elastic optical network with space division multiplexing,Internet of things (IoT),Random-access procedure,workflow,modulation,Scheduling,Fog computing,Fronthaul,Cross-technology Interference,scheduling,edge devices,Classes of service,PRACH power control and power ramping,C-RAN,Cloud computing,5G,Handover,and Spectrum Allocation (RCSA),Routing,Wireless Channel,Capacitated reliable facility location problem,Mobile cloud,MAC addressing,mice flows,Elastic Optical Net- work,Edge computing,ZigBee and Arduino,Crosstalk,Internet-of-Things,Space Division Multiplexing,Quality of service (QoS),Multi-core Fiber,Fragmen- tation,Protection,DCN
+Feitosa, J.A.;Feitosa, J.A.;
+Stefano Filho, C.A.;Stefano Filho, C.A.;BCI,Signal analysis,Graph theory,Motor imagery,EEG,Brain-computer interface,Graphs
+Casseb, R.F.;Casseb, R.F.;
+Min, L.L.;Min, L.L.;
+Romano, J.M.T.;Romano, J.M.T.;Latent variables,Independent component analysis,Dependence among criteria,MIMO Systems,Semi-blind receivers,Tensor coding,TOPSIS,Tensor modelling,Multicriteria decision making,Dependent criteria,Channel estimation,Kronecker product,Multi-criteria decision making
+De Santana, V.F.;De Santana, V.F.;User interface evaluation,Accessibility,Tailoring,Usability
+Astudillo, C.A.;Astudillo, C.A.;Experiments,Radio-over-Fiber,Passive Optical Networks,LTE-A networks,Quality of Service,PDCCH scheduling algorithm,PRACH power control and power ramping,ZigBee and Arduino,Internet-of-Things,Mobile Backhauling/Fronthauling,Network Virtualization,Dynamic Bandwidth Allocation,Handover,LTE/LTE-A networks,Machine-to-machine communications,Random-access procedure
+Pereira, F.H.S.;Pereira, F.H.S.;LTE/LTE-A networks,PRACH power control and power ramping,Random-access procedure
+Trindade, S.;Trindade, S.;Core,Modulation Formats,Space-Division-Multiplexing (SDM),Fragmen- tation,and Spectrum Allocation (RCSA),Inter-Core Cross-talk,Routing
+Oliveira, A.;Oliveira, A.;Performance prediction,Relevance Prediction,Query Performance Prediction,Extreme value theory,Image phylogeny reconstruction,Mutual information,Machine Learning,Weibull distribution,Similarity Search,Information retrieval,Dissimilarity calculation,Digital forensics,Relevance prediction,Information Retrieval
+Peixoto, B.;Peixoto, B.;computer vision,deep-learning,violence classification,forensic computing,semantic concept detection
+Lavi, B.;Lavi, B.;computer vision,deep-learning,violence classification,forensic computing,semantic concept detection
+Pereira Martin, J.P.;Pereira Martin, J.P.;computer vision,deep-learning,violence classification,forensic computing,semantic concept detection
+Ishikawa, A.;Ishikawa, A.;Deep Learning,Sensitive Content,Elsagate
+Bollis, E.;Bollis, E.;Deep Learning,Sensitive Content,Elsagate
+Avila, S.;Avila, S.;Multi-resolution training,Data augmentation,Deep learning,Deep-learning,Violence localization,Skin lesion analysis,Integrated patient-basis analysis,Screening,Generative models,Diabetic retinopathy,Transfer learning,fruit fly,Pornography localization,Violence classification,Sensitive Content,Skin cancer,Deep Learning,Elsagate,Child pornography,Referral,local descriptor,Robust feature-extraction augmentation,Semantic concept detection,SEIC content,pest crop,Sensitive scene localization,Fine tuning,image classification,Multimodal data fusion
+Rodrigues Oliveira, A.;Rodrigues Oliveira, A.;reversals,approximation algorithms,genome rearrangement,weighted operations,transpositions
+Lima Brito, K.;Lima Brito, K.;reversals,approximation algorithms,genome rearrangement,weighted operations,transpositions
+Dias, U.;Dias, U.;Heuristics,Reversals,reversals,approximation algorithms,Intergenic regions,Transpositions,genome rearrangement,Super short operations,Approximation algorithm,Super short reversals,Approximation algorithms,Genome rearrangement,Circular permutations,Reversals and transpositions,weighted operations,transpositions,Weighted operations,Genome rearrangements
+Wu, S.-T.;Wu, S.-T.;life and medical sciences,Vascular landmarks,Exploratory visualization,interactive environments,Curvilinear reformatting,Neurosurgical planning,volume visualization,computer graphics
+Loos, W.S.;Loos, W.S.;Neurosurgical planning,Vascular landmarks,Curvilinear reformatting,Exploratory visualization
+de Castro Oliveira, D.L.;de Castro Oliveira, D.L.;Neurosurgical planning,Vascular landmarks,Curvilinear reformatting,Exploratory visualization
+Yasuda, C.L.;Yasuda, C.L.;life and medical sciences,Vascular landmarks,Exploratory visualization,interactive environments,Curvilinear reformatting,Neurosurgical planning,volume visualization,computer graphics
+Ghizoni, E.;Ghizoni, E.;Neurosurgical planning,Vascular landmarks,Curvilinear reformatting,Exploratory visualization
+Rezende, P.;Rezende, P.;Quality of Service,Software Defined Networks,Multipath Routing,Multi-Stream protocols
+Kianpisheh, S.;Kianpisheh, S.;Quality of Service,Software Defined Networks,Multipath Routing,Multi-Stream protocols
+Glitho, R.;Glitho, R.;Quality of Service,Software Defined Networks,Multipath Routing,Multi-Stream protocols
+Madeira, E.;Madeira, E.;Cloud,Software Defined Networks,Internet of Everything,Research challenges,Fog Computing,Fog,Ranking,Data center networks,Multipath Routing,Quality of Service,Orchestration,Placement,Migration,Virtual network,Scheduling,Dynamic traffic engineering,Virtual Machine,Request blocking,Resource optimization and allocation on-demand,Multi-Stream protocols,Energy efficiency
+Amezquita-Suarez, F.;Amezquita-Suarez, F.;SDN,mice flows,MAC addressing,wildcard rules,flow routing,DCN
+Estrada-Solano, F.;Estrada-Solano, F.;SDN,mice flows,MAC addressing,wildcard rules,flow routing,DCN
+Rendon, O.M.C.;Rendon, O.M.C.;SDN,mice flows,MAC addressing,Automated planning,software-defined networks,wildcard rules,network functions virtualization,flow routing,hierarchical task network,DCN
+Theóphilo, A.;Theóphilo, A.;Natural Language Processing,Authorship Attribution,Social Media Data,Deep Learning,Information Forensics
+Pereira, L.A.M.;Pereira, L.A.M.;Magnetic optimization algorithm,Natural Language Processing,Authorship Attribution,Cross-dataset classification,Social Media Data,Cross-domain knowledge transfer,EEG signal classification,Deep Learning,Epilepsy,Optimum-path forest,Dataset bias,Semi-supervised learning,Metric learning,Feature selection,Information Forensics,Metaheuristics
+Perez, M.;Perez, M.;Pornography localization,Activity localization,Violence detection,Deep learning,Child pornography,Video surveillance,Sensitive scene localization,Fine tuning,Fight events,Transfer learning,Violence localization,SEIC content,Multimodal data fusion
+Kot, A.C.;Kot, A.C.;3D CNN,deep learning,domain generalization,Activity localization,Violence detection,Deep learning,Video surveillance,Fight events,Face spoofing
+Gomides, T.S.;Gomides, T.S.;Traffic Management System,Vehicular ad-hoc networks,Communication protocol,Re-routing
+Fernandes, M.L.;Fernandes, M.L.;Traffic Management System,Vehicular ad-hoc networks,Communication protocol,Re-routing
+Sumika Hojo De Souza, F.;Sumika Hojo De Souza, F.;Traffic Management System,Vehicular ad-hoc networks,Communication protocol,Re-routing
+Villas, L.;Villas, L.;Traffic Management System,Vehicular ad-hoc networks,Communication protocol,Re-routing
+Guidoni, D.L.;Guidoni, D.L.;Wns,Multilateration,Traffic Management System,Time synchronization,Re-routing,Vehicular ad-hoc networks,3d location,Communication protocol
+Araujo, M.R.;Araujo, M.R.;NG-EPON,DWBA,Fronthaul,C-RAN
+Silva, B.R.;Silva, B.R.;NG-EPON,DWBA,Fronthaul,C-RAN
+De Santi, J.;De Santi, J.;NG-EPON,DWBA,Fronthaul,C-RAN
+Figueiredo, G.B.;Figueiredo, G.B.;NG-EPON,DWBA,Fronthaul,C-RAN
+Meneguette, R.I.;Meneguette, R.I.;
+Rodrigues, D.O.;Rodrigues, D.O.;Urban data,Big Data,Mobility Analysis,Big data,Smart Cities,Urban Data,Smart cities,Urban mobility analysis
+Da Costa, J.B.D.;Da Costa, J.B.D.;
+Rosario, D.;Rosario, D.;Complex Networks metrics,VANETs,VANET,Intelligent Transportation Systems,Quality of Experience,Platoon,And Vehicular Visible Light Communication,Data Dissemination
+Villas, L.A.;Villas, L.A.;Urban data,Complex Networks metrics,Vehicular named-data networking,Wns,IoT,Intelligent Transportation Systems,Smart Cities,network lifetime,Resilient TCP connections,public safety,Smart cities,energy efficiency,Time synchronization,multi-objective optimization,Content centric networking,Urban Data,wireless sensor networks,fog computing,Vehicular named-Data networking,VANETs,Steiner tree problem,Big data,home automation,wireless sensor and actuator networks,Congestion control,Named-data networking,And Vehicular Visible Light Communication,vehicular re-routing,Network partitions,Replication,Dictionary,Disruption-tolerant applications,Vehicular ad-hoc networks,Floating content,Vehicular Ad-Hoc networks,domotics,Big Data,Mobility,Genetic algorithm,Mobility Analysis,routing algorithm,Platoon,Perception Extraction,Content dissemination,Software defined networking,And QoE Support,Centrality,Vehicular Named-Data Networking,Data Dissemination,Information-Centric networking,intelligent transportation systems,Source mobility,Mobility-aware applications,Content caching,VANET,Quality of Experience,Multilateration,in-network aggregation,Actuator,Vehicle densities,Text Mining,Outdoor Areas,Social Media,sensor,Data dissemination,computational intelligence,3d location,Urban mobility analysis
+Uchoa Maia Rodrigues, D.C.;Uchoa Maia Rodrigues, D.C.;Social network analysis,Complex network,Visual rhythm,Soccer analysis,Temporal graph
+Moura, F.A.;Moura, F.A.;Social network analysis,Complex network,Visual rhythm,Soccer analysis,Temporal graph
+Cunha, S.A.;Cunha, S.A.;Social network analysis,Complex network,Visual rhythm,Soccer analysis,Temporal graph
+Leyva, R.;Leyva, R.;Deep Neural Network (DNN),accelerometer sensors,Dense trajectories
+Santos, G.;Santos, G.;Deep Neural Network (DNN),accelerometer sensors,Dense trajectories
+Sanchez, V.;Sanchez, V.;Deep Neural Network (DNN),accelerometer sensors,Dense trajectories
+Li, C.-T.;Li, C.-T.;Deep Neural Network (DNN),accelerometer sensors,Dense trajectories
+Lopes Rettore, P.H.;Lopes Rettore, P.H.;Big Data,Heterogeneous Data Fusion,Participatory Sensing,Intelligent Transportation Systems
+Rigolin Lopes, R.F.;Rigolin Lopes, R.F.;Big Data,Heterogeneous Data Fusion,Participatory Sensing,Intelligent Transportation Systems
+Maia, G.;Maia, G.;Big Data,Heterogeneous Data Fusion,Participatory Sensing,Intelligent Transportation Systems
+Aparecido Villas, L.;Aparecido Villas, L.;Big Data,Heterogeneous Data Fusion,Participatory Sensing,Intelligent Transportation Systems
+Ferreira Loureiro, A.A.;Ferreira Loureiro, A.A.;Big Data,Intelligent Transportation Systems,Participatory Sensing,Perception Extraction,Text Mining,Outdoor Areas,Social Media,Dictionary,Heterogeneous Data Fusion
+Pires, R.;Pires, R.;Integrated patient-basis analysis,Multi-resolution training,Screening,Referral,Diabetic retinopathy,Robust feature-extraction augmentation
+Wainer, J.;Wainer, J.;Python,Integrated patient-basis analysis,Multi-resolution training,Screening,CS1,Controlled Experiment,Referral,Diabetic retinopathy,Introductory Programming,Robust feature-extraction augmentation,C
+Abramoff, M.D.;Abramoff, M.D.;Integrated patient-basis analysis,Multi-resolution training,Screening,Referral,Diabetic retinopathy,Robust feature-extraction augmentation
+Yamashita, A.Y.;Yamashita, A.Y.;Neuroimaging,Image analysis,Diagnosis,Alzheimer disease,Machine learning,Support vector machine,Biomarker
+Falcão, A.X.;Falcão, A.X.;Graph-search algorithms,Diagnosis,Image foresting transform,Convolutional Neural Network,Data Augmentation,Volunteered geographical information,Convolutional neural networks,machine learning,optimum path forest,Biomarker,Connectivity functions,Image Segmentation,Alzheimer disease,Graph Cut,Multiple object delineation,Shape priors,clustering,Superpixel segmentation,OpenStreetMap,Machine learning,Rural buildings,Multi-label assignment,Image segmentation by seed competition,divide and conquer paradigm,Deep Learning,Delaunay Triangulation,Very high resolution mapping,Registration,Object saliency map,Semi-supervised learning,Support vector machine,Neuroimaging,Image analysis,Markov random fields,Optimum-path forest classifiers,Update of vector maps,Superpixels,image segmentation,Dijkstra’s algorithm,Encoder Decoder Neural Network,Visual Analytics,Image Foresting Transform,image foresting transform
+Leite, N.J.;Leite, N.J.;Neuroimaging,high-resolution images,Biometrics,Image analysis,pores,Diagnosis,Alzheimer disease,Machine learning,quality assessment,fingerprint analysis,Support vector machine,Biomarker
+Oakley, E.;Oakley, E.;Performance prediction,Extreme value theory,Weibull distribution,Information retrieval,Relevance prediction
+Fernandes, C.G.;Fernandes, C.G.;rectangle packing,Nash equilibrium,Linear Programming,square packing,Pricing,strong Nash equilibrium,Approximation algorithm,Selfish bin packing,Fault tolerance,price of anarchy,Economics,Capacitated k-center,LP rounding,Approximation Algorithms,Randomized Algorithms,Non-uniform capacities
+Ferreira, C.E.;Ferreira, C.E.;rectangle packing,Nash equilibrium,square packing,strong Nash equilibrium,Selfish bin packing,price of anarchy
+Wakabayashi, Y.;Wakabayashi, Y.;rectangle packing,Nash equilibrium,square packing,strong Nash equilibrium,Selfish bin packing,price of anarchy
+Cordeiro, R.A.;Cordeiro, R.A.;Vehicle dynamics,State observers,Intelligent vehicles,Nonlinear kalman filters,Tire-ground forces estimation
+Victorino, A.C.;Victorino, A.C.;Vehicle dynamics,State observers,Intelligent vehicles,Nonlinear kalman filters,Tire-ground forces estimation
+Azinheira, J.R.;Azinheira, J.R.;Vehicle dynamics,State observers,Intelligent vehicles,Nonlinear kalman filters,Tire-ground forces estimation
+De Paiva, E.C.;De Paiva, E.C.;Two-wheeled inverted pendulum,Vehicle dynamics,Segway,Mechatronics design,State observers,Mechanical control,Intelligent vehicles,Modular design,Nonlinear kalman filters,Tire-ground forces estimation
+Bueno, S.S.;Bueno, S.S.;Vehicle dynamics,State observers,Intelligent vehicles,Nonlinear kalman filters,Tire-ground forces estimation
+Sierra, D.;Sierra, D.;Domino effect,Risk analysis,Vapor cloud explosion,Stochastic Petri net
+Briceño, J.;Briceño, J.;Domino effect,Risk analysis,Vapor cloud explosion,Stochastic Petri net
+Buitrago, H.;Buitrago, H.;Domino effect,Risk analysis,Vapor cloud explosion,Stochastic Petri net
+Montecchi, L.;Montecchi, L.;Software architecture,privacy,Knowledge-intensive process,Knowledge management,web application,UML profile,Process-Aware Information Systems,Domino effect,Dependability analysis,Risk analysis,Stochastic Petri net,Frameworks,conceptual model,Dynamic languages,certification,CHESS,Autonomous computing,Case management,Robotics,reference architecture,Business Process Management Systems,model-based development,safety standards,Dynamic statements,Vapor cloud explosion,Refactoring,Business process modeling,process
+Mura, I.;Mura, I.;Domino effect,Risk analysis,Vapor cloud explosion,Stochastic Petri net
+Ramirez, J.L.;Ramirez, J.L.;Strain-Stress Chip,Thermal Drift,Delta-Sigma modulation,Temperature Sensor,piezoFET,Bandgap current generator,Stress Chip,Piezoresistive Sensors,Silicon Piezotransducer
+Tiol, J.P.;Tiol, J.P.;Delta-Sigma modulation,Temperature Sensor,Bandgap current generator
+Deotti, D.;Deotti, D.;Delta-Sigma modulation,Temperature Sensor,Bandgap current generator
+Fruett, F.;Fruett, F.;Distributed sensing,Thermal Drift,Temperature Sensor,piezoFET,Stress Chip,BOTDA,Bandgap current generator,Phase-OTDR,microfluidic,optical fiber,Piezoresistive Sensors,Strain sensors,3D printer and sensor,Optical fiber microphone,Moore-Penrose pseudo-inverse,tilted fiber Bragg grating,Strain-Stress Chip,Silicon Piezotransducer,Delta-Sigma modulation,Brillouin scattering,optofluidic,Rayleigh scattering,Distributed acoustic sensing,Optical temperature
+Bharati, A.;Bharati, A.;image retrieval,Multimedia Phylogeny,graphs,Image forensics,Tampering heat maps,image phylogeny,image provenance,Forgery detection,Provenance Context Incorporation,digital humanities,Context-aware digital forensics,Splicing detection,Undirected Phylogeny Graph,Phylogeny Graph,Media Forensics,Image Phylogeny,Provenance Filtering,Digital image forensics
+Moreira, D.;Moreira, D.;Multimedia Phylogeny,Pornography localization,Provenance Context Incorporation,Undirected Phylogeny Graph,Phylogeny Graph,Media Forensics,Image Phylogeny,Sensitive scene localization,Violence localization,Provenance Filtering,Multimodal data fusion
+Brogan, J.;Brogan, J.;image retrieval,graphs,Tampering heat maps,image phylogeny,image provenance,Forgery detection,digital humanities,Context-aware digital forensics,Splicing detection,Image forensics,Digital image forensics
+Scheirer, W.J.;Scheirer, W.J.;image retrieval,graphs,Digital humanities,Forensics,image phylogeny,image provenance,digital humanities,Machine learning,Natural language processing,Word embeddings,Text phylogeny,Digital image forensics
+Fujiwara, E.;Fujiwara, E.;nanofluid,Segway,Mechatronics design,optical fiber sensor,Force sensors,Human-computer interaction,Displacement measurement,Human,Fiber specklegram sensor,optical fiber sensors,Two-wheeled inverted pendulum,Interaction devices,chemical sensors,Centered computing,Computer vision sensor,no-core fiber,Force myography,Human-robot interaction,dye measurement,Optical myography,Modular design,Optical fiber sensor,colloidal silica,Optical fiber sensors,image processing,chemical sensing,colorimetric image processing,silica nanoparticles,Gesture recognition,Haptic devices,fiber specklegram sensor,chemical monitoring,dynamic light scattering,Mechanical control
+Wu, Y.T.;Wu, Y.T.;Force sensors,Human-computer interaction,Human,optical fiber sensors,Interaction devices,chemical sensors,Centered computing,Computer vision sensor,no-core fiber,Force myography,Human-robot interaction,Optical myography,Optical fiber sensor,image processing,force measurement,Gesture recognition,Haptic devices,fiber specklegram sensor,force myography,human-robot interaction
+Silva, L.E.;Silva, L.E.;Interaction devices,Human,Centered computing
+Aristilde, S.;Aristilde, S.;Interaction devices,tilted fiber Bragg grating,Centered computing,microfluidic,optical fiber,optofluidic,Human,3D printer and sensor
+Cordeiro, C.M.B.;Cordeiro, C.M.B.;Polymer fiber,optical fibers,Human,Plasmonics,Optical fiber,microstructured fibers,optical fiber sensors,Interaction devices,chemical sensors,Centered computing,Nano-antennas array,no-core fiber,Hollow core fiber,microfluidic,optical fiber,Surface plasmons,Fiber Bragg Gratings,birefringence,Integrated optics,3D printer and sensor,polarization,image processing,tilted fiber Bragg grating,Additive manufacturing,Antiresonant fiber,3D Printing,fiber specklegram sensor,3D printing,resonance,Terahertz,sensors,Soft magnets,optical sensing,Fiber optics,optofluidic,plasmonics,sensors and actuators,Filament characterization,Magnetic characterization
+Gomes, M.K.;Gomes, M.K.;nanofluid,Interaction devices,chemical sensing,Centered computing,optical fiber sensor,colorimetric image processing,dye measurement,Human,silica nanoparticles,Haptic devices,dynamic light scattering,chemical monitoring,colloidal silica
+Silva, W.H.A.;Silva, W.H.A.;Haptic devices,Interaction devices,Human,Centered computing
+Suzuki, C.K.;Suzuki, C.K.;nanofluid,optical fiber sensor,Force sensors,Human-computer interaction,Displacement measurement,Human,Fiber specklegram sensor,Interaction devices,Centered computing,Computer vision sensor,Force myography,Human-robot interaction,dye measurement,Optical myography,Optical fiber sensor,colloidal silica,Optical fiber sensors,chemical sensing,colorimetric image processing,silica nanoparticles,Gesture recognition,Haptic devices,chemical monitoring,dynamic light scattering
+Mortatti, M.;Mortatti, M.;
+Yviquel, H.;Yviquel, H.;LLVM,OpenMP,Apache spark
+Campos De Oliveira, F.M.;Campos De Oliveira, F.M.;Internet of Things,graph partitioning,convolutional neural networks
+Mattos, L.;Mattos, L.;
+Cesar, D.;Cesar, D.;
+Salamanca, J.;Salamanca, J.;hardware transactional memory,Thread-level speculation,transactional memory
+Papa, J.P.;Papa, J.P.;Convolutional neural networks,Deep learning,Magnetic optimization algorithm,Self-organizing map,EEG signal classification,Diabetic retinopathy,Paleokarst,Multi-label assignment,Discriminative restricted Boltzmann machines,Semi-supervised learning,Feature selection,Metaheuristics,Campos basin,Deep residual networks,Optimum-path forest classifiers,Graphics processing unit,Epilepsy,Exudate detection,Optimum-path forest
+Coelho, A.L.V.;Coelho, A.L.V.;Magnetic optimization algorithm,EEG signal classification,Epilepsy,Optimum-path forest,Feature selection,Metaheuristics
+Pereira, D.R.;Pereira, D.R.;Magnetic optimization algorithm,EEG signal classification,Epilepsy,Optimum-path forest,Feature selection,Metaheuristics
+de Albuquerque, V.H.C.;de Albuquerque, V.H.C.;Magnetic optimization algorithm,EEG signal classification,Epilepsy,Optimum-path forest,Feature selection,Metaheuristics
+Pisani, F.;Pisani, F.;Seismic Processing,IoT,heterogeneous,Fog Computing,GPU seismic eficiency,Virtual Machines,Fog-assisted translation,OpenACC,CMP,CUDA,Internet of Things,CRS,Fog computing,Processing cost trade-off,parallelization,re-ranking,sorting algorithms,Platform modeling,Resource-constrained devices,Cloud computing,RISCV,Common Reflection Surface,Constrained Devices,Common mid point,CBIR,Dynamic translation,OpenCL,Cloud-assisted translation,OpenMP,Virtual machines,GPU seismic performance
+do Rosario, V.M.;do Rosario, V.M.;Fog computing,Processing cost trade-off,IoT,Platform modeling,Resource-constrained devices,Cloud computing
+De Carvalho, J.P.L.;De Carvalho, J.P.L.;Over-instrumentation,Optimization,Transactional memory,Compilers,performance evaluation,phase-based execution,Parallel programming
+Baldassin, A.;Baldassin, A.;performance evaluation,Transactional memory,phase-based execution
+Kimura, B.Y.L.;Kimura, B.Y.L.;Wns,Mobility-aware applications,Multilateration,Resilient TCP connections,Time synchronization,Disruption-tolerant applications,3d location
+Yokoyama, R.S.;Yokoyama, R.S.;Mobility-aware applications,Resilient TCP connections,Disruption-tolerant applications
+Loureiro, A.A.F.;Loureiro, A.A.F.;Urban data,Big Data,Mobility-aware applications,Mobility Analysis,Big data,Smart Cities,Urban Data,Resilient TCP connections,Smart cities,Disruption-tolerant applications,Urban mobility analysis
+Fantinato, D.G.;Fantinato, D.G.;Blind channel equalization,Correntropy,Post-Nonlinear mixtures,Coding,Information theoretic learning,PDF matching,Galois fields,Blind source separation,Second-order statistics,Adaptive filtering,Post-nonlinear,Second-Order Statistics,Entropy
+Deville, Y.;Deville, Y.;Post-Nonlinear mixtures,Second-Order Statistics,Blind source separation,Second-order statistics,Post-nonlinear,Second-order Statistics,Blind Source Separation,Bilinear mixing model
+Jutten, C.;Jutten, C.;Linear-quadratic model,Blind source separation,Inverse problems,Second-order statistics,Statistical signal processing,Post-nonlinear,Monte Carlo Markov Chain (MCMC)- Gas mixture,MOX sensor,Bayesian method
+Neves, A.;Neves, A.;Blind channel equalization,Correntropy,Post-Nonlinear mixtures,Coding,Information theoretic learning,PDF matching,Galois fields,Blind source separation,Second-order statistics,Adaptive filtering,Post-nonlinear,Second-Order Statistics,Entropy
+Akabane, A.T.;Akabane, A.T.;
+Immich, R.;Immich, R.;Fog computing,Quality of Experience,Multi tier fog,Video streaming services,Cloud computing
+Belotti, J.T.;Belotti, J.T.;Recurrent neural network,Elman network,Monthly Seasonal Streamflow Series Forecasting,Jordan network,Echo State Network
+Lazzarin, L.N.A.;Lazzarin, L.N.A.;Recurrent neural network,Elman network,Monthly Seasonal Streamflow Series Forecasting,Jordan network,Echo State Network
+Usberti, F.L.;Usberti, F.L.;Object Detection,Recurrent neural network,Open capacitated arc routing problem,Elman network,Computer Vision,Automatic Monitoring,Monthly Seasonal Streamflow Series Forecasting,Metaheuristic,Boiler Chickens,Image Processing,Jordan network,Echo State Network,Hybrid genetic algorithm
+Siqueira, H.;Siqueira, H.;Echo state networks,Recurrent neural network,Elman network,Monthly Seasonal Streamflow Series Forecasting,Unorganized machines,Extreme learning machines,Jordan network,Variable selection,Echo State Network,Monthly seasonal streamflow series forecasting
+Perillo, E.;Perillo, E.;computer vision,deep learning,visual saliency
+Colombini, E.;Colombini, E.;Software architecture,deep learning,Logistics,Autonomous computing,Deep Learning,Learning,computer vision,Reinforcement Learning,Robotics,visual saliency
+Echemendía Montero, A.;Echemendía Montero, A.;divide and conquer paradigm,image segmentation,clustering,machine learning,image foresting transform,optimum path forest
+De Andrade, T.P.C.;De Andrade, T.P.C.;Experiments,Radio-over-Fiber,LTE networks,LTE-A networks,PDCCH scheduling algorithm,PRACH power control and power ramping,ZigBee and Arduino,Internet-of-Things,Random-access procedure and RAN overload control,Handover,LTE/LTE-A networks,Machine-to-machine communications,Random-access procedure
+Peixinho, A.Z.;Peixinho, A.Z.;Convolutional Neural Network,Data Augmentation,Deep Learning,Delaunay Triangulation,Encoder Decoder Neural Network,Visual Analytics
+Benato, B.C.;Benato, B.C.;Convolutional Neural Network,Data Augmentation,Auto Encoder Neural Network,Interactive Label Propagation,Deep Learning,Delaunay Triangulation,Encoder Decoder Neural Network,Visual Analytics,Semi Supervised Learning
+Nonato, L.G.;Nonato, L.G.;Convolutional Neural Network,Data Augmentation,Deep Learning,Delaunay Triangulation,Encoder Decoder Neural Network,Visual Analytics
+Telea, A.C.;Telea, A.C.;High-dimensional data visualization,Graphical user interfaces,Pattern classification,Interactive Label Propagation,Auto Encoder Neural Network,Dimensionality reduction,Visual analytics,Visual Analytics,Semi Supervised Learning
+Lemes Galvão, F.;Lemes Galvão, F.;Superpixel segmentation,Image Segmentation,Image Foresting Transform
+Shankar Chowdhury, A.;Shankar Chowdhury, A.;Superpixel segmentation,Image Segmentation,Image Foresting Transform
+Concha, D.T.;Concha, D.T.;Video analysis,Action recognition,Visual rhythm,Optical flow,Data augmentation,Deep learning,Motion
+Maia, H.D.A.;Maia, H.D.A.;Video analysis,Action recognition,Visual rhythm,Optical flow,Motion
+Chaves, H.D.L.;Chaves, H.D.L.;Video analysis,Action recognition,Visual rhythm,Optical flow,Motion
+Vieira, M.B.;Vieira, M.B.;Video analysis,Action recognition,Visual rhythm,Optical flow,Motion
+Lobato Junior, W.;Lobato Junior, W.;Quality of Experience,Platoon,And Vehicular Visible Light Communication,VANET
+Costa, J.;Costa, J.;Complex Networks metrics,VANETs,VANET,Intelligent Transportation Systems,Quality of Experience,Platoon,And Vehicular Visible Light Communication,Centrality,Data dissemination,Data Dissemination
+Cerqueira, E.;Cerqueira, E.;Complex Networks metrics,VANETs,VANET,Intelligent Transportation Systems,Quality of Experience,Platoon,And Vehicular Visible Light Communication,Centrality,Data dissemination,Data Dissemination
+Leonardo, M.M.;Leonardo, M.M.;deep learning,pest crop,Anastrepha,classification,local descriptor,fruit fly,image classification
+Carvalho, T.J.;Carvalho, T.J.;classification,deep learning,fruit fly,Anastrepha
+Rezende, E.;Rezende, E.;Malicious Software Classification,deep learning,Convolutional Neural Networks,Malicious software,Anastrepha,Deep Learning,classification,Deep learning,Transfer learning,Machine learning,Classification,fruit fly,Transfer Learning
+Zucchi, R.;Zucchi, R.;classification,deep learning,fruit fly,Anastrepha
+Faria, F.A.;Faria, F.A.;Time,Time Series,deep learning,LULC,NDVI,Remote Sensing,pest crop,Machine Learning,Crop Classification,Anastrepha,classification,local descriptor,fruit fly,image classification,SVM
+Bueno, P.M.S.;Bueno, P.M.S.;Test,Process,Security,Ontology
+De Franco Rosa, F.;De Franco Rosa, F.;Assessment Dimension,Test,Heuristics,Security Property,Standard,Security,Ontology,Coverage,Process,Assessment
+Jino, M.;Jino, M.;Traceability Model,privacy,Knowledge formalization,Coverage,Security assessment,Assessment,Heuristics,web application,UML profile,Traceability,Standard,Security,Requirements Engineering,OWL,Ontology,conceptual model,Assessment Dimension,Test,Information security,Software Development,reference architecture,Security Property,Software Quality,Process
+Fujwara, E.;Fujwara, E.;force myography,optical fiber sensors,human-robot interaction,force measurement
+Villela, C.S.;Villela, C.S.;force myography,optical fiber sensors,human-robot interaction,force measurement
+Ribas Neto, A.;Ribas Neto, A.;force myography,optical fiber sensors,human-robot interaction,force measurement
+De Freitas, H.;De Freitas, H.;Soft magnets,Fiber optics,3D Printing,Fiber Bragg Gratings,Filament characterization,Magnetic characterization
+Beron, F.;Beron, F.;Soft magnets,Fiber optics,3D Printing,Fiber Bragg Gratings,Filament characterization,Magnetic characterization
+Soares, M.C.P.;Soares, M.C.P.;nanofluid,chemical sensing,optical fiber sensor,colorimetric image processing,dye measurement,silica nanoparticles,dynamic light scattering,chemical monitoring,colloidal silica
+Mendes, B.F.;Mendes, B.F.;dye measurement,optical fiber sensor,colorimetric image processing,chemical monitoring
+Schenkel, E.A.;Schenkel, E.A.;nanofluid,chemical sensing,optical fiber sensor,silica nanoparticles,dynamic light scattering,colloidal silica
+Da Silva, L.E.;Da Silva, L.E.;optical fiber sensors,image processing,chemical sensors,Terahertz,no-core fiber,Antiresonant fiber,Hollow core fiber,fiber specklegram sensor,3D printing
+De Freitas, H.E.;De Freitas, H.E.;optical fiber sensors,image processing,chemical sensors,no-core fiber,fiber specklegram sensor
+Rodrigues, G.;Rodrigues, G.;tilted fiber Bragg grating,microfluidic,optical fiber,optofluidic,3D printer and sensor
+Osorio, J.H.;Osorio, J.H.;microstructured fibers,optical fibers,sensors
+Chesini, G.;Chesini, G.;microstructured fibers,optical fibers,sensors
+Serrao, V.A.;Serrao, V.A.;microstructured fibers,optical fibers,sensors
+Franco, M.A.R.;Franco, M.A.R.;Terahertz,sensors,Nano-antennas array,Antiresonant fiber,optical fibers,Hollow core fiber,Plasmonics,Integrated optics,microstructured fibers,3D printing
+Sutili, T.;Sutili, T.;Laser Noise,Semiconductor Lasers,Electro-optic devices,Electro-optic switches,Semiconductor optical amplifiers,Electro-optical switches,Electro-optical devices,electro-optical switches,Phase Noise,Photonics Metrology,Electrooptic Modulators,Optical Signal Processing,Offline Techniques,semiconductor optical amplifiers,feed-forward filtering
+De Mello Gallep, C.;De Mello Gallep, C.;semiconductor optical amplifiers,Electro-optical devices,electro-optical switches
+Conforti, E.;Conforti, E.;Laser Noise,Semiconductor Lasers,Electro-optic devices,Electro-optic switches,Semiconductor optical amplifiers,Electro-optical switches,Electro-optical devices,electro-optical switches,Phase Noise,Photonics Metrology,Electrooptic Modulators,Optical Signal Processing,Offline Techniques,semiconductor optical amplifiers,feed-forward filtering
+Martins, I.B.;Martins, I.B.;Electronic Buffering,Elastic optical networks,symbol error rate,optical channels,Photonic Switching,Optical Fiber Networks,Optical Packets,flexible spectrum allocation,signal band,Mesh Topology
+Goncalves, E.;Goncalves, E.;symbol error rate,flexible spectrum allocation,Elastic optical networks,optical channels
+Rudgebarbosa, F.;Rudgebarbosa, F.;symbol error rate,flexible spectrum allocation,Elastic optical networks,optical channels
+Taglietti, B.;Taglietti, B.;Electro-optic devices,Electro-optic switches,Semiconductor optical amplifiers,Electro-optical switches,semiconductor optical amplifiers,feed-forward filtering
+Figueiredo, R.C.;Figueiredo, R.C.;Electro-optical switches,semiconductor optical amplifiers,feed-forward filtering
+Ferrari, R.;Ferrari, R.;extreme learning machines,Multiple removal,Electro-optical switches,predictive deconvolution,echo state networks,semiconductor optical amplifiers,feed-forward filtering
+Santos, F.A.;Santos, F.A.;Perception Extraction,Text Mining,Outdoor Areas,Social Media,Dictionary
+Silva, T.H.;Silva, T.H.;Urban data,Big Data,Mobility Analysis,Big data,Smart Cities,Perception Extraction,Urban Data,Text Mining,Outdoor Areas,Social Media,Smart cities,Dictionary,Urban mobility analysis
+Gama, E.S.;Gama, E.S.;Fog computing,Experiments,Radio-over-Fiber,Quality of Experience,Multi tier fog,Video streaming services,ZigBee and Arduino,Internet-of-Things,Cloud computing
+Schulze, B.;Schulze, B.;
+Tolosana-Calasanz, R.;Tolosana-Calasanz, R.;
+Cardellini, V.;Cardellini, V.;
+Bittencourt, L.;Bittencourt, L.;Placement,Sensor Applications,Fog,Fog & Edge Resource Allocation,Migration,Virtual Machine,Cloud Computing
+Genez, T.A.L.;Genez, T.A.L.;workflow,Uncertainty,Scheduling,hybrid clouds,scheduling,Cloud computing,Workflow Ensembles,Workflow scheduling,Task duplication
+Sakellariou, R.;Sakellariou, R.;Uncertainty,Scheduling,Distributed systems,Cloud computing,Workflow Ensembles,Workflow scheduling,Task duplication
+Braun, T.;Braun, T.;Vehicular named-data networking,Vehicular network,Vehicular named-Data networking,Named-data networking,Network partitions,Vehicular ad-hoc networks,Vehicular Ad-Hoc networks,Workflow scheduling,Task duplication,Mobility,Fog computing,Platoon,Software defined networking,And QoE Support,Vehicular Named-Data Networking,Information-Centric networking,Source mobility,VANET,Vehicle densities
+Rossanez, A.;Rossanez, A.;Ontologies,Knowledge graphs,RDF triples,Information extraction
+dos Reis, J.C.;dos Reis, J.C.;Ontologies,Emoticons,Braindrawing,Multi-label classification,Knowledge graphs,Scientific software,Computer-mediated communication,Intentions,User participation,Pragmatics,Imbalanced classes,Reservoir simulations,Application System Messages,RDF triples,Participatory design,Meanings,Information extraction,Automated ICD coding,Brainwriting
+Gonçalves, F.M.;Gonçalves, F.M.;Participatory design,Socially aware design,Online Deliberation,Co-design,Interactive installation,Organisational Semiotics,Socially Aware Computing,Design process
+Jensen, F.R.;Jensen, F.R.;Interactive bots,Online Deliberation,SWRL,Affectivity,Organisational Semiotics,Socially Aware Computing,Ontogologies
+Ramos, L.;Ramos, L.;Software architecture,Stencil,Autonomous computing,Decision Tree Learning,Work Partitioning,Robotics
+Divino, G.;Divino, G.;Software architecture,Autonomous computing,Robotics
+De França, B.B.N.;De França, B.B.N.;Software architecture,Autonomous computing,Robotics
+e Santos, A.C.S.;e Santos, A.C.S.;Multi-stream Neural Network,Action Recognition,Autoencoder,Video Representation
+Azevedo, B.;Azevedo, B.;Traceability Model,Traceability,Software Quality,Requirements Engineering,Software Development
+Venero, S.K.;Venero, S.K.;Business Process Management Systems,Knowledge-intensive process,Process-Aware Information Systems,Case management,Knowledge management,Business process modeling
+Rubira, C.M.F.;Rubira, C.M.F.;Business Process Management Systems,Knowledge-intensive process,Process-Aware Information Systems,Case management,Knowledge management,Business process modeling
+Ramos, P.A.T.;Ramos, P.A.T.;Scientific software,Participatory design,Application System Messages,Braindrawing,Brainwriting,Reservoir simulations
+de Souza dos Santos, A.A.;de Souza dos Santos, A.A.;Scientific software,Participatory design,Application System Messages,Braindrawing,Brainwriting,Reservoir simulations
+Schiozer, D.J.;Schiozer, D.J.;Scientific software,Participatory design,Application System Messages,multidisciplinary AI and CI,Human-Data Interaction,evolutionary computation and metaheuristics,Braindrawing,Visual Analytics,Brainwriting,Design Approaches,Reservoir simulations
+Maike, V.R.M.L.;Maike, V.R.M.L.;Universal Design,Universal Access,Evaluation user experience,Natural User Interfaces,Human-Computer Interaction,EEG,Pervasive,Interaction evaluation,MindWave,Accessibility,Pervasive computing,Ubiquitous computing,Socio-enactive systems
+Brennand, C.V.L.T.;Brennand, C.V.L.T.;Pervasive Scenarios,Evaluation user experience,AttrakDiff,User Experience Assessment,Pervasive computing,Ubiquitous computing,Socio-enactive systems,Ubiquitous Scenarios
+Brennand, C.A.R.L.;Brennand, C.A.R.L.;Evaluation user experience,Pervasive computing,Ubiquitous computing,Socio-enactive systems
+da Silva, J.V.;da Silva, J.V.;Evaluation user experience,Pervasive computing,Ubiquitous computing,Socio-enactive systems
+Pellegrini, P.E.S.;Pellegrini, P.E.S.;Metamaterials,Electromagnetic properties,Terahertz,Organic materials
+Gabrielli, L.H.;Gabrielli, L.H.;Metamaterials,Electromagnetic properties,Terahertz,Organic materials
+dos Santos, L.M.;dos Santos, L.M.;Metamaterials,Electromagnetic properties,Terahertz,Organic materials
+Ribessi, R.L.;Ribessi, R.L.;Metamaterials,Electromagnetic properties,Terahertz,Organic materials
+Victorelli, E.Z.;Victorelli, E.Z.;Human-Data Interaction,Design Approaches,Visual Analytics
+Deos Reis, J.C.;Deos Reis, J.C.;Human-Data Interaction,Design Approaches,Visual Analytics
+Souza Santos, A.A.;Souza Santos, A.A.;Human-Data Interaction,Design Approaches,Visual Analytics
+Falcão, A.;Falcão, A.;Seed-based delineation algorithms,Simulated phantoms,Vascular segmentation,Convolutional neural networks,Superpixel and object segmentation,Angiography,Image Foresting Transform,Noise patterns
+Bragantini, J.;Bragantini, J.;Image segmentation by seed competition,Seed-based delineation algorithms,Graph Cut,Multiple object delineation,Superpixel and object segmentation,Image Foresting Transform
+Martins, S.B.;Martins, S.B.;Image segmentation by seed competition,negative mining,Graph Cut,Multiple object delineation,face recognition,convolutional networks,Image Foresting Transform
+Castelo-Fernandez, C.;Castelo-Fernandez, C.;Graph Cut,Multiple object delineation,Image segmentation by seed competition,Image Foresting Transform
+Cornejo, J.Y.R.;Cornejo, J.Y.R.;Deep features,Geometric features,Facial patterns,Syndrome recognition,Genetic disorders
+Virginio, L.;Virginio, L.;Imbalanced classes,Automated ICD coding,Multi-label classification
+Ayres, A.O.C.;Ayres, A.O.C.;Multitask learning,Evolving fuzzy-rule-based systems,Time series prediction,Online learning
+Von Zuben, F.J.;Von Zuben, F.J.;Multitask learning,Evolving fuzzy-rule-based systems,Twitter,Online Social Networks,Topic Classification,Network Feature Extraction,multi-objective decision,Time series prediction,Transfer learning,Ensemble of classifiers,Semantic genetic programming,Online learning,Multilabel classification,Epilepsy,Stacking,direct and indirect methods,semantically-driven mutation,Many-objective optimization,Multiobjective optimization
+Casacio, L.;Casacio, L.;Splitting preconditioner,convex cost flow,Hybrid preconditioners,Linear programming,interior point methods,predispatch problem,Interior point methods,security constraints,Iterative methods,power systems,optimal power flows
+Lyra, C.;Lyra, C.;Linear programming,Extreme learning machines,predispatch problem,Interior point methods,Smart grids,Iterative methods,security constraints,Unorganized machines,interior point methods,Variable selection,optimal power flows,Echo state networks,Distributed energy sources,Power distribution networks,Hybrid preconditioners,Optimal network configurations,power systems,Monthly seasonal streamflow series forecasting,convex cost flow,BRKGA metaheuristic,Splitting preconditioner
+Oliveira, A.R.L.;Oliveira, A.R.L.;Splitting preconditioner,convex cost flow,Hybrid preconditioners,Linear programming,interior point methods,predispatch problem,Interior point methods,security constraints,Iterative methods,power systems,optimal power flows
+Cruz, R.J.;Cruz, R.J.;Fantomas,Vectorization,Side-channel resistance,Instruction set extension,LS-Design
+Guimarães, A.;Guimarães, A.;Fantomas,post-quantum,secure implementation,cryptography,AVX-512,Vectorization,vectorization,Side-channel resistance,Instruction set extension,LS-Design
+Moraes, T.;Moraes, T.;Medical Images,Histogram equalization,Contourlets,Medical images,Volume rendering,Electrocardiogram signals,Web-based Interactive Visualization,Signal classification,Remote Medical System,Heart rhythm,Data Rendering,Contrast enhancement,Shearlets
+Amorim, P.;Amorim, P.;Medical Images,Histogram equalization,Contourlets,Medical images,Volume rendering,Electrocardiogram signals,Web-based Interactive Visualization,Signal classification,Remote Medical System,Heart rhythm,Data Rendering,Contrast enhancement,Shearlets
+Silva, J.;Silva, J.;Medical Images,Histogram equalization,Contourlets,Medical images,Volume rendering,Electrocardiogram signals,Web-based Interactive Visualization,Signal classification,Remote Medical System,Heart rhythm,Data Rendering,Contrast enhancement,Shearlets
+Botacin, M.;Botacin, M.;Binary analysis,Branch monitor,Debug,Introspection,ROP,Malware,SMM,DLL injection,Cache side-channel,Multi-core,HVM,Security
+de Geus, P.L.;de Geus, P.L.;64-Bit systems,Malware,DLL injection,Cache side-channel,Multi-core,CPL malware,OS security,Malware analysis systems,.Net malware,Evasive malware
+Grégio, A.;Grégio, A.;Binary analysis,Branch monitor,Debug,Introspection,ROP,Android permissions,Malware,SMM,DLL injection,Discriminant features,Cache side-channel,Multi-core,Bags of graphs,HVM,Security,Ontology,Machine learning
+Goldenstein, S.;Goldenstein, S.;Bag models,Pornography localization,Image phylogeny reconstruction,Graph matching,Multimodal data fusion,manifold learning,Graph-based classification,Spatial audio,Graph-based retrieval,Dissimilarity calculation,recommender systems,Sensitive scene localization,Digital forensics,Mutual information,Violence localization,HRTF
+Araujo, F.;Araujo, F.;
+Rodrigues, L.;Rodrigues, L.;Cine FSE imaging,Max-tree,Tie-zone watershed,Carotid artery
+Alves Moreira, E.;Alves Moreira, E.;Robots,Ontologies,Enactive,HCI,Creative learning,School,Evaluation,Emotions,Interactive design,Maker movement,Educational
+Luque Carbajal, M.;Luque Carbajal, M.;School,Creative learning,Maker movement
+Torres, R.S.;Torres, R.S.;Event prediction,Rank aggregation,Graph matching,Graph embedding,Cost learning,Graph-based rank fusion,SVM
+Tacon, H.;Tacon, H.;Video analysis,Action recognition,Visual rhythm,Data augmentation,Deep learning
+Brito, A.S.;Brito, A.S.;Video analysis,Action recognition,Visual rhythm,Data augmentation,Deep learning
+Chaves, H.L.;Chaves, H.L.;Video analysis,Action recognition,Visual rhythm,Data augmentation,Deep learning
+Miranda, M.;Miranda, M.;SSVEP,Wheelchair simulator,Brain-computer interface
+Vargas, G.V.;Vargas, G.V.;BCI,SSVEP,Wheelchair simulator,Welch’s method,Brain-computer interface,Robotic manipulator,DFT,Brain signal processing
+Carvalho, S.N.;Carvalho, S.N.;BCI,SSVEP,Wheelchair simulator,Welch’s method,Brain-computer interface,Robotic manipulator,DFT,Brain signal processing
+Arantes, D.;Arantes, D.;SSVEP,Wheelchair simulator,Brain-computer interface
+Leite, H.M.A.;Leite, H.M.A.;BCI,SSVEP,Wheelchair simulator,Welch’s method,Brain-computer interface,Robotic manipulator,DFT,Brain signal processing
+Miranda, G.H.S.;Miranda, G.H.S.;Reversals,Computational biology,Computational Biology,Sorting permutations,Approximation algorithms,Genome rearrangement,Transpositions,Genome rearrangements
+Pritsos, D.;Pritsos, D.;Distributional features,Web genre identification,Open-set classification
+Stamatatos, E.;Stamatatos, E.;Distributional features,Web genre identification,Open-set classification
+Pinheiro, G.R.;Pinheiro, G.R.;Ischemic stroke,Lesion segmentation,Perfusion,U-Net,Deep learning,V-Net
+Voltoline, R.;Voltoline, R.;life and medical sciences,Ischemic stroke,Lesion segmentation,interactive environments,Perfusion,U-Net,computer graphics,Deep learning,volume visualization,V-Net
+Bento, M.;Bento, M.;Segmentation,Ischemic stroke,Lesion segmentation,MR imaging,image processing,Texture features,White matter hyperintensity,magnetic resonance imaging,Diffusion tensor imaging,image segmentation,Perfusion,U-Net,Deep learning,V-Net
+da Silva Vasconcelos, R.C.;da Silva Vasconcelos, R.C.;Quality,Fingerprint images,Directional information
+Belém, F.;Belém, F.;Object saliency map,Superpixels,Image Foresting Transform
+Guimarães, S.J.F.;Guimarães, S.J.F.;Hierarchical image segmentation,Patch graph,Image inpainting,Superpixels,Image Foresting Transform,Object saliency map
+Carneiro, S.A.;Carneiro, S.A.;Patch graph,Hierarchical image segmentation,Image inpainting
+Cavalli, A.;Cavalli, A.;Fault injection,Robustness testing,Protocol testing,Passive testing
+Martins, E.;Martins, E.;Protocol testing,Multi-objective search,Nanosatellites,Model-based testing,Adaptive parameter control,Search-based testing,Passive testing,CubeSat,Cloud computing,Testing,Robustness,Fault injection,MIL,Robustness testing
+Morais, A.;Morais, A.;Fault injection,Robustness testing,Protocol testing,Passive testing
+Moreira, B.C.;Moreira, B.C.;Fault injection,Robustness testing,Protocol testing,Passive testing
+Wang, Y.;Wang, Y.;Volumetric precipitation experiments,Calcium carbonate nucleation,Eulerian formulation,Population balance equation,Restoration-latency,Partial-restoration,DRAM-latency,Activation-latency
+Borggren, K.M.;Borggren, K.M.;
+Medeiros, C.B.;Medeiros, C.B.;Time,Time Series,LULC,NDVI,Software metadata,Remote Sensing,Machine Learning,Software registries,Crop Classification,Scientific workflows,Workflow evolution,Software functions,SVM
+Zhou, Y.;Zhou, Y.;
+Kurka, D.B.;Kurka, D.B.;Twitter,Network Feature Extraction,Online Social Networks,Topic Classification
+Godoy, A.;Godoy, A.;Twitter,Network Feature Extraction,Online Social Networks,Topic Classification
+Duarte, J.M.;Duarte, J.M.;Source mobility,Mobility,Content caching,Vehicular named-Data networking,VANETs,Vehicular named-data networking,Named-data networking,Vehicular Named-Data Networking,Content dissemination,Software defined networking,Vehicle densities,Network partitions,Replication,Floating content,Vehicular ad-hoc networks,Vehicular Ad-Hoc networks,Information-Centric networking,Content centric networking
+Vargas-Muñoz, J.E.;Vargas-Muñoz, J.E.;Multi-Label Classification,Markov random fields,Google Street View,Update of vector maps,Convolutional Neural Network,Shape priors,Building Function,Volunteered geographical information,Convolutional neural networks,Registration,OpenStreetMap,Rural buildings,Urban space,Very high resolution mapping
+Lobry, S.;Lobry, S.;urban areas,volunteered geographic information,Markov random fields,Update of vector maps,Shape priors,ground-based pictures,Volunteered geographical information,Landuse characterization,Convolutional neural networks,Registration,OpenStreetMap,Rural buildings,Very high resolution mapping,convolutional neural networks
+Tuia, D.;Tuia, D.;urban areas,Google Street View,Contextual classification,Image foresting transform,Convolutional Neural Network,ground-based pictures,Volunteered geographical information,Convolutional neural networks,Urban space,Multi-Label Classification,Shape priors,OpenStreetMap,Rural buildings,Registration,Very high resolution mapping,volunteered geographic information,Markov random fields,Update of vector maps,Building Function,Landuse characterization,Superpixel,convolutional neural networks
+Rubio-Noriega, R.E.;Rubio-Noriega, R.E.;Nanoantennas,Wireless optical link,Subwavelength waveguides,Ip-chip integration,Optical modulators,Silicon photonics,Plasmonics,Optical antennas
+Hernandez-Figueroa, H.E.;Hernandez-Figueroa, H.E.;Nanoantennas,Wireless optical link,Microstrip,Grapheme buckypaper,Subwavelength waveguides,Transmission lines,Ip-chip integration,M2M,Middleware,Optical modulators,Silicon photonics,Plasmonics,Microwaves.,Internet of Things,Carbon electronics,RF,Optical antennas
+dos Santos, A.C.;dos Santos, A.C.;Universal Design,Universal Access,Pervasive,Natural User Interfaces,Accessibility,Ubiquitous computing,Interaction evaluation
+Méndez Mendoza, Y.L.;Méndez Mendoza, Y.L.;Universal Design,Universal Access,Pervasive,Natural User Interfaces,Accessibility,Ubiquitous computing,Interaction evaluation
+Takeda, R.Y.;Takeda, R.Y.;BCI,SSVEP,Welch’s method,Robotic manipulator,DFT,Brain signal processing
+Brito, K.L.;Brito, K.L.;Heuristics,Reversals,Intergenic regions,Transpositions,Approximation algorithms,Genome rearrangement,Reversals and transpositions,Weighted operations,Genome rearrangements
+Jean, G.;Jean, G.;Intergenic regions,Approximation algorithm,Approximation algorithms,Super short reversals,Genome rearrangements
+Fertin, G.;Fertin, G.;Reversals,Intergenic regions,Diameter,Super short operations,Approximation algorithm,Super short reversals,Approximation algorithms,Circular permutations,Prefix rearrangements,Transpositions,Genome rearrangements
+Neto, J.R.T.;Neto, J.R.T.;Database,Emotion recognition,Analysis of feelings,Knowledge base,Speech
+Filho, G.P.R.;Filho, G.P.R.;fog computing,wireless sensor networks,IoT,wireless sensor and actuator networks,home automation,domotics,Actuator,energy efficiency,sensor,computational intelligence
+Mano, L.Y.;Mano, L.Y.;fog computing,wireless sensor networks,Database,IoT,wireless sensor and actuator networks,home automation,Emotion recognition,domotics,Actuator,energy efficiency,Speech,Analysis of feelings,sensor,Knowledge base,computational intelligence
+Ueyama, J.;Ueyama, J.;Home Automation System,IoT,Emotion recognition,energy efficiency,Decision-making,Energy consumption,Wireless,Knowledge base,fog computing,wireless sensor networks,wireless sensor and actuator networks,Smart home,home automation,domotics,Speech,Domotic,Energy management,Database,Actuator,Energy efficiency,Sensor,Analysis of feelings,sensor,computational intelligence,Infrastructure
+Malheiros-Silveira, G.N.;Malheiros-Silveira, G.N.;Nanoantennas,Wireless optical link,Fiber optics components,Wavelength filtering devices,Fiber optics,Photonic crystal,Plasmonics,Photonic band gap,Photonic band structure,Fiber optics sensors,Optical antennas,Artificial neural network
+Da Ferreira, A.S.;Da Ferreira, A.S.;Photonic band gap,Photonic crystal,Photonic band structure,Artificial neural network
+Hernández-Figueroa, H.E.;Hernández-Figueroa, H.E.;Photonic band gap,Photonic crystal,Photonic band structure,Artificial neural network
+Nobre, J.C.;Nobre, J.C.;Fog computing,Vehicular network,Software defined networking
+de Souza, A.M.;de Souza, A.M.;Fog computing,Vehicular network,Software defined networking
+Rosário, D.;Rosário, D.;Fog computing,VANET,Platoon,Software defined networking,And QoE Support,Vehicular network
+Gerla, M.;Gerla, M.;Fog computing,Future Internet,Software Defined Networks,Software defined networking,Internet Service Providers,Network Virtualization,Vehicular network,Network Function Virtualization
+Caceffo, R.;Caceffo, R.;Robots,Ontologies,Enactive,HCI,Evaluation,Emotions,Interactive design,Educational
+Valente, J.A.;Valente, J.A.;Robots,Ontologies,Enactive,HCI,Game-making,Humanities,Arts,Computational thinking,Evaluation,Emotions,Interactive design,Educational
+Khojasteh, P.;Khojasteh, P.;Discriminative restricted Boltzmann machines,Convolutional neural networks,Deep learning,Diabetic retinopathy,Exudate detection,Deep residual networks
+Passos Júnior, L.A.;Passos Júnior, L.A.;Discriminative restricted Boltzmann machines,Convolutional neural networks,Deep learning,Diabetic retinopathy,Exudate detection,Deep residual networks
+Carvalho, T.;Carvalho, T.;Malicious Software Classification,Convolutional Neural Networks,Discriminative restricted Boltzmann machines,Malicious software,Deep Learning,Convolutional neural networks,Deep learning,Diabetic retinopathy,Exudate detection,Machine learning,Transfer learning,Deep residual networks,Classification,Transfer Learning
+Kumar, D.K.;Kumar, D.K.;Discriminative restricted Boltzmann machines,Convolutional neural networks,Deep learning,Diabetic retinopathy,Exudate detection,Deep residual networks
+Aldaya, I.;Aldaya, I.;Free-carrier generation,Silicon Photonics,Lifetime,Free Carriers,Elastic optical networks,symbol error rate,Semiconductor,Two-photon absorption,optical channels,Free-carrier recombination,Silicon photonics,flexible spectrum allocation,signal band
+Gil-Molina, A.;Gil-Molina, A.;Free-carrier generation,Silicon Photonics,Lifetime,Free Carriers,Semiconductor,Two-photon absorption,Free-carrier recombination,Silicon photonics
+Fragnito, H.L.;Fragnito, H.L.;Free-carrier generation,Silicon Photonics,Lifetime,Free Carriers,Semiconductor,Two-photon absorption,Free-carrier recombination,Silicon photonics
+Pita, J.L.;Pita, J.L.;Free-carrier generation,Silicon Photonics,Lifetime,Free Carriers,Semiconductor,Two-photon absorption,Free-carrier recombination,Silicon photonics
+Islam, M.S.;Islam, M.S.;resonance,optical sensing,plasmonics,Surface plasmons,birefringence,sensors and actuators,polarization
+Sultana, J.;Sultana, J.;resonance,optical sensing,plasmonics,Surface plasmons,birefringence,sensors and actuators,polarization
+Ng, B.W.-H.;Ng, B.W.-H.;resonance,optical sensing,plasmonics,Surface plasmons,birefringence,sensors and actuators,polarization
+Abbott, D.;Abbott, D.;resonance,optical sensing,plasmonics,Surface plasmons,birefringence,sensors and actuators,polarization
+Borba, J.V.B.;Borba, J.V.B.;Kinases,Drug repurposing,Kinome,Target prioritization,Leishmania braziliensis,Leishmania infantum
+Silva, A.C.;Silva, A.C.;Multicore design,Kinases,Drug repurposing,Physical design estimates,Kinome,Target prioritization,Dark silicon,Design space exploration (DSE),Leishmania braziliensis,Performance simulation,Leishmania infantum
+Ramos, P.I.P.;Ramos, P.I.P.;Kinases,Drug repurposing,Kinome,Target prioritization,Leishmania braziliensis,Leishmania infantum
+Furnham, N.;Furnham, N.;Kinases,Drug repurposing,Kinome,Target prioritization,Leishmania braziliensis,Leishmania infantum
+Andrade, C.H.;Andrade, C.H.;Kinases,Drug repurposing,Kinome,Target prioritization,Leishmania braziliensis,Leishmania infantum
+De Almeida Neto, A.;De Almeida Neto, A.;Multi-objective search,Adaptive parameter control,Search-based testing
+Carvalho, L.A.M.C.;Carvalho, L.A.M.C.;Software metadata,Software registries,Scientific workflows,Workflow evolution,Software functions
+Garijo, D.;Garijo, D.;Software metadata,Software registries,Scientific workflows,Workflow evolution,Software functions
+Gil, Y.;Gil, Y.;Software metadata,Software registries,Scientific workflows,Workflow evolution,Software functions
+Chenatti, S.;Chenatti, S.;Logistics,Deep Learning,Reinforcement Learning,Robotics,Learning
+Previato, G.;Previato, G.;Logistics,Deep Learning,Reinforcement Learning,Robotics,Learning
+Cano, G.;Cano, G.;Logistics,Deep Learning,Reinforcement Learning,Robotics,Learning
+Soerensen Braga, V.;Soerensen Braga, V.;Logistics,Deep Learning,Reinforcement Learning,Robotics,Learning
+Fajardo, J.;Fajardo, J.;Upper Limb Prosthesis,Prosthetics,Bio inspirired Robotics,Human Machine Interface
+Ferman, V.;Ferman, V.;Upper Limb Prosthesis,Prosthetics,Bio inspirired Robotics,Human Machine Interface
+Munoz, A.;Munoz, A.;Upper Limb Prosthesis,Prosthetics,Bio inspirired Robotics,Human Machine Interface
+Neto, A.R.;Neto, A.R.;Bio inspirired Robotics,Human Machine Interface,Force myography,Force sensors,Human-robot interaction,Upper Limb Prosthesis,Prosthetics,Optical fiber sensor
+Souza, R.M.S.;Souza, R.M.S.;multidisciplinary AI and CI,evolutionary computation and metaheuristics
+Coelho, G.P.;Coelho, G.P.;Particulate Matter,time series,space weather,Machine Learning,multidisciplinary AI and CI,Extreme Learning Machines,Data Streams,forecasting,x-ray flux,evolutionary computation and metaheuristics
+Tavakkol, A.;Tavakkol, A.;DRAM-latency,Restoration-latency,Activation-latency,Partial-restoration
+Orosa, L.;Orosa, L.;prefetching,address prediction,load value prediction,speculative execution,Value prediction,Restoration-latency,Partial-restoration,DRAM-latency,Activation-latency,instruction level parallelism
+Sadrosadati, M.;Sadrosadati, M.;DRAM-latency,Restoration-latency,Activation-latency,Partial-restoration
+Mutlu, O.;Mutlu, O.;prefetching,address prediction,load value prediction,speculative execution,Value prediction,Restoration-latency,Partial-restoration,DRAM-latency,Activation-latency,instruction level parallelism
+De Souza, A.M.;De Souza, A.M.;Complex Networks metrics,VANETs,VANET,Intelligent Transportation Systems,Congestion control,vehicular re-routing,public safety,Centrality,Data dissemination,Data Dissemination,multi-objective optimization,intelligent transportation systems
+Fernandes, J.T.;Fernandes, J.T.;
+Curado, M.;Curado, M.;Virtual Machine,Fog,Migration,Placement
+Duarte, E.F.;Duarte, E.F.;Socially aware design,Participatory design,Co-design,Interactive Art,Literature Survey,Maker culture,HCI education,Evaluation,Interactive installation,Interactive Art Examples,Interaction Design,Interactive Art Evaluation,Interactive art,Design process
+Baranauskas, C.M.C.;Baranauskas, C.M.C.;Socially aware design,Participatory design,Co-design,Interactive installation,Design process
+Aspiazu, J.B.;Aspiazu, J.B.;M2M,Internet of Things,Middleware
+Moura, P.M.;Moura, P.M.;Crosstalk,Space division multiplexing,Modulation,Elastic optical networks
+e Souza, M.R.;e Souza, M.R.;Video stabilization,Motion estimation,Local features combination,Video processing
+da Fonseca, L.F.R.;da Fonseca, L.F.R.;
+Souza, M.R.;Souza, M.R.;Interest points,Video stabilization,Video processing,Trajectory smoothing
+Scheirer, M.;Scheirer, M.;image retrieval,graphs,image phylogeny,image provenance,digital humanities,Digital image forensics
+Velasquez, K.;Velasquez, K.;Scheduling,Cloud,Orchestration,Internet of Everything,Research challenges,Placement,Fog Computing,Fog,Ranking,Migration,Virtual Machine
+Abreu, D.P.;Abreu, D.P.;Scheduling,Cloud,Orchestration,Internet of Everything,Research challenges,Fog Computing,Fog,Ranking
+Assis, M.R.M.;Assis, M.R.M.;Cloud,Orchestration,Internet of Everything,Research challenges,Fog
+Monteiro, E.;Monteiro, E.;Scheduling,Cloud,Orchestration,Internet of Everything,Research challenges,Fog Computing,Fog,Ranking
+Sviridenko, M.;Sviridenko, M.;Facility location,Approximation algorithms,Integrated inventory management,LP-rounding
+Oliveira, L.B.;Oliveira, L.B.;Forensics,authentication,federated identity management,Privacy,Cryptography,Security,UbiComp,Internet of Things
+Misoczki, R.;Misoczki, R.;Forensics,Privacy,Cryptography,Security,UbiComp
+Wu, M.;Wu, M.;Forensics,Privacy,Cryptography,Security,UbiComp
+Liu, J.;Liu, J.;Forensics,Privacy,Cryptography,Security,UbiComp
+Madrolle, S.;Madrolle, S.;Linear-quadratic model,Blind source separation,Inverse problems,Statistical signal processing,Monte Carlo Markov Chain (MCMC)- Gas mixture,MOX sensor,Bayesian method
+Grangeat, P.;Grangeat, P.;Linear-quadratic model,Blind source separation,Inverse problems,Statistical signal processing,Monte Carlo Markov Chain (MCMC)- Gas mixture,MOX sensor,Bayesian method
+Hirata, A.T.;Hirata, A.T.;
+Borin, J.F.;Borin, J.F.;
+Rezende, P.H.A.;Rezende, P.H.A.;SDN,Network Slicing,LTE,5G,QoS provisioning
+Ciceri, O.J.;Ciceri, O.J.;Passive Optical Networks,Quality of Service,Mobile Backhauling/Fronthauling,Network Virtualization,Dynamic Bandwidth Allocation
+Pazzi, R.W.;Pazzi, R.W.;
+Ishii, F.T.;Ishii, F.T.;Tensorial Algebra,Mathematical Morphology,Tensorial Lucas-Kanade Technique,Tensorial Morphological Gradient,Optical Flow,Lucas-Kanade Technique
+Flores, F.C.;Flores, F.C.;Tensorial Algebra,Mathematical Morphology,Tensorial Lucas-Kanade Technique,Tensorial Morphological Gradient,Optical Flow,Lucas-Kanade Technique
+Rettore, P.H.L.;Rettore, P.H.L.;
+Campolina, A.B.;Campolina, A.B.;
+Souza, A.;Souza, A.;
+Floriano, E.;Floriano, E.;Searchable encryption,Tuple space,Privacy,Homomorphic encryption
+Alchieri, E.;Alchieri, E.;Searchable encryption,Tuple space,Privacy,Homomorphic encryption
+Solis, P.;Solis, P.;Searchable encryption,Tuple space,Privacy,Homomorphic encryption
+De Almeida, K.L.A.;De Almeida, K.L.A.;Cross-technology Interference,Smart Homes,Internet of Things,Wireless Channel
+Patel, A.;Patel, A.;Smart Homes,Home Automation,Internet of Things,Description Language
+Valentini, E.P.;Valentini, E.P.;
+Lieira, D.D.;Lieira, D.D.;
+Nakamura, L.H.V.;Nakamura, L.H.V.;
+Goncalves, D.;Goncalves, D.;Virtual Machine,Fog,Migration,Placement
+Cerqueira, E.C.;Cerqueira, E.C.;Future Internet,Software Defined Networks,Internet Service Providers,Network Virtualization,Network Function Virtualization
+Silva, H.;Silva, H.;Big Data,Data Analytics,Anonymization,Privacy
+Basso, T.;Basso, T.;Big Data,Access control,reference architecture,Data Analytics,privacy,UML profile,Privacy,web application,Data Mining,Data utility,Graph-oriented database,Anonymization,Security,NoSQL database,conceptual model,Classification
+Moraes, R.;Moraes, R.;Big Data,Access control,reference architecture,Data Analytics,privacy,UML profile,Privacy,web application,Graph-oriented database,Anonymization,Security,NoSQL database,conceptual model
+Elia, D.;Elia, D.;Big Data,Data Analytics,Anonymization,Privacy
+Fiore, S.;Fiore, S.;Big Data,Data Analytics,Anonymization,Privacy
+De Oliveira, A.L.;De Oliveira, A.L.;certification,CHESS,model-based development,Dependability analysis,safety standards,process
+Paiva Bressan, L.;Paiva Bressan, L.;certification,CHESS,model-based development,Dependability analysis,safety standards,process
+Gallina, B.;Gallina, B.;certification,CHESS,model-based development,Dependability analysis,safety standards,process
+Srivastava, S.;Srivastava, S.;Multi-Label Classification,urban areas,volunteered geographic information,Google Street View,Convolutional Neural Network,Building Function,ground-based pictures,Landuse characterization,Urban space,convolutional neural networks
+Swinkels, D.;Swinkels, D.;Multi-Label Classification,Google Street View,Convolutional Neural Network,Building Function,Urban space
+Ramos, P.;Ramos, P.;Parallelism,Tasks,OpenMP
+Souza, G.;Souza, G.;Parallelism,Tasks,OpenMP
+Soares, D.;Soares, D.;Parallelism,Tasks,OpenMP
+Araújo, G.;Araújo, G.;Parallelism,Tasks,OpenMP
+Schouery, R.C.S.;Schouery, R.C.S.;wireless sensor networks,Steiner tree problem,Genetic algorithm,Bus evacuation,Emergency planning,routing algorithm,Pricing,network lifetime,in-network aggregation,Approximation algorithm,Economics,Approximation Algorithms,Randomized Algorithms
+Quispe, K.E.Y.;Quispe, K.E.Y.;Container Relocation Problem,Lower bounds,Exact algorithms,Blocks Relocation Problem
+Boukerche, A.;Boukerche, A.;Urban data,Big Data,Mobility Analysis,Big data,Smart Cities,Urban Data,Content replication,Mobile content delivery network,Smart cities,Vehicular Ad Hoc Networks,Urban mobility analysis
+Molijn, R.A.;Molijn, R.A.;C-band SAR,Spatial analysis,Crop monitoring,Landsat,Land cover mapping,Time series processing,Sensor assimilation,SAR signals,Precipitation,Sugarcane gaps
+Iannini, L.;Iannini, L.;C-band SAR,Spatial analysis,Crop monitoring,Landsat,Land cover mapping,Time series processing,Sensor assimilation,SAR signals,Precipitation,Sugarcane gaps
+De Souza, C.W.;De Souza, C.W.;Spatial analysis,Crop monitoring,SAR signals,Precipitation,Sugarcane gaps
+Rocha, J.V.;Rocha, J.V.;Decision making,GIS,Spatial analysis,Skip rate,Crop monitoring,Pasture,TWDTW,MODIS,Object-based image analysis,Amazon,SAR signals,Precipitation,Integrated crop-livestock,Sugarcane gaps,Planting rows
+Hanssen, R.F.;Hanssen, R.F.;C-band SAR,Spatial analysis,Crop monitoring,Landsat,Land cover mapping,Time series processing,Sensor assimilation,SAR signals,Precipitation,Sugarcane gaps
+Santana, T.M.H.C.;Santana, T.M.H.C.;Co-occurrence Matrix,Visual Words,Superpixel,Land-cover thematic maps,Contextual description
+Dos Santos, J.A.;Dos Santos, J.A.;Markov random fields,hyper- and multi-spectral images,Contextual classification,Image foresting transform,Co-occurrence Matrix,genetic programming,Plant Species,Deep Learning,Visual Words,fusion of classifiers,Superpixel,Land-cover thematic maps,Contextual description,Unmanned Aerial Vehicles,Semantic Image Segmentation
+Verbesselt, J.;Verbesselt, J.;Remote sensing,Structural breaks,Time series,BFAST,Decomposition
+De Torres, R.S.;De Torres, R.S.;Remote sensing,Structural breaks,Time series,BFAST,Decomposition
+Marcos, D.;Marcos, D.;Markov random fields,Convolutional neural networks,OpenStreetMap,Rural buildings,Registration
+Cecília Baranauskas, M.C.;Cecília Baranauskas, M.C.;Titles,HCI,Interactive Art,Literature Survey,CHI,Words,IHC,Community,Conference,Interactive Art Examples,Interaction Design,Interactive Art Evaluation
+Moreira, E.A.;Moreira, E.A.;Alternative and Augmentative Communication,Participative design,Tangible interfaces,Affective states,Evaluation,Tangible technology,Graphic symbols
+da Costa Lima, F.M.;da Costa Lima, F.M.;Titles,HCI,Words,IHC,Community,Conference,CHI
+de Miranda, L.C.;de Miranda, L.C.;Titles,HCI,Words,IHC,Community,Conference,CHI
+Justo, A.V.;Justo, A.V.;Ontogologies,SWRL,Interactive bots,Affectivity
+Reis, J.C.D.;Reis, J.C.D.;Ontogologies,SWRL,Interactive bots,Affectivity
+Calado, I.;Calado, I.;Ontogologies,SWRL,Interactive bots,Affectivity
+Correa, A.;Correa, A.;Cognitive assistant design,Semantic technologies,Complex systems modelling,Digital agriculture
+Jesus, K.R.E.;Jesus, K.R.E.;Cognitive assistant design,Semantic technologies,Complex systems modelling,Digital agriculture
+Araujo, O.F.N.;Araujo, O.F.N.;Cognitive assistant design,Semantic technologies,Complex systems modelling,Digital agriculture
+Carvalho, H.S.;Carvalho, H.S.;echo state networks,extreme learning machines,Multiple removal,predictive deconvolution
+Shams, F.;Shams, F.;echo state networks,extreme learning machines,Multiple removal,predictive deconvolution
+Boccato, L.;Boccato, L.;Echo state networks,extreme learning machines,Variable selection,Multiple removal,Unorganized machines,Extreme learning machines,predictive deconvolution,echo state networks,Monthly seasonal streamflow series forecasting
+Raimundo, M.M.;Raimundo, M.M.;Multilabel classification,Epilepsy,Stacking,Transfer learning,Many-objective optimization,Ensemble of classifiers,Multiobjective optimization
+Zhdanov, P.;Zhdanov, P.;action recognition,neural networks
+Khan, A.;Khan, A.;pulmonary nodule detection,action recognition,false positive reduction,deep learning,bone suppression,3D convolution neural networks,lung cancer,neural networks,autoencoder,convolution neural network,residual learning
+Khattak, A.M.;Khattak, A.M.;pulmonary nodule detection,action recognition,false positive reduction,deep learning,bone suppression,3D convolution neural networks,lung cancer,neural networks,autoencoder,convolution neural network,residual learning
+Bertini, J.R.;Bertini, J.R.;Particulate Matter,Data Streams,Machine Learning,Extreme Learning Machines
+Kasahara, V.A.;Kasahara, V.A.;
+Nicoletti, M.C.;Nicoletti, M.C.;Data classification,Attribute-based decision graphs,Imputation of missing data,Graph-based data representation
+Vigneron, V.;Vigneron, V.;Matrix factorization,Non-negative tensor decomposition,rank-order statistics,CANDECOMP/PARAFAC Decomposition,Condorcet distance,ordinal decomposition,metrics,aggregation,Blind separation,NTF,Learning method,Incremental algorithm,score aggregation,ranking
+Gradvohl, A.L.S.;Gradvohl, A.L.S.;time series,space weather,forecasting,Benchmark,x-ray flux,Data stream processing,Metrics
+Braga, J.;Braga, J.;
+Santos, M.L.B.A.;Santos, M.L.B.A.;Internet of Things,authentication,federated identity management
+Carneiro, J.C.;Carneiro, J.C.;Internet of Things,authentication,federated identity management
+Teixeira, F.A.;Teixeira, F.A.;Internet of Things,authentication,federated identity management
+Henriques, M.A.A.;Henriques, M.A.A.;Internet of Things,authentication,federated identity management
+Lupori, L.;Lupori, L.;Binary translation,LLVM,RISC-V,Emulation
+Rosario, V.;Rosario, V.;Binary translation,LLVM,RISC-V,Emulation
+Hato, M.M.;Hato, M.M.;Interpreter,Optimization,Emulation
+Napoli, O.O.;Napoli, O.O.;Virtual Machines,JIT Compilation,Timing side-channel,Region Formation Techniques
+De Freitas Aranha, D.;De Freitas Aranha, D.;Virtual Machines,JIT Compilation,Timing side-channel,Region Formation Techniques
+Chantre, H.D.;Chantre, H.D.;NFV,5G,edge devices,Capacitated reliable facility location problem
+Anderson, E.;Anderson, E.;
+González, J.;González, J.;
+Gazman, A.;Gazman, A.;
+Bergman, K.;Bergman, K.;
+Honorio, B.C.;Honorio, B.C.;Over-instrumentation,Optimization,Transactional memory,Compilers,Parallel programming
+Baldassin, A.J.;Baldassin, A.J.;Over-instrumentation,Optimization,Transactional memory,Compilers,Parallel programming
+Okita, N.;Okita, N.;Distributed computing,Cloud,Seismic processing,Aws,Economics
+Rodamilans, C.;Rodamilans, C.;Distributed computing,Cloud,Seismic processing,Aws,Economics
+Coimbra, T.;Coimbra, T.;Distributed computing,Cloud,Seismic processing,Aws,Economics
+Tygel, M.;Tygel, M.;Distributed computing,Cloud,Seismic processing,Aws,Economics
+Soares, R.;Soares, R.;Phase Analysis,Sampled simulation
+Antonioli, L.;Antonioli, L.;Phase Analysis,Sampled simulation
+Francesquini, E.;Francesquini, E.;Phase Analysis,Sampled simulation
+Felzmann, I.;Felzmann, I.;Energy Efficiency,Memory approximation,Approximate Computing
+Filho, J.F.;Filho, J.F.;Energy Efficiency,Memory approximation,Approximate Computing
+Wanner, L.;Wanner, L.;Energy efficient computing,Approximate computing,Memory approximation,Approximate Computing,Energy Efficiency
+Esmael, A.A.;Esmael, A.A.;Multiclass classification,Multiscale segmentation,Majority voting,Object-based classification,Multiscale,Boosting,Comparative study,Classifier ensemble
+dos Santos, J.A.;dos Santos, J.A.;Multiclass classification,Multiscale segmentation,Majority voting,Object-based classification,Multiscale,Boosting,Comparative study,Classifier ensemble
+Afonso, L.C.S.;Afonso, L.C.S.;Paleokarst,Self-organizing map,Graphics processing unit,Campos basin
+Basso, M.;Basso, M.;Paleokarst,Self-organizing map,Graphics processing unit,Campos basin
+Kuroda, M.C.;Kuroda, M.C.;Paleokarst,Self-organizing map,Graphics processing unit,Campos basin
+Vidal, A.C.;Vidal, A.C.;Paleokarst,Self-organizing map,Graphics processing unit,Campos basin
+Santos, R.;Santos, R.;Multicore design,Physical design estimates,Dark silicon,Design space exploration (DSE),Performance simulation
+Moreno, E.;Moreno, E.;Multicore design,Physical design estimates,Dark silicon,Design space exploration (DSE),Performance simulation
+Kalogeiton, E.;Kalogeiton, E.;Content caching,VANETs,Content dissemination,Software defined networking,Replication,Floating content,Content centric networking
+Soua, R.;Soua, R.;Content caching,VANETs,Content dissemination,Software defined networking,Replication,Floating content,Content centric networking
+Rizzo, G.A.;Rizzo, G.A.;Content caching,VANETs,Content dissemination,Software defined networking,Replication,Floating content,Content centric networking
+Amorim, W.P.;Amorim, W.P.;Semi-supervised learning,Multi-label assignment,Optimum-path forest classifiers
+Li, H.;Li, H.;3D CNN,deep learning,domain generalization,Face spoofing
+He, P.;He, P.;3D CNN,deep learning,domain generalization,Face spoofing
+Wang, S.;Wang, S.;3D CNN,deep learning,domain generalization,Face spoofing
+Jiang, X.;Jiang, X.;3D CNN,deep learning,domain generalization,Face spoofing
+Yu, Y.;Yu, Y.;Peridynamics,Mixed boundary conditions,Robin boundary condition,Nonlocal models,Coupling method
+Bargos, F.F.;Bargos, F.F.;Peridynamics,Mixed boundary conditions,Robin boundary condition,Nonlocal models,Coupling method
+You, H.;You, H.;Peridynamics,Mixed boundary conditions,Robin boundary condition,Nonlocal models,Coupling method
+Karniadakis, G.E.;Karniadakis, G.E.;Peridynamics,Mixed boundary conditions,Robin boundary condition,Nonlocal models,Coupling method
+Giuliani, S.;Giuliani, S.;
+Borba, J.V.V.B.;Borba, J.V.V.B.;
+Fracasso, J.V.C.;Fracasso, J.V.C.;multi-objective decision,Semantic genetic programming,direct and indirect methods,semantically-driven mutation
+Fernandez, S.A.;Fernandez, S.A.;
+Montalvão, J.;Montalvão, J.;
+Silva, D.G.;Silva, D.G.;Blind channel equalization,finite fields,Coding,Independent Component Analysis (ICA),Galois fields,Combinatorial optimization
+Rodrigues, E.;Rodrigues, E.;Dynamic statements,Refactoring,Frameworks,Dynamic languages
+Durelli, R.S.;Durelli, R.S.;Dynamic statements,Refactoring,Frameworks,Dynamic languages
+De Bettio, R.W.;De Bettio, R.W.;Dynamic statements,Refactoring,Frameworks,Dynamic languages
+Terra, R.;Terra, R.;Dynamic statements,Refactoring,Frameworks,Dynamic languages
+Cardoso, W.F.F.;Cardoso, W.F.F.;Cloud computing,Search-based testing,Robustness testing,Model-based testing
+Ceissler, C.;Ceissler, C.;Compiler,Acceleration,FPGA,OpenMP
+Nepomuceno, R.;Nepomuceno, R.;Compiler,Acceleration,FPGA,OpenMP
+Rana, O.;Rana, O.;Fog & Edge Resource Allocation,Sensor Applications,Cloud Computing
+Shaikh, M.;Shaikh, M.;Fog & Edge Resource Allocation,Sensor Applications,Cloud Computing
+Ali, M.;Ali, M.;Fog & Edge Resource Allocation,Sensor Applications,Cloud Computing
+Anjum, A.;Anjum, A.;Fog & Edge Resource Allocation,Sensor Applications,Cloud Computing
+Miranda Assis, M.R.;Miranda Assis, M.R.;Ranking,Scheduling,Fog Computing
+Póvoa, M.G.;Póvoa, M.G.;task scheduling,data grids,approximation algorithms,data replication
+Navarro, L.C.;Navarro, L.C.;Feature back-projection,Feature importance,Accountable machine learning,Android permissions,Malware,Discriminant features,Bags of graphs,Source printer attribution,Ontology,Machine learning,Digital forensics,Feature mapping
+Navarro, A.K.W.;Navarro, A.K.W.;Feature back-projection,Feature importance,Accountable machine learning,Android permissions,Malware,Discriminant features,Bags of graphs,Source printer attribution,Ontology,Machine learning,Digital forensics,Feature mapping
+Ciesielski, K.C.;Ciesielski, K.C.;Image foresting transform,Connectivity functions,Dijkstra’s algorithm,Graph-search algorithms
+Miranda, P.A.V.;Miranda, P.A.V.;Image foresting transform,Connectivity functions,Dijkstra’s algorithm,Graph-search algorithms
+De Werneck, R.O.;De Werneck, R.O.;Early fusion,Graph-based fusion,Flood detection,MediaEval,Image representation
+Fadel, S.G.;Fadel, S.G.;Early fusion,Graph-based fusion,Flood detection,MediaEval,Image representation
+Pomari, T.;Pomari, T.;
+Ruppert, G.;Ruppert, G.;Malicious Software Classification,Convolutional Neural Networks,Malicious software,Deep Learning,Deep learning,Transfer learning,Machine learning,Classification,Transfer Learning
+Peixoto, B.M.;Peixoto, B.M.;Violence classification,Deep-learning,Semantic concept detection
+Ferreira, C.B.R.;Ferreira, C.B.R.;Multiresolution Analysis,Pedestrian Detection,Gigapixel image
+Soares, F.;Soares, F.;Multiresolution Analysis,Pedestrian Detection,Gigapixel image
+Ferreira, W.D.;Ferreira, W.D.;Multiresolution Analysis,Pedestrian Detection,Gigapixel image
+Da Cruz Junior, G.;Da Cruz Junior, G.;Multiresolution Analysis,Pedestrian Detection,Gigapixel image
+Ramirez Cornejo, J.Y.;Ramirez Cornejo, J.Y.;facial expression,feature descriptors,fiducial landmarks,emotion recognition,occlusion
+Marcos Siqueira Bueno, P.;Marcos Siqueira Bueno, P.;Assessment Dimension,Heuristics,Security Property,Standard,Security,Ontology,Coverage,Assessment
+Lobato Gimenes, T.;Lobato Gimenes, T.;Seismic Processing,OpenACC,OpenCL,CMP,OpenMP,GPU seismic eficiency,CUDA,Common Reflection Surface,CRS,GPU seismic performance,Common mid point
+Gomes, A.R.;Gomes, A.R.;Fog computing,Fog-assisted translation,Dynamic translation,Cloud-assisted translation,Virtual machines,RISCV,Internet of Things
+Morgado, C.;Morgado, C.;Access control,Graph-oriented database,NoSQL database,Security
+Baioco, G.B.;Baioco, G.B.;Access control,Graph-oriented database,NoSQL database,Security
+Cruz, L.;Cruz, L.;LLVM,OpenMP,Apache spark
+Cavalheiro, E.M.B.;Cavalheiro, E.M.B.;Distributed energy sources,Power distribution networks,Smart grids,Optimal network configurations,BRKGA metaheuristic
+Vergílio, A.H.B.;Vergílio, A.H.B.;Distributed energy sources,Power distribution networks,Smart grids,Optimal network configurations,BRKGA metaheuristic
+Hornung, H.H.;Hornung, H.H.;Participatory design,Emoticons,Meanings,Cognitive impairment,Intentions,Computer-mediated communication,User participation,Older adults,Computer Supported Collaborative Work,Pragmatics,User Interface Design,Graphical User Interfaces
+Li, S.;Li, S.;
+Kuo, C.-C.J.;Kuo, C.-C.J.;
+Piva, A.;Piva, A.;
+Huang, J.;Huang, J.;
+Fantini, I.;Fantini, I.;Neuroimaging,Motion Artifacts,Quality screening,Deep Learning,Magnetic Resonance Imaging
+Yasuda, C.;Yasuda, C.;Neuroimaging,Motion Artifacts,Quality screening,Deep Learning,Magnetic Resonance Imaging
+Da Silva, R.A.C.;Da Silva, R.A.C.;
+Crepaldi, T.;Crepaldi, T.;
+Fonseca, N.L.S.D.;Fonseca, N.L.S.D.;
+Sekijima, L.R.;Sekijima, L.R.;LTE networks,Machine-to-machine communications,Random-access procedure and RAN overload control
+Oliveira, A.R.;Oliveira, A.R.;Heuristics,Reversals,Intergenic regions,Transpositions,Super short operations,Approximation algorithm,Approximation algorithms,Genome rearrangement,Circular permutations,Reversals and transpositions,Super short reversals,Weighted operations,Genome rearrangements
+Ghose, S.;Ghose, S.;
+Gómez-Luna, J.;Gómez-Luna, J.;
+Shen, B.;Shen, B.;Digital humanities,Forensics,Machine learning,Natural language processing,Word embeddings,Text phylogeny
+Forstall, C.W.;Forstall, C.W.;Digital humanities,Forensics,Machine learning,Natural language processing,Word embeddings,Text phylogeny
+Rocha, A.D.R.;Rocha, A.D.R.;Digital humanities,Forensics,Machine learning,Natural language processing,Word embeddings,Text phylogeny
+Villota, W.;Villota, W.;software-defined networks,network functions virtualization,hierarchical task network,Automated planning
+Gironza, M.;Gironza, M.;software-defined networks,network functions virtualization,hierarchical task network,Automated planning
+Ordonez, A.;Ordonez, A.;software-defined networks,network functions virtualization,hierarchical task network,Automated planning
+Moraes, T.F.D.;Moraes, T.F.D.;Texture mapping,volume rendering,medical image visualization,projection techniques
+Amorim, P.H.J.;Amorim, P.H.J.;Texture mapping,volume rendering,medical image visualization,projection techniques
+da Silva, J.V.L.;da Silva, J.V.L.;Texture mapping,volume rendering,medical image visualization,projection techniques
+Medeiros, I.;Medeiros, I.;Platoon,VANET,And QoE Support
+Junior, W.L.;Junior, W.L.;Platoon,VANET,And QoE Support
+Castro, R.A.H.;Castro, R.A.H.;Energy efficient computing,Approximate computing
+Surita, R.C.;Surita, R.C.;Delay-based PUF,Physical Unclonable Function,XOR fabric,Hardware-intrinsic security,Modeling attacks
+Luna, I.;Luna, I.;Echo state networks,Unorganized machines,Extreme learning machines,Variable selection,Monthly seasonal streamflow series forecasting
+De Geus, P.L.;De Geus, P.L.;Binary analysis,Branch monitor,Debug,Introspection,ROP,Malware,SMM,Security,HVM
+Fazanaro, D.;Fazanaro, D.;Contourlets,Electrocardiogram signals,Signal classification,Heart rhythm,Shearlets
+Mariano, G.C.;Mariano, G.C.;multivariate temporal data visualization,Visual rhythm,phenology pattern detection,Radial visualization,Multivariate time series,Phenology visualization,motion history histogram
+Staggemeier, V.G.;Staggemeier, V.G.;Multivariate time series,Phenology visualization,Radial visualization,Visual rhythm
+Morellato, L.P.C.;Morellato, L.P.C.;multivariate temporal data visualization,Visual rhythm,phenology pattern detection,Radial visualization,Multivariate time series,Phenology visualization,motion history histogram
+Jensen, C.J.;Jensen, C.J.;User Interface Design,Computer Supported Collaborative Work,Graphical User Interfaces
+Jarboui, L.;Jarboui, L.;Bilinear mixing model,Second-order Statistics,Blind Source Separation
+Hosseini, S.;Hosseini, S.;Bilinear mixing model,Second-order Statistics,Blind Source Separation
+Hamida, A.B.;Hamida, A.B.;Bilinear mixing model,Second-order Statistics,Blind Source Separation
+Roberto E Souza, M.;Roberto E Souza, M.;Video stabilization,Motion energy image,Handheld camera,Qualitative evaluation
+Cunha, F.;Cunha, F.;
+Ramos, H.S.;Ramos, H.S.;
+Mini, R.;Mini, R.;
+Loureiro, A.;Loureiro, A.;
+Oliveira, T.C.D.;Oliveira, T.C.D.;Two-wheeled inverted pendulum,Segway,Mechanical control,Modular design,Mechatronics design
+Pereira, V.N.G.;Pereira, V.N.G.;Less-than-Truckload,Pickup-and-Delivery,And phrases Steiner Cycle,Routing
+Felice, M.C.S.;Felice, M.C.S.;Less-than-Truckload,Pickup-and-Delivery,And phrases Steiner Cycle,Routing
+Hokama, P.H.D.B.;Hokama, P.H.D.B.;Less-than-Truckload,Pickup-and-Delivery,And phrases Steiner Cycle,Routing
+Rauber, P.E.;Rauber, P.E.;High-dimensional data visualization,Graphical user interfaces,Pattern classification,Dimensionality reduction,Visual analytics
+Falcaõ, A.X.;Falcaõ, A.X.;High-dimensional data visualization,Graphical user interfaces,Pattern classification,Dimensionality reduction,Visual analytics
+de Paula, B.H.;de Paula, B.H.;Computational thinking,Arts,Humanities,Game-making
+Burn, A.;Burn, A.;Computational thinking,Arts,Humanities,Game-making
+Noss, R.;Noss, R.;Computational thinking,Arts,Humanities,Game-making
+Amaral, J.N.;Amaral, J.N.;Thread-level speculation,workloads,transactional memory,CPU,performance evaluation,hardware transactional memory,benchmarking,Feedback Directed Optimization
+Ashley, D.R.;Ashley, D.R.;workloads,CPU,performance evaluation,benchmarking,Feedback Directed Optimization
+Redshaw, M.;Redshaw, M.;workloads,CPU,performance evaluation,benchmarking,Feedback Directed Optimization
+Rodrigues, R.E.;Rodrigues, R.E.;workloads,CPU,performance evaluation,benchmarking,Feedback Directed Optimization
+De Oliveira, A.K.D.S.;De Oliveira, A.K.D.S.;Vector Instructions,SHA-NI,AES-NI,Hash-based Digital Signatures,Data Encryption
+Grijalva, F.;Grijalva, F.;Engineering education,manifold learning,Spatial audio,recommender systems,Accessibility,Visually impaired,HRTF
+Martini, L.C.;Martini, L.C.;manifold learning,recommender systems,Spatial audio,HRTF
+Masiero, B.;Masiero, B.;manifold learning,recommender systems,Spatial audio,HRTF
+Ticona-Zegarra, E.;Ticona-Zegarra, E.;wireless sensor networks,Steiner tree problem,Genetic algorithm,routing algorithm,network lifetime,in-network aggregation
+Loos, W.;Loos, W.;life and medical sciences,volume visualization,interactive environments,computer graphics
+Cendes, F.;Cendes, F.;life and medical sciences,volume visualization,interactive environments,computer graphics
+I. Meneguette, R.;I. Meneguette, R.;Vehicular Ad Hoc Networks,Content replication,Mobile content delivery network
+A. Silva, F.;A. Silva, F.;Vehicular Ad Hoc Networks,Content replication,Mobile content delivery network
+B. Ruiz, L.;B. Ruiz, L.;Vehicular Ad Hoc Networks,Content replication,Mobile content delivery network
+A. F. Loureiro, A.;A. F. Loureiro, A.;Vehicular Ad Hoc Networks,Content replication,Mobile content delivery network
+Batista, C.L.G.;Batista, C.L.G.;Nanosatellites,CubeSat,Testing,Robustness,Fault injection,MIL
+De Fatima Mattiello-Francisco, M.;De Fatima Mattiello-Francisco, M.;Nanosatellites,CubeSat,Testing,Robustness,Fault injection,MIL
+Domingues, D.G.;Domingues, D.G.;Affective Cane,Embodied Cognition,M-Health,Expanded Sensorium
+Funghetto, S.;Funghetto, S.;Affective Cane,Embodied Cognition,M-Health,Expanded Sensorium
+Miranda, M.R.;Miranda, M.R.;Affective Cane,Embodied Cognition,M-Health,Expanded Sensorium
+Da Rocha, A.F.;Da Rocha, A.F.;Affective Cane,Embodied Cognition,M-Health,Expanded Sensorium
+P. R. Filho, G.;P. R. Filho, G.;Home Automation System,Smart home,Domotic,Actuator,Energy efficiency,Decision-making,Sensor,Energy consumption,Energy management,Wireless,Infrastructure
+A. Villas, L.;A. Villas, L.;Home Automation System,Smart home,Domotic,Actuator,Energy efficiency,Decision-making,Sensor,Energy consumption,Energy management,Wireless,Infrastructure
+Freitas, H.;Freitas, H.;Home Automation System,Smart home,Domotic,Actuator,Energy efficiency,Decision-making,Sensor,Energy consumption,Energy management,Wireless,Infrastructure
+L. Guidoni, D.;L. Guidoni, D.;Home Automation System,Smart home,Domotic,Actuator,Energy efficiency,Decision-making,Sensor,Energy consumption,Energy management,Wireless,Infrastructure
+Cordova Neira, M.A.;Cordova Neira, M.A.;open-set recognition,optimum-path forest,Pattern recognition,genetic programming,data fusion,majority voting
+Ribeiro Mendes Junior, P.;Ribeiro Mendes Junior, P.;open-set recognition,optimum-path forest,Pattern recognition,genetic programming,data fusion,majority voting
+Da Silva Torres, R.;Da Silva Torres, R.;open-set recognition,optimum-path forest,Pattern recognition,genetic programming,data fusion,majority voting
+Pasti, R.;Pasti, R.;
+Politi, A.A.;Politi, A.A.;
+De Castro, L.N.;De Castro, L.N.;
+J. Schiozer, D.;J. Schiozer, D.;history matching,Bayesian inference,Reservoir simulation,parallel hierarchical sampling,parallel interacting Markov chain Monte Carlo
+da Costa, M.N.;da Costa, M.N.;Matrix factorization,Semi-blind receivers,MIMO Systems,Tensor coding,Non-negative tensor decomposition,Tensor modelling,Channel estimation,Kronecker product,Learning method,Incremental algorithm,CANDECOMP/PARAFAC Decomposition,NTF
+Favier, G.;Favier, G.;Semi-blind receivers,MIMO Systems,Tensor coding,Tensor modelling,Channel estimation,Kronecker product
+Bondavalli, A.;Bondavalli, A.;reference architecture,web application,UML profile,privacy,conceptual model
+de Paula, S.P.;de Paula, S.P.;Linear Programming,Approximation algorithm,Fault tolerance,Capacitated k-center,LP rounding,Non-uniform capacities
+Nose-Filho, K.;Nose-Filho, K.;
+Takahata, A.K.;Takahata, A.K.;
+Lopes, R.;Lopes, R.;
+Alregib, G.;Alregib, G.;
+Fomel, S.;Fomel, S.;
+Kodewitz, A.;Kodewitz, A.;Matrix factorization,Non-negative tensor decomposition,NTF,Learning method,Incremental algorithm,CANDECOMP/PARAFAC Decomposition
+Tome, A.M.;Tome, A.M.;Matrix factorization,Non-negative tensor decomposition,NTF,Learning method,Incremental algorithm,CANDECOMP/PARAFAC Decomposition
+Langlang, E.;Langlang, E.;Matrix factorization,Non-negative tensor decomposition,NTF,Learning method,Incremental algorithm,CANDECOMP/PARAFAC Decomposition
+Caceo, R.;Caceo, R.;PI,PBL,Active learning,CS0,CS1,Computer science
+Gama, G.;Gama, G.;PI,PBL,Active learning,CS0,CS1,Computer science
+Scheirer, W.;Scheirer, W.;Multimedia Phylogeny,Image forensics,Tampering heat maps,Forgery detection,Provenance Context Incorporation,Context-aware digital forensics,Undirected Phylogeny Graph,Phylogeny Graph,Media Forensics,Image Phylogeny,Provenance Filtering,Splicing detection
+Bestagini, P.;Bestagini, P.;Tampering heat maps,Forgery detection,Context-aware digital forensics,Image forensics,Splicing detection
+Pazziy, R.W.;Pazziy, R.W.;
+Torres, B.S.;Torres, B.S.;Visual rhythm,Abnormal event detection,Human action classification,Spatio-temporal features
+Cover, G.S.;Cover, G.S.;Magnetic resonance imaging,Segmentation,Systematic literature review,Corpus callosum
+Herrera, W.G.;Herrera, W.G.;Magnetic resonance imaging,Segmentation,Systematic literature review,Corpus callosum
+Bento, M.P.;Bento, M.P.;Magnetic resonance imaging,Segmentation,Systematic literature review,Corpus callosum
+Appenzeller, S.;Appenzeller, S.;Segmentation,image processing,Systematic literature review,magnetic resonance imaging,Diffusion tensor imaging,image segmentation,Magnetic resonance imaging,Corpus callosum
+Arakaki, R.K.;Arakaki, R.K.;Hybrid genetic algorithm,Open capacitated arc routing problem,Metaheuristic
+Silva, F.B.;Silva, F.B.;Bag models,Graph-based retrieval,Graph matching,Graph-based classification
+Botacin, M.F.;Botacin, M.F.;64-Bit systems,OS security,CPL malware,Malware analysis systems,.Net malware,Evasive malware
+Grégio, A.R.A.;Grégio, A.R.A.;64-Bit systems,OS security,CPL malware,Malware analysis systems,.Net malware,Evasive malware
+Boulkenafet, Z.;Boulkenafet, Z.;
+Komulainen, J.;Komulainen, J.;
+Akhtar, Z.;Akhtar, Z.;
+Hadid, A.;Hadid, A.;
+Arias, D.G.;Arias, D.G.;pollen classification,classifier ensemble,image descriptors,Palynology
+Cirne, M.V.M.;Cirne, M.V.M.;Image analysis,Texture descriptor,Texture,Image similarity,classifier ensemble,pollen classification,Age estimation,Video summarization,Weber's Law,Palynology,image descriptors,Geometric descriptor,Color information
+Chire, J.E.;Chire, J.E.;pollen classification,classifier ensemble,image descriptors,Palynology
+Ramos, F.;Ramos, F.;Malicious Software Classification,Convolutional Neural Networks,Malicious software,Deep Learning,Deep learning,Transfer learning,Machine learning,Classification,Transfer Learning
+De Geus, P.;De Geus, P.;Deep Learning,Malicious Software Classification,Convolutional Neural Networks,Transfer Learning
+Chaves, L.J.;Chaves, L.J.;
+Garcia, I.C.;Garcia, I.C.;
+Lobato, W.;Lobato, W.;Centrality,VANET,Data dissemination
+Bueno, A.;Bueno, A.;Particulate Matter,Data Streams,Machine Learning,Extreme Learning Machines
+Caldana, I.;Caldana, I.;time series,forecasting,space weather,x-ray flux
+Da Silva, A.E.A.;Da Silva, A.E.A.;time series,forecasting,space weather,x-ray flux
+Sousa Bezerra, P.M.;Sousa Bezerra, P.M.;
+Santos, A.C.S.;Santos, A.C.S.;Video analysis,Cut detection,Shot boundary,Adaptive threshold,Image segmentation,Particle swarm optimization,Fuzzy threshold,Image thresholding,Fitness function
+Destro, J.M.;Destro, J.M.;Background knowledge,Cross-lingual matching,Semantic matching
+Dos Santos, G.O.;Dos Santos, G.O.;Background knowledge,Cross-lingual matching,Semantic matching
+Carvalho, A.M.B.R.;Carvalho, A.M.B.R.;Background knowledge,Cross-lingual matching,Semantic matching
+Ricarte, I.L.M.;Ricarte, I.L.M.;Background knowledge,Cross-lingual matching,Semantic matching
+Dias, D.;Dias, D.;
+Bissoto, A.;Bissoto, A.;Deep learning,Generative models,Skin cancer
+Perez, F.;Perez, F.;Generative models,Skin cancer,Data augmentation,Deep learning,Skin lesion analysis
+Valle, E.;Valle, E.;Generative models,Skin cancer,Data augmentation,Deep learning,Skin lesion analysis
+de Santana, V.F.;de Santana, V.F.;User interface evaluation,Accessibility,Organizational Semiotics,Usability
+Pereira, G.C.;Pereira, G.C.;Codesign,LGBT,Simplicity in design,Systematic review,Critical theory
+Nicastro, F.;Nicastro, F.;Computational thinking,Computational thinking methodology,Creative learning,Educational methods
+Sousa e Santos, A.C.;Sousa e Santos, A.C.;Video shot boundary,Video analysis,Cut detection,Bit planes
+Beserra, F.S.;Beserra, F.S.;Epilepsy,Ensemble of classifiers,Transfer learning,Multiobjective optimization
+Mussel Cirne, M.V.;Mussel Cirne, M.V.;Video keyframes,Shot boundary,Co-occurrence matrices,Content indexing,Face detection,Facial images,Gender recognition,Fiducial points,Video summarization,Geometric descriptor
+Lago, D.G.;Lago, D.G.;Ethernet networks,High-speed networks,Data centers,Scheduling algorithms
+Medhi, D.;Medhi, D.;Ethernet networks,Data center networks,Dynamic traffic engineering,Data centers,High-speed networks,Energy efficiency,Resource optimization and allocation on-demand,Virtual network,Scheduling algorithms,Request blocking
+de Almeida, W.R.;de Almeida, W.R.;Workflow,Science - experiments,Machine learning,Recommendation systems (Information filtering)
+Stein, B.V.;Stein, B.V.;Workflow,Science - experiments,Machine learning,Recommendation systems (Information filtering)
+Da Silva, E.S.;Da Silva, E.S.;Surface approximation,Point cloud,Triangular meshes,Accuracy metrics
+Santos, A.;Santos, A.;Surface approximation,Point cloud,Triangular meshes,Accuracy metrics
+Vargas Muñoz, J.E.;Vargas Muñoz, J.E.;urban areas,volunteered geographic information,Landuse characterization,ground-based pictures,convolutional neural networks
+Alexandrino, A.O.;Alexandrino, A.O.;Sorting permutations,Approximation algorithms,Genome rearrangements
+Negri Lintzmayer, C.;Negri Lintzmayer, C.;Sorting permutations,Approximation algorithms,Genome rearrangements
+Vasconcelos, C.;Vasconcelos, C.;Data augmentation,Deep learning,Skin lesion analysis
+Teixeira, B.;Teixeira, B.;Automatic detection,Spontaneous speech,Prosodic boundaries
+Raso, T.;Raso, T.;Automatic detection,Spontaneous speech,Prosodic boundaries
+Kohayakawa, Y.;Kohayakawa, Y.;
+Valejo, A.D.B.;Valejo, A.D.B.;fog computing,wireless sensor networks,IoT,wireless sensor and actuator networks,home automation,domotics,Actuator,energy efficiency,sensor,computational intelligence
+de Moraes, T.F.;de Moraes, T.F.;
+Rampazzo, W.;Rampazzo, W.;
+Faria, E.R.S.;Faria, E.R.S.;
+Rodrigues, F.C.;Rodrigues, F.C.;
+Schäfer, G.;Schäfer, G.;
+Reis, M.C.;Reis, M.C.;Volumetric precipitation experiments,Calcium carbonate nucleation,Eulerian formulation,Population balance equation
+Sousa, M.D.F.B.;Sousa, M.D.F.B.;Volumetric precipitation experiments,Calcium carbonate nucleation,Eulerian formulation,Population balance equation
+Alobaid, F.;Alobaid, F.;Volumetric precipitation experiments,Calcium carbonate nucleation,Eulerian formulation,Population balance equation
+Bertran, C.A.;Bertran, C.A.;Volumetric precipitation experiments,Calcium carbonate nucleation,Eulerian formulation,Population balance equation
+Zhao, Y.;Zhao, Y.;
+Justina, D.D.D.;Justina, D.D.D.;
+Watanabe, J.;Watanabe, J.;
+Graziano, P.;Graziano, P.;
+Lamparelli, R.A.C.;Lamparelli, R.A.C.;Decision making,GIS,Skip rate,Object-based image analysis,Planting rows
+Goldman, A.;Goldman, A.;Cloud computing,Scheduling,Distributed systems
+Werneck, R.O.;Werneck, R.O.;Graph matching,Cost learning,SVM
+Mejía, P.;Mejía, P.;Engineering education,Accessibility,Visually impaired
+César Martini, L.;César Martini, L.;Engineering education,Accessibility,Visually impaired
+Larco, J.;Larco, J.;Engineering education,Accessibility,Visually impaired
+de Franco Rosa, F.;de Franco Rosa, F.;Information security,OWL,Knowledge formalization,Ontology,Security assessment
+de Souza, R.;de Souza, R.;Segmentation,White matter hyperintensity,MR imaging,Texture features
+Hışıl, H.;Hışıl, H.;Elliptic curve scalar multiplication,Diffie-Hellman protocol,Montgomery ladder,RFC 7748
+Filho, G.P.;Filho, G.P.;Database,Emotion recognition,Analysis of feelings,Knowledge base,Speech
+de Araújo, R.J.;de Araújo, R.J.;Recoloring algorithms,User preferences,Interface adaptation,User study,Interface recoloring,Colorblind people,Accessibility
+Leite, H.M.D.A.;Leite, H.M.D.A.;
+Carvalho, S.N.D.;Carvalho, S.N.D.;
+Costa, T.B.D.S.;Costa, T.B.D.S.;
+Arantes, D.S.;Arantes, D.S.;
+Bertini Junior, J.R.;Bertini Junior, J.R.;Data classification,Attribute-based decision graphs,Imputation of missing data,Graph-based data representation
+Real, L.;Real, L.;Textual inference,Semantic relatedness,Portuguese,NLI,Open corpus
+Rodrigues, A.;Rodrigues, A.;Textual inference,Semantic relatedness,Portuguese,NLI,Open corpus
+Vieira e Silva, A.;Vieira e Silva, A.;Textual inference,Semantic relatedness,Portuguese,NLI,Open corpus
+de Paiva, V.;de Paiva, V.;Textual inference,Semantic relatedness,Portuguese,NLI,Open corpus
+Greghi, J.G.;Greghi, J.G.;
+Ambrosio, A.M.;Ambrosio, A.M.;
+Villani, E.;Villani, E.;
+de Geus, P.;de Geus, P.;Malicious software,Deep learning,Transfer learning,Machine learning,Classification
+Vitorino, P.;Vitorino, P.;Child pornography,Transfer learning,Deep learning,Fine tuning,SEIC content
+Martins, Y.;Martins, Y.;Electronic Buffering,Photonic Switching,Optical Fiber Networks,Optical Packets,Mesh Topology
+Rudge Barbosa, F.;Rudge Barbosa, F.;Electronic Buffering,Elastic optical networks,symbol error rate,Photonic Switching,optical channels,Optical Fiber Networks,Optical Packets,flexible spectrum allocation,signal band,Mesh Topology
+Celaschi, S.;Celaschi, S.;Wavelength filtering devices,Fiber optics components,Fiber optics sensors,Fiber optics
+Linder, T.;Linder, T.;Simulated phantoms,Vascular segmentation,Convolutional neural networks,Angiography,Noise patterns
+Afonso, V.;Afonso, V.;
+Kalysch, A.;Kalysch, A.;
+Müller, T.;Müller, T.;
+Dias, D.R.C.;Dias, D.R.C.;Interaction,Immersive environment,Virtual reality,Rehabilitation
+Alvarenga, I.C.;Alvarenga, I.C.;Interaction,Immersive environment,Virtual reality,Rehabilitation
+Guimarães, M.P.;Guimarães, M.P.;Interaction,Immersive environment,Virtual reality,Rehabilitation
+Brandão, A.F.;Brandão, A.F.;Interaction,Immersive environment,Virtual reality,Rehabilitation
+Pérez-Sánchez, G.;Pérez-Sánchez, G.;Elastic optical networks,symbol error rate,optical channels,flexible spectrum allocation,signal band
+Costa, A.A.;Costa, A.A.;Elastic optical networks,symbol error rate,optical channels,flexible spectrum allocation,signal band
+Meira, W.;Meira, W.;
+Cavassin, W.H.;Cavassin, W.H.;
+Guevara, J.C.;Guevara, J.C.;Fog computing,Mobile cloud,Edge computing,Resource management,Classes of service,Cloud computing,Quality of service (QoS),Internet of things (IoT)
+Andrade, D.T.G.;Andrade, D.T.G.;
+Munoz, A.D.;Munoz, A.D.;
+De Carvalho Saraiva, M.;De Carvalho Saraiva, M.;
+Lopes, M.M.;Lopes, M.M.;Edge Computing,Virtual Machine Migration,Fog Computing,Cloud Computing
+Capretz, M.A.M.;Capretz, M.A.M.;Edge Computing,Virtual Machine Migration,Fog Computing,Cloud Computing
+Higashino, W.A.;Higashino, W.A.;Edge Computing,Virtual Machine Migration,Fog Computing,Cloud Computing
+Souza, C.H.W.D.;Souza, C.H.W.D.;Decision making,GIS,Skip rate,Object-based image analysis,Planting rows
+Magalhães, P.S.G.;Magalhães, P.S.G.;Decision making,GIS,Skip rate,Object-based image analysis,Planting rows
+Ryu, B.;Ryu, B.;local pattern,face recognition,Face descriptor,edge pattern,expression recognition
+Kim, J.;Kim, J.;local pattern,face recognition,Face descriptor,edge pattern,expression recognition
+Chae, O.;Chae, O.;local pattern,face recognition,Face descriptor,edge pattern,expression recognition
+Albarracin, J.F.H.;Albarracin, J.F.H.;hyper- and multi-spectral images,fusion of classifiers,genetic programming
+Ferreira, E.;Ferreira, E.;hyper- and multi-spectral images,fusion of classifiers,genetic programming
+Nogueira, K.;Nogueira, K.;Deep Learning,Plant Species,Unmanned Aerial Vehicles,Semantic Image Segmentation
+Cancian, L.;Cancian, L.;Deep Learning,Plant Species,Unmanned Aerial Vehicles,Semantic Image Segmentation
+Morellato, L.P.;Morellato, L.P.;Deep Learning,Plant Species,Unmanned Aerial Vehicles,Semantic Image Segmentation
+Coutinho, A.;Coutinho, A.;C-band SAR,Land cover mapping,Time series processing,Sensor assimilation,Landsat
+Silva, H.D.O.;Silva, H.D.O.;Data utility,Privacy,Data Mining,Anonymization,Classification
+Moraes, R.L.D.O.;Moraes, R.L.D.O.;Data utility,Privacy,Data Mining,Anonymization,Classification
+Dos Santos, L.M.;Dos Santos, L.M.;
+Do Santos, M.F.M.;Do Santos, M.F.M.;Fiber specklegram sensor,Displacement measurement,Optical fiber sensors
+Pantoja, J.P.;Pantoja, J.P.;Transmission lines,Grapheme buckypaper,Microwaves.,Microstrip,Carbon electronics,RF
+Savu, R.;Savu, R.;Transmission lines,Grapheme buckypaper,Microwaves.,Microstrip,Carbon electronics,RF
+Canesqui, M.A.;Canesqui, M.A.;Transmission lines,Grapheme buckypaper,Microwaves.,Microstrip,Carbon electronics,RF
+Moshkalev, S.A.;Moshkalev, S.A.;Transmission lines,Grapheme buckypaper,Microwaves.,Microstrip,Carbon electronics,RF
+Oliveira, L.P.D.;Oliveira, L.P.D.;
+Teixeira, P.A.;Teixeira, P.A.;
+Junqueira, M.A.F.C.;Junqueira, M.A.F.C.;
+Spadoti, D.H.;Spadoti, D.H.;
+Dos Reis Marques, F.L.;Dos Reis Marques, F.L.;Distributed sensing,BOTDA,Moore-Penrose pseudo-inverse,Brillouin scattering,Strain sensors,Optical temperature
+Floridia, C.;Floridia, C.;Distributed sensing,BOTDA,Distributed acoustic sensing,Moore-Penrose pseudo-inverse,Optical fiber microphone,Brillouin scattering,Phase-OTDR,Rayleigh scattering,Strain sensors,Optical temperature
+Alves Almeida, T.;Alves Almeida, T.;Distributed sensing,BOTDA,Moore-Penrose pseudo-inverse,Brillouin scattering,Strain sensors,Optical temperature
+Antonio Leonardi, A.;Antonio Leonardi, A.;Distributed sensing,BOTDA,Moore-Penrose pseudo-inverse,Brillouin scattering,Strain sensors,Optical temperature
+Marques, T.H.R.;Marques, T.H.R.;Optical fiber,Polymer fiber,3D printing,Additive manufacturing
+Lima, B.M.;Lima, B.M.;Optical fiber,Polymer fiber,3D printing,Additive manufacturing
+Osório, J.H.;Osório, J.H.;Polymer fiber,Additive manufacturing,Terahertz,Nano-antennas array,Antiresonant fiber,Hollow core fiber,Plasmonics,Integrated optics,Optical fiber,3D printing
+DaSilva, L.E.;DaSilva, L.E.;Optical fiber,Polymer fiber,3D printing,Additive manufacturing
+Figueiredoy, R.C.;Figueiredoy, R.C.;Semiconductor optical amplifiers,Electro-optic devices,Electro-optic switches
+De Mello Gallepz, C.;De Mello Gallepz, C.;Semiconductor optical amplifiers,Electro-optic devices,Electro-optic switches
+Borda-Hernández, J.A.;Borda-Hernández, J.A.;
+Serpa-Imbett, C.M.;Serpa-Imbett, C.M.;
+Cruz, A.L.S.;Cruz, A.L.S.;Hollow core fiber,Antiresonant fiber,3D printing,Terahertz
+Motta, D.A.;Motta, D.A.;
+Bustamante, Y.R.R.;Bustamante, Y.R.R.;
+Freitas, A.P.;Freitas, A.P.;
+Moura, U.C.;Moura, U.C.;
+Franciscangelis, C.;Franciscangelis, C.;Distributed acoustic sensing,Optical fiber microphone,Phase-OTDR,Rayleigh scattering
+Margulis, W.;Margulis, W.;Distributed acoustic sensing,Optical fiber microphone,Phase-OTDR,Rayleigh scattering
+Kjellberg, L.;Kjellberg, L.;Distributed acoustic sensing,Optical fiber microphone,Phase-OTDR,Rayleigh scattering
+Moura, U.;Moura, U.;
+Garrich, M.;Garrich, M.;
+Cesar, A.C.;Cesar, A.C.;
+Oliveira, J.;Oliveira, J.;
+Auler, R.;Auler, R.;Internet-of-Things,virtual ISA,virtual machines
+Millani, C.E.;Millani, C.E.;Internet-of-Things,virtual ISA,virtual machines
+Brisighello, A.;Brisighello, A.;Internet-of-Things,virtual ISA,virtual machines
+Linhares, A.;Linhares, A.;Internet-of-Things,virtual ISA,virtual machines
+Madalozzo, G.;Madalozzo, G.;energy consumption,performance,simulation,MPSoCBench,DVFS
+Moraes, F.G.;Moraes, F.G.;energy consumption,performance,simulation,MPSoCBench,DVFS
+Khaleque, A.;Khaleque, A.;Integrated optics,Nano-antennas array,Plasmonics
+Hattori, H.T.;Hattori, H.T.;Integrated optics,Nano-antennas array,Plasmonics
+Cardoso, C.B.;Cardoso, C.B.;Time synchronization,3d location,Wns,Multilateration
+Resner, D.;Resner, D.;TSTP,clock synchro-nization,time synchronization,WSN
+Frohlich, A.A.;Frohlich, A.A.;TSTP,clock synchro-nization,time synchronization,WSN
+Diaz, J.S.B.;Diaz, J.S.B.;
+Zegarra, M.;Zegarra, M.;Programming Languages,Heterogeneous Computing,Parallel Programming,Compiler Techniques
+Martorell, X.;Martorell, X.;Programming Languages,Heterogeneous Computing,Parallel Programming,Compiler Techniques
+Soares, N.C.;Soares, N.C.;multivariate temporal data visualization,motion history histogram,phenology pattern detection
+Braga, A.;Braga, A.;Software security,Benchmarking,Static analysis tools,Cryptography
+Antunes, N.;Antunes, N.;Software security,Benchmarking,Static analysis tools,Cryptography
+Laranjeiro, N.;Laranjeiro, N.;Software security,Benchmarking,Static analysis tools,Cryptography
+Pereira, A.D.;Pereira, A.D.;Decision Tree Learning,Stencil,Work Partitioning
+Rocha, R.C.O.;Rocha, R.C.O.;Decision Tree Learning,Stencil,Work Partitioning
+Castro, M.;Castro, M.;Decision Tree Learning,Stencil,Work Partitioning
+Goes, L.F.W.;Goes, L.F.W.;Decision Tree Learning,Stencil,Work Partitioning
+Zucchi, R.A.;Zucchi, R.A.;local descriptor,fruit fly,image classification,pest crop
+Tadonki, C.;Tadonki, C.;
+Bentes, C.;Bentes, C.;
+Navaux, P.;Navaux, P.;
+Farias, R.;Farias, R.;
+Brunetta, J.R.;Brunetta, J.R.;Virtual Machines,IoT,Fog Computing,Constrained Devices
+Sousa, R.C.F.;Sousa, R.C.F.;Heterogeneous architectures,Compilers,Data coherence
+Pereira, M.M.;Pereira, M.M.;Heterogeneous architectures,Compilers,Data coherence
+Novas, R.V.;Novas, R.V.;Object Detection,Automatic Monitoring,Image Processing,Boiler Chickens,Computer Vision
+Figueroa, J.A.;Figueroa, J.A.;deep learning,semi-supervised learning,clustering,probabilistic models,generative models
+Chiachia, G.;Chiachia, G.;convolutional networks,face recognition,negative mining
+Oliveira, I.D.P.;Oliveira, I.D.P.;Face detection,Performance Improvement,Post-processing,Skin detection
+Veloso, L.;Veloso, L.;Face detection,Performance Improvement,Post-processing,Skin detection
+Pereira, E.;Pereira, E.;Face detection,Performance Improvement,Post-processing,Skin detection
+Rodrigues, L.M.D.A.;Rodrigues, L.M.D.A.;carotid artery distensibility,watershed transform,carotid artery imaging,max-tree,carotid artery segmentation,cine FSE
+Souza, R.M.D.;Souza, R.M.D.;carotid artery distensibility,watershed transform,carotid artery imaging,max-tree,carotid artery segmentation,cine FSE
+Lotufo, R.D.A.;Lotufo, R.D.A.;carotid artery distensibility,watershed transform,carotid artery imaging,max-tree,carotid artery segmentation,cine FSE
+Souza, F.D.;Souza, F.D.;Violent Detection,Anomalous Events,Surveillance Systems,Video Analysis
+Condori, M.A.T.;Condori, M.A.T.;superpixels,Differential Image Foresting Transform,Image Foresting Transform
+Cappabianco, F.A.M.;Cappabianco, F.A.M.;superpixels,Differential Image Foresting Transform,Image Foresting Transform
+Miranda, P.A.V.D.;Miranda, P.A.V.D.;superpixels,Differential Image Foresting Transform,Image Foresting Transform
+Costa, F.;Costa, F.;Mutual information,Dissimilarity calculation,Image phylogeny reconstruction,Digital forensics
+Ferrara, P.;Ferrara, P.;Mutual information,Dissimilarity calculation,Image phylogeny reconstruction,Digital forensics
+Hayashi, E.C.S.;Hayashi, E.C.S.;Information visualization,Tactile map,HCI,Enactive systems,Universal design,Tactile floor,Affectibility,Accessibility,Socio-enactive systems
+Muriana, L.M.;Muriana, L.M.;Older adults,Participatory design,Cognitive impairment
+Prado, A.B.;Prado, A.B.;Social software design,Socially aware computing,Sociotechnical networks,Actor-network theory
+Kim, B.;Kim, B.;
+Roy, K.;Roy, K.;
+Cover, G.;Cover, G.;magnetic resonance imaging,image processing,Diffusion tensor imaging,image segmentation
+Calumby, R.T.;Calumby, R.T.;Diversity,Relevance feedback,Machine learning,Multimodal retrieval
+Maswood, M.M.S.;Maswood, M.M.S.;Data center networks,Dynamic traffic engineering,Energy efficiency,Virtual network,Resource optimization and allocation on-demand,Request blocking
+Develder, C.;Develder, C.;Data center networks,Dynamic traffic engineering,Energy efficiency,Virtual network,Resource optimization and allocation on-demand,Request blocking
+Dobrenkii, A.;Dobrenkii, A.;pulmonary nodule detection,false positive reduction,deep learning,3D convolution neural networks,lung cancer,residual learning
+Kuleev, R.;Kuleev, R.;pulmonary nodule detection,false positive reduction,deep learning,bone suppression,3D convolution neural networks,lung cancer,autoencoder,convolution neural network,residual learning
+Gusarev, M.;Gusarev, M.;bone suppression,deep learning,lung cancer,autoencoder,convolution neural network
+Chiarelli, L.R.;Chiarelli, L.R.;Finite element method,Allen–Cahn,Phase field,Damage,Discontinuous Galerkin method,Cahn–Hilliard
+Fumes, F.G.;Fumes, F.G.;Finite element method,Allen–Cahn,Phase field,Damage,Discontinuous Galerkin method,Cahn–Hilliard
+Moraes, E.A.B.D.;Moraes, E.A.B.D.;Finite element method,Allen–Cahn,Phase field,Damage,Discontinuous Galerkin method,Cahn–Hilliard
+Boldrini, J.L.;Boldrini, J.L.;Finite element method,Allen–Cahn,Phase field,Damage,Discontinuous Galerkin method,Cahn–Hilliard
+C. Pedrosa, L.L.;C. Pedrosa, L.L.;Geometric problem,Connected facility location problem,Prize-collecting,Polynomial-time approximation scheme
+S. Schouery, R.C.;S. Schouery, R.C.;Geometric problem,Connected facility location problem,Prize-collecting,Polynomial-time approximation scheme
+D. de Souza, R.G.;D. de Souza, R.G.;Geometric problem,Connected facility location problem,Prize-collecting,Polynomial-time approximation scheme
+Teixeira, R.F.S.;Teixeira, R.F.S.;high-resolution images,Biometrics,pores,quality assessment,fingerprint analysis
+Tomàs, J.C.;Tomàs, J.C.;Time,Time Series,NDVI,Remote Sensing,LULC,Machine Learning,Crop Classification,SVM
+Esquerdo, J.C.D.M.;Esquerdo, J.C.D.M.;Time,Time Series,NDVI,Remote Sensing,LULC,Machine Learning,Crop Classification,SVM
+Coutinho, A.C.;Coutinho, A.C.;Time,Time Series,NDVI,Remote Sensing,LULC,Machine Learning,Crop Classification,SVM
+Moia, V.H.G.;Moia, V.H.G.;
+Borges, F.;Borges, F.;
+Manabe, V.D.;Manabe, V.D.;TWDTW,MODIS,Amazon,Integrated crop-livestock,Pasture
+Melo, M.R.S.;Melo, M.R.S.;TWDTW,MODIS,Amazon,Integrated crop-livestock,Pasture
