@@ -1,13 +1,13 @@
-ID;Label;Keywords
-Gamess, E.;Gamess, E.;Dual-stack,Load balancer,Benchmarks,VANETs,routing protocols,Architecture,Ethernet,Kamailio,Transition Technologies,Network Simulators,SIPp,Asterisk,DYMO,VANET,Web application,DUAL,Testing,ad hoc broadcast protocols,BATMAN,Didactic application,Benchmarking tools,INETMANET,Shopping center,Workflow,WAN emulation,Routing Protocols,common services propagation,Teredo,IPv6,Network,IPv4,High availability,Daemon,SIP,EIGRP,Performance,Network simulator,6rd,OMNet++,Corosync,Parameter sweeping,Service,Scalability,Vehicular Networks,Stateless autoconfiguration,Algorithm,security,Experimentation,Performance evaluation,INET,Java,Link-local multicast name resolution,Performance Evaluation,6to4 tunnel,Ipv6,ISATAP,JiST/SWANS,Parallel linear algebra,Control languages,NAT,Geolocation,LLMNR,Beowulf clusters,Transmission mechanisms,data dissemination,vehicular ad hoc network (VANET),Grids,Zero-configuration networking,AODV,Counting nodes,High performance computing,Legacy code,UDP throughput,Routing protocol,Router advertisement,Mobile application,TCP throughput,6to4,Windows,Wireless networks,Metacomputing system,Tunnel,Cluster,OMNeT++,Access points,WiFi,VoIP
-Garroz, J.;Garroz, J.;Link-local multicast name resolution,LLMNR,IPv6,Performance evaluation,Benchmarking tools,Zero-configuration networking
-Martin, A.;Martin, A.;Kamailio,High availability,Cluster,Load balancer,VoIP,SIP,Corosync,SIPp,Asterisk
-Urribarri, D.;Urribarri, D.;Kamailio,High availability,Cluster,Load balancer,VoIP,SIP,Corosync,SIPp,Asterisk
-Gómez, J.;Gómez, J.;Kamailio,High availability,Cluster,Load balancer,VoIP,SIP,Corosync,SIPp,Asterisk
-Andrade, L.;Andrade, L.;Mobile application,Web application,Access points,WiFi,Shopping center,Geolocation
-Quintero, J.;Quintero, J.;Mobile application,Web application,Access points,WiFi,Shopping center,Geolocation
-Russoniello, A.;Russoniello, A.;Mobile application,Web application,Access points,WiFi,Shopping center,Geolocation
-Swenson, B.;Swenson, B.;
-Ricardo, M.;Ricardo, M.;
-Henderson, T.R.;Henderson, T.R.;
-Contreras, M.;Contreras, M.;Counting nodes,OMNeT++,Wireless networks,INET,Algorithm,Network simulator
+ID;Label;KeywordsB2018;KeywordsA2018
+Gamess, E.;Gamess, E.;Wireless networks,Network simulator,Counting nodes,INET,OMNeT++,Algorithm;Asterisk,Corosync,Mobile application,Benchmarking tools,SIPp,Geolocation,Shopping center,SIP,Access points,WiFi,LLMNR,VoIP,IPv6,Kamailio,Cluster,Link-local multicast name resolution,Load balancer,Zero-configuration networking,Web application,High availability,Performance evaluation
+Garroz, J.;Garroz, J.;;LLMNR,Zero-configuration networking,IPv6,Link-local multicast name resolution,Performance evaluation,Benchmarking tools
+Martin, A.;Martin, A.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
+Urribarri, D.;Urribarri, D.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
+Gómez, J.;Gómez, J.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
+Andrade, L.;Andrade, L.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
+Quintero, J.;Quintero, J.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
+Russoniello, A.;Russoniello, A.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
+Swenson, B.;Swenson, B.;;
+Ricardo, M.;Ricardo, M.;;
+Henderson, T.R.;Henderson, T.R.;;
+Contreras, M.;Contreras, M.;Wireless networks,Network simulator,Counting nodes,INET,OMNeT++,Algorithm;

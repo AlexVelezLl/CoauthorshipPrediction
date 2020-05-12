@@ -1,12 +1,12 @@
-ID;Label;Keywords
-Li, C.;Li, C.;Wavelet packets,fuzzy rules,Fuzzy clustering,fault diagnosis,Observer-biased clustering,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Fault detection,Genetic algorithms,Fault diagnosis,Gearbox,Bearing,Wavelets packed transform,Random forest,Feature selection
-De Oliveira, J.V.;De Oliveira, J.V.;fuzzy rules,fault diagnosis,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Bearing
-Cerrada, M.;Cerrada, M.;Wavelet packets,fuzzy rules,Fuzzy clustering,fault diagnosis,Observer-biased clustering,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Fault detection,Genetic algorithms,Fault diagnosis,Gearbox,Bearing,Wavelets packed transform,Random forest,Feature selection
-Sanchez, R.V.;Sanchez, R.V.;fuzzy rules,fault diagnosis,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Bearing
-Zurita, G.;Zurita, G.;Microcontroller,Fourier transform,Random forest,Condition based maintenance (CBM),fuzzy entropy,fault prognosis,Software,Fault detection,Firmware,Wavelet packets,fuzzy rules,fuzzy clustering,Genetic algorithms,Gearbox,Data acquisition,Bearing,Fuzzy clustering,Observer-biased clustering,Machine diagnosis,Welch's method,Feature selection,Vibration-based condition monitoring (VBCM),fault diagnosis,fault detection,fault classification,Fault diagnosis,Wavelets packed transform,Vibration analysis
-Villarroel, A.;Villarroel, A.;Microcontroller,Fourier transform,Vibration-based condition monitoring (VBCM),Condition based maintenance (CBM),Machine diagnosis,Software,Welch's method,Firmware,Data acquisition,Vibration analysis
-Velarde, R.;Velarde, R.;Microcontroller,Fourier transform,Vibration-based condition monitoring (VBCM),Condition based maintenance (CBM),Machine diagnosis,Software,Welch's method,Firmware,Data acquisition,Vibration analysis
-Valente De Oliveira, J.;Valente De Oliveira, J.;Fuzzy clustering,Observer-biased clustering,Fault detection,Fault diagnosis,Bearing,Wavelets packed transform
-Sanchez, V.;Sanchez, V.;Fuzzy clustering,Observer-biased clustering,Fault detection,Fault diagnosis,Bearing,Wavelets packed transform
-Cabrera, D.;Cabrera, D.;Wavelet packets,Genetic algorithms,Fault diagnosis,Gearbox,Feature selection,Random forest
-Artés, M.;Artés, M.;Wavelet packets,Genetic algorithms,Fault diagnosis,Gearbox,Feature selection,Random forest
+ID;Label;KeywordsB2018;KeywordsA2018
+Li, C.;Li, C.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+De Oliveira, J.V.;De Oliveira, J.V.;;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+Cerrada, M.;Cerrada, M.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+Sanchez, R.V.;Sanchez, R.V.;;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+Zurita, G.;Zurita, G.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;Data acquisition,fault detection,fuzzy clustering,fault classification,fuzzy entropy,Condition based maintenance (CBM),fault diagnosis,Software,Firmware,fuzzy rules,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,fault prognosis,Fourier transform,Bearing,Microcontroller
+Villarroel, A.;Villarroel, A.;;Data acquisition,Condition based maintenance (CBM),Software,Firmware,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,Fourier transform,Microcontroller
+Velarde, R.;Velarde, R.;;Data acquisition,Condition based maintenance (CBM),Software,Firmware,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,Fourier transform,Microcontroller
+Valente De Oliveira, J.;Valente De Oliveira, J.;Fault diagnosis,Fault detection,Observer-biased clustering,Wavelets packed transform,Fuzzy clustering,Bearing;
+Sanchez, V.;Sanchez, V.;Fault diagnosis,Fault detection,Observer-biased clustering,Wavelets packed transform,Fuzzy clustering,Bearing;
+Cabrera, D.;Cabrera, D.;Fault diagnosis,Random forest,Genetic algorithms,Wavelet packets,Feature selection,Gearbox;
+Artés, M.;Artés, M.;Fault diagnosis,Random forest,Genetic algorithms,Wavelet packets,Feature selection,Gearbox;

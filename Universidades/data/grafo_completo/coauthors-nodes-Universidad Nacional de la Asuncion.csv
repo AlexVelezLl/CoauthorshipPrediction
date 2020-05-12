@@ -1,390 +1,390 @@
-ID;Label;Keywords
-Ferreira, J.M.;Ferreira, J.M.;DSL,Customization,Experimental replication,Satisfaction,Model-driven engineering,Usability,Software application,MDE,Metrics,Tourism,Usability attributes,Empirical study,Usability mechanism,Software engineering,Experimental design,Usability metrics,Ecore,Efficiency,ISO/IEC 9126,Experimental software engineering,Effectiveness,Experimental material management,Experimental material,Empirical evidence
-Acuña, S.T.;Acuña, S.T.;Effectiveness,Usability metrics,Satisfaction,Usability mechanism,Software engineering,Usability attributes,Usability,Efficiency,Software application,Empirical evidence,Empirical study,Experimental design
-Dieste, O.;Dieste, O.;Effectiveness,Satisfaction,Usability mechanism,Software engineering,Usability,Efficiency,Empirical study,Experimental design
-Rodríguez, F.;Rodríguez, F.;Effectiveness,Satisfaction,Usability mechanism,Software engineering,Usability,Efficiency,Empirical study,Experimental design
-Juristo, N.;Juristo, N.;Effectiveness,Satisfaction,Usability mechanism,Software engineering,Usability,Efficiency,Empirical study,Experimental design
-nan.;nan.;Classification,Feature selection,Educational data mining
-Fernández-Martínez, S.;Fernández-Martínez, S.;Frequency slot,EON,Slot-blocks,RSA,Defragmentation
-Barán, B.;Barán, B.;WDM network,Online algorithms,Memetic Algorithm,Pareto Optimal Set,evolutionary algorithms,Resource allocation,Evolutionary algorithm,Incremental VMP,Spectral clustering,Wavelength-Converter Allocation (WCA),Splitting,SAT,Delay,Evolutionary algorithms,Ant Colony Optimization (ACO) and Multi-objective Optimization Problem (MOP),Block-iterative methods,Multi-objective optimization,Board game,ILP,Trhoughput,Genetic programming,Allocation,Ant multi objective optimization problem,Metaheuristics,Virtual machine placement,Multiobjetive optimization,VMP Reconfiguration,Many-objective Optimization,Multicast Routing,Optical networks,Principal component analysis,Multitree,Multiobjective optimization,EON,network virtualization,Resources Allocation,Mastergoal,Local searchs,Asynchronous team,Multicast,Optical Networks,multi-objective optimization,MOEA,VMP reconfiguration,Linear nearest neighbor,Load flow problem,multiobjective optimization,LNN,Optical network,Load balancing,Artificial intelligence,Optical Network Protection,visual analysis of solutions,RSA,Taxonomy,Multiobjective,Cloud brokerage,Energy Efficiency,Cloud Computing,Multi-Objective Problem (MOP),Virtual network embedding,Cloud infrastructure optimisation,combinatorial optimization,Traffic Grooming,virtual network embedding,Network virtualization,Computer networks,many-objective optimization,Adaptive fitness function,Team Algorithms (TA),Multi-Objective Evolutionary Algorithms,Networks,Water supply,Nonlinear equations,many-objective evolutionary algorithms,Global convexity,Pareto dominance,Ant Colony Optimization,Experimental comparison,Many-Objective Optimization,Local search,quantum adiabatic computing,Multicast routing,AntNet,Cloud Broker,Asynchronous methods,Wavelength Division Multiplexing (WDM),Multiobjective Optimization,Cloud computing,Spot Instances,Team algorithms,Routing and Wavelength Assignment (RWA),Elasticity,Distributed memory multicomputer,Routing,Convergence conditions,Overbooking,Energy forecasting,Memetic algorithm,Quality of Service (QoS),Vehicle Routing Problem with Time Windows,Interactive algorithm,Datacentres,Dimensionality reduction,Virtualization,Pump scheduling,Power distribution network,Musicians Improvisation,Datacenter,MAX-SAT,Mathematical programming,Performance metrics,Parallel evolutionary algorithms,Wavelength converter allocation,Virtual Machine Placement,Linear genetic programming,VNE,Wavelength converter,Quantum circuit,Auction-based Resource Provisioning,Optimization,Ant colony optimization,Multi-Objective Optimization,Genetic algorithms,Network Virtualization,Virtual Network Embedding,Optical Network,Multi-objective evolutionary algorithms,Evolutionary computation,Frequency slot,Electrical power networks,Pareto Dominance,Traffic engineering,Pareto front and ant colony optimization,Harmony Search,Multi-objective optimisation,Slot-blocks,Dynamic multicast groups,Traffic Engineering,Virtual Optical Network Embedding,Multi-Objective Ant Colony System (MOACS),Defragmentation,Many-objective optimization,Uncertainty
-Pinto-Roa, D.P.;Pinto-Roa, D.P.;Image enhancement,EON,Histogram equalization,Recovery Probability,fairness,structuring elements,Combinatorial Optimization,Wavelength converter allocation,CLAHE,WDM network,Optical Networks,Wavelength Converter Allocation,Linear Genetic Programming,Contrast enhancement,Evolutionary algorithm,Brightness preservation,mathematical morphology,Machine Learning,Anarchy Price,Map-Elites,Robust network design,Wavelength-Converter Allocation (WCA),Image Processing,Selfish Routing,SMPSO,Multi-objective Optimization,Optical Network,COCOMO,hose model,Feature Selection,Frequency slot,Data Mining,mean brightness,Wavelength Division Multiplexing (WDM),Multi-objective optimization,Optical Network Protection,WDM networks,RSA,Routing and Wavelength Assignment (RWA),Automatic Diagnosis,Genetic Algorithms,Entropy,SSIM,Quality of Protection (QoP),Routing,price of robustness,multiscale top-hat transform,Contrast Enhancement,Slot-blocks,Multi-Objective Problem (MOP),Evolutionary Algorithms,Spectrum Defragmentation,Cooperative Routing,Melanoma,Protection,MultiObjective Evolutionary Algorithm,Plateau limit,Defragmentation,MultiObjective Optimization Problem,Software Effort Estimation
-Sosa-Cabrera, G.;Sosa-Cabrera, G.;Total representativeness,Multivariate sample size,Categorical feature correlation,Association rules algorithm,R tool,Transactional databases,Multivariate symmetrical uncertainty,Data mining,Retail,Mutual information,Entropy,Feature selection
-García-Torres, M.;García-Torres, M.;Feature Selection,Image enhancement,Total representativeness,Multivariate sample size,Categorical feature correlation,Data Mining,Machine Learning,Multiscale mathematical morphology,Combinatorial Optimization,Map-Elites,Color spaces,Multivariate symmetrical uncertainty,Color images,Mutual information,Entropy,Ordering methods,Feature selection
-Gómez-Guerrero, S.;Gómez-Guerrero, S.;Total representativeness,Multivariate sample size,Categorical feature correlation,Multivariate symmetrical uncertainty,Mutual information,Entropy,Feature selection
-Schaerer, C.E.;Schaerer, C.E.;Mathematical morphology,Confusion matrix,Total representativeness,Categorical feature correlation,shape representation-alignment,Affine transformation,Contour-Point Signature,Amastigotes,Ritz values,Trypanosoma cruzi,Image segmentation,image color space,Watershed Transform,signature,Mutual information,medical images registration,Multivariate sample size,Evolutionary game theory,vector ordering,lexicographical ordering,Block Conjugate Gradients,Anomaly detector,Block algorithms,feature extraction,Contour,Chagas disease,Multivariate symmetrical uncertainty,2D Haar wavelet transform,Entropy,Feature selection,evolution of cooperation,Trivial Matching,Thresholding,Adaptive,Best approximation method,extremal optimization,mutual information,Posture Recognition,public goods games
-Divina, F.;Divina, F.;Feature Selection,Total representativeness,Multivariate sample size,Categorical feature correlation,Data Mining,Machine Learning,Combinatorial Optimization,Map-Elites,Multivariate symmetrical uncertainty,Mutual information,Entropy,Feature selection
-Brizuela Pineda, I.A.;Brizuela Pineda, I.A.;Equalization,Loss of information,Limited contrast,Average brightness,Contrast enhancement
-Medina Caballero, R.D.;Medina Caballero, R.D.;Equalization,Loss of information,Limited contrast,Average brightness,Contrast enhancement
-Cáceres Silva, J.J.;Cáceres Silva, J.J.;Equalization,Loss of information,Limited contrast,Average brightness,Contrast enhancement
-Mello Román, J.C.;Mello Román, J.C.;Image enhancement,multiscale top-hat transform,Equalization,mean brightness,Loss of information,mathematical morphology,structuring elements,Limited contrast,Average brightness,Contrast enhancement
-Vázquez Noguera, J.L.;Vázquez Noguera, J.L.;Equalization,Loss of information,Limited contrast,Average brightness,Contrast enhancement
-Lopez-Pires, F.;Lopez-Pires, F.;Infrastructure-as-a-Service,Virtual Machine Placement,Evaluation Framework,Infrastructure-as-a-service,ISO 9126,Genetic Algorithm,Cloud Pricing,Auction-based Resource Provisioning,Optimization,Urban Goods Movement,City Distribution Centers,Smart City Logistics,Multi-Objective Optimization,Power Consumption,Multi-Objective Evolutionary Algorithm,Workload Generation,Platform as a Service,Prediction,Multi-Objective Maximum Diversity,Service Measurement Index,Two-Echelon Vehicle Routing Problem,Kamailio,Cloud Brokering,Spot Instances,Cloud Computing,Multi-Objective Maximum Average Diversity,Green Cloud Computing,Elastic voice over IP,OpenStack,Dynamic Environments
-Baran, B.;Baran, B.;Infrastructure-as-a-Service,virtual private networks,network virtualization,Virtual Machine Placement,virtual optical network embedding,Multicast,clouds,Genetic Algorithm,Cloud Pricing,Auction-based Resource Provisioning,Optimization,Urban Goods Movement,City Distribution Centers,Smart City Logistics,Splitting,Multi-Objective Optimization,monitoring wells,Power Consumption,Multi-Objective Evolutionary Algorithm,Workload Generation,Prediction,Multi-Objective Maximum Diversity,Two-Echelon Vehicle Routing Problem,Optical fiber networks,Load balancing,Cloud Brokering,Spot Instances,Traffic engineering,leakage,Multiobjective,Multicast traffic,Cloud Computing,State dependent,Multi-Objective Maximum Average Diversity,Green Cloud Computing,Hashing function,optimization,Dynamic Environments
-Pereira, C.;Pereira, C.;Power Consumption,Infrastructure-as-a-Service,Virtual Machine Placement,Green Cloud Computing
-Velazquez, M.;Velazquez, M.;Power Consumption,Infrastructure-as-a-Service,Virtual Machine Placement,Green Cloud Computing
-Gonzalez, O.;Gonzalez, O.;Multiphase machine,Fixed switching frequency,Wind energy conversion systems,Infrastructure-as-a-Service,Model-based predictive control,Multiphase induction generator,Green Cloud Computing,Power electronics,Virtual Machine Placement,Predictive control,Six-phase drives,Kalman filter,Predictive current control,Power Consumption,Multiphase induction machine
-Loreiro, M.;Loreiro, M.;
-Britez, S.;Britez, S.;
-Casco, S.;Casco, S.;
-Pons, J.L.;Pons, J.L.;
-Brunetti, F.;Brunetti, F.;
-Arzamendia, M.;Arzamendia, M.;Coverage Path Planning,),Distributed systems,Eulerian circuits,Genetic Algorithm,Travelling Salesman Problem (TSP,aerial electrical lines,Environmental monitoring,Eulerian Circuits,Distributed System (DS),Autonomous surface vehicle,Genetic algorithms,Ontology,Coverage path planning,Environmental Monitoring,visual inspection,Traveling salesman problem,Genetic algorithm,quaternions,quadrotor,Autonomous Surface Vehicle,Hamiltonian circuits,Collaboration,control theory,Autonomous Surface Vehicles (ASV),Autonomous surface vehicles,Statistical data analysis,Distributed system,Intelligent transportation systems,Genetic Algorithms
-Espartza, I.;Espartza, I.;Genetic algorithm,Eulerian circuits,Autonomous surface vehicle,Coverage path planning,Hamiltonian circuits
-Reina, D.G.;Reina, D.G.;Coverage Path Planning,),Eulerian circuits,Genetic Algorithm,Travelling Salesman Problem (TSP,Environmental monitoring,Eulerian Circuits,Distributed System (DS),Autonomous surface vehicle,Genetic algorithms,Coverage path planning,Environmental Monitoring,Traveling salesman problem,Genetic algorithm,Autonomous Surface Vehicle,Hamiltonian circuits,Autonomous Surface Vehicles (ASV),Autonomous surface vehicles,Distributed system,Genetic Algorithms
-Toral, S.L.;Toral, S.L.;Traveling salesman problem,Genetic algorithm,Travelling Salesman Problem (TSP,),Environmental monitoring,Autonomous Surface Vehicles (ASV),Environmental Monitoring,Autonomous surface vehicles,Eulerian circuits,Distributed System (DS),Autonomous surface vehicle,Genetic algorithms,Distributed system,Coverage path planning,Hamiltonian circuits,Genetic Algorithms
-Gregor, D.;Gregor, D.;Coverage Path Planning,),Distributed systems,Eulerian circuits,Genetic Algorithm,SCADA,Travelling Salesman Problem (TSP,Environmental monitoring,Electrical Substations,Eulerian Circuits,Distributed System (DS),Autonomous surface vehicle,Genetic algorithms,Ontology,Gateway,Coverage path planning,IEC 61850,Environmental Monitoring,Traveling salesman problem,Genetic algorithm,Matrix converters,Autonomous Surface Vehicle,Hamiltonian circuits,Collaboration,Renewable energy systems,Autonomous Surface Vehicles (ASV),Multiphase induction generator,Autonomous surface vehicles,IEC 60870-5-101,Statistical data analysis,Predictive control,Distributed system,Intelligent transportation systems,IED,Genetic Algorithms
-Luis Vázquez Noguera, J.;Luis Vázquez Noguera, J.;Image enhancement,multiscale top-hat transform,mean brightness,mathematical morphology,structuring elements
-Legal-Ayala, H.;Legal-Ayala, H.;Image enhancement,shape representation-alignment,structuring elements,Handwritten symbols,Partial matching,signature,Invariant features,Scatter Search,Pattern recognition,pattern recognition,Image retrieval,mathematical morphology,exclusion measure function,set exclusion criteria,similarity measure,feature extraction,mean brightness,Contour,Particle Swarm Optimization,image retrieval,Exclusion measure function,multiscale top-hat transform,shape description,Set exclusion criteria,invariant features,Livestock brands,Optimiza- tion Algorithms.,Image Registration,Mutual Information
-Moré, L.;Moré, L.;Image enhancement,multiscale top-hat transform,mean brightness,mathematical morphology,structuring elements
-Ferreira, F.;Ferreira, F.;
-Rios, D.;Rios, D.;Stochastic simulation,Uncertainty,Real Option,Flexibility,Valuation,Least Square Monte Carlo,Integrated planning,Regulation
-Fernandez, F.;Fernandez, F.;
-Escudero, F.;Escudero, F.;
-Blanco, G.;Blanco, G.;Real Options,genetic algorithms,Flexibility,Power System Planning,Real Options Valuation,Energy Integration,Integrated planning,Lessons Learned,optimal power flow,Monte Carlo Simulation,Binational hydropower plants,Valuation,Evolutionary game theory,Multi-agent systems,reactive power demand,Distributed generation,portfolio analysis,Game Theory against nature,Regulation,Stochastic simulation,Macroeconomics,Real Option,Learning History,6 Analytic Hierarchy Process,Least Square Monte Carlo,evolution of cooperation,transmission grid,binational hydropower plants,2 Isolated Town,5 Monte Carlo,Dynamic programming,multi-objective programming,Transmission grid,Simulation,4 Cost of Energy,1 Renewable Energy,Expansion planning,public goods games,renewable energies integration,Geopolitics of natural resources,Uncertainty
-Morinigo, L.;Morinigo, L.;2 Isolated Town,5 Monte Carlo,4 Cost of Energy,1 Renewable Energy,6 Analytic Hierarchy Process
-Romero, C.;Romero, C.;2 Isolated Town,5 Monte Carlo,4 Cost of Energy,1 Renewable Energy,6 Analytic Hierarchy Process
-Rios, R.;Rios, R.;2 Isolated Town,5 Monte Carlo,4 Cost of Energy,1 Renewable Energy,6 Analytic Hierarchy Process
-Gonzalez, A.;Gonzalez, A.;2 Isolated Town,5 Monte Carlo,4 Cost of Energy,1 Renewable Energy,6 Analytic Hierarchy Process
-Aveiro, D.;Aveiro, D.;
-Sauer, C.;Sauer, C.;
-Cruz, O.S.;Cruz, O.S.;
-Ojeda, J.;Ojeda, J.;
-Gavilan, F.;Gavilan, F.;Matrix converter,Current Control,predictive control,Multiphase induction generator,Model Predictive Control,Matrix converters,Predictive control,Predictive current control,SiC-mosfet technology,power control,Fixed-frequency modulation,Total Harmonic Distortion,Optimisation,renewable energy systems,Renewable energy systems
-Toledo, S.;Toledo, S.;Current Control,Multi-modular matrix converter,Total Harmonic Distortion,Optimisation,power control,Matrix converter,SCADA,wind generation,predictive control,Electrical Substations,Model Predictive Control,Predictive current control,Gateway,IEC 61850,renewable energy systems,SiC-mosfet technology,Fixed-frequency modulation,multiphase generator,IEC 60870-5-101,IED
-Rivera, M.;Rivera, M.;Fixed switching frequency,Current Control,Multilevel converters,Kalman filter,Multi-modular matrix converter,Reactive power compensation,Total Harmonic Distortion,Optimisation,Control techniques,power control,Matrix converter,Multiphase machine,wind generation,predictive control,Model Predictive Control,Predictive current control,Model based predictive control,renewable energy systems,Active power filters,cascade H-bridge converter,Neutral point converters,Cascade H-bridge converter,SiC-mosfet technology,Fixed-frequency modulation,Matrix converters,multiphase generator,switcher of redundant vectors,Renewable energy systems,Multiphase induction generator,Predictive control
-Maqueda, E.;Maqueda, E.;Matrix converter,Current Control,Multiphase induction generator,Model Predictive Control,Matrix converters,Predictive control,Predictive current control,SiC-mosfet technology,Total Harmonic Distortion,Optimisation,Renewable energy systems
-Gregor, R.;Gregor, R.;Uncertainties,efficiency,Photovoltaics,Fixed switching frequency,Current Control,),Wind energy conversion systems,Essential matrix,Kalman filter,model predictive control,Super-twisting Algorithm,Total Harmonic Distortion,Optimisation,Multi-modular matrix converter,Reactive power compensation,Multiphase induction machine,Matrix converter,Active power filter,Multiphase machine,SCADA,Travelling Salesman Problem (TSP,wind generation,3D Reconstruction,Global Maximum Power Point,H-bridge converter,predictive control,Model Predictive Control,Electrical Substations,Altitude Tracking,Second Order Sliding Mode,Six-phase drives,Distributed System (DS),Predictive current control,Gateway,IEC 61850,Model based predictive control,Environmental Monitoring,Attitude Tracking,current control,Epipolar geometry,Model-based predictive control,cascaded H-bridge power converter,fixed switching frequency.,Lyapunov,Cascade H-bridge converter,Genetic Algorithms,multiphase generator,Unmanned Aerial Vehicle,DC-AC Converters,THD minimization,Point Cloud,Digital Photogrammetry,Aerial Photogrammetry,Autonomous Surface Vehicles (ASV),Multiphase induction generator,Predictive control,Power electronics,IEC 60870-5-101,inverters,IED,asymmetric inverters,Finite-time Convergence,Maximum Power Point Tracking,finite state model predictive control
-Paiva, E.;Paiva, E.;Hybrid UAV mathematical model,unmanned aerial vehicle (UAV),fixed-wing,vertical takeoff and landing (VTOL),tri-rotor
-Llano, M.;Llano, M.;Hybrid UAV mathematical model,unmanned aerial vehicle (UAV),fixed-wing,vertical takeoff and landing (VTOL),tri-rotor
-Rodas, J.;Rodas, J.;Super-Twisting Algorithm,Uncertainties,Photovoltaics,unmanned aerial vehicle (UAV),Fixed switching frequency,Wind energy conversion systems,Distributed systems,Essential matrix,Kalman filter,model predictive control,Super-twisting Algorithm,Multi-modular matrix converter,Multiphase induction machine,Matrix converter,Active power filter,Multiphase machine,Hybrid UAV mathematical model,wind generation,fixed-wing,3D Reconstruction,Global Maximum Power Point,H-bridge converter,predictive control,Altitude Tracking,Second Order Sliding Mode,tri-rotor,Six-phase drives,Predictive current control,Ontology,Quadrotor,Model based predictive control,Attitude Tracking,current control,Active power filters,cascade H-bridge converter,Epipolar geometry,Model-based predictive control,vertical takeoff and landing (VTOL),Cascade H-bridge converter,Lyapunov,SiC-mosfet technology,Collaboration,Position and Attitude Tracking,Unmanned Aerial Vehicle,multiphase generator,switcher of redundant vectors,Point Cloud,Digital Photogrammetry,Aerial Photogrammetry,Multiphase induction generator,Predictive control,Power electronics,Statistical data analysis,Intelligent transportation systems,Finite-time Convergence,Maximum Power Point Tracking
-Rodriguez-Pineiro, J.;Rodriguez-Pineiro, J.;Point Cloud,Hybrid UAV mathematical model,Digital Photogrammetry,unmanned aerial vehicle (UAV),Aerial Photogrammetry,fixed-wing,3D Reconstruction,Epipolar geometry,Essential matrix,vertical takeoff and landing (VTOL),tri-rotor
-Gomez-Redondo, M.;Gomez-Redondo, M.;Point Cloud,Hybrid UAV mathematical model,Digital Photogrammetry,unmanned aerial vehicle (UAV),Aerial Photogrammetry,fixed-wing,3D Reconstruction,Epipolar geometry,Essential matrix,vertical takeoff and landing (VTOL),tri-rotor
-Fretes, H.;Fretes, H.;Point Cloud,Digital Photogrammetry,Aerial Photogrammetry,3D Reconstruction,Epipolar geometry,Essential matrix
-Espinosa, E.;Espinosa, E.;THD minimization,DC-AC Converters,efficiency,Experimental material management,Experimental replication,Experimental material,inverters,asymmetric inverters,Experimental software engineering
-Melin, P.;Melin, P.;THD minimization,DC-AC Converters,efficiency,inverters,asymmetric inverters
-Guzman, J.;Guzman, J.;THD minimization,DC-AC Converters,efficiency,inverters,asymmetric inverters
-Espinoza, J.;Espinoza, J.;THD minimization,DC-AC Converters,efficiency,inverters,asymmetric inverters
-Pacher Vega, J.C.;Pacher Vega, J.C.;efficiency analysis,Modular H-bridge,SiC-MOSFET
-Rodas Benitez, J.E.;Rodas Benitez, J.E.;efficiency analysis,Modular H-bridge,SiC-MOSFET
-Gregor Recalde, R.I.;Gregor Recalde, R.I.;efficiency analysis,Modular H-bridge,SiC-MOSFET
-Renault Lopez, A.;Renault Lopez, A.;efficiency analysis,Modular H-bridge,SiC-MOSFET
-Comparatore Franco, L.D.;Comparatore Franco, L.D.;efficiency analysis,Modular H-bridge,SiC-MOSFET
-Kehler, E.;Kehler, E.;Open data,Open Contracting Data Standard,Anomaly detection,Artificial Intelligence,Unsupervised learning
-Paciello, J.;Paciello, J.;Peer-to-Peer Systems,Artificial Intelligence,Linear genetic programming,machine learning,Grid Computing,Many-Objective Optimization,Multi-Objective Optimization,Non-intrusive Computing,Unsupervised learning,Multiobjective Optimization Problems,Wavelength Division Multiplexing (WDM),Anomaly detection,classification,Routing and Wavelength Assignment (RWA),lstm,Genetic programming,Metaheuristics,Open data,deep learning,Open Contracting Data Standard,Energy forecasting,Quality of Service (QoS),Multi-Objective Ant Colony System (MOACS),Dimensionality reduction,Power distribution network
-Pane, J.;Pane, J.;Open data,Open Contracting Data Standard,Anomaly detection,Artificial Intelligence,Unsupervised learning
-Villagra, M.;Villagra, M.;Adaptive fitness function,Asynchronous team,Tromino,State complexity,Affine automata,Claw-free graphs,Efficient tilings,Global convexity,Time-dependent unitary evolution,Ant colony optimization,Local search,Cutpoint language,SAT,quantum adiabatic computing,Quantum automata,Bounded-error,Aztec rectangle,Probabilistic automata,Bounded error,multiobjective optimization,Quantum computing,Team algorithms,NP-completeness,Polyomino tilings,Metaheuristics,Aztec diamond,Stochastic language,combinatorial optimization,Quantum finite automata,One-sided error,MAX-SAT
-Acuña, J.M.B.;Acuña, J.M.B.;Transactional databases,R tool,Association rules algorithm,Retail,Data mining
-Cabañas, C.A.P.;Cabañas, C.A.P.;Transactional databases,R tool,Association rules algorithm,Retail,Data mining
-García-Díaz, M.E.;García-Díaz, M.E.;Transactional databases,R tool,Association rules algorithm,Retail,Data mining
-Quiñonez, B.;Quiñonez, B.;Feature Selection,Data Mining,Machine Learning,Combinatorial Optimization,Map-Elites
-Núñez-Castillo, C.;Núñez-Castillo, C.;Feature Selection,Data Mining,Machine Learning,Combinatorial Optimization,Map-Elites
-von Lücken, C.;von Lücken, C.;Ant Colony Optimization,Sequence of educational content,many-objective optimization,Clustering algorithms,e-Learning,evolutionary algorithms,many-objective evolutionary algorithms
-Brizuela, C.;Brizuela, C.;Many-objective optimization,Parallel evolutionary algorithms,Spectral clustering,Optical network,Multi-objective optimization,Evolutionary algorithms,many-objective optimization,Dimensionality reduction,Wavelength converter,Principal component analysis,Multi-Objective Evolutionary Algorithms,Allocation,Multi-objective evolutionary algorithms,evolutionary algorithms,many-objective evolutionary algorithms
-Diarte, J.;Diarte, J.;Parametric design,Digital analog workflow,Waste cardboard architecture,Smart reuse
-Vazquez, E.;Vazquez, E.;Parametric design,Digital analog workflow,Waste cardboard architecture,Smart reuse
-Shaffer, M.;Shaffer, M.;Parametric design,Digital analog workflow,Waste cardboard architecture,Smart reuse
-Akagi, J.T.;Akagi, J.T.;Aztec rectangle,Efficient tilings,Aztec diamond,Tromino,NP-completeness,Polyomino tilings,Claw-free graphs
-Gaona, C.F.;Gaona, C.F.;Aztec rectangle,Efficient tilings,Aztec diamond,Tromino,NP-completeness,Polyomino tilings,Claw-free graphs
-Mendoza, F.;Mendoza, F.;Aztec rectangle,Efficient tilings,Link protection,Dynamic traffic,p-cycles,WDM,Aztec diamond,Optical Networks,Tromino,NP-completeness,Polyomino tilings,Claw-free graphs,Protection
-Saikia, M.P.;Saikia, M.P.;Aztec rectangle,Efficient tilings,Aztec diamond,Tromino,NP-completeness,Polyomino tilings,Claw-free graphs
-Ayala, M.;Ayala, M.;Uncertainties,Fixed switching frequency,Wind energy conversion systems,Kalman filter,Super-twisting Algorithm,Multiphase induction machine,Active power filter,Multiphase machine,Altitude Tracking,Second Order Sliding Mode,Six-phase drives,Predictive current control,Attitude Tracking,Model-based predictive control,cascaded H-bridge power converter,fixed switching frequency.,Lyapunov,Unmanned Aerial Vehicle,Multiphase induction generator,Predictive control,Power electronics,Finite-time Convergence,finite state model predictive control
-Doval-Gandoy, J.;Doval-Gandoy, J.;Six-phase drives,Power electronics,Model-based predictive control,Multiphase induction machine
-Mendez, R.;Mendez, R.;Image enhancement,Multiscale mathematical morphology,Color spaces,Color images,Ordering methods
-Cardozo, R.;Cardozo, R.;Image enhancement,Multiscale mathematical morphology,Color spaces,Color images,Ordering methods
-Noguera, J.L.V.;Noguera, J.L.V.;Image enhancement,Mathematical morphology,Histogram equalization,Amastigotes,CLAHE,Trypanosoma cruzi,Image segmentation,Morphological operators,image color space,Filters,Watershed Transform,Morphological Mathematics,Binarization,Contrast enhancement,Erosion,Mathematical modeling,Brightness preservation,mathematical morphology,Machine Learning,Multiscale mathematical morphology,Meteorological measurements,Image Processing,vector ordering,lexicographical ordering,Loewner Order,SMPSO,Multi-objective Optimization,Ordering methods,mean brightness,Chagas disease,Color Images,Color images,Automatic Diagnosis,Entropy,SSIM,Dilation,Contrast Enhancement,Melanoma,Color spaces,Plateau limit,top-hat transform,thermal images
-Grillo, S.;Grillo, S.;Image enhancement,Multiscale mathematical morphology,Color spaces,Color images,Ordering methods
-Kali, Y.;Kali, Y.;Super-Twisting Algorithm,Attitude Tracking,Uncertainties,Altitude Tracking,Second Order Sliding Mode,Lyapunov,Super-twisting Algorithm,Quadrotor,Finite-time Convergence,Position and Attitude Tracking,Unmanned Aerial Vehicle
-Saad, M.;Saad, M.;Super-Twisting Algorithm,Attitude Tracking,Uncertainties,Altitude Tracking,Second Order Sliding Mode,Lyapunov,Super-twisting Algorithm,Quadrotor,Finite-time Convergence,Position and Attitude Tracking,Unmanned Aerial Vehicle
-Alqaisi, W.;Alqaisi, W.;Super-Twisting Algorithm,Quadrotor,Finite-time Convergence,Position and Attitude Tracking,Unmanned Aerial Vehicle
-Benjelloun, K.;Benjelloun, K.;Super-Twisting Algorithm,Quadrotor,Finite-time Convergence,Position and Attitude Tracking,Unmanned Aerial Vehicle
-Rey, M.-D.;Rey, M.-D.;Holm oak,Non-orthodox seed,2-DE proteomics,Population variability,Quercus ilex,Shotgun proteomics,Stresses responses
-Castillejo, M.Á.;Castillejo, M.Á.;Holm oak,Non-orthodox seed,2-DE proteomics,Population variability,Quercus ilex,Shotgun proteomics,Stresses responses
-Sánchez-Lucas, R.;Sánchez-Lucas, R.;Holm oak,Non-orthodox seed,2-DE proteomics,Population variability,Quercus ilex,Shotgun proteomics,Stresses responses
-Valledor, L.;Valledor, L.;Holm oak,Non-orthodox seed,2-DE proteomics,Population variability,Quercus ilex,Shotgun proteomics,Stresses responses
-Jorrín-Novo, J.V.;Jorrín-Novo, J.V.;Holm oak,Non-orthodox seed,2-DE proteomics,Population variability,Quercus ilex,Shotgun proteomics,Stresses responses
-Munoz, J.;Munoz, J.;Global Maximum Power Point,Maximum Power Point Tracking,Photovoltaics
-Aliaga, R.;Aliaga, R.;Global Maximum Power Point,Maximum Power Point Tracking,Photovoltaics
-Gaisse, P.;Gaisse, P.;Global Maximum Power Point,Maximum Power Point Tracking,Photovoltaics
-Renault, A.;Renault, A.;Active power filter,current control,Fixed switching frequency,Active power filters,cascade H-bridge converter,H-bridge converter,predictive control,Predictive control,cascaded H-bridge power converter,fixed switching frequency.,Cascade H-bridge converter,model predictive control,Reactive power compensation,Model based predictive control,switcher of redundant vectors,finite state model predictive control
-Comparatore, L.;Comparatore, L.;Fixed switching frequency,model predictive control,Multi-modular matrix converter,Reactive power compensation,Active power filter,wind generation,H-bridge converter,predictive control,Model based predictive control,current control,Active power filters,cascade H-bridge converter,cascaded H-bridge power converter,fixed switching frequency.,Cascade H-bridge converter,multiphase generator,switcher of redundant vectors,Predictive control,finite state model predictive control
-Pacher, J.;Pacher, J.;Active power filter,current control,Active power filters,cascade H-bridge converter,H-bridge converter,predictive control,cascaded H-bridge power converter,fixed switching frequency.,model predictive control,switcher of redundant vectors,finite state model predictive control
-Aranda, E.;Aranda, E.;
-Vazquez, J.L.;Vazquez, J.L.;Contrast Improvement,CLAHE,SMPSO,Multi-objective Optimization,SSIM,Local Entropy
-Villalba, C.;Villalba, C.;sourceAFIS,Biometric,EHR,Hospital de Clínicas,Identification document,AFIS,Fingerprint,Identification
-Adriana Coronel, S.;Adriana Coronel, S.;Contrast Improvement,CLAHE,SMPSO,Multi-objective Optimization,SSIM,Local Entropy
-Monserrat Mora, B.;Monserrat Mora, B.;Contrast Improvement,CLAHE,SMPSO,Multi-objective Optimization,SSIM,Local Entropy
-More, L.G.;More, L.G.;Contrast Enhancement,Contrast Improvement,CLAHE,SMPSO,Multi-objective Optimization,Entropy,SSIM,Local Entropy
-Pinto-Roa, D.;Pinto-Roa, D.;Particle Swarm Optimization,Scatter Search,Contrast Improvement,CLAHE,Optimiza- tion Algorithms.,SMPSO,Multi-objective Optimization,Image Registration,SSIM,Local Entropy,Mutual Information
-Marin, S.T.;Marin, S.T.;Genetic Algorithm,Coverage Path Planning,Autonomous Surface Vehicle,Eulerian Circuits
-Tawfik, H.;Tawfik, H.;Genetic Algorithm,Coverage Path Planning,Autonomous Surface Vehicle,Eulerian Circuits
-Yakaryılmaz, A.;Yakaryılmaz, A.;Probabilistic automata,Affine automata,Stochastic language,Quantum automata,State complexity,Bounded-error,One-sided error
-Jacome-Guerrero, S.P.;Jacome-Guerrero, S.P.;DSL,software development tools,models,MDE,Model Driven Engineering
-Ferreira, M.;Ferreira, M.;DSL,software development tools,models,MDE,Model Driven Engineering
-Corral, A.;Corral, A.;DSL,Customization,Ecore,software development tools,Tourism,Model-driven engineering,models,MDE,Usability,Metrics,ISO/IEC 9126,Model Driven Engineering
-Giangreco-Maidana, A.J.;Giangreco-Maidana, A.J.;feature extraction,shape representation-alignment,signature,Contour
-Villamayor-Venialbo, W.;Villamayor-Venialbo, W.;Confusion matrix,Affine transformation,shape representation-alignment,Contour-Point Signature,Handwritten symbols,Partial matching,signature,Invariant features,Pattern recognition,pattern recognition,Image retrieval,exclusion measure function,set exclusion criteria,similarity measure,feature extraction,Contour,image retrieval,Exclusion measure function,shape description,Set exclusion criteria,Trivial Matching,invariant features,Posture Recognition,Livestock brands
-López-Pires, F.;López-Pires, F.;Virtual Machine Placement,Online algorithms,Resource allocation,Optimization,VMP reconfiguration,Incremental VMP,Resource Allocation,Experimental comparison,Many-Objective Optimization,Multi-Objective Optimization,Cloud computing,Taxonomy,Elasticity,Cloud brokerage,Cloud Computing,Virtual machine placement,VMP Reconfiguration,Overbooking,Memetic algorithm,Cloud Computing Datacenters,Interactive algorithm,Cloud infrastructure optimisation,Datacentres,Many-objective optimization,Uncertainty
-Benítez, L.;Benítez, L.;VMP reconfiguration,Incremental VMP,Overbooking,Cloud computing,Elasticity,Uncertainty,Virtual machine placement
-Zalimben, S.;Zalimben, S.;Optimization,VMP reconfiguration,Incremental VMP,Overbooking,Experimental comparison,Cloud computing,Online algorithms,Elasticity,Uncertainty,Virtual machine placement
-Amarilla, A.;Amarilla, A.;Optimization,VMP reconfiguration,Incremental VMP,Overbooking,Experimental comparison,Cloud computing,Online algorithms,Elasticity,Uncertainty,Virtual machine placement
-Arévalo, M.;Arévalo, M.;Stochastic simulation,Flexibility,Dynamic programming,Real Options Valuation,Least Square Monte Carlo,Uncertainty
-Ríos, D.;Ríos, D.;Stochastic simulation,Flexibility,Dynamic programming,Real Options Valuation,Least Square Monte Carlo,Uncertainty
-Baum, G.;Baum, G.;Stochastic simulation,Regulation,Real Option,Flexibility,Dynamic programming,Valuation,Real Options Valuation,Least Square Monte Carlo,Integrated planning,Uncertainty
-Oxilia, V.;Oxilia, V.;binational hydropower plants,Binational hydropower plants,Learning History,Energy Integration,Lessons Learned,Geopolitics of natural resources
-Ortigoza, E.;Ortigoza, E.;binational hydropower plants,Binational hydropower plants,Learning History,Energy Integration,Lessons Learned,Geopolitics of natural resources
-Ríos, R.;Ríos, R.;binational hydropower plants,Binational hydropower plants,Learning History,Energy Integration,Lessons Learned,Geopolitics of natural resources
-Fariña, R.;Fariña, R.;binational hydropower plants,Binational hydropower plants,Learning History,Energy Integration,Lessons Learned,Geopolitics of natural resources
-Arevalo, M.;Arevalo, M.;Stochastic simulation,Uncertainty,Real Option,Flexibility,Valuation,Least Square Monte Carlo,Integrated planning,Regulation
-Rául Gregor, J.R.;Rául Gregor, J.R.;Predictive control,Cascade H-bridge converter,Finite-fixed swiching.,Reactive power compensation
-Dávalos, E.;Dávalos, E.;Network virtualization,Performance metrics,network virtualization,Optical Networks,VNE,NSGA2,Dynamic traffic,multi-objective optimization,Network Virtualization,Virtual Network Embedding,p-cycles,Time Series,ILP,Link protection,WDM,Virtual network embedding,Virtual Optical Network Embedding,LMS,RBFN,Traffic Grooming,Protection,virtual network embedding
-Davalos, E.J.;Davalos, E.J.;Optical fiber networks,virtual private networks,network virtualization,virtual optical network embedding,optimization,clouds
-Cespedes, P.P.;Cespedes, P.P.;Particle Swarm Optimization,Scatter Search,Optimiza- tion Algorithms.,Image Registration,Mutual Information
-Gimenez, G.A.;Gimenez, G.A.;Particle Swarm Optimization,Scatter Search,Optimiza- tion Algorithms.,Image Registration,Mutual Information
-Lopez, L.;Lopez, L.;Particle Swarm Optimization,Scatter Search,Optimiza- tion Algorithms.,Image Registration,Mutual Information
-Cane, V.;Cane, V.;Diagnosis,Internet,Tuberculosis,Smartphone,Tele-microscopy
-Samudio, M.;Samudio, M.;Diagnosis,Internet,Tuberculosis,Smartphone,Tele-microscopy
-García, J.;García, J.;Diagnosis,Internet,Tuberculosis,Smartphone,Tele-microscopy
-Weiler, N.;Weiler, N.;Diagnosis,Internet,Tuberculosis,Smartphone,Tele-microscopy
-Basogain, X.;Basogain, X.;Diagnosis,Internet,Tuberculosis,Smartphone,Tele-microscopy
-Chanatasig, H.;Chanatasig, H.;Experimental material management,Experimental material,Experimental replication,Experimental software engineering
-Díaz-Caro, A.;Díaz-Caro, A.;Time-dependent unitary evolution,Bounded error,Quantum computing,Cutpoint language,Quantum finite automata
-Herrera, F.;Herrera, F.;Neutral point converters,Control techniques,Multilevel converters
-Riveros, J.A.;Riveros, J.A.;Neutral point converters,Control techniques,Multilevel converters
-Martinez, S.F.;Martinez, S.F.;RSA,EON,Spectrum Defragmentation
-Sánchez, R.;Sánchez, R.;Software Effort Estimation,COCOMO,Linear Genetic Programming
-Von Lücken, C.;Von Lücken, C.;Parallel evolutionary algorithms,Optical Networks,NSGA2,Multi-Objective Evolutionary Algorithms,Water supply,Dynamic traffic,Kinect,Pareto dominance,Spectral clustering,Crop rotation,Human-Computer Interaction,Genetic algorithms,Early Childhood Education,p-cycles,Multi-objective evolutionary algorithms,Evolutionary algorithms,Evolutionary computation,Pre-school,Time Series,Multi-objective optimization,visual analysis of solutions,Link protection,Multi-objective optimisation,WDM,LMS,Dimensionality reduction,RBFN,Principal component analysis,Pump scheduling,Many-objective optimization,Protection,Multiobjective optimization
-Prieto, A.D.F.;Prieto, A.D.F.;visual analysis of solutions,Multiobjective optimization
-Veray Aragón, A.M.F.;Veray Aragón, A.M.F.;visual analysis of solutions,Multiobjective optimization
-Chamas, N.;Chamas, N.;Incremental VMP,VMP Reconfiguration,Overbooking,Virtual Machine Placement,Elasticity,Uncertainty,Cloud Computing
-Vera, K.;Vera, K.;Multi-Objective Maximum Diversity,Multi-Objective Maximum Average Diversity,Multi-Objective Evolutionary Algorithm
-Sandoya, F.;Sandoya, F.;Multi-Objective Maximum Diversity,Two-Echelon Vehicle Routing Problem,Urban Goods Movement,City Distribution Centers,Smart City Logistics,Multi-Objective Maximum Average Diversity,Multi-Objective Optimization,Multi-Objective Evolutionary Algorithm
-Eitzen, H.;Eitzen, H.;Two-Echelon Vehicle Routing Problem,Urban Goods Movement,City Distribution Centers,Smart City Logistics,Multi-Objective Optimization
-Chicaiza, J.L.;Chicaiza, J.L.;Two-Echelon Vehicle Routing Problem,Urban Goods Movement,City Distribution Centers,Smart City Logistics,Multi-Objective Optimization
-Fogel, G.G.;Fogel, G.G.;
-Roman, J.C.M.;Roman, J.C.M.;top-hat transform,mathematical morphology,thermal images,mean brightness
-Ayala, H.L.;Ayala, H.L.;Mathematical morphology,Histogram equalization,Amastigotes,CLAHE,Trypanosoma cruzi,Image segmentation,Morphological operators,image color space,Filters,Watershed Transform,Morphological Mathematics,Binarization,Contrast enhancement,Erosion,medical images registration,Mathematical modeling,Brightness preservation,mathematical morphology,Meteorological measurements,vector ordering,lexicographical ordering,Loewner Order,SMPSO,Multi-objective Optimization,Counting,Segmentation,mean brightness,Chagas disease,Color Images,Entropy,SSIM,Dilation,Contrast Enhancement,mutual information,extremal optimization,Plateau limit,top-hat transform,thermal images
-de Souza Relli, C.;de Souza Relli, C.;Counting,Mathematical morphology,Segmentation,Chagas disease,Trypanosoma cruzi
-Facon, J.;Facon, J.;Mathematical morphology,Handwritten symbols,Trypanosoma cruzi,image color space,Partial matching,Invariant features,Pattern recognition,pattern recognition,Image retrieval,Corner matching,vector ordering,lexicographical ordering,exclusion measure function,set exclusion criteria,similarity measure,Candidate qualification,Counting,Segmentation,Chagas disease,image retrieval,Exclusion measure function,shape description,Set exclusion criteria,License plate segmentation,invariant features,Livestock brands,Image processing
-De Souza Britto, A.;De Souza Britto, A.;Counting,Mathematical morphology,Segmentation,Chagas disease,Trypanosoma cruzi
-Ruffinelli, D.;Ruffinelli, D.;Evolutionary algorithm,Linear nearest neighbor,LNN,Quantum circuit,Multiobjective optimization
-Von Haebler, J.;Von Haebler, J.;genetic algorithms,Macroeconomics,multi-objective programming,Transmission grid,Multi-agent systems,Expansion planning,Simulation,Distributed generation,portfolio analysis
-Erlemeyer, F.;Erlemeyer, F.;multi-objective programming,Distributed generation,genetic algorithms,portfolio analysis
-Rehtanz, C.;Rehtanz, C.;Risk,Real Options,optimal power flow,genetic algorithms,Monte Carlo Simulation,Flexibility,multi-objective programming,transmission grid,Power System Planning,Strategic Behavior,Investment,Distributed generation,Irreversibility,portfolio analysis,renewable energies integration,reactive power demand,Uncertainty,Similarity Learning
-Lopez, S.B.;Lopez, S.B.;Risk,Flexibility,Strategic Behavior,Investment,Irreversibility,Uncertainty,Similarity Learning
-Baum, G.F.;Baum, G.F.;Risk,Flexibility,Strategic Behavior,Investment,Irreversibility,Uncertainty,Similarity Learning
-Olsina, F.G.;Olsina, F.G.;Risk,Flexibility,Strategic Behavior,Investment,Irreversibility,Uncertainty,Similarity Learning
-Blanco, G.A.;Blanco, G.A.;Risk,Flexibility,Strategic Behavior,Investment,Irreversibility,Uncertainty,Similarity Learning
-Aquino-Morínigo, P.B.;Aquino-Morínigo, P.B.;Brightness preservation,Plateau limit,Histogram equalization,Contrast enhancement
-Lugo-Solís, F.R.;Lugo-Solís, F.R.;Brightness preservation,Plateau limit,Histogram equalization,Contrast enhancement
-Reyes, J.;Reyes, J.;machine learning,classification,deep learning,lstm
-Ramirez, D.;Ramirez, D.;machine learning,classification,deep learning,lstm
-Riveros, R.D.J.;Riveros, R.D.J.;Supersymmetry,Optimization,Permutation,Partition search space
-Roa, D.P.P.;Roa, D.P.P.;Optimization,EON,Optical network,GA,ILP,RSA,Supersymmetry,Simulator,Partition search space,Permutation
-Ferreira, E.R.M.;Ferreira, E.R.M.;epsilon metric,tabu search,inverted generational distance (IGD),DTLZ test set,clustering,hypervolume,many-objective optimization,simulated annealing (SA),coverage
-Cegla, B.B.;Cegla, B.B.;epsilon metric,tabu search,inverted generational distance (IGD),DTLZ test set,clustering,hypervolume,many-objective optimization,simulated annealing (SA),coverage
-Delvalle, L.;Delvalle, L.;Simulator,RSA,EON
-Alfonzo, E.;Alfonzo, E.;Simulator,RSA,EON
-Palacios, C.;Palacios, C.;Mathematical modeling,Meteorological measurements,Morphological operators,Filters,Binarization
-Benegas, B.;Benegas, B.;Mathematical modeling,Meteorological measurements,Morphological operators,Filters,Binarization
-Royg, G.;Royg, G.;optimization,monitoring wells,leakage
-Nogues, J.P.;Nogues, J.P.;optimization,monitoring wells,leakage
-Pintos, J.M.;Pintos, J.M.;Service Measurement Index,Evaluation Framework,ISO 9126,Cloud Computing,Platform as a Service
-Castillo, C.N.;Castillo, C.N.;Service Measurement Index,Kamailio,Elastic voice over IP,Evaluation Framework,Infrastructure-as-a-service,ISO 9126,OpenStack,Cloud Computing,Platform as a Service
-Riveros, C.;Riveros, C.;Color Images,Morphological Mathematics,Loewner Order,Erosion,Dilation
-Morel, H.;Morel, H.;Color Images,Morphological Mathematics,Loewner Order,Erosion,Dilation
-Gonzalez, F.;Gonzalez, F.;Multiobjective Optimization Problems,Grid Computing,Peer-to-Peer Systems,Artificial Intelligence,Non-intrusive Computing,Metaheuristics
-Ortigoza, J.;Ortigoza, J.;Virtual Machine Placement,Dynamic Environments,Workload Generation,Cloud Computing
-Caballero, D.;Caballero, D.;predictive control,Multiphase induction generator,Predictive control,Matrix converters,Fixed-frequency modulation,power control,renewable energy systems,Renewable energy systems
-Araujo-Vargas, I.;Araujo-Vargas, I.;power control,predictive control,renewable energy systems,Fixed-frequency modulation
-Jácome-Guerrero, S.P.;Jácome-Guerrero, S.P.;DSL,Customization,Ecore,Tourism,Model-driven engineering,Usability,MDE,Metrics,ISO/IEC 9126
-Salazar-Grandes, M.C.;Salazar-Grandes, M.C.;DSL,Customization,Ecore,Tourism,Model-driven engineering,Usability,MDE,Metrics,ISO/IEC 9126
-Bedón-Salazar, E.P.;Bedón-Salazar, E.P.;DSL,Customization,Ecore,Tourism,Model-driven engineering,Usability,MDE,Metrics,ISO/IEC 9126
-Canale, E.;Canale, E.;Diameter-constrained reliability,network reliability,Computational complexity,Monte Carlo,Factorization,Stochastic Binary System,computational complexity,random graphs,Monma graphs,Network Reliability,Diameter constrained reliability,diameter constrained reliability,Recursive Variance Reduction,hop-limit,planar graphs,Network reliability,Gilbert's model
-Romero, P.;Romero, P.;Diameter-constrained reliability,network reliability,Computational complexity,Factorization,computational complexity,random graphs,Monma graphs,Diameter constrained reliability,diameter constrained reliability,hop-limit,planar graphs,Network reliability,Gilbert's model
-Rubino, G.;Rubino, G.;Monte Carlo,Factorization,Network Reliability,Diameter constrained reliability,Recursive Variance Reduction,Network reliability,Stochastic Binary System
-Warnes, X.;Warnes, X.;
-Ferreira, R.;Ferreira, R.;Optimization,Experimental comparison,Cloud computing,Online algorithms,Virtual machine placement
-Causarano, W.;Causarano, W.;
-Pinanez, A.M.;Pinanez, A.M.;
-Blanco-Bogado, G.;Blanco-Bogado, G.;
-Fernández, F.;Fernández, F.;
-Amarilla, R.;Amarilla, R.;
-Benitez, W.;Benitez, W.;visual inspection,aerial electrical lines,quaternions,quadrotor,control theory
-Bogado, Y.;Bogado, Y.;visual inspection,aerial electrical lines,quaternions,quadrotor,control theory
-Guerrero, A.;Guerrero, A.;visual inspection,aerial electrical lines,quaternions,quadrotor,control theory
-Gómez, S.;Gómez, S.;
-Hochsztain, E.;Hochsztain, E.;
-Romero, D.;Romero, D.;
-Toral, S.;Toral, S.;Distributed systems,Statistical data analysis,Ontology,Intelligent transportation systems,Collaboration
-Ariza, T.;Ariza, T.;Distributed systems,Statistical data analysis,Ontology,Intelligent transportation systems,Collaboration
-Chamorro, V.G.;Chamorro, V.G.;OpenStack,Infrastructure-as-a-service,Kamailio,Elastic voice over IP
-Chamorro, L.;Chamorro, L.;Optimization,Cloud Brokering,Virtual Machine Placement,Genetic Algorithm,Cloud Computing
-Arevalos, S.;Arevalos, S.;Cloud Pricing,Auction-based Resource Provisioning,Spot Instances,Cloud Computing,Prediction
-Lobos, V.E.;Lobos, V.E.;Electronic Government,Open Government,Open Data,BPM
-Diana López, C.;Diana López, C.;Electronic Government,Open Government,Open Data,BPM
-Paciello, J.M.;Paciello, J.M.;GIS,Electronic Government,mGov,Open Data,Open Government,BPM,GSM,USSD,mHealth
-Pane, J.I.;Pane, J.I.;Electronic Government,Open Government,Open Data,BPM
-Lobo, J.;Lobo, J.;SCADA,Electrical Substations,IEC 60870-5-101,IEC 61850,Gateway,IED
-Cuenca, M.;Cuenca, M.;SCADA,Electrical Substations,IEC 60870-5-101,IEC 61850,Gateway,IED
-Franco Lugo, M.J.;Franco Lugo, M.J.;e-Learning,Ant Colony Optimization,Clustering algorithms,Sequence of educational content
-Espinoza, E.R.;Espinoza, E.R.;e-Learning,Ant Colony Optimization,Clustering algorithms,Sequence of educational content
-Muñoz, J.;Muñoz, J.;Cascade H-bridge converter,Predictive control,Reactive power compensation
-Hiry, J.;Hiry, J.;Macroeconomics,Transmission grid,Simulation,Multi-agent systems,Expansion planning
-Häger, U.;Häger, U.;Macroeconomics,Transmission grid,Simulation,Multi-agent systems,Expansion planning
-Martinez, A.;Martinez, A.;Macroeconomics,Transmission grid,Simulation,Multi-agent systems,Expansion planning
-Arias-Michel, R.;Arias-Michel, R.;
-Schaerer, C.;Schaerer, C.;2D Wavelet,Intrusion Detection,Distributed Systems,Anomaly Detection,Wavelet
-Tilería, M.;Tilería, M.;Virtual Optical Network Embedding,Optical Networks,Traffic Grooming,Network Virtualization,Virtual Network Embedding
-Yu, A.;Yu, A.;Virtual Optical Network Embedding,Optical Networks,Traffic Grooming,Network Virtualization,Virtual Network Embedding
-Aceval, C.;Aceval, C.;network virtualization,ILP,VNE,multi-objective optimization,virtual network embedding
-Franco, V.;Franco, V.;network virtualization,ILP,VNE,multi-objective optimization,virtual network embedding
-Arteta, A.;Arteta, A.;price of robustness,fairness,Robust network design,MultiObjective Evolutionary Algorithm,Networks,Ant multi objective optimization problem,MultiObjective Optimization Problem,Optical networks,hose model
-Flor, S.A.;Flor, S.A.;Auction-based Resource Provisioning,Taxonomy,Spot Instances,Cloud Computing,Cloud Broker
-Pires, F.L.;Pires, F.L.;Auction-based Resource Provisioning,Resources Allocation,Multi-Objective Optimization,Taxonomy,Spot Instances,Virtualization,Datacenter,Energy Efficiency,Cloud Computing,Cloud Broker
-Riquelme, N.;Riquelme, N.;
-Fernández, R.;Fernández, R.;Pre-school,Early Childhood Education,Human-Computer Interaction,Kinect
-Jarmila, L.;Jarmila, L.;
-Brítez, G.;Brítez, G.;
-Giménez, J.;Giménez, J.;Vulnerabilities,Intrusion Detection,Anomalies,Web Applications,Attacks,HTTP
-Cappo, C.;Cappo, C.;Vulnerabilities,2D Wavelet,Intrusion Detection,Thresholding,Anomalies,Web Applications,Best approximation method,Anomaly Detection,Distributed Systems,Attacks,HTTP,2D Haar wavelet transform,Anomaly detector,Wavelet
-Correa, D.N.L.;Correa, D.N.L.;Melanoma,Machine Learning,Image Processing,Automatic Diagnosis
-Paniagua, L.R.B.;Paniagua, L.R.B.;Melanoma,Machine Learning,Image Processing,Automatic Diagnosis
-Toledo, L.A.S.;Toledo, L.A.S.;Melanoma,Machine Learning,Image Processing,Automatic Diagnosis
-González, M.B.;González, M.B.;GIS,disease vectors,epidemiological surveillance,statistical modeling,aedes Aegypti,dengue,population dynamics of aedes aegypti,risk map
-Rodas, G.G.;Rodas, G.G.;GIS,disease vectors,epidemiological surveillance,statistical modeling,aedes Aegypti,dengue,population dynamics of aedes aegypti,risk map
-Campuzano, A.;Campuzano, A.;GIS,Activity Recognition,Traffic State Estimation,Floating Car Data,Map Matching
-López, R.;López, R.;GIS,Activity Recognition,Traffic State Estimation,Floating Car Data,Map Matching
-Lima, J.;Lima, J.;GIS,Activity Recognition,Traffic State Estimation,Multiobjective Optimization,Floating Car Data,Pareto Dominance,Musicians Improvisation,Map Matching,Harmony Search
-Núñez, T.;Núñez, T.;Wavelength Division Multiplexing (WDM),Quality of Service (QoS),Many-Objective Optimization,Multi-Objective Ant Colony System (MOACS),Multi-Objective Optimization,Routing and Wavelength Assignment (RWA)
-Ayala, V.;Ayala, V.;Wavelength Division Multiplexing (WDM),Quality of Service (QoS),Many-Objective Optimization,Multi-Objective Ant Colony System (MOACS),Multi-Objective Optimization,Routing and Wavelength Assignment (RWA)
-Poletti, M.;Poletti, M.;
-Legal, H.;Legal, H.;
-Barua, C.;Barua, C.;
-Brizuela, M.A.;Brizuela, M.A.;Contrast Enhancement,CLAHE,SMPSO,Multi-objective Optimization,Entropy,SSIM
-Cancela, H.;Cancela, H.;Diameter-constrained reliability,network reliability,Computational complexity,Monte Carlo,Stochastic Binary System,computational complexity,random graphs,Network Reliability,diameter constrained reliability,hop-limit,Recursive Variance Reduction,Monma graphs,planar graphs,Network reliability,Gilbert's model
-Robledo, F.;Robledo, F.;Diameter-constrained reliability,network reliability,Computational complexity,computational complexity,random graphs,diameter constrained reliability,hop-limit,Monma graphs,planar graphs,Network reliability,Gilbert's model
-Sartor, P.;Sartor, P.;Diameter-constrained reliability,network reliability,Computational complexity,Monte Carlo,Stochastic Binary System,computational complexity,random graphs,Network Reliability,diameter constrained reliability,hop-limit,Recursive Variance Reduction,Monma graphs,planar graphs,Network reliability,Gilbert's model
-Piecini, J.;Piecini, J.;Stochastic Binary System,Recursive Variance Reduction,Monte Carlo,Network Reliability
-Kozakevicius, A.;Kozakevicius, A.;2D Wavelet,Intrusion Detection,Thresholding,Distributed Systems,Best approximation method,Anomaly Detection,2D Haar wavelet transform,Anomaly detector,Wavelet
-Mozzaquatro, B.A.;Mozzaquatro, B.A.;Thresholding,Anomaly detector,2D Haar wavelet transform,Best approximation method
-Nunes, R.C.;Nunes, R.C.;Thresholding,Anomaly detector,2D Haar wavelet transform,Best approximation method
-Cañete, V.;Cañete, V.;Energy forecasting,Linear genetic programming,Dimensionality reduction,Power distribution network,Genetic programming
-Hernández, N.;Hernández, N.;Energy forecasting,Linear genetic programming,Dimensionality reduction,Power distribution network,Genetic programming
-Monzón, H.;Monzón, H.;Spectral clustering,Multi-objective evolutionary algorithms,Dimensionality reduction,Principal component analysis
-Ihara, D.;Ihara, D.;Virtual Machine Placement,Many-Objective Optimization,Cloud Computing,Memetic Algorithm
-Pirez, F.L.;Pirez, F.L.;Virtual Machine Placement,Many-Objective Optimization,Cloud Computing,Memetic Algorithm
-López, M.J.;López, M.J.;
-López, G.M.;López, G.M.;
-Salinas, L.G.;Salinas, L.G.;
-Ochoa, S.N.;Ochoa, S.N.;GIS,mGov,GSM,USSD,mHealth
-Talavera, J.Y.;Talavera, J.Y.;GIS,mGov,GSM,USSD,mHealth
-Maldonado, H.;Maldonado, H.;Counterflow,Kinetic modeling,Natural gas,Diffusion flames
-Alviso, D.;Alviso, D.;Counterflow,Kinetic modeling,Natural gas,Diffusion flames
-Mendieta, M.;Mendieta, M.;Counterflow,Kinetic modeling,Natural gas,Diffusion flames
-Rolon, J.C.;Rolon, J.C.;Counterflow,Kinetic modeling,Natural gas,Diffusion flames
-Kloubert, M.-L.;Kloubert, M.-L.;renewable energies integration,optimal power flow,reactive power demand,transmission grid
-Spieker, C.;Spieker, C.;renewable energies integration,optimal power flow,reactive power demand,transmission grid
-Schwippe, J.;Schwippe, J.;renewable energies integration,optimal power flow,reactive power demand,transmission grid
-Torres, P.J.;Torres, P.J.;Adaptive,Block algorithms,Ritz values,Block Conjugate Gradients
-Bhaya, A.;Bhaya, A.;Asynchronous methods,Load flow problem,Convergence conditions,Block-iterative methods,Adaptive,Nonlinear equations,Ritz values,Distributed memory multicomputer,Electrical power networks,Team algorithms,Block Conjugate Gradients,Block algorithms
-López Pires, F.;López Pires, F.;Many-objective Optimization,Virtual Machine Placement,Virtualization,Datacenter,Cloud Computing
-Osthues, M.;Osthues, M.;Uncertainty,Power System Planning,Monte Carlo Simulation,Real Options
-Negnevitsky, M.;Negnevitsky, M.;Uncertainty,Power System Planning,Monte Carlo Simulation,Real Options
-Báez, B.;Báez, B.;Anarchy Price,Evolutionary Algorithms,Cooperative Routing,Optical Networks,Selfish Routing,Wavelength Converter Allocation,Multi-objective Optimization
-Colbes, J.;Colbes, J.;Anarchy Price,Evolutionary Algorithms,Cooperative Routing,Optical Networks,Selfish Routing,Wavelength Converter Allocation,Multi-objective Optimization
-Sanchez, P.P.C.;Sanchez, P.P.C.;mutual information,extremal optimization,medical images registration
-Gaona, G.;Gaona, G.;Confusion matrix,Affine transformation,Trivial Matching,Contour-Point Signature,Posture Recognition
-Pérez, J.;Pérez, J.;Confusion matrix,Affine transformation,Trivial Matching,Contour-Point Signature,Posture Recognition
-Rodas-Brítez, M.D.;Rodas-Brítez, M.D.;Recovery Probability,Protection,WDM networks,Genetic Algorithms,Quality of Protection (QoP)
-Parra, R.;Parra, R.;usability,open-source,accessibility,Speech recognition,e-Education
-Ramírez, J.;Ramírez, J.;usability,open-source,accessibility,Speech recognition,e-Education
-Lahaye, M.A.;Lahaye, M.A.;usability,open-source,accessibility,Speech recognition,e-Education
-Ojeda, H.;Ojeda, H.;
-Garcia, M.;Garcia, M.;
-Ríos, A.A.;Ríos, A.A.;Emotion detection,Micro blogging,Cross-lingual issues,Lexical resources,Multi-lingual
-Amarilla, P.J.;Amarilla, P.J.;Emotion detection,Micro blogging,Cross-lingual issues,Lexical resources,Multi-lingual
-Lugo, G.A.G.;Lugo, G.A.G.;Emotion detection,Micro blogging,Cross-lingual issues,Lexical resources,Multi-lingual
-Davalos, M.;Davalos, M.;
-Hager, U.;Hager, U.;
-Silva, J.J.C.;Silva, J.J.C.;
-Molina, J.;Molina, J.;
-Scouflaire, P.;Scouflaire, P.;
-Darabiha, N.;Darabiha, N.;
-Ferreira-Aranda, J.M.;Ferreira-Aranda, J.M.;
-Díaz-Molas, L.G.;Díaz-Molas, L.G.;
-Cristaldo, R.;Cristaldo, R.;sourceAFIS,Biometric,EHR,Hospital de Clínicas,Identification document,AFIS,Fingerprint,Identification
-Méndez, E.;Méndez, E.;sourceAFIS,Biometric,EHR,Hospital de Clínicas,Identification document,AFIS,Fingerprint,Identification
-González, G.;González, G.;sourceAFIS,Biometric,EHR,Hospital de Clínicas,Identification document,AFIS,Fingerprint,Identification
-Melian, M.;Melian, M.;Link protection,WDM,Optical Networks,p-cycles,Dynamic traffic,Protection
-Botta, R.;Botta, R.;Evolutionary game theory,public goods games,evolution of cooperation
-Rolón, M.;Rolón, M.;Mathematical morphology,Amastigotes,Chagas disease,Trypanosoma cruzi,Image segmentation,Watershed Transform
-Melgarejo, E.;Melgarejo, E.;Resources Allocation,Multi-Objective Optimization,Virtualization,Datacenter,Energy Efficiency,Cloud Computing
-Lopez, S.;Lopez, S.;Real Options,Monte Carlo Simulation,Flexibility,Game Theory against nature,Uncertainty
-Aguilera, A.;Aguilera, A.;Real Options,Monte Carlo Simulation,Flexibility,Game Theory against nature,Uncertainty
-Ferreira Aranda, J.M.;Ferreira Aranda, J.M.;
-Díaz Molas, L.G.;Díaz Molas, L.G.;
-Brizuela, C.A.;Brizuela, C.A.;Evolutionary algorithm,Wavelength converter allocation,Multi-objective optimization,WDM network,Routing
-Avalos Godoy, M.;Avalos Godoy, M.;RBFN,Time Series,LMS,NSGA2
-Duarte, A.F.;Duarte, A.F.;RBFN,Time Series,LMS,NSGA2
-De Azevedo, R.P.;De Azevedo, R.P.;2D Wavelet,Intrusion Detection,Distributed Systems,Anomaly Detection,Wavelet
-Mozzaquatro, B.;Mozzaquatro, B.;2D Wavelet,Intrusion Detection,Distributed Systems,Anomaly Detection,Wavelet
-Petters, A.M.;Petters, A.M.;License plate segmentation,Corner matching,Candidate qualification,Image processing
-Lezcano Romero, J.M.;Lezcano Romero, J.M.;License plate segmentation,Corner matching,Candidate qualification,Image processing
-Legal Ayala, H.A.;Legal Ayala, H.A.;License plate segmentation,Corner matching,Candidate qualification,Image processing
-Gonzales, R.A.;Gonzales, R.A.;
-Gaona, F.A.;Gaona, F.A.;
-Peralta, R.R.;Peralta, R.R.;
-Justino, E.J.R.;Justino, E.J.R.;image retrieval,pattern recognition,shape description,invariant features,Partial matching,exclusion measure function,set exclusion criteria,similarity measure
-Villalba Paez, J.;Villalba Paez, J.;SRLG,p-Cycle protection,WDM,Optical Networks,GROW,Genetic Algorithm
-Talia, A.;Talia, A.;SRLG,p-Cycle protection,WDM,Optical Networks,GROW,Genetic Algorithm
-Davalos Gimenez, E.;Davalos Gimenez, E.;SRLG,p-Cycle protection,WDM,Optical Networks,GROW,Genetic Algorithm
-Pinto Roa, D.;Pinto Roa, D.;SRLG,p-Cycle protection,WDM,Optical Networks,GROW,Genetic Algorithm
-Ricart, J.;Ricart, J.;Musicians Improvisation,Pareto Dominance,Multiobjective Optimization,Harmony Search
-Hüttemann, G.;Hüttemann, G.;Musicians Improvisation,Pareto Dominance,Multiobjective Optimization,Harmony Search
-Justino, E.;Justino, E.;Exclusion measure function,Pattern recognition,Set exclusion criteria,Image retrieval,Handwritten symbols,Livestock brands,Partial matching,Invariant features
-García, Ma.E.;García, Ma.E.;QoS modelling,Performance modelling,Cellular network systems,Simulation modelling
-Puigjaner, R.;Puigjaner, R.;QoS modelling,Performance modelling,Cellular network systems,Simulation modelling
-Calle, E.;Calle, E.;
-Ripoll, J.;Ripoll, J.;
-Segovia, J.;Segovia, J.;
-Vilá, P.;Vilá, P.;
-Manzano, M.;Manzano, M.;
-Meixner, C.C.;Meixner, C.C.;GA,ILP,Optical network
-Campuzano, L.;Campuzano, L.;GA,ILP,Optical network
-Davalos, E.;Davalos, E.;GA,ILP,Optical network
-Olabe, X.B.;Olabe, X.B.;
-León, V.C.;León, V.C.;
-Galvan, P.;Galvan, P.;
-Gomez-Solaetxe, M.A.;Gomez-Solaetxe, M.A.;
-Larrabe, J.L.;Larrabe, J.L.;
-Maciel, R.;Maciel, R.;Optical network,Multi-objective optimization,Evolutionary algorithms,Wavelength converter,Allocation
-Sobrino, M.;Sobrino, M.;Optical network,Multi-objective optimization,Evolutionary algorithms,Wavelength converter,Allocation
-Pinto, D.;Pinto, D.;Ant Colony Optimization,Ant Colony Optimization (ACO) and Multi-objective Optimization Problem (MOP),Networks,Optical network,Multi-objective optimization,Evolutionary algorithms,Multiobjective Optimization,Traffic Engineering,Multicast Routing,Traffic engineering,Wavelength converter,Team Algorithms (TA),Allocation,Ant multi objective optimization problem,Multicast routing,Optical networks,Pareto front and ant colony optimization,Multiobjective optimization
-Pavón, R.;Pavón, R.;Evolutionary algorithms,Crop rotation,Multi-objective optimization
-Brunelli, R.;Brunelli, R.;Evolutionary algorithms,Crop rotation,Multi-objective optimization
-Samaniego, A.;Samaniego, A.;Mastergoal,Genetic algorithms,Board game,Artificial intelligence
-Alliana, A.;Alliana, A.;Mastergoal,Genetic algorithms,Board game,Artificial intelligence
-Lezcano, C.;Lezcano, C.;Ant Colony Optimization (ACO) and Multi-objective Optimization Problem (MOP),Team Algorithms (TA)
-Palacios-Alonso, M.A.;Palacios-Alonso, M.A.;
-Sucar, L.E.;Sucar, L.E.;
-Rodríguez, C.;Rodríguez, C.;Local search,SAT,Asynchronous team,Team algorithms,MAX-SAT
-Joaquín Lima, Q.M.;Joaquín Lima, Q.M.;
-Benjamín Barán, C.;Benjamín Barán, C.;
-Solano, F.;Solano, F.;Mathematical programming,State dependent,Multiobjective,Dynamic multicast groups,Multi-objective optimization,Load balancing,Local searchs,Splitting,Multicast,Traffic engineering,Hashing function,Multitree,Multicast traffic,MOEA,Multiobjective optimization
-Fabregat, R.;Fabregat, R.;Pareto front and ant colony optimization,Mathematical programming,State dependent,Multiobjective,Dynamic multicast groups,Multi-objective optimization,Local searchs,Load balancing,Splitting,Multicast,Traffic engineering,Hashing function,Evolutionary algorithms,Multitree,Multicast routing,Multicast traffic,MOEA,Multiobjective optimization
-Donoso, Y.;Donoso, Y.;Mathematical programming,Multiobjective,Dynamic multicast groups,Multi-objective optimization,Load balancing,Local searchs,Splitting,Multicast,Traffic engineering,Multitree,MOEA,Multiobjective optimization
-Marzo, J.L.;Marzo, J.L.;Mathematical programming,Multiobjective,Dynamic multicast groups,Multi-objective optimization,Load balancing,Local searchs,Splitting,Multicast,Traffic engineering,Multitree,MOEA,Multiobjective optimization
-Hesselbach, X.;Hesselbach, X.;State dependent,Load balancing,Splitting,Traffic engineering,Hashing function,Multiobjective,Multicast traffic
-Huerta, M.;Huerta, M.;State dependent,Load balancing,Splitting,Traffic engineering,Hashing function,Multiobjective,Multicast traffic
-Sotelo, A.;Sotelo, A.;Pareto dominance,Multi-objective optimisation,Pump scheduling,Genetic algorithms,Water supply,Evolutionary computation
-Gómez, O.;Gómez, O.;
-Gomez, O.;Gomez, O.;
-Barân, B.;Barân, B.;
-Levera, J.;Levera, J.;
-Grossman, R.;Grossman, R.;
-Crichigno, J.;Crichigno, J.;Evolutionary algorithms,Multicast routing,Multiobjetive optimization,Computer networks
-Schaerer, M.;Schaerer, M.;Pareto Optimal Set,Ant Colony Optimization,Vehicle Routing Problem with Time Windows,Multiobjective optimization
-Bogarín, V.;Bogarín, V.;
-Zhao, Y.;Zhao, Y.;
-Sannomiya, N.;Sannomiya, N.;
-Kaszkurewicz, E.;Kaszkurewicz, E.;Asynchronous methods,Load flow problem,Convergence conditions,Block-iterative methods,Electrical power networks,Team algorithms,Distributed memory multicomputer,Nonlinear equations
+ID;Label;KeywordsB2018;KeywordsA2018
+Ferreira, J.M.;Ferreira, J.M.;Metrics,Empirical evidence,Usability,Model-driven engineering,Customization,DSL,Ecore,ISO/IEC 9126,Tourism,Usability attributes,MDE,Usability mechanism,Software application,Usability metrics;Experimental replication,Experimental material,Experimental material management,Experimental software engineering
+Acuña, S.T.;Acuña, S.T.;Empirical evidence,Usability,Usability attributes,Usability mechanism,Software application,Usability metrics;
+Dieste, O.;Dieste, O.;;
+Rodríguez, F.;Rodríguez, F.;;
+Juristo, N.;Juristo, N.;;
+nan.;nan.;;
+Fernández-Martínez, S.;Fernández-Martínez, S.;;EON,RSA,Frequency slot,Slot-blocks,Defragmentation
+Barán, B.;Barán, B.;Optical Network Protection,Quantum circuit,Multiobjective optimization,Virtualization,Uncertainty,Parallel evolutionary algorithms,Multi-Objective Ant Colony System (MOACS),Power distribution network,Multi-objective evolutionary algorithms,Cloud Computing,combinatorial optimization,Memetic Algorithm,VMP Reconfiguration,Routing and Wavelength Assignment (RWA),Genetic programming,Multi-Objective Problem (MOP),Wavelength-Converter Allocation (WCA),Virtual Machine Placement,ILP,Multi-Objective Evolutionary Algorithms,Dimensionality reduction,Many-objective optimization,Resource allocation,Spot Instances,Virtual machine placement,multi-objective optimization,quantum adiabatic computing,Virtual Network Embedding,Virtual Optical Network Embedding,Auction-based Resource Provisioning,VNE,Multi-Objective Optimization,Optical Network,Traffic Grooming,Cloud Broker,Memetic algorithm,Overbooking,Spectral clustering,Optical Networks,visual analysis of solutions,Linear genetic programming,LNN,Evolutionary algorithm,virtual network embedding,Datacenter,Incremental VMP,multiobjective optimization,Datacentres,Energy forecasting,network virtualization,Many-Objective Optimization,Taxonomy,Linear nearest neighbor,Optimization,Online algorithms,Cloud infrastructure optimisation,Quality of Service (QoS),Principal component analysis,Elasticity,Many-objective Optimization,Network Virtualization,Wavelength Division Multiplexing (WDM),Cloud brokerage,Interactive algorithm,Experimental comparison,Cloud computing;EON,Overbooking,Network virtualization,RSA,Frequency slot,many-objective optimization,Uncertainty,Slot-blocks,Virtual machine placement,Incremental VMP,VMP reconfiguration,many-objective evolutionary algorithms,evolutionary algorithms,Elasticity,Virtual network embedding,Defragmentation,Performance metrics,Cloud computing
+Pinto-Roa, D.P.;Pinto-Roa, D.P.;Optical Network Protection,Histogram equalization,Entropy,fairness,Linear Genetic Programming,Automatic Diagnosis,Routing and Wavelength Assignment (RWA),Multi-Objective Problem (MOP),Wavelength-Converter Allocation (WCA),MultiObjective Optimization Problem,COCOMO,SMPSO,Contrast Enhancement,Software Effort Estimation,Brightness preservation,Optical Network,Spectrum Defragmentation,EON,Machine Learning,Robust network design,Contrast enhancement,Plateau limit,Multi-objective Optimization,SSIM,RSA,price of robustness,MultiObjective Evolutionary Algorithm,Melanoma,hose model,Image Processing,CLAHE,Wavelength Division Multiplexing (WDM);EON,Feature Selection,Machine Learning,Image enhancement,mathematical morphology,RSA,Frequency slot,structuring elements,Data Mining,multiscale top-hat transform,Slot-blocks,Map-Elites,Combinatorial Optimization,mean brightness,Defragmentation
+Sosa-Cabrera, G.;Sosa-Cabrera, G.;;Association rules algorithm,Entropy,Categorical feature correlation,Total representativeness,R tool,Retail,Mutual information,Data mining,Transactional databases,Multivariate symmetrical uncertainty,Feature selection,Multivariate sample size
+García-Torres, M.;García-Torres, M.;;Feature Selection,Machine Learning,Entropy,Categorical feature correlation,Total representativeness,Image enhancement,Mutual information,Data Mining,Color spaces,Color images,Map-Elites,Combinatorial Optimization,Multivariate symmetrical uncertainty,Feature selection,Ordering methods,Multivariate sample size,Multiscale mathematical morphology
+Gómez-Guerrero, S.;Gómez-Guerrero, S.;;Entropy,Categorical feature correlation,Total representativeness,Mutual information,Multivariate symmetrical uncertainty,Feature selection,Multivariate sample size
+Schaerer, C.E.;Schaerer, C.E.;Thresholding,Block algorithms,Block Conjugate Gradients,Best approximation method,Adaptive,Ritz values,2D Haar wavelet transform,Anomaly detector;feature extraction,Entropy,Categorical feature correlation,Total representativeness,Mutual information,signature,Multivariate symmetrical uncertainty,Feature selection,Multivariate sample size,Contour,shape representation-alignment
+Divina, F.;Divina, F.;;Feature Selection,Machine Learning,Entropy,Categorical feature correlation,Total representativeness,Mutual information,Data Mining,Map-Elites,Combinatorial Optimization,Multivariate symmetrical uncertainty,Feature selection,Multivariate sample size
+Brizuela Pineda, I.A.;Brizuela Pineda, I.A.;;Equalization,Contrast enhancement,Loss of information,Average brightness,Limited contrast
+Medina Caballero, R.D.;Medina Caballero, R.D.;;Equalization,Contrast enhancement,Loss of information,Average brightness,Limited contrast
+Cáceres Silva, J.J.;Cáceres Silva, J.J.;;Equalization,Contrast enhancement,Loss of information,Average brightness,Limited contrast
+Mello Román, J.C.;Mello Román, J.C.;;Equalization,Image enhancement,mathematical morphology,structuring elements,multiscale top-hat transform,Contrast enhancement,mean brightness,Loss of information,Average brightness,Limited contrast
+Vázquez Noguera, J.L.;Vázquez Noguera, J.L.;;Equalization,Contrast enhancement,Loss of information,Average brightness,Limited contrast
+Lopez-Pires, F.;Lopez-Pires, F.;Elastic voice over IP,Cloud Computing,Smart City Logistics,Two-Echelon Vehicle Routing Problem,Multi-Objective Evolutionary Algorithm,Infrastructure-as-a-service,Virtual Machine Placement,Prediction,Spot Instances,Urban Goods Movement,City Distribution Centers,Cloud Brokering,Multi-Objective Optimization,Auction-based Resource Provisioning,ISO 9126,OpenStack,Multi-Objective Maximum Average Diversity,Evaluation Framework,Platform as a Service,Kamailio,Genetic Algorithm,Service Measurement Index,Dynamic Environments,Optimization,Workload Generation,Multi-Objective Maximum Diversity,Cloud Pricing;Infrastructure-as-a-Service,Green Cloud Computing,Virtual Machine Placement,Power Consumption
+Baran, B.;Baran, B.;Cloud Computing,Smart City Logistics,leakage,Two-Echelon Vehicle Routing Problem,Multi-Objective Evolutionary Algorithm,Virtual Machine Placement,optimization,Prediction,Spot Instances,Urban Goods Movement,City Distribution Centers,Cloud Brokering,Multi-Objective Optimization,Auction-based Resource Provisioning,Multi-Objective Maximum Average Diversity,Genetic Algorithm,Dynamic Environments,Optimization,Workload Generation,monitoring wells,Multi-Objective Maximum Diversity,Cloud Pricing;virtual private networks,optimization,Infrastructure-as-a-Service,virtual optical network embedding,Power Consumption,network virtualization,Optical fiber networks,clouds,Green Cloud Computing,Virtual Machine Placement
+Pereira, C.;Pereira, C.;;Infrastructure-as-a-Service,Green Cloud Computing,Virtual Machine Placement,Power Consumption
+Velazquez, M.;Velazquez, M.;;Infrastructure-as-a-Service,Green Cloud Computing,Virtual Machine Placement,Power Consumption
+Gonzalez, O.;Gonzalez, O.;Predictive control,Multiphase induction generator,Kalman filter,Predictive current control,Wind energy conversion systems,Multiphase machine,Fixed switching frequency;Power electronics,Model-based predictive control,Infrastructure-as-a-Service,Multiphase induction machine,Six-phase drives,Power Consumption,Green Cloud Computing,Virtual Machine Placement
+Loreiro, M.;Loreiro, M.;;
+Britez, S.;Britez, S.;;
+Casco, S.;Casco, S.;;
+Pons, J.L.;Pons, J.L.;;
+Brunetti, F.;Brunetti, F.;;
+Arzamendia, M.;Arzamendia, M.;),Environmental Monitoring,Intelligent transportation systems,aerial electrical lines,quaternions,visual inspection,Ontology,Autonomous Surface Vehicles (ASV),Distributed System (DS),control theory,quadrotor,Statistical data analysis,Genetic Algorithms,Collaboration,Distributed systems,Travelling Salesman Problem (TSP;Genetic algorithms,Autonomous Surface Vehicle,Distributed system,Coverage path planning,Genetic algorithm,Environmental monitoring,Coverage Path Planning,Eulerian Circuits,Traveling salesman problem,Genetic Algorithm,Hamiltonian circuits,Autonomous surface vehicles,Eulerian circuits,Autonomous surface vehicle
+Espartza, I.;Espartza, I.;;Coverage path planning,Genetic algorithm,Hamiltonian circuits,Eulerian circuits,Autonomous surface vehicle
+Reina, D.G.;Reina, D.G.;),Environmental Monitoring,Autonomous Surface Vehicles (ASV),Distributed System (DS),Genetic Algorithms,Travelling Salesman Problem (TSP;Genetic algorithms,Autonomous Surface Vehicle,Distributed system,Coverage path planning,Genetic algorithm,Environmental monitoring,Coverage Path Planning,Eulerian Circuits,Traveling salesman problem,Genetic Algorithm,Hamiltonian circuits,Autonomous surface vehicles,Eulerian circuits,Autonomous surface vehicle
+Toral, S.L.;Toral, S.L.;),Environmental Monitoring,Autonomous Surface Vehicles (ASV),Distributed System (DS),Genetic Algorithms,Travelling Salesman Problem (TSP;Genetic algorithms,Distributed system,Coverage path planning,Genetic algorithm,Environmental monitoring,Traveling salesman problem,Hamiltonian circuits,Autonomous surface vehicles,Eulerian circuits,Autonomous surface vehicle
+Gregor, D.;Gregor, D.;),Predictive control,IEC 60870-5-101,Statistical data analysis,Distributed systems,SCADA,Matrix converters,Distributed System (DS),IEC 61850,Renewable energy systems,Travelling Salesman Problem (TSP,Multiphase induction generator,Intelligent transportation systems,Ontology,Electrical Substations,Genetic Algorithms,Gateway,Environmental Monitoring,Autonomous Surface Vehicles (ASV),Collaboration,IED;Genetic algorithms,Autonomous Surface Vehicle,Distributed system,Coverage path planning,Genetic algorithm,Environmental monitoring,Coverage Path Planning,Eulerian Circuits,Traveling salesman problem,Genetic Algorithm,Hamiltonian circuits,Autonomous surface vehicles,Eulerian circuits,Autonomous surface vehicle
+Luis Vázquez Noguera, J.;Luis Vázquez Noguera, J.;;Image enhancement,mathematical morphology,structuring elements,multiscale top-hat transform,mean brightness
+Legal-Ayala, H.;Legal-Ayala, H.;;feature extraction,Image enhancement,mathematical morphology,Particle Swarm Optimization,structuring elements,multiscale top-hat transform,signature,Image Registration,mean brightness,Mutual Information,Optimiza- tion Algorithms.,Contour,shape representation-alignment,Scatter Search
+Moré, L.;Moré, L.;;Image enhancement,mathematical morphology,structuring elements,multiscale top-hat transform,mean brightness
+Ferreira, F.;Ferreira, F.;;
+Rios, D.;Rios, D.;;Uncertainty,Stochastic simulation,Real Option,Flexibility,Regulation,Valuation,Least Square Monte Carlo,Integrated planning
+Fernandez, F.;Fernandez, F.;;
+Escudero, F.;Escudero, F.;;
+Blanco, G.;Blanco, G.;Distributed generation,Simulation,Multi-agent systems,transmission grid,genetic algorithms,Geopolitics of natural resources,renewable energies integration,reactive power demand,Transmission grid,optimal power flow,Energy Integration,Binational hydropower plants,multi-objective programming,Learning History,portfolio analysis,Macroeconomics,Lessons Learned,Expansion planning;Uncertainty,Geopolitics of natural resources,Real Option,Flexibility,Regulation,Dynamic programming,4 Cost of Energy,Valuation,Integrated planning,Learning History,5 Monte Carlo,6 Analytic Hierarchy Process,1 Renewable Energy,Real Options Valuation,Stochastic simulation,2 Isolated Town,Least Square Monte Carlo,Energy Integration,Lessons Learned,binational hydropower plants
+Morinigo, L.;Morinigo, L.;;2 Isolated Town,6 Analytic Hierarchy Process,4 Cost of Energy,1 Renewable Energy,5 Monte Carlo
+Romero, C.;Romero, C.;;2 Isolated Town,6 Analytic Hierarchy Process,4 Cost of Energy,1 Renewable Energy,5 Monte Carlo
+Rios, R.;Rios, R.;;2 Isolated Town,6 Analytic Hierarchy Process,4 Cost of Energy,1 Renewable Energy,5 Monte Carlo
+Gonzalez, A.;Gonzalez, A.;;2 Isolated Town,6 Analytic Hierarchy Process,4 Cost of Energy,1 Renewable Energy,5 Monte Carlo
+Aveiro, D.;Aveiro, D.;;
+Sauer, C.;Sauer, C.;;
+Cruz, O.S.;Cruz, O.S.;;
+Ojeda, J.;Ojeda, J.;;
+Gavilan, F.;Gavilan, F.;Fixed-frequency modulation,predictive control,SiC-mosfet technology,Predictive control,Matrix converters,power control,Multiphase induction generator,renewable energy systems,Matrix converter,Predictive current control,Renewable energy systems;Matrix converter,Optimisation,Model Predictive Control,Current Control,Total Harmonic Distortion
+Toledo, S.;Toledo, S.;Fixed-frequency modulation,Multi-modular matrix converter,SiC-mosfet technology,predictive control,Gateway,multiphase generator,power control,IEC 60870-5-101,renewable energy systems,wind generation,Matrix converter,Electrical Substations,IEC 61850,Predictive current control,SCADA,IED;Matrix converter,Optimisation,Model Predictive Control,Current Control,Total Harmonic Distortion
+Rivera, M.;Rivera, M.;Fixed-frequency modulation,Predictive control,renewable energy systems,Multilevel converters,Control techniques,Matrix converters,multiphase generator,power control,Cascade H-bridge converter,Active power filters,Renewable energy systems,cascade H-bridge converter,Neutral point converters,Model based predictive control,predictive control,Multiphase induction generator,Reactive power compensation,switcher of redundant vectors,Predictive current control,Multi-modular matrix converter,SiC-mosfet technology,Kalman filter,wind generation,Matrix converter,Multiphase machine,Fixed switching frequency;Matrix converter,Optimisation,Model Predictive Control,Current Control,Total Harmonic Distortion
+Maqueda, E.;Maqueda, E.;SiC-mosfet technology,Predictive control,Multiphase induction generator,Matrix converters,Matrix converter,Predictive current control,Renewable energy systems;Matrix converter,Optimisation,Model Predictive Control,Current Control,Total Harmonic Distortion
+Gregor, R.;Gregor, R.;),Predictive control,IEC 60870-5-101,Wind energy conversion systems,SCADA,multiphase generator,Cascade H-bridge converter,Distributed System (DS),IEC 61850,Travelling Salesman Problem (TSP,Model based predictive control,predictive control,Multiphase induction generator,Reactive power compensation,Electrical Substations,Predictive current control,Genetic Algorithms,Multi-modular matrix converter,Gateway,Environmental Monitoring,Kalman filter,wind generation,Autonomous Surface Vehicles (ASV),Multiphase machine,IED,Fixed switching frequency;Power electronics,Altitude Tracking,Multiphase induction machine,Super-twisting Algorithm,fixed switching frequency.,Unmanned Aerial Vehicle,Lyapunov,Epipolar geometry,Aerial Photogrammetry,Digital Photogrammetry,Current Control,THD minimization,finite state model predictive control,model predictive control,current control,Global Maximum Power Point,Model-based predictive control,asymmetric inverters,DC-AC Converters,Optimisation,Essential matrix,Total Harmonic Distortion,Uncertainties,cascaded H-bridge power converter,Maximum Power Point Tracking,Point Cloud,inverters,efficiency,Photovoltaics,Finite-time Convergence,Attitude Tracking,Active power filter,Matrix converter,Six-phase drives,H-bridge converter,Model Predictive Control,Second Order Sliding Mode,3D Reconstruction
+Paiva, E.;Paiva, E.;;fixed-wing,Hybrid UAV mathematical model,tri-rotor,vertical takeoff and landing (VTOL),unmanned aerial vehicle (UAV)
+Llano, M.;Llano, M.;;fixed-wing,Hybrid UAV mathematical model,tri-rotor,vertical takeoff and landing (VTOL),unmanned aerial vehicle (UAV)
+Rodas, J.;Rodas, J.;Predictive control,Statistical data analysis,Wind energy conversion systems,Distributed systems,multiphase generator,Cascade H-bridge converter,Active power filters,cascade H-bridge converter,Model based predictive control,predictive control,Multiphase induction generator,Intelligent transportation systems,Ontology,switcher of redundant vectors,Predictive current control,Multi-modular matrix converter,SiC-mosfet technology,Kalman filter,wind generation,Matrix converter,Multiphase machine,Collaboration,Fixed switching frequency;Power electronics,fixed-wing,Altitude Tracking,Multiphase induction machine,Hybrid UAV mathematical model,Super-twisting Algorithm,Unmanned Aerial Vehicle,Lyapunov,Epipolar geometry,Aerial Photogrammetry,Digital Photogrammetry,model predictive control,tri-rotor,current control,Global Maximum Power Point,Model-based predictive control,Essential matrix,unmanned aerial vehicle (UAV),Uncertainties,Maximum Power Point Tracking,Point Cloud,vertical takeoff and landing (VTOL),Finite-time Convergence,Photovoltaics,Quadrotor,Attitude Tracking,Active power filter,Super-Twisting Algorithm,Six-phase drives,H-bridge converter,Position and Attitude Tracking,Second Order Sliding Mode,3D Reconstruction
+Rodriguez-Pineiro, J.;Rodriguez-Pineiro, J.;;fixed-wing,Hybrid UAV mathematical model,3D Reconstruction,Point Cloud,tri-rotor,Epipolar geometry,Aerial Photogrammetry,Digital Photogrammetry,Essential matrix,vertical takeoff and landing (VTOL),unmanned aerial vehicle (UAV)
+Gomez-Redondo, M.;Gomez-Redondo, M.;;fixed-wing,Hybrid UAV mathematical model,3D Reconstruction,Point Cloud,tri-rotor,Epipolar geometry,Aerial Photogrammetry,Digital Photogrammetry,Essential matrix,vertical takeoff and landing (VTOL),unmanned aerial vehicle (UAV)
+Fretes, H.;Fretes, H.;;Point Cloud,Epipolar geometry,Aerial Photogrammetry,Digital Photogrammetry,Essential matrix,3D Reconstruction
+Espinosa, E.;Espinosa, E.;;Experimental material management,asymmetric inverters,Experimental software engineering,DC-AC Converters,Experimental replication,Experimental material,THD minimization,inverters,efficiency
+Melin, P.;Melin, P.;;asymmetric inverters,DC-AC Converters,THD minimization,inverters,efficiency
+Guzman, J.;Guzman, J.;;asymmetric inverters,DC-AC Converters,THD minimization,inverters,efficiency
+Espinoza, J.;Espinoza, J.;;asymmetric inverters,DC-AC Converters,THD minimization,inverters,efficiency
+Pacher Vega, J.C.;Pacher Vega, J.C.;;SiC-MOSFET,Modular H-bridge,efficiency analysis
+Rodas Benitez, J.E.;Rodas Benitez, J.E.;;SiC-MOSFET,Modular H-bridge,efficiency analysis
+Gregor Recalde, R.I.;Gregor Recalde, R.I.;;SiC-MOSFET,Modular H-bridge,efficiency analysis
+Renault Lopez, A.;Renault Lopez, A.;;SiC-MOSFET,Modular H-bridge,efficiency analysis
+Comparatore Franco, L.D.;Comparatore Franco, L.D.;;SiC-MOSFET,Modular H-bridge,efficiency analysis
+Kehler, E.;Kehler, E.;;Open data,Unsupervised learning,Artificial Intelligence,Open Contracting Data Standard,Anomaly detection
+Paciello, J.;Paciello, J.;lstm,Peer-to-Peer Systems,Non-intrusive Computing,Multi-Objective Ant Colony System (MOACS),Power distribution network,Metaheuristics,Routing and Wavelength Assignment (RWA),Genetic programming,Dimensionality reduction,Multiobjective Optimization Problems,deep learning,Artificial Intelligence,Multi-Objective Optimization,Linear genetic programming,Energy forecasting,machine learning,Many-Objective Optimization,classification,Quality of Service (QoS),Grid Computing,Wavelength Division Multiplexing (WDM);Open data,Unsupervised learning,Artificial Intelligence,Open Contracting Data Standard,Anomaly detection
+Pane, J.;Pane, J.;;Open data,Unsupervised learning,Artificial Intelligence,Open Contracting Data Standard,Anomaly detection
+Villagra, M.;Villagra, M.;multiobjective optimization,combinatorial optimization,quantum adiabatic computing;Stochastic language,Cutpoint language,Aztec diamond,Efficient tilings,Bounded error,Affine automata,Time-dependent unitary evolution,State complexity,Quantum automata,Aztec rectangle,One-sided error,Bounded-error,Probabilistic automata,NP-completeness,Tromino,Quantum computing,Claw-free graphs,Quantum finite automata,Polyomino tilings
+Acuña, J.M.B.;Acuña, J.M.B.;;Retail,R tool,Data mining,Transactional databases,Association rules algorithm
+Cabañas, C.A.P.;Cabañas, C.A.P.;;Retail,R tool,Data mining,Transactional databases,Association rules algorithm
+García-Díaz, M.E.;García-Díaz, M.E.;;Retail,R tool,Data mining,Transactional databases,Association rules algorithm
+Quiñonez, B.;Quiñonez, B.;;Feature Selection,Machine Learning,Data Mining,Map-Elites,Combinatorial Optimization
+Núñez-Castillo, C.;Núñez-Castillo, C.;;Feature Selection,Machine Learning,Data Mining,Map-Elites,Combinatorial Optimization
+von Lücken, C.;von Lücken, C.;e-Learning,Ant Colony Optimization,Sequence of educational content,Clustering algorithms;many-objective evolutionary algorithms,evolutionary algorithms,many-objective optimization
+Brizuela, C.;Brizuela, C.;Multi-Objective Evolutionary Algorithms,Dimensionality reduction,Many-objective optimization,Parallel evolutionary algorithms,Multi-objective evolutionary algorithms,Principal component analysis,Spectral clustering;many-objective evolutionary algorithms,evolutionary algorithms,many-objective optimization
+Diarte, J.;Diarte, J.;;Digital analog workflow,Parametric design,Waste cardboard architecture,Smart reuse
+Vazquez, E.;Vazquez, E.;;Digital analog workflow,Parametric design,Waste cardboard architecture,Smart reuse
+Shaffer, M.;Shaffer, M.;;Digital analog workflow,Parametric design,Waste cardboard architecture,Smart reuse
+Akagi, J.T.;Akagi, J.T.;;Tromino,Efficient tilings,Claw-free graphs,Aztec rectangle,Polyomino tilings,Aztec diamond,NP-completeness
+Gaona, C.F.;Gaona, C.F.;;Tromino,Efficient tilings,Claw-free graphs,Aztec rectangle,Polyomino tilings,Aztec diamond,NP-completeness
+Mendoza, F.;Mendoza, F.;;Tromino,Efficient tilings,Claw-free graphs,Aztec rectangle,Polyomino tilings,Aztec diamond,NP-completeness
+Saikia, M.P.;Saikia, M.P.;;Tromino,Efficient tilings,Claw-free graphs,Aztec rectangle,Polyomino tilings,Aztec diamond,NP-completeness
+Ayala, M.;Ayala, M.;Predictive control,Multiphase induction generator,Kalman filter,Predictive current control,Wind energy conversion systems,Multiphase machine,Fixed switching frequency;Power electronics,Uncertainties,Altitude Tracking,Active power filter,Multiphase induction machine,Model-based predictive control,cascaded H-bridge power converter,Attitude Tracking,fixed switching frequency.,Super-twisting Algorithm,Six-phase drives,Lyapunov,Unmanned Aerial Vehicle,Finite-time Convergence,finite state model predictive control,Second Order Sliding Mode
+Doval-Gandoy, J.;Doval-Gandoy, J.;;Power electronics,Multiphase induction machine,Six-phase drives,Model-based predictive control
+Mendez, R.;Mendez, R.;;Image enhancement,Color images,Color spaces,Ordering methods,Multiscale mathematical morphology
+Cardozo, R.;Cardozo, R.;;Image enhancement,Color images,Color spaces,Ordering methods,Multiscale mathematical morphology
+Noguera, J.L.V.;Noguera, J.L.V.;Histogram equalization,Entropy,Morphological operators,Automatic Diagnosis,Dilation,SMPSO,Contrast Enhancement,Brightness preservation,Color Images,Machine Learning,top-hat transform,mathematical morphology,Mathematical modeling,Contrast enhancement,mean brightness,Plateau limit,Meteorological measurements,Morphological Mathematics,Multi-objective Optimization,SSIM,Loewner Order,Erosion,Binarization,Melanoma,Image Processing,CLAHE,Filters,thermal images;Image enhancement,Color images,Color spaces,Ordering methods,Multiscale mathematical morphology
+Grillo, S.;Grillo, S.;;Image enhancement,Color images,Color spaces,Ordering methods,Multiscale mathematical morphology
+Kali, Y.;Kali, Y.;;Quadrotor,Altitude Tracking,Attitude Tracking,Uncertainties,Super-twisting Algorithm,Super-Twisting Algorithm,Unmanned Aerial Vehicle,Lyapunov,Position and Attitude Tracking,Finite-time Convergence,Second Order Sliding Mode
+Saad, M.;Saad, M.;;Quadrotor,Altitude Tracking,Attitude Tracking,Uncertainties,Super-twisting Algorithm,Super-Twisting Algorithm,Unmanned Aerial Vehicle,Lyapunov,Position and Attitude Tracking,Finite-time Convergence,Second Order Sliding Mode
+Alqaisi, W.;Alqaisi, W.;;Quadrotor,Super-Twisting Algorithm,Unmanned Aerial Vehicle,Position and Attitude Tracking,Finite-time Convergence
+Benjelloun, K.;Benjelloun, K.;;Quadrotor,Super-Twisting Algorithm,Unmanned Aerial Vehicle,Position and Attitude Tracking,Finite-time Convergence
+Rey, M.-D.;Rey, M.-D.;;2-DE proteomics,Non-orthodox seed,Quercus ilex,Holm oak,Population variability,Shotgun proteomics,Stresses responses
+Castillejo, M.Á.;Castillejo, M.Á.;;2-DE proteomics,Non-orthodox seed,Quercus ilex,Holm oak,Population variability,Shotgun proteomics,Stresses responses
+Sánchez-Lucas, R.;Sánchez-Lucas, R.;;2-DE proteomics,Non-orthodox seed,Quercus ilex,Holm oak,Population variability,Shotgun proteomics,Stresses responses
+Valledor, L.;Valledor, L.;;2-DE proteomics,Non-orthodox seed,Quercus ilex,Holm oak,Population variability,Shotgun proteomics,Stresses responses
+Jorrín-Novo, J.V.;Jorrín-Novo, J.V.;;2-DE proteomics,Non-orthodox seed,Quercus ilex,Holm oak,Population variability,Shotgun proteomics,Stresses responses
+Munoz, J.;Munoz, J.;;Global Maximum Power Point,Maximum Power Point Tracking,Photovoltaics
+Aliaga, R.;Aliaga, R.;;Global Maximum Power Point,Maximum Power Point Tracking,Photovoltaics
+Gaisse, P.;Gaisse, P.;;Global Maximum Power Point,Maximum Power Point Tracking,Photovoltaics
+Renault, A.;Renault, A.;predictive control,Predictive control,Reactive power compensation,Cascade H-bridge converter,switcher of redundant vectors,cascade H-bridge converter,Active power filters,Fixed switching frequency,Model based predictive control;Active power filter,cascaded H-bridge power converter,model predictive control,fixed switching frequency.,H-bridge converter,finite state model predictive control,current control
+Comparatore, L.;Comparatore, L.;Multi-modular matrix converter,predictive control,Predictive control,multiphase generator,Reactive power compensation,wind generation,Cascade H-bridge converter,switcher of redundant vectors,cascade H-bridge converter,Active power filters,Fixed switching frequency,Model based predictive control;Active power filter,cascaded H-bridge power converter,model predictive control,fixed switching frequency.,H-bridge converter,finite state model predictive control,current control
+Pacher, J.;Pacher, J.;predictive control,Active power filters,cascade H-bridge converter,switcher of redundant vectors;Active power filter,cascaded H-bridge power converter,model predictive control,fixed switching frequency.,H-bridge converter,finite state model predictive control,current control
+Aranda, E.;Aranda, E.;;
+Vazquez, J.L.;Vazquez, J.L.;;SMPSO,Contrast Improvement,CLAHE,SSIM,Multi-objective Optimization,Local Entropy
+Villalba, C.;Villalba, C.;;
+Adriana Coronel, S.;Adriana Coronel, S.;;SMPSO,Contrast Improvement,CLAHE,SSIM,Multi-objective Optimization,Local Entropy
+Monserrat Mora, B.;Monserrat Mora, B.;;SMPSO,Contrast Improvement,CLAHE,SSIM,Multi-objective Optimization,Local Entropy
+More, L.G.;More, L.G.;SMPSO,Entropy,Contrast Enhancement,CLAHE,Multi-objective Optimization,SSIM;SMPSO,Contrast Improvement,CLAHE,SSIM,Multi-objective Optimization,Local Entropy
+Pinto-Roa, D.;Pinto-Roa, D.;;SMPSO,Particle Swarm Optimization,Contrast Improvement,CLAHE,SSIM,Image Registration,Mutual Information,Optimiza- tion Algorithms.,Multi-objective Optimization,Local Entropy,Scatter Search
+Marin, S.T.;Marin, S.T.;;Genetic Algorithm,Eulerian Circuits,Coverage Path Planning,Autonomous Surface Vehicle
+Tawfik, H.;Tawfik, H.;;Genetic Algorithm,Eulerian Circuits,Coverage Path Planning,Autonomous Surface Vehicle
+Yakaryılmaz, A.;Yakaryılmaz, A.;;Stochastic language,Affine automata,State complexity,One-sided error,Quantum automata,Bounded-error,Probabilistic automata
+Jacome-Guerrero, S.P.;Jacome-Guerrero, S.P.;;software development tools,DSL,Model Driven Engineering,MDE,models
+Ferreira, M.;Ferreira, M.;;software development tools,DSL,Model Driven Engineering,MDE,models
+Corral, A.;Corral, A.;Metrics,Model-driven engineering,Usability,Customization,DSL,Ecore,ISO/IEC 9126,MDE,Tourism;software development tools,DSL,Model Driven Engineering,MDE,models
+Giangreco-Maidana, A.J.;Giangreco-Maidana, A.J.;;signature,feature extraction,Contour,shape representation-alignment
+Villamayor-Venialbo, W.;Villamayor-Venialbo, W.;;signature,feature extraction,Contour,shape representation-alignment
+López-Pires, F.;López-Pires, F.;Uncertainty,Cloud Computing,VMP Reconfiguration,Virtual Machine Placement,Many-objective optimization,Resource allocation,Virtual machine placement,Multi-Objective Optimization,Memetic algorithm,Overbooking,Resource Allocation,Incremental VMP,Datacentres,Many-Objective Optimization,Taxonomy,Cloud Computing Datacenters,Optimization,Online algorithms,Cloud infrastructure optimisation,Elasticity,Cloud brokerage,Interactive algorithm,Experimental comparison,Cloud computing;Overbooking,Uncertainty,Virtual machine placement,Incremental VMP,VMP reconfiguration,Elasticity,Cloud computing
+Benítez, L.;Benítez, L.;;Overbooking,Uncertainty,Virtual machine placement,Incremental VMP,VMP reconfiguration,Elasticity,Cloud computing
+Zalimben, S.;Zalimben, S.;Optimization,Virtual machine placement,Online algorithms,Experimental comparison,Cloud computing;Overbooking,Uncertainty,Virtual machine placement,Incremental VMP,VMP reconfiguration,Elasticity,Cloud computing
+Amarilla, A.;Amarilla, A.;Optimization,Virtual machine placement,Online algorithms,Experimental comparison,Cloud computing;Overbooking,Uncertainty,Virtual machine placement,Incremental VMP,VMP reconfiguration,Elasticity,Cloud computing
+Arévalo, M.;Arévalo, M.;;Real Options Valuation,Uncertainty,Stochastic simulation,Dynamic programming,Flexibility,Least Square Monte Carlo
+Ríos, D.;Ríos, D.;;Real Options Valuation,Uncertainty,Stochastic simulation,Dynamic programming,Flexibility,Least Square Monte Carlo
+Baum, G.;Baum, G.;;Real Options Valuation,Uncertainty,Stochastic simulation,Dynamic programming,Real Option,Flexibility,Regulation,Valuation,Least Square Monte Carlo,Integrated planning
+Oxilia, V.;Oxilia, V.;Geopolitics of natural resources,Energy Integration,Binational hydropower plants,Learning History,Lessons Learned;Geopolitics of natural resources,Energy Integration,Learning History,Lessons Learned,binational hydropower plants
+Ortigoza, E.;Ortigoza, E.;Geopolitics of natural resources,Energy Integration,Binational hydropower plants,Learning History,Lessons Learned;Geopolitics of natural resources,Energy Integration,Learning History,Lessons Learned,binational hydropower plants
+Ríos, R.;Ríos, R.;Geopolitics of natural resources,Energy Integration,Binational hydropower plants,Learning History,Lessons Learned;Geopolitics of natural resources,Energy Integration,Learning History,Lessons Learned,binational hydropower plants
+Fariña, R.;Fariña, R.;Geopolitics of natural resources,Energy Integration,Binational hydropower plants,Learning History,Lessons Learned;Geopolitics of natural resources,Energy Integration,Learning History,Lessons Learned,binational hydropower plants
+Arevalo, M.;Arevalo, M.;;Uncertainty,Stochastic simulation,Real Option,Flexibility,Regulation,Valuation,Least Square Monte Carlo,Integrated planning
+Rául Gregor, J.R.;Rául Gregor, J.R.;;Finite-fixed swiching.,Cascade H-bridge converter,Predictive control,Reactive power compensation
+Dávalos, E.;Dávalos, E.;ILP,Optical Networks,virtual network embedding,multi-objective optimization,Virtual Network Embedding,network virtualization,Network Virtualization,Virtual Optical Network Embedding,VNE,Traffic Grooming;Performance metrics,Network virtualization,Virtual network embedding
+Davalos, E.J.;Davalos, E.J.;;virtual private networks,optimization,virtual optical network embedding,network virtualization,Optical fiber networks,clouds
+Cespedes, P.P.;Cespedes, P.P.;;Particle Swarm Optimization,Image Registration,Mutual Information,Optimiza- tion Algorithms.,Scatter Search
+Gimenez, G.A.;Gimenez, G.A.;;Particle Swarm Optimization,Image Registration,Mutual Information,Optimiza- tion Algorithms.,Scatter Search
+Lopez, L.;Lopez, L.;;Particle Swarm Optimization,Image Registration,Mutual Information,Optimiza- tion Algorithms.,Scatter Search
+Cane, V.;Cane, V.;;Smartphone,Tele-microscopy,Internet,Tuberculosis,Diagnosis
+Samudio, M.;Samudio, M.;;Smartphone,Tele-microscopy,Internet,Tuberculosis,Diagnosis
+García, J.;García, J.;;Smartphone,Tele-microscopy,Internet,Tuberculosis,Diagnosis
+Weiler, N.;Weiler, N.;;Smartphone,Tele-microscopy,Internet,Tuberculosis,Diagnosis
+Basogain, X.;Basogain, X.;;Smartphone,Tele-microscopy,Internet,Tuberculosis,Diagnosis
+Chanatasig, H.;Chanatasig, H.;;Experimental replication,Experimental material,Experimental material management,Experimental software engineering
+Díaz-Caro, A.;Díaz-Caro, A.;;Quantum computing,Quantum finite automata,Cutpoint language,Bounded error,Time-dependent unitary evolution
+Herrera, F.;Herrera, F.;Neutral point converters,Multilevel converters,Control techniques;
+Riveros, J.A.;Riveros, J.A.;Neutral point converters,Multilevel converters,Control techniques;
+Martinez, S.F.;Martinez, S.F.;EON,Spectrum Defragmentation,RSA;
+Sánchez, R.;Sánchez, R.;Software Effort Estimation,COCOMO,Linear Genetic Programming;
+Von Lücken, C.;Von Lücken, C.;Multiobjective optimization,Multi-Objective Evolutionary Algorithms,Dimensionality reduction,Many-objective optimization,visual analysis of solutions,Parallel evolutionary algorithms,Multi-objective evolutionary algorithms,Pre-school,Kinect,Early Childhood Education,Principal component analysis,Human-Computer Interaction,Spectral clustering;
+Prieto, A.D.F.;Prieto, A.D.F.;visual analysis of solutions,Multiobjective optimization;
+Veray Aragón, A.M.F.;Veray Aragón, A.M.F.;visual analysis of solutions,Multiobjective optimization;
+Chamas, N.;Chamas, N.;Overbooking,Uncertainty,Incremental VMP,Cloud Computing,Elasticity,VMP Reconfiguration,Virtual Machine Placement;
+Vera, K.;Vera, K.;Multi-Objective Evolutionary Algorithm,Multi-Objective Maximum Average Diversity,Multi-Objective Maximum Diversity;
+Sandoya, F.;Sandoya, F.;Multi-Objective Maximum Average Diversity,Urban Goods Movement,City Distribution Centers,Smart City Logistics,Multi-Objective Maximum Diversity,Multi-Objective Optimization,Two-Echelon Vehicle Routing Problem,Multi-Objective Evolutionary Algorithm;
+Eitzen, H.;Eitzen, H.;Urban Goods Movement,City Distribution Centers,Smart City Logistics,Multi-Objective Optimization,Two-Echelon Vehicle Routing Problem;
+Chicaiza, J.L.;Chicaiza, J.L.;Urban Goods Movement,City Distribution Centers,Smart City Logistics,Multi-Objective Optimization,Two-Echelon Vehicle Routing Problem;
+Fogel, G.G.;Fogel, G.G.;;
+Roman, J.C.M.;Roman, J.C.M.;mean brightness,mathematical morphology,thermal images,top-hat transform;
+Ayala, H.L.;Ayala, H.L.;Histogram equalization,Entropy,Counting,Chagas disease,Morphological operators,Mathematical morphology,Dilation,Trypanosoma cruzi,SMPSO,Contrast Enhancement,Brightness preservation,Color Images,top-hat transform,mathematical morphology,Mathematical modeling,Contrast enhancement,mean brightness,Plateau limit,Meteorological measurements,Morphological Mathematics,Multi-objective Optimization,Segmentation,SSIM,Loewner Order,Erosion,Binarization,CLAHE,Filters,thermal images;
+de Souza Relli, C.;de Souza Relli, C.;Trypanosoma cruzi,Counting,Chagas disease,Mathematical morphology,Segmentation;
+Facon, J.;Facon, J.;Trypanosoma cruzi,Counting,Chagas disease,Mathematical morphology,Segmentation;
+De Souza Britto, A.;De Souza Britto, A.;Trypanosoma cruzi,Counting,Chagas disease,Mathematical morphology,Segmentation;
+Ruffinelli, D.;Ruffinelli, D.;Quantum circuit,Multiobjective optimization,LNN,Evolutionary algorithm,Linear nearest neighbor;
+Von Haebler, J.;Von Haebler, J.;Distributed generation,Simulation,Multi-agent systems,genetic algorithms,Transmission grid,portfolio analysis,multi-objective programming,Macroeconomics,Expansion planning;
+Erlemeyer, F.;Erlemeyer, F.;Distributed generation,multi-objective programming,portfolio analysis,genetic algorithms;
+Rehtanz, C.;Rehtanz, C.;Distributed generation,transmission grid,Similarity Learning,Uncertainty,genetic algorithms,Irreversibility,renewable energies integration,reactive power demand,Flexibility,Strategic Behavior,Risk,portfolio analysis,optimal power flow,multi-objective programming,Investment;
+Lopez, S.B.;Lopez, S.B.;Similarity Learning,Uncertainty,Irreversibility,Flexibility,Strategic Behavior,Risk,Investment;
+Baum, G.F.;Baum, G.F.;Similarity Learning,Uncertainty,Irreversibility,Flexibility,Strategic Behavior,Risk,Investment;
+Olsina, F.G.;Olsina, F.G.;Similarity Learning,Uncertainty,Irreversibility,Flexibility,Strategic Behavior,Risk,Investment;
+Blanco, G.A.;Blanco, G.A.;Similarity Learning,Uncertainty,Irreversibility,Flexibility,Strategic Behavior,Risk,Investment;
+Aquino-Morínigo, P.B.;Aquino-Morínigo, P.B.;Histogram equalization,Contrast enhancement,Plateau limit,Brightness preservation;
+Lugo-Solís, F.R.;Lugo-Solís, F.R.;Histogram equalization,Contrast enhancement,Plateau limit,Brightness preservation;
+Reyes, J.;Reyes, J.;machine learning,lstm,deep learning,classification;
+Ramirez, D.;Ramirez, D.;machine learning,lstm,deep learning,classification;
+Riveros, R.D.J.;Riveros, R.D.J.;Optimization,Partition search space,Permutation,Supersymmetry;
+Roa, D.P.P.;Roa, D.P.P.;EON,Permutation,RSA,Optimization,Simulator,Supersymmetry,Partition search space;
+Ferreira, E.R.M.;Ferreira, E.R.M.;inverted generational distance (IGD),epsilon metric,tabu search,many-objective optimization,simulated annealing (SA),DTLZ test set,hypervolume,coverage,clustering;
+Cegla, B.B.;Cegla, B.B.;inverted generational distance (IGD),epsilon metric,tabu search,many-objective optimization,simulated annealing (SA),DTLZ test set,hypervolume,coverage,clustering;
+Delvalle, L.;Delvalle, L.;EON,Simulator,RSA;
+Alfonzo, E.;Alfonzo, E.;EON,Simulator,RSA;
+Palacios, C.;Palacios, C.;Binarization,Mathematical modeling,Meteorological measurements,Filters,Morphological operators;
+Benegas, B.;Benegas, B.;Binarization,Mathematical modeling,Meteorological measurements,Filters,Morphological operators;
+Royg, G.;Royg, G.;monitoring wells,optimization,leakage;
+Nogues, J.P.;Nogues, J.P.;monitoring wells,optimization,leakage;
+Pintos, J.M.;Pintos, J.M.;Service Measurement Index,Evaluation Framework,Platform as a Service,Cloud Computing,ISO 9126;
+Castillo, C.N.;Castillo, C.N.;OpenStack,Elastic voice over IP,Service Measurement Index,Evaluation Framework,Platform as a Service,Cloud Computing,Kamailio,Infrastructure-as-a-service,ISO 9126;
+Riveros, C.;Riveros, C.;Dilation,Loewner Order,Erosion,Color Images,Morphological Mathematics;
+Morel, H.;Morel, H.;Dilation,Loewner Order,Erosion,Color Images,Morphological Mathematics;
+Gonzalez, F.;Gonzalez, F.;Peer-to-Peer Systems,Non-intrusive Computing,Multiobjective Optimization Problems,Metaheuristics,Grid Computing,Artificial Intelligence;
+Ortigoza, J.;Ortigoza, J.;Cloud Computing,Workload Generation,Dynamic Environments,Virtual Machine Placement;
+Caballero, D.;Caballero, D.;Fixed-frequency modulation,predictive control,Predictive control,Matrix converters,power control,Multiphase induction generator,renewable energy systems,Renewable energy systems;
+Araujo-Vargas, I.;Araujo-Vargas, I.;Fixed-frequency modulation,predictive control,renewable energy systems,power control;
+Jácome-Guerrero, S.P.;Jácome-Guerrero, S.P.;Metrics,Model-driven engineering,Usability,Customization,DSL,Ecore,ISO/IEC 9126,MDE,Tourism;
+Salazar-Grandes, M.C.;Salazar-Grandes, M.C.;Metrics,Model-driven engineering,Usability,Customization,DSL,Ecore,ISO/IEC 9126,MDE,Tourism;
+Bedón-Salazar, E.P.;Bedón-Salazar, E.P.;Metrics,Model-driven engineering,Usability,Customization,DSL,Ecore,ISO/IEC 9126,MDE,Tourism;
+Canale, E.;Canale, E.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Monte Carlo,Network reliability,Recursive Variance Reduction,Gilbert's model,Diameter constrained reliability,planar graphs,Network Reliability,Stochastic Binary System,Factorization,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
+Romero, P.;Romero, P.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Network reliability,Gilbert's model,Diameter constrained reliability,planar graphs,Factorization,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
+Rubino, G.;Rubino, G.;Monte Carlo,Network reliability,Recursive Variance Reduction,Network Reliability,Diameter constrained reliability,Stochastic Binary System,Factorization;
+Warnes, X.;Warnes, X.;;
+Ferreira, R.;Ferreira, R.;Optimization,Virtual machine placement,Online algorithms,Experimental comparison,Cloud computing;
+Causarano, W.;Causarano, W.;;
+Pinanez, A.M.;Pinanez, A.M.;;
+Blanco-Bogado, G.;Blanco-Bogado, G.;;
+Fernández, F.;Fernández, F.;;
+Amarilla, R.;Amarilla, R.;;
+Benitez, W.;Benitez, W.;aerial electrical lines,quaternions,visual inspection,quadrotor,control theory;
+Bogado, Y.;Bogado, Y.;aerial electrical lines,quaternions,visual inspection,quadrotor,control theory;
+Guerrero, A.;Guerrero, A.;aerial electrical lines,quaternions,visual inspection,quadrotor,control theory;
+Gómez, S.;Gómez, S.;;
+Hochsztain, E.;Hochsztain, E.;;
+Romero, D.;Romero, D.;;
+Toral, S.;Toral, S.;Ontology,Intelligent transportation systems,Statistical data analysis,Collaboration,Distributed systems;
+Ariza, T.;Ariza, T.;Ontology,Intelligent transportation systems,Statistical data analysis,Collaboration,Distributed systems;
+Chamorro, V.G.;Chamorro, V.G.;OpenStack,Kamailio,Elastic voice over IP,Infrastructure-as-a-service;
+Chamorro, L.;Chamorro, L.;Virtual Machine Placement,Optimization,Cloud Computing,Cloud Brokering,Genetic Algorithm;
+Arevalos, S.;Arevalos, S.;Prediction,Spot Instances,Cloud Computing,Auction-based Resource Provisioning,Cloud Pricing;
+Lobos, V.E.;Lobos, V.E.;Open Data,BPM,Open Government,Electronic Government;
+Diana López, C.;Diana López, C.;Open Data,BPM,Open Government,Electronic Government;
+Paciello, J.M.;Paciello, J.M.;BPM,Open Government,mGov,USSD,Open Data,GIS,GSM,mHealth,Electronic Government;
+Pane, J.I.;Pane, J.I.;Open Data,BPM,Open Government,Electronic Government;
+Lobo, J.;Lobo, J.;Gateway,IEC 60870-5-101,Electrical Substations,IEC 61850,SCADA,IED;
+Cuenca, M.;Cuenca, M.;Gateway,IEC 60870-5-101,Electrical Substations,IEC 61850,SCADA,IED;
+Franco Lugo, M.J.;Franco Lugo, M.J.;e-Learning,Ant Colony Optimization,Sequence of educational content,Clustering algorithms;
+Espinoza, E.R.;Espinoza, E.R.;e-Learning,Ant Colony Optimization,Sequence of educational content,Clustering algorithms;
+Muñoz, J.;Muñoz, J.;Predictive control,Cascade H-bridge converter,Reactive power compensation;
+Hiry, J.;Hiry, J.;Simulation,Multi-agent systems,Transmission grid,Expansion planning,Macroeconomics;
+Häger, U.;Häger, U.;Simulation,Multi-agent systems,Transmission grid,Expansion planning,Macroeconomics;
+Martinez, A.;Martinez, A.;Simulation,Multi-agent systems,Transmission grid,Expansion planning,Macroeconomics;
+Arias-Michel, R.;Arias-Michel, R.;;
+Schaerer, C.;Schaerer, C.;;
+Tilería, M.;Tilería, M.;Optical Networks,Virtual Network Embedding,Network Virtualization,Virtual Optical Network Embedding,Traffic Grooming;
+Yu, A.;Yu, A.;Optical Networks,Virtual Network Embedding,Network Virtualization,Virtual Optical Network Embedding,Traffic Grooming;
+Aceval, C.;Aceval, C.;ILP,virtual network embedding,multi-objective optimization,network virtualization,VNE;
+Franco, V.;Franco, V.;ILP,virtual network embedding,multi-objective optimization,network virtualization,VNE;
+Arteta, A.;Arteta, A.;MultiObjective Optimization Problem,fairness,price of robustness,MultiObjective Evolutionary Algorithm,hose model,Robust network design;
+Flor, S.A.;Flor, S.A.;Spot Instances,Cloud Computing,Auction-based Resource Provisioning,Taxonomy,Cloud Broker;
+Pires, F.L.;Pires, F.L.;Spot Instances,Cloud Computing,Auction-based Resource Provisioning,Taxonomy,Cloud Broker;
+Riquelme, N.;Riquelme, N.;;
+Fernández, R.;Fernández, R.;Human-Computer Interaction,Pre-school,Kinect,Early Childhood Education;
+Jarmila, L.;Jarmila, L.;;
+Brítez, G.;Brítez, G.;;
+Giménez, J.;Giménez, J.;Web Applications,HTTP,Attacks,Intrusion Detection,Anomalies,Vulnerabilities;
+Cappo, C.;Cappo, C.;Thresholding,Web Applications,Best approximation method,HTTP,Attacks,2D Haar wavelet transform,Intrusion Detection,Anomaly detector,Anomalies,Vulnerabilities;
+Correa, D.N.L.;Correa, D.N.L.;Melanoma,Machine Learning,Automatic Diagnosis,Image Processing;
+Paniagua, L.R.B.;Paniagua, L.R.B.;Melanoma,Machine Learning,Automatic Diagnosis,Image Processing;
+Toledo, L.A.S.;Toledo, L.A.S.;Melanoma,Machine Learning,Automatic Diagnosis,Image Processing;
+González, M.B.;González, M.B.;statistical modeling,epidemiological surveillance,GIS,population dynamics of aedes aegypti,disease vectors,dengue,aedes Aegypti,risk map;
+Rodas, G.G.;Rodas, G.G.;statistical modeling,epidemiological surveillance,GIS,population dynamics of aedes aegypti,disease vectors,dengue,aedes Aegypti,risk map;
+Campuzano, A.;Campuzano, A.;Activity Recognition,GIS,Traffic State Estimation,Map Matching,Floating Car Data;
+López, R.;López, R.;Activity Recognition,GIS,Traffic State Estimation,Map Matching,Floating Car Data;
+Lima, J.;Lima, J.;Activity Recognition,GIS,Traffic State Estimation,Map Matching,Floating Car Data;
+Núñez, T.;Núñez, T.;Multi-Objective Ant Colony System (MOACS),Wavelength Division Multiplexing (WDM),Quality of Service (QoS),Many-Objective Optimization,Routing and Wavelength Assignment (RWA),Multi-Objective Optimization;
+Ayala, V.;Ayala, V.;Multi-Objective Ant Colony System (MOACS),Wavelength Division Multiplexing (WDM),Quality of Service (QoS),Many-Objective Optimization,Routing and Wavelength Assignment (RWA),Multi-Objective Optimization;
+Poletti, M.;Poletti, M.;;
+Legal, H.;Legal, H.;;
+Barua, C.;Barua, C.;;
+Brizuela, M.A.;Brizuela, M.A.;SMPSO,Entropy,Contrast Enhancement,CLAHE,Multi-objective Optimization,SSIM;
+Cancela, H.;Cancela, H.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Monte Carlo,Network reliability,Recursive Variance Reduction,Gilbert's model,planar graphs,Network Reliability,Stochastic Binary System,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
+Robledo, F.;Robledo, F.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Network reliability,Gilbert's model,planar graphs,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
+Sartor, P.;Sartor, P.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Monte Carlo,Network reliability,Recursive Variance Reduction,Gilbert's model,planar graphs,Network Reliability,Stochastic Binary System,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
+Piecini, J.;Piecini, J.;Monte Carlo,Stochastic Binary System,Recursive Variance Reduction,Network Reliability;
+Kozakevicius, A.;Kozakevicius, A.;Thresholding,2D Haar wavelet transform,Anomaly detector,Best approximation method;
+Mozzaquatro, B.A.;Mozzaquatro, B.A.;Thresholding,2D Haar wavelet transform,Anomaly detector,Best approximation method;
+Nunes, R.C.;Nunes, R.C.;Thresholding,2D Haar wavelet transform,Anomaly detector,Best approximation method;
+Cañete, V.;Cañete, V.;Dimensionality reduction,Power distribution network,Linear genetic programming,Energy forecasting,Genetic programming;
+Hernández, N.;Hernández, N.;Dimensionality reduction,Power distribution network,Linear genetic programming,Energy forecasting,Genetic programming;
+Monzón, H.;Monzón, H.;Spectral clustering,Principal component analysis,Multi-objective evolutionary algorithms,Dimensionality reduction;
+Ihara, D.;Ihara, D.;Cloud Computing,Memetic Algorithm,Many-Objective Optimization,Virtual Machine Placement;
+Pirez, F.L.;Pirez, F.L.;Cloud Computing,Memetic Algorithm,Many-Objective Optimization,Virtual Machine Placement;
+López, M.J.;López, M.J.;;
+López, G.M.;López, G.M.;;
+Salinas, L.G.;Salinas, L.G.;;
+Ochoa, S.N.;Ochoa, S.N.;USSD,mGov,GIS,GSM,mHealth;
+Talavera, J.Y.;Talavera, J.Y.;USSD,mGov,GIS,GSM,mHealth;
+Maldonado, H.;Maldonado, H.;Natural gas,Kinetic modeling,Counterflow,Diffusion flames;
+Alviso, D.;Alviso, D.;Natural gas,Kinetic modeling,Counterflow,Diffusion flames;
+Mendieta, M.;Mendieta, M.;Natural gas,Kinetic modeling,Counterflow,Diffusion flames;
+Rolon, J.C.;Rolon, J.C.;Natural gas,Kinetic modeling,Counterflow,Diffusion flames;
+Kloubert, M.-L.;Kloubert, M.-L.;transmission grid,renewable energies integration,reactive power demand,optimal power flow;
+Spieker, C.;Spieker, C.;transmission grid,renewable energies integration,reactive power demand,optimal power flow;
+Schwippe, J.;Schwippe, J.;transmission grid,renewable energies integration,reactive power demand,optimal power flow;
+Torres, P.J.;Torres, P.J.;Block algorithms,Ritz values,Adaptive,Block Conjugate Gradients;
+Bhaya, A.;Bhaya, A.;Block algorithms,Ritz values,Adaptive,Block Conjugate Gradients;
+López Pires, F.;López Pires, F.;Virtualization,Datacenter,Cloud Computing,Many-objective Optimization,Virtual Machine Placement;
+Osthues, M.;Osthues, M.;;
+Negnevitsky, M.;Negnevitsky, M.;;
+Báez, B.;Báez, B.;;
+Colbes, J.;Colbes, J.;;
+Sanchez, P.P.C.;Sanchez, P.P.C.;;
+Gaona, G.;Gaona, G.;;
+Pérez, J.;Pérez, J.;;
+Rodas-Brítez, M.D.;Rodas-Brítez, M.D.;;
+Parra, R.;Parra, R.;;
+Ramírez, J.;Ramírez, J.;;
+Lahaye, M.A.;Lahaye, M.A.;;
+Ojeda, H.;Ojeda, H.;;
+Garcia, M.;Garcia, M.;;
+Ríos, A.A.;Ríos, A.A.;;
+Amarilla, P.J.;Amarilla, P.J.;;
+Lugo, G.A.G.;Lugo, G.A.G.;;
+Davalos, M.;Davalos, M.;;
+Hager, U.;Hager, U.;;
+Silva, J.J.C.;Silva, J.J.C.;;
+Molina, J.;Molina, J.;;
+Scouflaire, P.;Scouflaire, P.;;
+Darabiha, N.;Darabiha, N.;;
+Ferreira-Aranda, J.M.;Ferreira-Aranda, J.M.;;
+Díaz-Molas, L.G.;Díaz-Molas, L.G.;;
+Cristaldo, R.;Cristaldo, R.;;
+Méndez, E.;Méndez, E.;;
+González, G.;González, G.;;
+Melian, M.;Melian, M.;;
+Botta, R.;Botta, R.;;
+Rolón, M.;Rolón, M.;;
+Melgarejo, E.;Melgarejo, E.;;
+Lopez, S.;Lopez, S.;;
+Aguilera, A.;Aguilera, A.;;
+Ferreira Aranda, J.M.;Ferreira Aranda, J.M.;;
+Díaz Molas, L.G.;Díaz Molas, L.G.;;
+Brizuela, C.A.;Brizuela, C.A.;;
+Avalos Godoy, M.;Avalos Godoy, M.;;
+Duarte, A.F.;Duarte, A.F.;;
+De Azevedo, R.P.;De Azevedo, R.P.;;
+Mozzaquatro, B.;Mozzaquatro, B.;;
+Petters, A.M.;Petters, A.M.;;
+Lezcano Romero, J.M.;Lezcano Romero, J.M.;;
+Legal Ayala, H.A.;Legal Ayala, H.A.;;
+Gonzales, R.A.;Gonzales, R.A.;;
+Gaona, F.A.;Gaona, F.A.;;
+Peralta, R.R.;Peralta, R.R.;;
+Justino, E.J.R.;Justino, E.J.R.;;
+Villalba Paez, J.;Villalba Paez, J.;;
+Talia, A.;Talia, A.;;
+Davalos Gimenez, E.;Davalos Gimenez, E.;;
+Pinto Roa, D.;Pinto Roa, D.;;
+Ricart, J.;Ricart, J.;;
+Hüttemann, G.;Hüttemann, G.;;
+Justino, E.;Justino, E.;;
+García, Ma.E.;García, Ma.E.;;
+Puigjaner, R.;Puigjaner, R.;;
+Calle, E.;Calle, E.;;
+Ripoll, J.;Ripoll, J.;;
+Segovia, J.;Segovia, J.;;
+Vilá, P.;Vilá, P.;;
+Manzano, M.;Manzano, M.;;
+Meixner, C.C.;Meixner, C.C.;;
+Campuzano, L.;Campuzano, L.;;
+Davalos, E.;Davalos, E.;;
+Olabe, X.B.;Olabe, X.B.;;
+León, V.C.;León, V.C.;;
+Galvan, P.;Galvan, P.;;
+Gomez-Solaetxe, M.A.;Gomez-Solaetxe, M.A.;;
+Larrabe, J.L.;Larrabe, J.L.;;
+Maciel, R.;Maciel, R.;;
+Sobrino, M.;Sobrino, M.;;
+Pinto, D.;Pinto, D.;;
+Pavón, R.;Pavón, R.;;
+Brunelli, R.;Brunelli, R.;;
+Samaniego, A.;Samaniego, A.;;
+Alliana, A.;Alliana, A.;;
+Lezcano, C.;Lezcano, C.;;
+Palacios-Alonso, M.A.;Palacios-Alonso, M.A.;;
+Sucar, L.E.;Sucar, L.E.;;
+Rodríguez, C.;Rodríguez, C.;;
+Joaquín Lima, Q.M.;Joaquín Lima, Q.M.;;
+Benjamín Barán, C.;Benjamín Barán, C.;;
+Solano, F.;Solano, F.;;
+Fabregat, R.;Fabregat, R.;;
+Donoso, Y.;Donoso, Y.;;
+Marzo, J.L.;Marzo, J.L.;;
+Hesselbach, X.;Hesselbach, X.;;
+Huerta, M.;Huerta, M.;;
+Sotelo, A.;Sotelo, A.;;
+Gómez, O.;Gómez, O.;;
+Gomez, O.;Gomez, O.;;
+Barân, B.;Barân, B.;;
+Levera, J.;Levera, J.;;
+Grossman, R.;Grossman, R.;;
+Crichigno, J.;Crichigno, J.;;
+Schaerer, M.;Schaerer, M.;;
+Bogarín, V.;Bogarín, V.;;
+Zhao, Y.;Zhao, Y.;;
+Sannomiya, N.;Sannomiya, N.;;
+Kaszkurewicz, E.;Kaszkurewicz, E.;;

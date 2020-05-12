@@ -13,6 +13,14 @@ def devolverArchivos(carpeta):
             universidades.append(archivo[len(nom)+1:-5])
     return (lista_archivos,universidades)
 
+def indexCS(data):
+    indices = []
+    topic = data["Topic"]
+    for i,t in enumerate(topic):
+        if "Computer Science" in t:
+            indices.append(i)
+    return indices
+
 def formating(author):
     author = author.strip()
     if not (author.endswith(".")):
@@ -24,8 +32,22 @@ def connected_component_subgraphs(G):
         yield G.subgraph(c)
 
 archivos, universidades = devolverArchivos("publicaciones")
+"""univ = "Universidad de Antioquia"
+archivo_edges = "data/componente_gigante/coauthors-edgesCG-"+univ+".csv"
+archivo_nodes = "data/componente_gigante/coauthors-nodesCG-"+univ+".csv"
+#coau_df = pd.read_csv(archivo_edges,delimiter=";")
+#nodos_df = pd.read_csv(archivo_nodes,delimiter=";")
+with open(archivo_nodes,encoding='utf-8') as f:
+    for line in f:
+        line2 = line.split(";")
+        if len(line2)==5:
+            print(line)"""
+
 for univ, archivo in zip(universidades,archivos):
     data = pd.read_excel(archivo)
+    indices = indexCS(data)
+    data = data.loc[indices]
+    data.reset_index(inplace=True)
     coauthors = []
 
     for author in data['Authors']:
@@ -44,12 +66,17 @@ for univ, archivo in zip(universidades,archivos):
         for offset, author1 in enumerate(publ):
             author1 = formating(author1)
             if author1 not in authors.keys():
-                authors[author1] = {'Before:':set(),'After':set()}
-            for keyword in keywords:
-                keyword = keyword.strip()
-                if (keyword != 'nan'):
-                    authors[author1].add(keyword)
-
+                authors[author1] = {'Before':set(),'After':set()}
+            if year>=2015 and year<=2017:
+                for keyword in keywords:
+                    keyword = keyword.strip()
+                    if (keyword != 'nan'):
+                        authors[author1]['Before'].add(keyword)
+            elif year==2018 or year ==2019:
+                for keyword in keywords:
+                    keyword = keyword.strip()
+                    if (keyword != 'nan'):
+                        authors[author1]['After'].add(keyword)
             offset += 1
             author1 = formating(author1)
             for author2 in publ[offset:]:
@@ -78,9 +105,9 @@ for univ, archivo in zip(universidades,archivos):
             f.write(ath[0] + ";" + ath[1] + ";" + str(value['n']) + ";" + str(int(value['firstColab'])) + "\n")
 
     with open("data/grafo_completo/coauthors-nodes-"+univ+".csv", "w", encoding="utf-8") as g:
-        g.write("ID;Label;Keywords\n")
-        for auth, keyword in authors.items():
-            g.write(auth + ";" + auth + ";" + ",".join(keyword) + "\n")
+        g.write("ID;Label;KeywordsB2018;KeywordsA2018\n")
+        for auth, keywords in authors.items():
+            g.write(auth + ";" + auth + ";" + (",".join(keywords['Before'])).replace(";","") +";"+(",".join(keywords['After'])).replace(";","")+ "\n")
 
 
     coau_df = pd.read_csv("data/grafo_completo/coauthors-edges-"+univ+".csv", delimiter=";")
@@ -97,7 +124,8 @@ for univ, archivo in zip(universidades,archivos):
                 f.write(ath[0] + ";" + ath[1] + ";" + str(value['n']) + ";" + str(int(value['firstColab'])) + "\n")
 
     with open("data/componente_gigante/coauthors-nodesCG-"+univ+".csv", "w", encoding="utf-8") as g:
-        g.write("ID;Label;Keywords\n")
-        for auth, keyword in authors.items():
+        g.write("ID;Label;KeywordsB2018;KeywordsA2018\n")
+        for auth, keywords in authors.items():
             if auth in nodosCG:
-                g.write(auth + ";" + auth + ";" + ",".join(keyword) + "\n")
+                g.write(auth + ";" + auth + ";" + (",".join(keywords['Before'])).replace(";","") +";"+(",".join(keywords['After'])).replace(";","")+ "\n")
+

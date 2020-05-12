@@ -9,16 +9,6 @@ Arenas, J.;Bruzza, M.;1;2019
 Paz, F.;Tupia, M.;1;2019
 Paz, F.;Bruzza, M.;1;2019
 Tupia, M.;Bruzza, M.;8;2016
-Achanccaray, D.;Chau, J.M.;1;2019
-Achanccaray, D.;Pirca, J.;2;2018
-Achanccaray, D.;Sepulveda, F.;1;2019
-Achanccaray, D.;Hayashibe, M.;3;2018
-Chau, J.M.;Pirca, J.;1;2019
-Chau, J.M.;Sepulveda, F.;1;2019
-Chau, J.M.;Hayashibe, M.;1;2019
-Pirca, J.;Sepulveda, F.;1;2019
-Pirca, J.;Hayashibe, M.;2;2018
-Sepulveda, F.;Hayashibe, M.;1;2019
 Villegas, B.;Flores, K.M.;1;2019
 Villegas, B.;Pacheco-Barrios, K.;1;2019
 Villegas, B.;Elias, D.;2;2017
@@ -27,24 +17,12 @@ Flores, K.M.;Elias, D.;2;2019
 Pacheco-Barrios, K.;Elias, D.;1;2019
 Abarca, V.E.;Flores, K.M.;1;2019
 Abarca, V.E.;Elias, D.;1;2019
-Quesada, J.;Silva, G.;3;2017
-Quesada, J.;Rodriguez, P.;4;2016
-Quesada, J.;Wohlberg, B.;3;2017
-Silva, G.;Rodriguez, P.;5;2016
-Silva, G.;Wohlberg, B.;2;2017
-Rodriguez, P.;Wohlberg, B.;8;2015
 Dias, G.P.;Bruzza, M.;1;2019
 Dias, G.P.;Tupia, M.;2;2019
-Zeller, C.B.;Cabral, C.R.B.;1;2019
-Zeller, C.B.;Lachos, V.H.;1;2019
-Zeller, C.B.;Benites, L.;1;2019
-Cabral, C.R.B.;Lachos, V.H.;1;2019
-Cabral, C.R.B.;Benites, L.;1;2019
-Lachos, V.H.;Benites, L.;1;2019
 Cáceres, S.V.;Pow-Sang, J.A.;1;2019
 Scharff, M.;Rivera Campos, R.A.;1;2019
 Scharff, M.;Merker, L.;2;2018
-Scharff, M.;Behn, C.;3;2018
+Scharff, M.;Behn, C.;2;2018
 Scharff, M.;Zimmermann, K.;2;2018
 Rivera Campos, R.A.;Merker, L.;1;2019
 Rivera Campos, R.A.;Behn, C.;1;2019
@@ -52,11 +30,6 @@ Rivera Campos, R.A.;Zimmermann, K.;1;2019
 Merker, L.;Behn, C.;2;2018
 Merker, L.;Zimmermann, K.;2;2018
 Behn, C.;Zimmermann, K.;2;2018
-Achanccaray, D.;Pacheco, K.;2;2017
-Achanccaray, D.;Carranza, E.;3;2017
-Pacheco, K.;Carranza, E.;2;2017
-Pacheco, K.;Hayashibe, M.;1;2019
-Carranza, E.;Hayashibe, M.;1;2019
 Espinoza, J.;Loarte, P.;2;2018
 Espinoza, J.;Paz, F.;2;2018
 Espinoza, J.;Flores, L.;1;2019
@@ -72,7 +45,6 @@ Flores, S.;Paz, F.;1;2019
 Lin Gao, X.W.;Véliz, B.M.;1;2019
 Lin Gao, X.W.;Paz, F.;1;2019
 Véliz, B.M.;Paz, F.;1;2019
-Chau, G.;Rodríguez, P.;1;2019
 Diaz, E.;Arenas, J.J.;1;2019
 Diaz, E.;Moquillaza, A.;2;2019
 Arenas, J.J.;Moquillaza, A.;1;2019
@@ -177,17 +149,6 @@ Liu, Y.;Cuellar, F.;1;2018
 Liu, Y.;Bucknall, R.;1;2018
 Balbuena, J.;Bucknall, R.;1;2018
 Cuellar, F.;Bucknall, R.;1;2018
-Bouwmans, T.;Vaswani, N.;1;2018
-Bouwmans, T.;Rodriguez, P.;1;2018
-Bouwmans, T.;Vidal, R.;1;2018
-Bouwmans, T.;Lin, Z.;1;2018
-Vaswani, N.;Rodriguez, P.;1;2018
-Vaswani, N.;Vidal, R.;1;2018
-Vaswani, N.;Lin, Z.;1;2018
-Rodriguez, P.;Vidal, R.;1;2018
-Rodriguez, P.;Lin, Z.;1;2018
-Vidal, R.;Lin, Z.;1;2018
-Chahuara, H.;Rodriguez, P.;1;2018
 Trovato, G.;Paredes, R.;4;2017
 Trovato, G.;Balvin, J.;1;2018
 Trovato, G.;Bech, S.;1;2018
@@ -198,7 +159,7 @@ Paredes, R.;Tan, Z.-H.;1;2018
 Balvin, J.;Bech, S.;1;2018
 Balvin, J.;Tan, Z.-H.;1;2018
 Bech, S.;Tan, Z.-H.;1;2018
-Saavedra, A.C.;Arroyo, J.;2;2018
+Saavedra, A.C.;Arroyo, J.;1;2018
 Saavedra, A.C.;Zvietcovich, F.;3;2017
 Saavedra, A.C.;Lavarello, R.J.;2;2017
 Saavedra, A.C.;Castaneda, B.;3;2017
@@ -206,17 +167,10 @@ Arroyo, J.;Zvietcovich, F.;1;2018
 Arroyo, J.;Lavarello, R.J.;1;2018
 Arroyo, J.;Castaneda, B.;2;2017
 Zvietcovich, F.;Lavarello, R.J.;2;2017
-Zvietcovich, F.;Castaneda, B.;6;2016
+Zvietcovich, F.;Castaneda, B.;5;2016
 Lavarello, R.J.;Castaneda, B.;3;2015
-Achanccaray, D.;Astucuri, J.;1;2018
-Achanccaray, D.;Espinoza, V.;1;2018
-Astucuri, J.;Hayashibe, M.;1;2018
-Astucuri, J.;Pirca, J.;1;2018
-Astucuri, J.;Espinoza, V.;1;2018
-Hayashibe, M.;Espinoza, V.;1;2018
-Pirca, J.;Espinoza, V.;1;2018
 Trujillano, F.;Flores, A.;1;2018
-Trujillano, F.;Saito, C.;3;2017
+Trujillano, F.;Saito, C.;1;2018
 Trujillano, F.;Balcazar, M.;1;2018
 Trujillano, F.;Racoceanu, D.;1;2018
 Flores, A.;Saito, C.;1;2018
@@ -225,15 +179,6 @@ Flores, A.;Racoceanu, D.;1;2018
 Saito, C.;Balcazar, M.;1;2018
 Saito, C.;Racoceanu, D.;1;2018
 Balcazar, M.;Racoceanu, D.;1;2018
-Berrios, D.R.;Franco, R.;1;2018
-Salvador, G.;Chau, J.M.;1;2018
-Salvador, G.;Quesada, J.;1;2018
-Salvador, G.;Carranza, C.;1;2018
-Chau, J.M.;Quesada, J.;1;2018
-Chau, J.M.;Carranza, C.;1;2018
-Quesada, J.;Carranza, C.;1;2018
-Gustavo, C.;Wohlberg, B.;1;2018
-Gustavo, C.;Rodriguez, P.;1;2018
 Benane, Y.M.;Bujoreanu, D.;1;2018
 Benane, Y.M.;Lavarello, R.;1;2018
 Benane, Y.M.;Cachard, C.;1;2018
@@ -246,10 +191,6 @@ Lavarello, R.;Basset, O.;1;2018
 Cachard, C.;Basset, O.;1;2018
 Trovato, G.;Lucho, C.;5;2016
 Lucho, C.;Paredes, R.;1;2018
-Carranza, C.;Pattichis, M.;3;2016
-Carranza, C.;Llamocca, D.;3;2016
-Pattichis, M.;Llamocca, D.;3;2016
-Manzano, E.A.;Tafur, J.;1;2018
 Trovato, G.;Ramon, A.;1;2018
 Trovato, G.;Rodriguez, L.;1;2018
 Lucho, C.;Ramon, A.;1;2018
@@ -308,7 +249,7 @@ Zhang, R.;Zenteno, O.;1;2018
 Zhang, R.;Treuillet, S.;1;2018
 Zhang, R.;Castaneda, B.;1;2018
 Zenteno, O.;Treuillet, S.;3;2018
-Zenteno, O.;Castaneda, B.;5;2016
+Zenteno, O.;Castaneda, B.;4;2016
 Treuillet, S.;Castaneda, B.;1;2018
 Paz, F.;Sánchez, M.;2;2017
 Paz, F.;Collantes, L.;2;2017
@@ -337,7 +278,7 @@ Zenteno, O.;Lucas, Y.;2;2018
 González, E.;Treuillet, S.;2;2018
 González, E.;Llanos, A.;1;2018
 González, E.;Lucas, Y.;2;2018
-Treuillet, S.;Llanos, A.;2;2015
+Treuillet, S.;Llanos, A.;1;2018
 Treuillet, S.;Lucas, Y.;2;2018
 Llanos, A.;Lucas, Y.;1;2018
 Zenteno, O.;Llanos-Cuentas, A.;1;2018
@@ -351,12 +292,12 @@ Paredes, R.;Cuellar, F.;3;2017
 Morales, J.;Melgar, A.;1;2017
 Zenteno, O.;Zvietcovich, F.;1;2017
 Zenteno, O.;Zapata, D.;1;2017
-Zenteno, O.;Lavarello, R.;4;2015
+Zenteno, O.;Lavarello, R.;3;2015
 Zvietcovich, F.;Zapata, D.;1;2017
 Zvietcovich, F.;Lavarello, R.;1;2017
 Zapata, D.;Lavarello, R.;1;2017
 Zapata, D.;Castaneda, B.;1;2017
-Lavarello, R.;Castaneda, B.;5;2015
+Lavarello, R.;Castaneda, B.;4;2016
 Choy, J.L.C.;Caballero, L.C.;2;2015
 Fernandez, M.;Davila, A.;1;2017
 Fernandez, M.;Angeleri, P.;1;2017
@@ -372,7 +313,7 @@ Caballero, L.C.;Saito, C.;1;2017
 Caballero, L.C.;Micheline, R.B.;2;2015
 Caballero, L.C.;Paredes, J.A.;1;2017
 Saito, C.;Micheline, R.B.;1;2017
-Saito, C.;Paredes, J.A.;3;2017
+Saito, C.;Paredes, J.A.;1;2017
 Micheline, R.B.;Paredes, J.A.;1;2017
 Romero, E.;Callupe, R.;1;2017
 Romero, E.;Elias, D.;2;2017
@@ -383,17 +324,10 @@ Apaza, J.;Saito, C.;1;2017
 Scipion, D.;Lume, D.;1;2017
 Scipion, D.;Saito, C.;1;2017
 Lume, D.;Saito, C.;1;2017
-Pacheco, K.;Acuna, K.;1;2017
-Pacheco, K.;Andreu-Perez, J.;1;2017
-Acuna, K.;Carranza, E.;1;2017
-Acuna, K.;Achanccaray, D.;1;2017
-Acuna, K.;Andreu-Perez, J.;1;2017
-Carranza, E.;Andreu-Perez, J.;2;2017
-Achanccaray, D.;Andreu-Perez, J.;3;2017
 Ferrer, J.;Chaumont, T.;1;2017
 Ferrer, J.;Trujillo, L.;1;2017
 Ferrer, J.;Garra, B.;1;2017
-Ferrer, J.;Castaneda, B.;3;2015
+Ferrer, J.;Castaneda, B.;1;2017
 Chaumont, T.;Trujillo, L.;1;2017
 Chaumont, T.;Garra, B.;1;2017
 Chaumont, T.;Castaneda, B.;1;2017
@@ -404,23 +338,12 @@ Lopez, A.;Quiroz, D.;1;2017
 Paredes, R.;Quiroz, D.;1;2017
 Quiroz, D.;Trovato, G.;1;2017
 Quiroz, D.;Cuellar, F.;1;2017
-Achanccaray, D.;Acuña, K.;1;2017
-Acuña, K.;Carranza, E.;1;2017
-Acuña, K.;Andreu-Perez, J.;1;2017
-Achanccaray, D.;Flores, C.;1;2017
-Achanccaray, D.;Fonseca, C.;1;2017
-Flores, C.;Fonseca, C.;1;2017
-Flores, C.;Andreu-Perez, J.;1;2017
-Fonseca, C.;Andreu-Perez, J.;1;2017
 Fortunić, E.P.;Becker, F.;1;2017
 Fortunić, E.P.;Zimmermann, K.;1;2017
 Fortunić, E.P.;Cuellar, F.;1;2017
 Becker, F.;Zimmermann, K.;1;2017
 Becker, F.;Cuellar, F.;1;2017
 Zimmermann, K.;Cuellar, F.;1;2017
-Silva, G.;Rodríguez, P.;1;2017
-Quesada, J.;Rodríguez, P.;1;2017
-Rodríguez, P.;Wohlberg, B.;2;2017
 Mio, R.;Villegas, B.;1;2017
 Mio, R.;Ccorimanya, L.;1;2017
 Mio, R.;Salazar, G.;1;2017
@@ -430,22 +353,6 @@ Villegas, B.;Salazar, G.;1;2017
 Ccorimanya, L.;Salazar, G.;1;2017
 Ccorimanya, L.;Elias, D.;1;2017
 Salazar, G.;Elias, D.;1;2017
-Barrientos, R.;Roman-Gonzalez, A.;2;2017
-Barrientos, R.;Barrientos, F.;2;2017
-Barrientos, R.;Gilman, R.H.;2;2017
-Barrientos, R.;Zimic, M.;2;2017
-Roman-Gonzalez, A.;Barrientos, F.;2;2017
-Roman-Gonzalez, A.;Gilman, R.H.;2;2017
-Roman-Gonzalez, A.;Zimic, M.;2;2017
-Barrientos, F.;Gilman, R.H.;2;2017
-Barrientos, F.;Zimic, M.;2;2017
-Gilman, R.H.;Zimic, M.;2;2017
-Chambergo, J.C.;Valverde, Q.;1;2017
-Chambergo, J.C.;Pachas, A.A.;1;2017
-Chambergo, J.C.;Yépez, H.;1;2017
-Valverde, Q.;Pachas, A.A.;1;2017
-Valverde, Q.;Yépez, H.;1;2017
-Pachas, A.A.;Yépez, H.;1;2017
 Luis, I.;Pérez, B.;1;2017
 Luis, I.;Rivera, B.;1;2017
 Luis, I.;Cano, C.;1;2017
@@ -502,16 +409,6 @@ Ramirez, R.;Trujillano, L.;1;2017
 Oscanoa, H.;Chira, H.L.;1;2017
 Oscanoa, H.;Cuellar, F.;1;2017
 Chira, H.L.;Cuellar, F.;1;2017
-Murray, V.;Dasso, A.;2;2015
-Murray, V.;Llanos, J.;1;2017
-Murray, V.;Rodriguez, P.;2;2015
-Murray, V.;Pattichis, M.S.;2;2015
-Dasso, A.;Llanos, J.;1;2017
-Dasso, A.;Rodriguez, P.;2;2015
-Dasso, A.;Pattichis, M.S.;2;2015
-Llanos, J.;Rodriguez, P.;1;2017
-Llanos, J.;Pattichis, M.S.;1;2017
-Rodriguez, P.;Pattichis, M.S.;2;2015
 Crisostomo, J.;Flores, L.;1;2017
 Crisostomo, J.;Melendez, K.;1;2017
 Crisostomo, J.;Davila, A.;1;2017
@@ -527,21 +424,7 @@ Acevedo, J.;Furukawa, R.;1;2017
 Mogrovejo, H.;Villalta, J.;1;2017
 Mogrovejo, H.;Furukawa, R.;1;2017
 Villalta, J.;Furukawa, R.;1;2017
-Calderón, J.A.;Aragón, D.E.;1;2017
-Calderón, J.A.;Perea, C.A.;1;2017
-Calderón, J.A.;Tafur, J.C.;1;2017
-Calderón, J.A.;Barriga, B.;1;2017
-Aragón, D.E.;Perea, C.A.;1;2017
-Aragón, D.E.;Tafur, J.C.;1;2017
-Aragón, D.E.;Barriga, B.;1;2017
-Perea, C.A.;Tafur, J.C.;1;2017
-Perea, C.A.;Barriga, B.;1;2017
-Tafur, J.C.;Barriga, B.;1;2017
 Linares, A.E.;Oncevay-Marcos, A.;1;2017
-Cuellar, R.;Tafur, J.C.;1;2017
-Franco, R.;Flores, P.A.;1;2017
-Franco, R.;Peinado, A.A.C.;1;2017
-Flores, P.A.;Peinado, A.A.C.;1;2017
 Galarreta, A.-P.;Melgar, A.;1;2017
 Galarreta, A.-P.;Oncevay-Marcos, A.;1;2017
 Pereira-Noriega, J.;Mercado-Gonzales, R.;1;2017
@@ -577,7 +460,7 @@ Romero, S.E.;Gonzalez, E.A.;1;2017
 Romero, S.E.;Lavarello, R.;1;2017
 Romero, S.E.;Castaneda, B.;1;2017
 Gonzalez, E.A.;Lavarello, R.;1;2017
-Gonzalez, E.A.;Castaneda, B.;2;2016
+Gonzalez, E.A.;Castaneda, B.;1;2017
 Condor, S.;García, C.;1;2017
 Condor, S.;Dávila, A.;1;2017
 Anelli, A.;Santa-Cruz, S.;1;2017
@@ -589,7 +472,7 @@ Vona, M.;Laterza, M.;1;2017
 Santa-Cruz, S.;Palomino, J.;1;2017
 Santa-Cruz, S.;Liguori, N.;1;2017
 Santa-Cruz, S.;Tamayo, R.;1;2017
-Palomino, J.;Liguori, N.;2;2017
+Palomino, J.;Liguori, N.;1;2017
 Palomino, J.;Vona, M.;1;2017
 Palomino, J.;Tamayo, R.;1;2017
 Liguori, N.;Vona, M.;1;2017
@@ -610,16 +493,16 @@ Saavedra, V.;Dávila, A.;1;2017
 Saavedra, V.;Melendez, K.;1;2017
 Saavedra, V.;Pessoa, M.;1;2017
 Marin, L.;Racoceanu, D.;1;2017
-Marin, L.;Renard Penna, R.;2;2017
-Marin, L.;Ezziane, M.;2;2017
+Marin, L.;Renard Penna, R.;1;2017
+Marin, L.;Ezziane, M.;1;2017
 Racoceanu, D.;Renard Penna, R.;1;2017
 Racoceanu, D.;Ezziane, M.;1;2017
-Renard Penna, R.;Ezziane, M.;2;2017
+Renard Penna, R.;Ezziane, M.;1;2017
 Collantes, L.;Pow-Sang, J.A.;1;2017
 Sánchez, M.;Pow-Sang, J.A.;1;2017
 Fonseca, P.;Castañeda, B.;1;2017
 Fonseca, P.;Valenzuela, R.;1;2017
-Fonseca, P.;Wainer, J.;2;2015
+Fonseca, P.;Wainer, J.;1;2017
 Castañeda, B.;Valenzuela, R.;1;2017
 Castañeda, B.;Wainer, J.;1;2017
 Valenzuela, R.;Wainer, J.;1;2017
@@ -645,21 +528,11 @@ Montero, J.;Cuellar, F.;1;2016
 Penaloza, C.;Cuellar, F.;4;2015
 Tupia, M.;Rodriguez, F.;1;2016
 Bruzza, M.;Rodriguez, F.;1;2016
-Hu, Y.;Sirlantzis, K.;2;2015
-Hu, Y.;Howells, G.;2;2015
-Hu, Y.;Ragot, N.;2;2015
-Hu, Y.;Rodríguez, P.;1;2016
-Sirlantzis, K.;Howells, G.;2;2015
-Sirlantzis, K.;Ragot, N.;2;2015
-Sirlantzis, K.;Rodríguez, P.;1;2016
-Howells, G.;Ragot, N.;2;2015
-Howells, G.;Rodríguez, P.;1;2016
-Ragot, N.;Rodríguez, P.;1;2016
-Rouyer, J.;Torres, G.;2;2016
+Rouyer, J.;Torres, G.;1;2016
 Rouyer, J.;Urban, M.W.;1;2016
-Rouyer, J.;Lavarello, R.;4;2015
+Rouyer, J.;Lavarello, R.;2;2015
 Torres, G.;Urban, M.W.;1;2016
-Torres, G.;Lavarello, R.;2;2016
+Torres, G.;Lavarello, R.;1;2016
 Urban, M.W.;Lavarello, R.;1;2016
 Chau, G.R.;Dahl, J.J.;1;2016
 Chau, G.R.;Lavarello, R.J.;1;2016
@@ -683,7 +556,7 @@ Doimi, F.;Pinto, J.;1;2016
 Doimi, F.;Castaneda, B.;1;2016
 Dyer, R.;Pinto, J.;1;2016
 Dyer, R.;Castaneda, B.;1;2016
-Pinto, J.;Castaneda, B.;2;2015
+Pinto, J.;Castaneda, B.;1;2016
 Cisneros-Velarde, P.;Correa, M.;1;2016
 Cisneros-Velarde, P.;Mayta, H.;1;2016
 Cisneros-Velarde, P.;Lavarello, R.;1;2016
@@ -734,12 +607,6 @@ Onchi, E.;Trovato, G.;1;2016
 Lucho, C.;Sigüenza, M.;1;2016
 Sigüenza, M.;Trovato, G.;1;2016
 Sigüenza, M.;Cuellar, F.;1;2016
-Alencastre, J.H.;Olarte, C.;1;2016
-Alencastre, J.H.;Rivera, R.;1;2016
-Alencastre, J.H.;Muñoz, J.L.;1;2016
-Olarte, C.;Rivera, R.;1;2016
-Olarte, C.;Muñoz, J.L.;1;2016
-Rivera, R.;Muñoz, J.L.;1;2016
 Zvietcovich, F.;Navarro, L.;1;2016
 Zvietcovich, F.;Saldana, J.;1;2016
 Zvietcovich, F.;Castillo, L.J.;1;2016
@@ -750,10 +617,6 @@ Saldana, J.;Castillo, L.J.;1;2016
 Saldana, J.;Castaneda, B.;1;2016
 Castillo, L.J.;Castaneda, B.;1;2016
 Choy, J.L.C.;Micheline, R.B.;1;2015
-Hu, Y.;Rodriguez, P.;1;2015
-Sirlantzis, K.;Rodriguez, P.;1;2015
-Howells, G.;Rodriguez, P.;1;2015
-Ragot, N.;Rodriguez, P.;1;2015
 Cano, C.;Melgar, A.;1;2015
 Cano, C.;Dávila, A.;1;2015
 Cano, C.;Pessoa, M.;1;2015
@@ -764,10 +627,10 @@ Torres, G.;Lavarello, R.J.;1;2015
 Torres, G.;Parker, K.J.;1;2015
 Torres, G.;Castaneda, B.;1;2015
 Ormachea, J.;Lavarello, R.J.;1;2015
-Ormachea, J.;Parker, K.J.;4;2015
-Ormachea, J.;Castaneda, B.;4;2015
-Lavarello, R.J.;Parker, K.J.;2;2015
-Parker, K.J.;Castaneda, B.;4;2015
+Ormachea, J.;Parker, K.J.;1;2015
+Ormachea, J.;Castaneda, B.;1;2015
+Lavarello, R.J.;Parker, K.J.;1;2015
+Parker, K.J.;Castaneda, B.;1;2015
 Rouyer, J.;Varray, F.;1;2015
 Rouyer, J.;Pozo, E.;1;2015
 Rouyer, J.;Cachard, C.;1;2015
@@ -775,7 +638,7 @@ Varray, F.;Pozo, E.;1;2015
 Varray, F.;Cachard, C.;1;2015
 Varray, F.;Lavarello, R.;1;2015
 Pozo, E.;Cachard, C.;1;2015
-Pozo, E.;Lavarello, R.;2;2015
+Pozo, E.;Lavarello, R.;1;2015
 Harba, R.;Jacquet, G.;1;2015
 Harba, R.;Wilches, C.;1;2015
 Harba, R.;Zequera, M.;1;2015
@@ -822,10 +685,6 @@ Raygada, E.;Monge, M.;1;2015
 Silva, C.;Monge, M.;1;2015
 Sihuay, M.;Dávila, A.;1;2015
 Sihuay, M.;Pessoa, M.;1;2015
-Murray, V.;Noriega, M.;1;2015
-Rodriguez, P.;Noriega, M.;1;2015
-Noriega, M.;Dasso, A.;1;2015
-Noriega, M.;Pattichis, M.S.;1;2015
 Zenteno, O.;Diaz, K.;1;2015
 Zenteno, O.;Figueroa, D.;1;2015
 Zenteno, O.;Castañeda, B.;1;2015
@@ -833,256 +692,5 @@ Diaz, K.;Lavarello, R.;1;2015
 Diaz, K.;Figueroa, D.;1;2015
 Diaz, K.;Castañeda, B.;1;2015
 Lavarello, R.;Figueroa, D.;1;2015
-Lavarello, R.;Castañeda, B.;2;2015
+Lavarello, R.;Castañeda, B.;1;2015
 Figueroa, D.;Castañeda, B.;1;2015
-Castro, L.M.;Wang, W.-L.;1;2019
-Castro, L.M.;Lachos, V.H.;1;2019
-Castro, L.M.;Inácio de Carvalho, V.;1;2019
-Castro, L.M.;Bayes, C.L.;1;2019
-Wang, W.-L.;Lachos, V.H.;1;2019
-Wang, W.-L.;Inácio de Carvalho, V.;1;2019
-Wang, W.-L.;Bayes, C.L.;1;2019
-Lachos, V.H.;Inácio de Carvalho, V.;1;2019
-Lachos, V.H.;Bayes, C.L.;1;2019
-Inácio de Carvalho, V.;Bayes, C.L.;1;2019
-Chau, G.;Wohlberg, B.;1;2019
-Chau, G.;Rodriguez, P.;1;2019
-Fernández, R.;Bayes, C.L.;1;2018
-Fernández, R.;Valdivieso, L.;1;2018
-Bayes, C.L.;Valdivieso, L.;2;2016
-Scharff, M.;Darnieder, M.;1;2018
-Scharff, M.;Steigenberger, J.;1;2018
-Scharff, M.;Alencastre, J.H.;1;2018
-Darnieder, M.;Steigenberger, J.;1;2018
-Darnieder, M.;Alencastre, J.H.;1;2018
-Darnieder, M.;Behn, C.;1;2018
-Steigenberger, J.;Alencastre, J.H.;1;2018
-Steigenberger, J.;Behn, C.;1;2018
-Alencastre, J.H.;Behn, C.;1;2018
-Flores, D.A.;Saito, C.;2;2017
-Flores, D.A.;Paredes, J.A.;2;2017
-Flores, D.A.;Trujillano, F.;2;2017
-Paredes, J.A.;Trujillano, F.;2;2017
-Franco, R.;Loaiza, W.G.;1;2017
-Franco, R.;Lean, P.P.;1;2017
-Franco, R.;Yépez, H.;1;2017
-Loaiza, W.G.;Lean, P.P.;1;2017
-Loaiza, W.G.;Yépez, H.;1;2017
-Lean, P.P.;Yépez, H.;1;2017
-Bayes, C.L.;Bazán, J.L.;1;2017
-Bayes, C.L.;Castro, M.;1;2017
-Bazán, J.L.;Castro, M.;1;2017
-Calderon, J.A.;Tafur, J.;1;2016
-Calderon, J.A.;Barriga, B.;1;2016
-Calderon, J.A.;Manzano, E.;1;2016
-Tafur, J.;Barriga, B.;1;2016
-Tafur, J.;Manzano, E.;1;2016
-Barriga, B.;Manzano, E.;1;2016
-Tafur, J.C.;García, C.;1;2015
-Tafur, J.C.;Aracil, R.;1;2015
-Tafur, J.C.;Saltaren, R.;1;2015
-García, C.;Aracil, R.;1;2015
-García, C.;Saltaren, R.;1;2015
-Aracil, R.;Saltaren, R.;1;2015
-Rosas, V.G.S.Y.;Moscoso-Porras, M.;1;2019
-Rosas, V.G.S.Y.;Ormeño, R.;1;2019
-Rosas, V.G.S.Y.;Bayes, C.L.;1;2019
-Rosas, V.G.S.Y.;Miranda, J.J.;1;2019
-Moscoso-Porras, M.;Ormeño, R.;1;2019
-Moscoso-Porras, M.;Bayes, C.L.;1;2019
-Moscoso-Porras, M.;Miranda, J.J.;1;2019
-Ormeño, R.;Bayes, C.L.;1;2019
-Ormeño, R.;Miranda, J.J.;1;2019
-Bayes, C.L.;Miranda, J.J.;1;2019
-Liguori, N.;Tarque, N.;1;2019
-Liguori, N.;Bambaren, C.;1;2019
-Liguori, N.;Laterza, M.;1;2019
-Tarque, N.;Bambaren, C.;1;2019
-Tarque, N.;Palomino, J.;1;2019
-Tarque, N.;Laterza, M.;1;2019
-Bambaren, C.;Palomino, J.;1;2019
-Bambaren, C.;Laterza, M.;1;2019
-Palomino, J.;Laterza, M.;1;2019
-Chau, G.;Jakovljevic, M.;1;2019
-Chau, G.;Lavarello, R.;3;2018
-Chau, G.;Dahl, J.;2;2018
-Jakovljevic, M.;Lavarello, R.;1;2019
-Jakovljevic, M.;Dahl, J.;1;2019
-Lavarello, R.;Dahl, J.;3;2015
-Lock, O.;Rojas, R.;1;2019
-Jiménez, G.;Racoceanu, D.;2;2019
-Mio, R.;Sánchez, M.;2;2018
-Mio, R.;Valverde, Q.;1;2018
-Sánchez, M.;Valverde, Q.;1;2018
-Bustamante, M.;Vega-Centeno, R.;1;2018
-Bustamante, M.;Sánchez, M.;1;2018
-Bustamante, M.;Mio, R.;1;2018
-Vega-Centeno, R.;Sánchez, M.;1;2018
-Vega-Centeno, R.;Mio, R.;1;2018
-Rueda, D.;Furukawa, R.;1;2018
-Rueda, D.;Fuentes, P.;1;2018
-Rueda, D.;Sheen, P.;1;2018
-Rueda, D.;Zimic, M.;1;2018
-Furukawa, R.;Fuentes, P.;1;2018
-Furukawa, R.;Sheen, P.;1;2018
-Furukawa, R.;Zimic, M.;1;2018
-Fuentes, P.;Sheen, P.;1;2018
-Fuentes, P.;Zimic, M.;1;2018
-Sheen, P.;Zimic, M.;1;2018
-Coila, A.;Torres, G.;1;2018
-Coila, A.;Rouyer, J.;2;2016
-Coila, A.;Urban, M.;1;2018
-Coila, A.;Lavarello, R.;2;2016
-Torres, G.;Urban, M.;1;2018
-Rouyer, J.;Urban, M.;1;2018
-Urban, M.;Lavarello, R.;1;2018
-Reeves, N.P.;Luis, A.;1;2018
-Reeves, N.P.;Chan, E.C.;1;2018
-Reeves, N.P.;Sal y Rosas, V.G.;1;2018
-Reeves, N.P.;Tanaka, M.L.;1;2018
-Luis, A.;Chan, E.C.;1;2018
-Luis, A.;Sal y Rosas, V.G.;1;2018
-Luis, A.;Tanaka, M.L.;1;2018
-Chan, E.C.;Sal y Rosas, V.G.;1;2018
-Chan, E.C.;Tanaka, M.L.;1;2018
-Sal y Rosas, V.G.;Tanaka, M.L.;1;2018
-Carrillo-Larco, R.M.;Bernabé-Ortiz, A.;1;2018
-Carrillo-Larco, R.M.;Sal y Rosas, V.G.;1;2018
-Carrillo-Larco, R.M.;Gilman, R.H.;1;2018
-Carrillo-Larco, R.M.;Miranda, J.J.;1;2018
-Bernabé-Ortiz, A.;Sal y Rosas, V.G.;1;2018
-Bernabé-Ortiz, A.;Gilman, R.H.;1;2018
-Bernabé-Ortiz, A.;Miranda, J.J.;1;2018
-Sal y Rosas, V.G.;Gilman, R.H.;1;2018
-Sal y Rosas, V.G.;Miranda, J.J.;1;2018
-Gilman, R.H.;Miranda, J.J.;1;2018
-Eche, G.;Zenteno, O.;1;2018
-Eche, G.;Castaneda, B.;1;2018
-Arroyo, J.;Guerrero, J.;1;2018
-Arroyo, J.;Lavarello, R.;1;2018
-Arroyo, J.;Castañeda, B.;1;2018
-Saavedra, A.C.;Guerrero, J.;1;2018
-Saavedra, A.C.;Lavarello, R.;1;2018
-Saavedra, A.C.;Castañeda, B.;1;2018
-Guerrero, J.;Lavarello, R.;1;2018
-Guerrero, J.;Castañeda, B.;1;2018
-Ge, G.R.;Laimes, R.;1;2018
-Ge, G.R.;Pinto, J.;1;2018
-Ge, G.R.;Lavarello, R.J.;1;2018
-Ge, G.R.;Parker, K.J.;1;2018
-Laimes, R.;Pinto, J.;1;2018
-Laimes, R.;Lavarello, R.J.;1;2018
-Laimes, R.;Parker, K.J.;1;2018
-Pinto, J.;Lavarello, R.J.;1;2018
-Pinto, J.;Parker, K.J.;1;2018
-Chau, G.;Mamani, G.;1;2018
-Chau, G.;Pozo Fortunic, E.;1;2018
-Chau, G.;Castañeda, B.V.;1;2018
-Mamani, G.;Pozo Fortunic, E.;1;2018
-Mamani, G.;Castañeda, B.V.;1;2018
-Mamani, G.;Lavarello, R.;1;2018
-Pozo Fortunic, E.;Castañeda, B.V.;1;2018
-Pozo Fortunic, E.;Lavarello, R.;1;2018
-Castañeda, B.V.;Lavarello, R.;1;2018
-Bejnordi, B.E.;Veta, M.;1;2017
-Bejnordi, B.E.;Van Diest, P.J.;1;2017
-Bejnordi, B.E.;Racoceanu, D.;1;2017
-Bejnordi, B.E.;Venâncio, R.;1;2017
-Veta, M.;Van Diest, P.J.;1;2017
-Veta, M.;Racoceanu, D.;1;2017
-Veta, M.;Venâncio, R.;1;2017
-Van Diest, P.J.;Racoceanu, D.;1;2017
-Van Diest, P.J.;Venâncio, R.;1;2017
-Racoceanu, D.;Venâncio, R.;1;2017
-Shu, E.;Sobieszczyk, M.E.;1;2017
-Shu, E.;Sal y Rosas, V.G.;1;2017
-Shu, E.;Sanchez, J.;1;2017
-Shu, E.;Lama, J.R.;1;2017
-Sobieszczyk, M.E.;Sal y Rosas, V.G.;1;2017
-Sobieszczyk, M.E.;Sanchez, J.;1;2017
-Sobieszczyk, M.E.;Lama, J.R.;1;2017
-Sal y Rosas, V.G.;Sanchez, J.;1;2017
-Sal y Rosas, V.G.;Lama, J.R.;1;2017
-Sanchez, J.;Lama, J.R.;1;2017
-Ben Cheikh, B.;Elie, N.;1;2017
-Ben Cheikh, B.;Plancoulaine, B.;1;2017
-Ben Cheikh, B.;Bor-Angelier, C.;2;2017
-Ben Cheikh, B.;Racoceanu, D.;2;2017
-Elie, N.;Plancoulaine, B.;1;2017
-Elie, N.;Bor-Angelier, C.;1;2017
-Elie, N.;Racoceanu, D.;1;2017
-Plancoulaine, B.;Bor-Angelier, C.;1;2017
-Plancoulaine, B.;Racoceanu, D.;1;2017
-Bor-Angelier, C.;Racoceanu, D.;2;2017
-Marin, L.;Comperat, E.;1;2017
-Marin, L.;Cussenot, O.;1;2017
-Ezziane, M.;Comperat, E.;1;2017
-Ezziane, M.;Cussenot, O.;1;2017
-Comperat, E.;Cussenot, O.;1;2017
-Comperat, E.;Renard Penna, R.;1;2017
-Cussenot, O.;Renard Penna, R.;1;2017
-Parker, K.J.;Zvietcovich, F.;1;2017
-Ormachea, J.;Zvietcovich, F.;1;2017
-Traore, L.;Kergosien, Y.;1;2017
-Traore, L.;Racoceanu, D.;1;2017
-Kergosien, Y.;Racoceanu, D.;1;2017
-Huang, C.-H.;Racoceanu, D.;1;2017
-Jimenez, L.;Vilcahuaman, L.;1;2016
-Jimenez, L.;Galdos, J.;1;2016
-Vilcahuaman, L.;Galdos, J.;1;2016
-Coila, A.;Zenteno, O.;1;2016
-Rouyer, J.;Zenteno, O.;1;2016
-Gonzalez, E.A.;Ormachea, J.;1;2016
-Gonzalez, E.A.;Parker, K.J.;1;2016
-Rojas, K.D.;Montero, M.L.;1;2015
-Rojas, K.D.;Yao, J.;1;2015
-Rojas, K.D.;Davatzikos, C.;1;2015
-Rojas, K.D.;Castaneda, B.;1;2015
-Montero, M.L.;Yao, J.;1;2015
-Montero, M.L.;Davatzikos, C.;1;2015
-Montero, M.L.;Castaneda, B.;1;2015
-Yao, J.;Davatzikos, C.;1;2015
-Yao, J.;Castaneda, B.;1;2015
-Davatzikos, C.;Castaneda, B.;1;2015
-Pozo, E.;Castaneda, B.;1;2015
-Pozo, E.;Dahl, J.;1;2015
-Castaneda, B.;Dahl, J.;1;2015
-Rojas, R.;Ormachea, J.;1;2015
-Rojas, R.;Salo, A.;1;2015
-Rojas, R.;Parker, K.J.;1;2015
-Rojas, R.;Castaneda, B.;1;2015
-Ormachea, J.;Salo, A.;1;2015
-Salo, A.;Parker, K.J.;1;2015
-Salo, A.;Castaneda, B.;1;2015
-Casado, F.L.;Manrique, S.;1;2015
-Casado, F.L.;Guerrero, J.;1;2015
-Casado, F.L.;Ferrer, J.;1;2015
-Casado, F.L.;Castaneda, B.;1;2015
-Manrique, S.;Guerrero, J.;1;2015
-Manrique, S.;Ferrer, J.;1;2015
-Manrique, S.;Castaneda, B.;1;2015
-Guerrero, J.;Ferrer, J.;2;2015
-Guerrero, J.;Castaneda, B.;3;2015
-Angulo, A.;Ferrer, J.;1;2015
-Angulo, A.;Pinto, J.;1;2015
-Angulo, A.;Guerrero, J.;1;2015
-Angulo, A.;Castaneda, B.;1;2015
-Ferrer, J.;Pinto, J.;1;2015
-Pinto, J.;Guerrero, J.;1;2015
-Casas, L.;Treuillet, S.;1;2015
-Casas, L.;Valencia, B.;1;2015
-Casas, L.;Llanos, A.;1;2015
-Casas, L.;Castañeda, B.;1;2015
-Treuillet, S.;Valencia, B.;1;2015
-Treuillet, S.;Castañeda, B.;1;2015
-Valencia, B.;Llanos, A.;1;2015
-Valencia, B.;Castañeda, B.;1;2015
-Llanos, A.;Castañeda, B.;1;2015
-Fonseca, P.;Mendoza, J.;1;2015
-Fonseca, P.;Guerrero, J.;1;2015
-Fonseca, P.;Castaneda, B.;1;2015
-Mendoza, J.;Wainer, J.;1;2015
-Mendoza, J.;Guerrero, J.;1;2015
-Mendoza, J.;Castaneda, B.;1;2015
-Wainer, J.;Guerrero, J.;1;2015
-Wainer, J.;Castaneda, B.;1;2015

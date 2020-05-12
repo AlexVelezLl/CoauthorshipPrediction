@@ -1,28 +1,28 @@
-ID;Label;Keywords
-Alvarado-Diaz, W.;Alvarado-Diaz, W.;under-ten Children,Analysis,total Body Water,lean Fat,fat Mass,BIA,bioimpedance
-Meneses-Claudio, B.;Meneses-Claudio, B.;BCI,yes/no question,under-ten Children,Segmentation,SOM,Analysis,total Body Water,Ischemic cardiopathy,lean Fat,Diagonal ear fold,Image processing,Brain-computer interface,electroencephalogram,fat Mass,BIA,bioimpedance,Stroke or heart attack
-Romero-Alva, V.;Romero-Alva, V.;under-ten Children,Analysis,total Body Water,lean Fat,fat Mass,BIA,bioimpedance
-Roman-Gonzalez, A.;Roman-Gonzalez, A.;Palpebral conjunctiva,Pneumonia,Segmentation method,Android application,fat Mass,Stroke or heart attack,communication system,total Body Water,remote diagnostics,diagnosis,M-CHAT,Anemia,eye tracking,lean Fat,echography,electroencephalogram,bioimpedance,yes-no questions,Segmentation,under-ten Children,image processing,SOM,Autism spectrum disorders,Analysis,risk,ionosphere,Ischemic cardiopathy,prevention,EEG,Brain-computer interface,Diagonal ear fold,Total amount of electrons,BCI,brain-computer interface,ultrasound,Image processing,Ultrasound images,yes/no question,earthquakes,BIA
-Zimic, M.;Zimic, M.;CoMSIA,Chagas,Confounder,c-Met kinase inhibitors,fat Mass,communication system,remote diagnostics,total Body Water,diagnosis,M-CHAT,Quantitative structure-activity relationships,QRS score,eye tracking,lean Fat,echography,Waveforms,electroencephalogram,bioimpedance,yes-no questions,Molecular docking,under-ten Children,image processing,SOM,Autism spectrum disorders,Analysis,EEG,Brain-computer interface,Neural networks,BCI,Signal processing,Topological descriptors,brain-computer interface,ultrasound,Ultrasound images,ECG signals,yes/no question,Pneumonia,BIA
-Diaz-Sotelo, W.J.;Diaz-Sotelo, W.J.;BCI,yes/no question,SOM,Brain-computer interface,electroencephalogram
-Vargas-Cuentas, N.I.;Vargas-Cuentas, N.I.;BCI,yes/no question,M-CHAT,SOM,Autism spectrum disorders,eye tracking,brain-computer interface,EEG,Brain-computer interface,electroencephalogram,communication system,diagnosis,yes-no questions
-Delgado-Rivera, G.;Delgado-Rivera, G.;Palpebral conjunctiva,Anemia,Segmentation method,Android application,Image processing
-Alva-Mantari, A.;Alva-Mantari, A.;Palpebral conjunctiva,Anemia,Segmentation method,Android application,Image processing
-Barrientos-Porras, F.;Barrientos-Porras, F.;Palpebral conjunctiva,Anemia,Segmentation method,Android application,Image processing
-Salguedo-Bohorquez, M.;Salguedo-Bohorquez, M.;Palpebral conjunctiva,Anemia,Segmentation method,Android application,Image processing
-Cabanillas, J.;Cabanillas, J.;QRS score,Signal processing,Chagas,Confounder,ECG signals,Waveforms,Neural networks
-Tello, G.;Tello, G.;QRS score,Signal processing,Chagas,Confounder,ECG signals,Waveforms,Neural networks
-Mercado, B.;Mercado, B.;QRS score,Signal processing,Chagas,Confounder,ECG signals,Waveforms,Neural networks
-Gilman, R.;Gilman, R.;QRS score,Signal processing,Chagas,Confounder,ECG signals,Waveforms,Neural networks
-Alva Mantari, A.;Alva Mantari, A.;risk,ionosphere,prevention,earthquakes,Total amount of electrons
-Zarate Segura, G.W.;Zarate Segura, G.W.;risk,ionosphere,prevention,earthquakes,Total amount of electrons
-Saldivar-Espinoza, B.;Saldivar-Espinoza, B.;risk,ionosphere,prevention,earthquakes,Total amount of electrons
-Sotomayor Beltran, C.;Sotomayor Beltran, C.;risk,ionosphere,prevention,earthquakes,Total amount of electrons
-Chavez-Alarcon, E.;Chavez-Alarcon, E.;Segmentation,Ischemic cardiopathy,Image processing,Diagonal ear fold,Stroke or heart attack
-Segura-Saldana, P.;Segura-Saldana, P.;Segmentation,Ischemic cardiopathy,Image processing,Diagonal ear fold,Stroke or heart attack
-Hoyos, M.;Hoyos, M.;BCI,brain-computer interface,EEG,communication system,yes-no questions
-Diaz, J.;Diaz, J.;BCI,brain-computer interface,EEG,communication system,yes-no questions
-Barrientos, R.;Barrientos, R.;image processing,echography,ultrasound,Ultrasound images,Pneumonia,remote diagnostics
-Barrientos, F.;Barrientos, F.;image processing,echography,ultrasound,Ultrasound images,Pneumonia,remote diagnostics
-Gilman, R.H.;Gilman, R.H.;M-CHAT,image processing,Autism spectrum disorders,eye tracking,echography,ultrasound,Ultrasound images,Pneumonia,remote diagnostics,diagnosis
-Hidalgo, D.;Hidalgo, D.;diagnosis,Autism spectrum disorders,M-CHAT,eye tracking
+ID;Label;KeywordsB2018;KeywordsA2018
+Alvarado-Diaz, W.;Alvarado-Diaz, W.;;under-ten Children,BIA,lean Fat,Analysis,fat Mass,bioimpedance,total Body Water
+Meneses-Claudio, B.;Meneses-Claudio, B.;;under-ten Children,Brain-computer interface,BIA,electroencephalogram,lean Fat,BCI,Analysis,Image processing,Stroke or heart attack,fat Mass,bioimpedance,Diagonal ear fold,total Body Water,Ischemic cardiopathy,Segmentation,yes/no question,SOM
+Romero-Alva, V.;Romero-Alva, V.;;under-ten Children,BIA,lean Fat,Analysis,fat Mass,bioimpedance,total Body Water
+Roman-Gonzalez, A.;Roman-Gonzalez, A.;image processing,remote diagnostics,communication system,yes-no questions,echography,M-CHAT,BCI,brain-computer interface,EEG,Pneumonia,ultrasound,eye tracking,diagnosis,Autism spectrum disorders,Ultrasound images;under-ten Children,earthquakes,fat Mass,Ischemic cardiopathy,risk,Analysis,Stroke or heart attack,bioimpedance,total Body Water,Total amount of electrons,yes/no question,SOM,Anemia,electroencephalogram,Brain-computer interface,BIA,lean Fat,BCI,ionosphere,prevention,Segmentation,Palpebral conjunctiva,Segmentation method,Image processing,Diagonal ear fold,Android application
+Zimic, M.;Zimic, M.;image processing,remote diagnostics,communication system,yes-no questions,echography,M-CHAT,BCI,brain-computer interface,EEG,Pneumonia,ultrasound,eye tracking,diagnosis,Autism spectrum disorders,Ultrasound images;Chagas,under-ten Children,fat Mass,QRS score,ECG signals,Analysis,bioimpedance,Signal processing,total Body Water,yes/no question,Waveforms,SOM,electroencephalogram,Brain-computer interface,BIA,lean Fat,BCI,Confounder,Neural networks
+Diaz-Sotelo, W.J.;Diaz-Sotelo, W.J.;;electroencephalogram,Brain-computer interface,BCI,yes/no question,SOM
+Vargas-Cuentas, N.I.;Vargas-Cuentas, N.I.;communication system,yes-no questions,M-CHAT,BCI,brain-computer interface,EEG,eye tracking,diagnosis,Autism spectrum disorders;electroencephalogram,Brain-computer interface,BCI,yes/no question,SOM
+Delgado-Rivera, G.;Delgado-Rivera, G.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
+Alva-Mantari, A.;Alva-Mantari, A.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
+Barrientos-Porras, F.;Barrientos-Porras, F.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
+Salguedo-Bohorquez, M.;Salguedo-Bohorquez, M.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
+Cabanillas, J.;Cabanillas, J.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
+Tello, G.;Tello, G.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
+Mercado, B.;Mercado, B.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
+Gilman, R.;Gilman, R.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
+Alva Mantari, A.;Alva Mantari, A.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
+Zarate Segura, G.W.;Zarate Segura, G.W.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
+Saldivar-Espinoza, B.;Saldivar-Espinoza, B.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
+Sotomayor Beltran, C.;Sotomayor Beltran, C.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
+Chavez-Alarcon, E.;Chavez-Alarcon, E.;;Stroke or heart attack,Image processing,Diagonal ear fold,Ischemic cardiopathy,Segmentation
+Segura-Saldana, P.;Segura-Saldana, P.;;Stroke or heart attack,Image processing,Diagonal ear fold,Ischemic cardiopathy,Segmentation
+Hoyos, M.;Hoyos, M.;communication system,yes-no questions,BCI,brain-computer interface,EEG;
+Diaz, J.;Diaz, J.;communication system,yes-no questions,BCI,brain-computer interface,EEG;
+Barrientos, R.;Barrientos, R.;remote diagnostics,image processing,echography,ultrasound,Pneumonia,Ultrasound images;
+Barrientos, F.;Barrientos, F.;remote diagnostics,image processing,echography,ultrasound,Pneumonia,Ultrasound images;
+Gilman, R.H.;Gilman, R.H.;remote diagnostics,image processing,echography,M-CHAT,ultrasound,Pneumonia,eye tracking,diagnosis,Autism spectrum disorders,Ultrasound images;
+Hidalgo, D.;Hidalgo, D.;M-CHAT,Autism spectrum disorders,diagnosis,eye tracking;

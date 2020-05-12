@@ -1,6 +1,6 @@
-ID;Label;Keywords
-Alarcón, A.G.;Alarcón, A.G.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Germán, A.;Germán, A.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Aleksinkó, A.;Aleksinkó, A.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Scavuzzo, C.M.;Scavuzzo, C.M.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Ferral, A.;Ferral, A.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
+ID;Label;KeywordsB2018;KeywordsA2018
+Alarcón, A.G.;Alarcón, A.G.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Germán, A.;Germán, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Aleksinkó, A.;Aleksinkó, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Scavuzzo, C.M.;Scavuzzo, C.M.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Ferral, A.;Ferral, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a

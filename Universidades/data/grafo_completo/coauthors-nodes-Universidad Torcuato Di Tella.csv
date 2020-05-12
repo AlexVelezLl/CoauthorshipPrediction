@@ -1,54 +1,54 @@
-ID;Label;Keywords
-Lera-Romero, G.;Lera-Romero, G.;Profitable tour problem,Traveling salesman,Integer programming,Time-dependent travel times,Branch and cut
-Miranda-Bront, J.J.;Miranda-Bront, J.J.;Profitable tour problem,Traveling salesman,Integer programming,Integer linear programming,Time windows,Time-dependent travel times,Time-dependent TSP,Branch-and-Cut,Branch and cut
-Wang, Q.J.;Wang, Q.J.;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Mesz, B.;Mesz, B.;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Riera, P.;Riera, P.;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Guha, A.;Guha, A.;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Spence, C.;Spence, C.;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Borthagaray, J.P.;Borthagaray, J.P.;Fractional Laplacian,Eigenvalue problem,Finite element method
-Del Pezzo, L.M.;Del Pezzo, L.M.;Fractional Laplacian,Eigenvalue problem,Finite element method
-Martínez, S.;Martínez, S.;Fractional Laplacian,Eigenvalue problem,Finite element method
-Gur, Y.;Gur, Y.;Nash equilibrium,Voronoi game,1-median,Competitive facility location,Hotelling competition
-Saban, D.;Saban, D.;Nash equilibrium,Voronoi game,1-median,Competitive facility location,Hotelling competition
-Stier-Moses, N.E.;Stier-Moses, N.E.;Nash equilibrium,Bundling,Voronoi game,Allocation efficiency,Supply function equilibrium,E-commerce,Noncooperative games,Imperfect competition,Linear ordering,Mean-var risk measure,Mean-stdev risk measure,Game theory,Pricing,Revenue management,Hotelling competition,Risk-averse wardrop equilibrium,Stochastic networks,Oligopoly models,1-median,Congestion game,Sensitivity analysis,Stochastic selfish routing,Competitive facility location
-Fernandez Slezak, D.;Fernandez Slezak, D.;Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Executive functions
-Sigman, M.;Sigman, M.;Heuristics,Monte Carlo Tree Search,Children problem solving,Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Planning,Stochastic behavior modeling,N-Puzzles,First graders,Executive functions
-Cecchi, G.A.;Cecchi, G.A.;
-Montero, A.;Montero, A.;Branch-and-Cut,Time windows,Time-dependent TSP,Integer linear programming
-Méndez-Díaz, I.;Méndez-Díaz, I.;Branch-and-Cut,Time windows,Time-dependent TSP,Integer linear programming
-Van Ryzin, G.;Van Ryzin, G.;Demand untruncation,Demand estimation,EM method,Choice behavior
-Vulcano, G.;Vulcano, G.;Demand untruncation,Demand estimation,EM method,Choice behavior
-L'Ecuyer, P.;L'Ecuyer, P.;Revenue management,Linear ordering,E-commerce
-Maillé, P.;Maillé, P.;Revenue management,Linear ordering,E-commerce
-Tuffin, B.;Tuffin, B.;Revenue management,Linear ordering,E-commerce
-Stier-Moses, N.;Stier-Moses, N.;
-Amalric, M.;Amalric, M.;
-Wang, L.;Wang, L.;
-Pica, P.;Pica, P.;
-Dehaene, S.;Dehaene, S.;
-Carrillo, F.;Carrillo, F.;
-Mota, N.;Mota, N.;
-Copelli, M.;Copelli, M.;
-Cecchi, G.;Cecchi, G.;
-Slezak, D.F.;Slezak, D.F.;
-Paz, L.;Paz, L.;Heuristics,Monte Carlo Tree Search,Children problem solving,Planning,Stochastic behavior modeling,N-Puzzles,First graders
-Goldin, A.P.;Goldin, A.P.;Heuristics,Monte Carlo Tree Search,Children problem solving,Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Planning,Stochastic behavior modeling,N-Puzzles,First graders,Executive functions
-Diuk, C.;Diuk, C.;Heuristics,Monte Carlo Tree Search,Children problem solving,Planning,Stochastic behavior modeling,N-Puzzles,First graders
-Nikolova, E.;Nikolova, E.;Risk-averse wardrop equilibrium,Mean-var risk measure,Mean-stdev risk measure,Nash equilibrium,Stochastic networks,Congestion game,Stochastic selfish routing
-Merener, N.;Merener, N.;Realized variance,Monte Carlo simulation,Variance reduction techniques,Variance swaps,Stratification
-Vicchi, L.;Vicchi, L.;Realized variance,Monte Carlo simulation,Variance reduction techniques,Variance swaps,Stratification
-Correa, J.R.;Correa, J.R.;Bundling,Game theory,Pricing,Oligopoly models,Noncooperative games,Imperfect competition,Allocation efficiency,Sensitivity analysis,Supply function equilibrium
-Lederman, R.;Lederman, R.;Bundling,Game theory,Pricing,Oligopoly models,Noncooperative games,Imperfect competition,Allocation efficiency,Sensitivity analysis,Supply function equilibrium
-Figueroa, N.;Figueroa, N.;Game theory,Pricing,Imperfect competition,Allocation efficiency,Supply function equilibrium
-Schulz, A.S.;Schulz, A.S.;
-Lopez-Rosenfeld, M.;Lopez-Rosenfeld, M.;Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Executive functions
-Lipina, S.;Lipina, S.;Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Executive functions
-Azcue, P.;Azcue, P.;Singular control,Optimal strategy,Viscosity solution,Insurance company,Ruin probability,Compound Poisson process,Hamilton-Jacobi-Bellman equation
-Muler, N.;Muler, N.;Singular control,Optimal strategy,Viscosity solution,VAR models,Insurance company,Ruin probability,BMM-estimator,Compound Poisson process,Hamilton-Jacobi-Bellman equation,Robust estimators
-Yohai, V.J.;Yohai, V.J.;Robust estimators,BMM-estimator,VAR models
-Ahumada, H.A.;Ahumada, H.A.;breaks,mean square forecast error ratios,estimation windows
-Page, J.H.;Page, J.H.;
-Rotnitzky, A.;Rotnitzky, A.;
-Pessino, C.;Pessino, C.;Electronic management,Electronic governance,Tax and social equity,Latin America,Information exchange
-Fenochietto, R.;Fenochietto, R.;Electronic management,Electronic governance,Tax and social equity,Latin America,Information exchange
+ID;Label;KeywordsB2018;KeywordsA2018
+Lera-Romero, G.;Lera-Romero, G.;;Time-dependent travel times,Integer programming,Traveling salesman,Branch and cut,Profitable tour problem
+Miranda-Bront, J.J.;Miranda-Bront, J.J.;Integer linear programming,Time windows,Branch-and-Cut,Time-dependent TSP;Time-dependent travel times,Integer programming,Traveling salesman,Branch and cut,Profitable tour problem
+Wang, Q.J.;Wang, Q.J.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
+Mesz, B.;Mesz, B.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
+Riera, P.;Riera, P.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
+Guha, A.;Guha, A.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
+Spence, C.;Spence, C.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
+Borthagaray, J.P.;Borthagaray, J.P.;;Finite element method,Fractional Laplacian,Eigenvalue problem
+Del Pezzo, L.M.;Del Pezzo, L.M.;;Finite element method,Fractional Laplacian,Eigenvalue problem
+Martínez, S.;Martínez, S.;;Finite element method,Fractional Laplacian,Eigenvalue problem
+Gur, Y.;Gur, Y.;;Competitive facility location,1-median,Nash equilibrium,Voronoi game,Hotelling competition
+Saban, D.;Saban, D.;;Competitive facility location,1-median,Nash equilibrium,Voronoi game,Hotelling competition
+Stier-Moses, N.E.;Stier-Moses, N.E.;Risk-averse wardrop equilibrium,Mean-stdev risk measure,Congestion game,Mean-var risk measure,Revenue management,Stochastic networks,Stochastic selfish routing,Nash equilibrium,E-commerce,Linear ordering;Competitive facility location,1-median,Nash equilibrium,Voronoi game,Hotelling competition
+Fernandez Slezak, D.;Fernandez Slezak, D.;;
+Sigman, M.;Sigman, M.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Cecchi, G.A.;Cecchi, G.A.;;
+Montero, A.;Montero, A.;Integer linear programming,Time windows,Branch-and-Cut,Time-dependent TSP;
+Méndez-Díaz, I.;Méndez-Díaz, I.;Integer linear programming,Time windows,Branch-and-Cut,Time-dependent TSP;
+Van Ryzin, G.;Van Ryzin, G.;Demand untruncation,EM method,Demand estimation,Choice behavior;
+Vulcano, G.;Vulcano, G.;Demand untruncation,EM method,Demand estimation,Choice behavior;
+L'Ecuyer, P.;L'Ecuyer, P.;E-commerce,Revenue management,Linear ordering;
+Maillé, P.;Maillé, P.;E-commerce,Revenue management,Linear ordering;
+Tuffin, B.;Tuffin, B.;E-commerce,Revenue management,Linear ordering;
+Stier-Moses, N.;Stier-Moses, N.;;
+Amalric, M.;Amalric, M.;;
+Wang, L.;Wang, L.;;
+Pica, P.;Pica, P.;;
+Dehaene, S.;Dehaene, S.;;
+Carrillo, F.;Carrillo, F.;;
+Mota, N.;Mota, N.;;
+Copelli, M.;Copelli, M.;;
+Cecchi, G.;Cecchi, G.;;
+Slezak, D.F.;Slezak, D.F.;;
+Paz, L.;Paz, L.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Goldin, A.P.;Goldin, A.P.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Diuk, C.;Diuk, C.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Nikolova, E.;Nikolova, E.;Risk-averse wardrop equilibrium,Mean-stdev risk measure,Congestion game,Mean-var risk measure,Stochastic networks,Stochastic selfish routing,Nash equilibrium;
+Merener, N.;Merener, N.;Realized variance,Stratification,Variance reduction techniques,Monte Carlo simulation,Variance swaps;
+Vicchi, L.;Vicchi, L.;Realized variance,Stratification,Variance reduction techniques,Monte Carlo simulation,Variance swaps;
+Correa, J.R.;Correa, J.R.;;
+Lederman, R.;Lederman, R.;;
+Figueroa, N.;Figueroa, N.;;
+Schulz, A.S.;Schulz, A.S.;;
+Lopez-Rosenfeld, M.;Lopez-Rosenfeld, M.;;
+Lipina, S.;Lipina, S.;;
+Azcue, P.;Azcue, P.;;
+Muler, N.;Muler, N.;;
+Yohai, V.J.;Yohai, V.J.;;
+Ahumada, H.A.;Ahumada, H.A.;;
+Page, J.H.;Page, J.H.;;
+Rotnitzky, A.;Rotnitzky, A.;;
+Pessino, C.;Pessino, C.;;
+Fenochietto, R.;Fenochietto, R.;;

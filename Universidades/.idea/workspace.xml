@@ -2,9 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="743985f2-0961-4609-829e-cbb58609107e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../train2016-2017test2018/LinkPredict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../train2016-2017test2018/LinkPredict.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../train2016-2017test2018/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../train2016-2017test2018/data/coauthorsCG-edges.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../train2016-2017test2018/data/coauthorsCG-edges.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetCoauthors.py" beforeDir="false" afterPath="$PROJECT_DIR$/GetCoauthors.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-ESPOL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-ESPOL.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-PUCP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-PUCP.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-UBA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-UBA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-USFQ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-edgesCG-USFQ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-ESPOL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-ESPOL.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-PUCC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-PUCC.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-PUCP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-PUCP.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-TecMonterrey.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-TecMonterrey.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UBA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UBA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UCNSA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UCNSA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UCV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UCV.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UMSA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UMSA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UNAM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UNAM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UPB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UPB.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UPCH.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-UPCH.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-USB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-USB.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-USFQ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-USFQ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-USP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-USP.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Udelar.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Udelar.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Unicamp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Unicamp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad Nacional de la Asuncion.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad Nacional de la Asuncion.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad Torcuato Di Tella.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad Torcuato Di Tella.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad de Antioquia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad de Antioquia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad de Chile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad de Chile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad de Los Andes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/componente_gigante/coauthors-nodesCG-Universidad de Los Andes.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-ESPOL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-ESPOL.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-PUCP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-PUCP.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-UBA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-UBA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-USFQ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-edges-USFQ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-ESPOL.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-ESPOL.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-PUCC.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-PUCC.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-PUCP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-PUCP.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-TecMonterrey.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-TecMonterrey.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UBA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UBA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UCNSA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UCNSA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UCV.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UCV.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UMSA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UMSA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UNAM.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UNAM.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UPB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UPB.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UPCH.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-UPCH.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-USB.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-USB.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-USFQ.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-USFQ.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-USP.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-USP.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Udelar.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Udelar.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Unicamp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Unicamp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad Nacional de la Asuncion.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad Nacional de la Asuncion.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad Torcuato Di Tella.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad Torcuato Di Tella.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad de Antioquia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad de Antioquia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad de Chile.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad de Chile.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad de Los Andes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/grafo_completo/coauthors-nodes-Universidad de Los Andes.csv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +64,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/GetCoauthors.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="180">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -59,6 +110,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,7 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -134,13 +185,9 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
@@ -148,6 +195,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -156,8 +207,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GetCoauthors.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="180">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>

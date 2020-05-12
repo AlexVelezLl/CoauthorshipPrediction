@@ -1,16 +1,16 @@
-ID;Label;Keywords
-Fernandez Slezak, D.;Fernandez Slezak, D.;Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Executive functions
-Sigman, M.;Sigman, M.;Heuristics,Monte Carlo Tree Search,Children problem solving,Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Planning,Stochastic behavior modeling,N-Puzzles,First graders,Executive functions
-Cecchi, G.A.;Cecchi, G.A.;
-Amalric, M.;Amalric, M.;
-Wang, L.;Wang, L.;
-Pica, P.;Pica, P.;
-Dehaene, S.;Dehaene, S.;
-Carrillo, F.;Carrillo, F.;
-Mota, N.;Mota, N.;
-Copelli, M.;Copelli, M.;
-Cecchi, G.;Cecchi, G.;
-Slezak, D.F.;Slezak, D.F.;
-Paz, L.;Paz, L.;Heuristics,Monte Carlo Tree Search,Children problem solving,Planning,Stochastic behavior modeling,N-Puzzles,First graders
-Goldin, A.P.;Goldin, A.P.;Heuristics,Monte Carlo Tree Search,Children problem solving,Children,Computer games,OLPC,Cognitive training,Educational neuroscience,Planning,Stochastic behavior modeling,N-Puzzles,First graders,Executive functions
-Diuk, C.;Diuk, C.;Heuristics,Monte Carlo Tree Search,Children problem solving,Planning,Stochastic behavior modeling,N-Puzzles,First graders
+ID;Label;KeywordsB2018;KeywordsA2018
+Fernandez Slezak, D.;Fernandez Slezak, D.;;
+Sigman, M.;Sigman, M.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Cecchi, G.A.;Cecchi, G.A.;;
+Amalric, M.;Amalric, M.;;
+Wang, L.;Wang, L.;;
+Pica, P.;Pica, P.;;
+Dehaene, S.;Dehaene, S.;;
+Carrillo, F.;Carrillo, F.;;
+Mota, N.;Mota, N.;;
+Copelli, M.;Copelli, M.;;
+Cecchi, G.;Cecchi, G.;;
+Slezak, D.F.;Slezak, D.F.;;
+Paz, L.;Paz, L.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Goldin, A.P.;Goldin, A.P.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Diuk, C.;Diuk, C.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;

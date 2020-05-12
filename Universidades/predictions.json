@@ -1,0 +1,4821 @@
+{'ESPOL': {'AdamicAdar': {'Bagging': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            },
+   'SVC': {'accuracy': 0.9126733154950134,
+    'precision': 0.8333333333333334,
+    'recall': 0.12531328320802004,
+    'roc_auc': 0.5613096588453893
+            },
+   'regresionLogistica': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9498905375820968,
+    'precision': 0.8271186440677966,
+    'recall': 0.6115288220551378,
+    'roc_auc': 0.7988947989586034
+            },
+   'SVC': {'accuracy': 0.9053758209681343,
+    'precision': 0.75,
+    'recall': 0.03759398496240601,
+    'roc_auc': 0.5181235011018926
+            },
+   'regresionLogistica': {'accuracy': 0.9498905375820968,
+    'precision': 0.8271186440677966,
+    'recall': 0.6115288220551378,
+    'roc_auc': 0.7988947989586034
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.9034298224276331,
+    'precision': 0.75,
+    'recall': 0.007518796992481203,
+    'roc_auc': 0.5036247002203786
+            },
+   'SVC': {'accuracy': 0.9034298224276331,
+    'precision': 0.75,
+    'recall': 0.007518796992481203,
+    'roc_auc': 0.5036247002203786
+            },
+   'regresionLogistica': {'accuracy': 0.9034298224276331,
+    'precision': 0.75,
+    'recall': 0.007518796992481203,
+    'roc_auc': 0.5036247002203786
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            },
+   'SVC': {'accuracy': 0.9014838238871321,
+    'precision': 0.35,
+    'recall': 0.017543859649122806,
+    'roc_auc': 0.5070208522383545
+            },
+   'regresionLogistica': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            },
+   'SVC': {'accuracy': 0.9119435660423255,
+    'precision': 0.7846153846153846,
+    'recall': 0.12781954887218044,
+    'roc_auc': 0.5620239985740213
+            },
+   'regresionLogistica': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9498905375820968,
+    'precision': 0.8271186440677966,
+    'recall': 0.6115288220551378,
+    'roc_auc': 0.7988947989586034
+            },
+   'SVC': {'accuracy': 0.9053758209681343,
+    'precision': 0.75,
+    'recall': 0.03759398496240601,
+    'roc_auc': 0.5181235011018926
+            },
+   'regresionLogistica': {'accuracy': 0.9498905375820968,
+    'precision': 0.8271186440677966,
+    'recall': 0.6115288220551378,
+    'roc_auc': 0.7988947989586034
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            },
+   'SVC': {'accuracy': 0.90221357333982,
+    'precision': 0.2,
+    'recall': 0.002506265664160401,
+    'roc_auc': 0.5007143397286319
+            },
+   'regresionLogistica': {'accuracy': 0.9379712965215277,
+    'precision': 0.6714285714285714,
+    'recall': 0.706766917293233,
+    'roc_auc': 0.8347950965776509
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.916322062758453,
+    'precision': 0.5846153846153846,
+    'recall': 0.47619047619047616,
+    'roc_auc': 0.7199109708538588
+            },
+   'SVC': {'accuracy': 0.9014838238871321,
+    'precision': 0.35,
+    'recall': 0.017543859649122806,
+    'roc_auc': 0.5070208522383545
+            },
+   'regresionLogistica': {'accuracy': 0.916322062758453,
+    'precision': 0.5846153846153846,
+    'recall': 0.47619047619047616,
+    'roc_auc': 0.7199109708538588
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9297008027243979,
+    'precision': 0.6510989010989011,
+    'recall': 0.5939849624060151,
+    'roc_auc': 0.7798858001685248
+            },
+   'SVC': {'accuracy': 0.9104840671369496,
+    'precision': 0.746031746031746,
+    'recall': 0.11779448621553884,
+    'roc_auc': 0.5567420706939764
+            },
+   'regresionLogistica': {'accuracy': 0.9297008027243979,
+    'precision': 0.6519337016574586,
+    'recall': 0.5914786967418546,
+    'roc_auc': 0.7787673656123066
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9418632936025298,
+    'precision': 0.8225806451612904,
+    'recall': 0.5112781954887218,
+    'roc_auc': 0.7497123736064298
+            },
+   'SVC': {'accuracy': 0.9053758209681343,
+    'precision': 0.75,
+    'recall': 0.03759398496240601,
+    'roc_auc': 0.5181235011018926
+            },
+   'regresionLogistica': {'accuracy': 0.9418632936025298,
+    'precision': 0.8225806451612904,
+    'recall': 0.5112781954887218,
+    'roc_auc': 0.7497123736064298
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9175383118462661,
+    'precision': 0.6071428571428571,
+    'recall': 0.42606516290726815,
+    'roc_auc': 0.6982157711088065
+            },
+   'SVC': {'accuracy': 0.90221357333982,
+    'precision': 0.2,
+    'recall': 0.002506265664160401,
+    'roc_auc': 0.5007143397286319
+            },
+   'regresionLogistica': {'accuracy': 0.9175383118462661,
+    'precision': 0.6071428571428571,
+    'recall': 0.42606516290726815,
+    'roc_auc': 0.6982157711088065
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9348090488932134,
+    'precision': 0.6775067750677507,
+    'recall': 0.6265664160401002,
+    'roc_auc': 0.7972541131924639
+            },
+   'SVC': {'accuracy': 0.9136463147652639,
+    'precision': 0.6208791208791209,
+    'recall': 0.2832080200501253,
+    'roc_auc': 0.6323098289905799
+            },
+   'regresionLogistica': {'accuracy': 0.9348090488932134,
+    'precision': 0.6775067750677507,
+    'recall': 0.6265664160401002,
+    'roc_auc': 0.7972541131924639
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9297008027243979,
+    'precision': 0.6519337016574586,
+    'recall': 0.5914786967418546,
+    'roc_auc': 0.7787673656123066
+            },
+   'SVC': {'accuracy': 0.9267818049136464,
+    'precision': 0.9016393442622951,
+    'recall': 0.2756892230576441,
+    'roc_auc': 0.6362282322184774
+            },
+   'regresionLogistica': {'accuracy': 0.9309170518122112,
+    'precision': 0.6610644257703081,
+    'recall': 0.5914786967418546,
+    'roc_auc': 0.7794408569916169
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9421065434200925,
+    'precision': 0.8232931726907631,
+    'recall': 0.5137844611528822,
+    'roc_auc': 0.7509655064385101
+            },
+   'SVC': {'accuracy': 0.9068353198735101,
+    'precision': 0.8076923076923077,
+    'recall': 0.05263157894736842,
+    'roc_auc': 0.5256422980943739
+            },
+   'regresionLogistica': {'accuracy': 0.940403794697154,
+    'precision': 0.8181818181818182,
+    'recall': 0.49624060150375937,
+    'roc_auc': 0.7421935766139487
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9318900510824617,
+    'precision': 0.7003367003367004,
+    'recall': 0.5213032581453634,
+    'roc_auc': 0.7486634825209576
+            },
+   'SVC': {'accuracy': 0.9297008027243979,
+    'precision': 0.9166666666666666,
+    'recall': 0.3032581453634085,
+    'roc_auc': 0.6501473916472215
+            },
+   'regresionLogistica': {'accuracy': 0.9318900510824617,
+    'precision': 0.7003367003367004,
+    'recall': 0.5213032581453634,
+    'roc_auc': 0.7486634825209576
+            }
+        }
+    },
+ 'PUCC': {'AdamicAdar': {'Bagging': {'accuracy': 0.9574187159597294,
+    'precision': 0.5361111111111111,
+    'recall': 0.6795774647887324,
+    'roc_auc': 0.8253298579354919
+            },
+   'SVC': {'accuracy': 0.9660009902624196,
+    'precision': 0.875,
+    'recall': 0.3204225352112676,
+    'roc_auc': 0.6590857264800927
+            },
+   'regresionLogistica': {'accuracy': 0.9574187159597294,
+    'precision': 0.5361111111111111,
+    'recall': 0.6795774647887324,
+    'roc_auc': 0.8253298579354919
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9668262089453705,
+    'precision': 0.7004830917874396,
+    'recall': 0.5105633802816901,
+    'roc_auc': 0.7499137247728797
+            },
+   'SVC': {'accuracy': 0.9577488034329097,
+    'precision': 0.868421052631579,
+    'recall': 0.11619718309859155,
+    'roc_auc': 0.5576656911163953
+            },
+   'regresionLogistica': {'accuracy': 0.9668262089453705,
+    'precision': 0.7004830917874396,
+    'recall': 0.5105633802816901,
+    'roc_auc': 0.7499137247728797
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.8296748638389173,
+    'precision': 0.09957173447537473,
+    'recall': 0.3274647887323944,
+    'roc_auc': 0.5909185415523444
+            },
+   'SVC': {'accuracy': 0.9536227100181548,
+    'precision': 0.7142857142857143,
+    'recall': 0.017605633802816902,
+    'roc_auc': 0.5086296567282483
+            },
+   'regresionLogistica': {'accuracy': 0.8296748638389173,
+    'precision': 0.09957173447537473,
+    'recall': 0.3274647887323944,
+    'roc_auc': 0.5909185415523444
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9409143423007097,
+    'precision': 0.4254032258064516,
+    'recall': 0.7429577464788732,
+    'roc_auc': 0.8468035485641119
+            },
+   'SVC': {'accuracy': 0.9518072289156626,
+    'precision': 0.39473684210526316,
+    'recall': 0.0528169014084507,
+    'roc_auc': 0.5244171087128834
+            },
+   'regresionLogistica': {'accuracy': 0.9409143423007097,
+    'precision': 0.4254032258064516,
+    'recall': 0.7429577464788732,
+    'roc_auc': 0.8468035485641119
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9574187159597294,
+    'precision': 0.5361111111111111,
+    'recall': 0.6795774647887324,
+    'roc_auc': 0.8253298579354919
+            },
+   'SVC': {'accuracy': 0.9653408153160588,
+    'precision': 0.8425925925925926,
+    'recall': 0.3204225352112676,
+    'roc_auc': 0.6587394061337722
+            },
+   'regresionLogistica': {'accuracy': 0.9574187159597294,
+    'precision': 0.5361111111111111,
+    'recall': 0.6795774647887324,
+    'roc_auc': 0.8253298579354919
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9678164713649117,
+    'precision': 0.7258883248730964,
+    'recall': 0.5035211267605634,
+    'roc_auc': 0.7470852387049571
+            },
+   'SVC': {'accuracy': 0.9551081036474666,
+    'precision': 0.7727272727272727,
+    'recall': 0.05985915492957746,
+    'roc_auc': 0.5294966770318883
+            },
+   'regresionLogistica': {'accuracy': 0.9669912526819607,
+    'precision': 0.7038834951456311,
+    'recall': 0.5105633802816901,
+    'roc_auc': 0.7500003048594597
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9584089783792705,
+    'precision': 0.6176470588235294,
+    'recall': 0.29577464788732394,
+    'roc_auc': 0.6433851594414975
+            },
+   'SVC': {'accuracy': 0.9519722726522528,
+    'precision': 0.41025641025641024,
+    'recall': 0.056338028169014086,
+    'roc_auc': 0.526177672093165
+            },
+   'regresionLogistica': {'accuracy': 0.9584089783792705,
+    'precision': 0.6176470588235294,
+    'recall': 0.29577464788732394,
+    'roc_auc': 0.6433851594414975
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9316718930516587,
+    'precision': 0.34953703703703703,
+    'recall': 0.5316901408450704,
+    'roc_auc': 0.7415160660935309
+            },
+   'SVC': {'accuracy': 0.9518072289156626,
+    'precision': 0.39473684210526316,
+    'recall': 0.0528169014084507,
+    'roc_auc': 0.5244171087128834
+            },
+   'regresionLogistica': {'accuracy': 0.9316718930516587,
+    'precision': 0.34953703703703703,
+    'recall': 0.5316901408450704,
+    'roc_auc': 0.7415160660935309
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.958739065852451,
+    'precision': 0.553125,
+    'recall': 0.6232394366197183,
+    'roc_auc': 0.7992387659289067
+            },
+   'SVC': {'accuracy': 0.9612147219013039,
+    'precision': 0.7951807228915663,
+    'recall': 0.2323943661971831,
+    'roc_auc': 0.61472532162673
+            },
+   'regresionLogistica': {'accuracy': 0.9584089783792705,
+    'precision': 0.5467836257309941,
+    'recall': 0.6584507042253521,
+    'roc_auc': 0.8158054386927626
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9617098531110745,
+    'precision': 0.6529411764705882,
+    'recall': 0.3908450704225352,
+    'roc_auc': 0.6903143101030424
+            },
+   'SVC': {'accuracy': 0.9551081036474666,
+    'precision': 0.7727272727272727,
+    'recall': 0.05985915492957746,
+    'roc_auc': 0.5294966770318883
+            },
+   'regresionLogistica': {'accuracy': 0.9617098531110745,
+    'precision': 0.6511627906976745,
+    'recall': 0.39436619718309857,
+    'roc_auc': 0.6919882933967441
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9514771414424823,
+    'precision': 0.46835443037974683,
+    'recall': 0.2605633802816901,
+    'roc_auc': 0.6230089628681177
+            },
+   'SVC': {'accuracy': 0.9519722726522528,
+    'precision': 0.41025641025641024,
+    'recall': 0.056338028169014086,
+    'roc_auc': 0.526177672093165
+            },
+   'regresionLogistica': {'accuracy': 0.9514771414424823,
+    'precision': 0.46835443037974683,
+    'recall': 0.2605633802816901,
+    'roc_auc': 0.6230089628681177
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9381085987786764,
+    'precision': 0.3853904282115869,
+    'recall': 0.5387323943661971,
+    'roc_auc': 0.7482406560575574
+            },
+   'SVC': {'accuracy': 0.9483413104472685,
+    'precision': 0.27692307692307694,
+    'recall': 0.06338028169014084,
+    'roc_auc': 0.5276208767758064
+            },
+   'regresionLogistica': {'accuracy': 0.9381085987786764,
+    'precision': 0.3853904282115869,
+    'recall': 0.5387323943661971,
+    'roc_auc': 0.7482406560575574
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.958739065852451,
+    'precision': 0.553125,
+    'recall': 0.6232394366197183,
+    'roc_auc': 0.7992387659289067
+            },
+   'SVC': {'accuracy': 0.9618748968476646,
+    'precision': 0.8271604938271605,
+    'recall': 0.23591549295774647,
+    'roc_auc': 0.616745625266752
+            },
+   'regresionLogistica': {'accuracy': 0.9585740221158607,
+    'precision': 0.5483870967741935,
+    'recall': 0.6584507042253521,
+    'roc_auc': 0.8158920187793428
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9618748968476646,
+    'precision': 0.6568047337278107,
+    'recall': 0.3908450704225352,
+    'roc_auc': 0.6904008901896226
+            },
+   'SVC': {'accuracy': 0.958904109589041,
+    'precision': 0.8723404255319149,
+    'recall': 0.1443661971830986,
+    'roc_auc': 0.5716636180720687
+            },
+   'regresionLogistica': {'accuracy': 0.9615448093744843,
+    'precision': 0.6491228070175439,
+    'recall': 0.3908450704225352,
+    'roc_auc': 0.6902277300164624
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9496616603399901,
+    'precision': 0.45248868778280543,
+    'recall': 0.352112676056338,
+    'roc_auc': 0.6655801475519786
+            },
+   'SVC': {'accuracy': 0.9627001155306156,
+    'precision': 0.881578947368421,
+    'recall': 0.23591549295774647,
+    'roc_auc': 0.6171785256996525
+            },
+   'regresionLogistica': {'accuracy': 0.9496616603399901,
+    'precision': 0.45248868778280543,
+    'recall': 0.352112676056338,
+    'roc_auc': 0.6655801475519786
+            }
+        }
+    },
+ 'PUCP': {'AdamicAdar': {'Bagging': {'accuracy': 0.9310148232611174,
+    'precision': 0.625,
+    'recall': 0.5228758169934641,
+    'roc_auc': 0.7464472776410169
+            },
+   'SVC': {'accuracy': 0.9236031927023945,
+    'precision': 0.88,
+    'recall': 0.1437908496732026,
+    'roc_auc': 0.5709585104081191
+            },
+   'regresionLogistica': {'accuracy': 0.9310148232611174,
+    'precision': 0.625,
+    'recall': 0.5228758169934641,
+    'roc_auc': 0.7464472776410169
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.936145952109464,
+    'precision': 0.711340206185567,
+    'recall': 0.45098039215686275,
+    'roc_auc': 0.7167456614125974
+            },
+   'SVC': {'accuracy': 0.9179019384264538,
+    'precision': 0.8,
+    'recall': 0.0784313725490196,
+    'roc_auc': 0.5382787718460276
+            },
+   'regresionLogistica': {'accuracy': 0.936145952109464,
+    'precision': 0.711340206185567,
+    'recall': 0.45098039215686275,
+    'roc_auc': 0.7167456614125974
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.7440136830102623,
+    'precision': 0.16055045871559634,
+    'recall': 0.45751633986928103,
+    'roc_auc': 0.6144546096598122
+            },
+   'SVC': {'accuracy': 0.9133409350057012,
+    'precision': 0.6,
+    'recall': 0.0196078431372549,
+    'roc_auc': 0.5091793119496393
+            },
+   'regresionLogistica': {'accuracy': 0.7440136830102623,
+    'precision': 0.16055045871559634,
+    'recall': 0.45751633986928103,
+    'roc_auc': 0.6144546096598122
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9190421892816419,
+    'precision': 0.5265700483091788,
+    'recall': 0.7124183006535948,
+    'roc_auc': 0.825603278996379
+            },
+   'SVC': {'accuracy': 0.9110604332953249,
+    'precision': 0.2,
+    'recall': 0.006535947712418301,
+    'roc_auc': 0.5020187546182329
+            },
+   'regresionLogistica': {'accuracy': 0.9190421892816419,
+    'precision': 0.5265700483091788,
+    'recall': 0.7124183006535948,
+    'roc_auc': 0.825603278996379
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9327251995438997,
+    'precision': 0.6548672566371682,
+    'recall': 0.48366013071895425,
+    'roc_auc': 0.7296501777892086
+            },
+   'SVC': {'accuracy': 0.9161915621436716,
+    'precision': 0.7142857142857143,
+    'recall': 0.06535947712418301,
+    'roc_auc': 0.5314305193241152
+            },
+   'regresionLogistica': {'accuracy': 0.9310148232611174,
+    'precision': 0.625,
+    'recall': 0.5228758169934641,
+    'roc_auc': 0.7464472776410169
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9384264538198404,
+    'precision': 0.7922077922077922,
+    'recall': 0.39869281045751637,
+    'roc_auc': 0.6943495282768531
+            },
+   'SVC': {'accuracy': 0.9179019384264538,
+    'precision': 0.8,
+    'recall': 0.0784313725490196,
+    'roc_auc': 0.5382787718460276
+            },
+   'regresionLogistica': {'accuracy': 0.9384264538198404,
+    'precision': 0.7922077922077922,
+    'recall': 0.39869281045751637,
+    'roc_auc': 0.6943495282768531
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9230330672748005,
+    'precision': 0.6071428571428571,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.6563606079533625
+            },
+   'SVC': {'accuracy': 0.9116305587229191,
+    'precision': 0.4,
+    'recall': 0.026143790849673203,
+    'roc_auc': 0.5111980665678721
+            },
+   'regresionLogistica': {'accuracy': 0.9230330672748005,
+    'precision': 0.6071428571428571,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.6563606079533625
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9099201824401368,
+    'precision': 0.48427672955974843,
+    'recall': 0.5032679738562091,
+    'roc_auc': 0.7260249925495912
+            },
+   'SVC': {'accuracy': 0.9110604332953249,
+    'precision': 0.2,
+    'recall': 0.006535947712418301,
+    'roc_auc': 0.5020187546182329
+            },
+   'regresionLogistica': {'accuracy': 0.9099201824401368,
+    'precision': 0.48427672955974843,
+    'recall': 0.5032679738562091,
+    'roc_auc': 0.7260249925495912
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9338654503990877,
+    'precision': 0.6907216494845361,
+    'recall': 0.43790849673202614,
+    'roc_auc': 0.709585104081191
+            },
+   'SVC': {'accuracy': 0.9161915621436716,
+    'precision': 0.7142857142857143,
+    'recall': 0.06535947712418301,
+    'roc_auc': 0.5314305193241152
+            },
+   'regresionLogistica': {'accuracy': 0.9321550741163056,
+    'precision': 0.67,
+    'recall': 0.43790849673202614,
+    'roc_auc': 0.7086481896527088
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.935005701254276,
+    'precision': 0.819672131147541,
+    'recall': 0.32679738562091504,
+    'roc_auc': 0.6599633399060227
+            },
+   'SVC': {'accuracy': 0.9179019384264538,
+    'precision': 0.8,
+    'recall': 0.0784313725490196,
+    'roc_auc': 0.5382787718460276
+            },
+   'regresionLogistica': {'accuracy': 0.93557582668187,
+    'precision': 0.8225806451612904,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.6632313137622319
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9167616875712656,
+    'precision': 0.5660377358490566,
+    'recall': 0.19607843137254902,
+    'roc_auc': 0.590856205067911
+            },
+   'SVC': {'accuracy': 0.9116305587229191,
+    'precision': 0.4,
+    'recall': 0.026143790849673203,
+    'roc_auc': 0.5111980665678721
+            },
+   'regresionLogistica': {'accuracy': 0.9156214367160775,
+    'precision': 0.543859649122807,
+    'recall': 0.20261437908496732,
+    'roc_auc': 0.5931872644956379
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9139110604332953,
+    'precision': 0.5055555555555555,
+    'recall': 0.5947712418300654,
+    'roc_auc': 0.7695904928700608
+            },
+   'SVC': {'accuracy': 0.9156214367160775,
+    'precision': 0.5225225225225225,
+    'recall': 0.3790849673202614,
+    'roc_auc': 0.6729903287569452
+            },
+   'regresionLogistica': {'accuracy': 0.9139110604332953,
+    'precision': 0.5055555555555555,
+    'recall': 0.5947712418300654,
+    'roc_auc': 0.7695904928700608
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9338654503990877,
+    'precision': 0.6907216494845361,
+    'recall': 0.43790849673202614,
+    'roc_auc': 0.709585104081191
+            },
+   'SVC': {'accuracy': 0.927023945267959,
+    'precision': 0.9032258064516129,
+    'recall': 0.1830065359477124,
+    'roc_auc': 0.590566353545374
+            },
+   'regresionLogistica': {'accuracy': 0.9332953249714937,
+    'precision': 0.6836734693877551,
+    'recall': 0.43790849673202614,
+    'roc_auc': 0.7092727992716971
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.93557582668187,
+    'precision': 0.8225806451612904,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.6632313137622319
+            },
+   'SVC': {'accuracy': 0.9179019384264538,
+    'precision': 0.8,
+    'recall': 0.0784313725490196,
+    'roc_auc': 0.5382787718460276
+            },
+   'regresionLogistica': {'accuracy': 0.93557582668187,
+    'precision': 0.8125,
+    'recall': 0.33986928104575165,
+    'roc_auc': 0.6661869828089471
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9133409350057012,
+    'precision': 0.5046728971962616,
+    'recall': 0.35294117647058826,
+    'roc_auc': 0.6599184333321086
+            },
+   'SVC': {'accuracy': 0.9247434435575826,
+    'precision': 0.8181818181818182,
+    'recall': 0.17647058823529413,
+    'roc_auc': 0.5863614652606827
+            },
+   'regresionLogistica': {'accuracy': 0.9133409350057012,
+    'precision': 0.5046728971962616,
+    'recall': 0.35294117647058826,
+    'roc_auc': 0.6599184333321086
+            }
+        }
+    },
+ 'TecMonterrey': {'AdamicAdar': {'Bagging': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            },
+   'SVC': {'accuracy': 0.9655810983397191,
+    'precision': 0.904,
+    'recall': 0.1765625,
+    'roc_auc': 0.587881782623169
+            },
+   'regresionLogistica': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9762452107279693,
+    'precision': 0.8284313725490197,
+    'recall': 0.528125,
+    'roc_auc': 0.7617322736351532
+            },
+   'SVC': {'accuracy': 0.9614303959131545,
+    'precision': 0.8913043478260869,
+    'recall': 0.0640625,
+    'roc_auc': 0.5318648052596537
+            },
+   'regresionLogistica': {'accuracy': 0.9760536398467433,
+    'precision': 0.8496042216358839,
+    'recall': 0.503125,
+    'roc_auc': 0.7496650299600532
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.9590038314176246,
+    'precision': 0.3333333333333333,
+    'recall': 0.003125,
+    'roc_auc': 0.501429344207723
+            },
+   'SVC': {'accuracy': 0.9590676883780332,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49996671105193075
+            },
+   'regresionLogistica': {'accuracy': 0.9590038314176246,
+    'precision': 0.3333333333333333,
+    'recall': 0.003125,
+    'roc_auc': 0.501429344207723
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            },
+   'SVC': {'accuracy': 0.9583652618135376,
+    'precision': 0.25,
+    'recall': 0.009375,
+    'roc_auc': 0.5040882989347536
+            },
+   'regresionLogistica': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            },
+   'SVC': {'accuracy': 0.9656449553001277,
+    'precision': 0.9112903225806451,
+    'recall': 0.1765625,
+    'roc_auc': 0.5879150715712383
+            },
+   'regresionLogistica': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9760536398467433,
+    'precision': 0.8496042216358839,
+    'recall': 0.503125,
+    'roc_auc': 0.7496650299600532
+            },
+   'SVC': {'accuracy': 0.9614303959131545,
+    'precision': 0.8913043478260869,
+    'recall': 0.0640625,
+    'roc_auc': 0.5318648052596537
+            },
+   'regresionLogistica': {'accuracy': 0.9760536398467433,
+    'precision': 0.8496042216358839,
+    'recall': 0.503125,
+    'roc_auc': 0.7496650299600532
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            },
+   'SVC': {'accuracy': 0.9588122605363985,
+    'precision': 0.14285714285714285,
+    'recall': 0.0015625,
+    'roc_auc': 0.5005815163115845
+            },
+   'regresionLogistica': {'accuracy': 0.9724137931034482,
+    'precision': 0.6793103448275862,
+    'recall': 0.615625,
+    'roc_auc': 0.8016207556591213
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9666666666666667,
+    'precision': 0.6244725738396625,
+    'recall': 0.4625,
+    'roc_auc': 0.725324567243675
+            },
+   'SVC': {'accuracy': 0.9583652618135376,
+    'precision': 0.25,
+    'recall': 0.009375,
+    'roc_auc': 0.5040882989347536
+            },
+   'regresionLogistica': {'accuracy': 0.9666666666666667,
+    'precision': 0.6244725738396625,
+    'recall': 0.4625,
+    'roc_auc': 0.725324567243675
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9699872286079183,
+    'precision': 0.6622137404580153,
+    'recall': 0.5421875,
+    'roc_auc': 0.7652016061917444
+            },
+   'SVC': {'accuracy': 0.9646871008939975,
+    'precision': 0.8782608695652174,
+    'recall': 0.1578125,
+    'roc_auc': 0.5784402047270306
+            },
+   'regresionLogistica': {'accuracy': 0.9696040868454662,
+    'precision': 0.6583011583011583,
+    'recall': 0.5328125,
+    'roc_auc': 0.7605141061917443
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9733077905491698,
+    'precision': 0.8404907975460123,
+    'recall': 0.428125,
+    'roc_auc': 0.7123314747003995
+            },
+   'SVC': {'accuracy': 0.9614942528735633,
+    'precision': 0.9111111111111111,
+    'recall': 0.0640625,
+    'roc_auc': 0.531898094207723
+            },
+   'regresionLogistica': {'accuracy': 0.9716475095785441,
+    'precision': 0.8402777777777778,
+    'recall': 0.378125,
+    'roc_auc': 0.6875312083888149
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9643039591315453,
+    'precision': 0.6103542234332425,
+    'recall': 0.35,
+    'roc_auc': 0.6702396804260986
+            },
+   'SVC': {'accuracy': 0.9588122605363985,
+    'precision': 0.14285714285714285,
+    'recall': 0.0015625,
+    'roc_auc': 0.5005815163115845
+            },
+   'regresionLogistica': {'accuracy': 0.9643039591315453,
+    'precision': 0.6103542234332425,
+    'recall': 0.35,
+    'roc_auc': 0.6702396804260986
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9703703703703703,
+    'precision': 0.6654135338345865,
+    'recall': 0.553125,
+    'roc_auc': 0.7706370672436752
+            },
+   'SVC': {'accuracy': 0.9666666666666667,
+    'precision': 0.625,
+    'recall': 0.4609375,
+    'roc_auc': 0.7245766061917444
+            },
+   'regresionLogistica': {'accuracy': 0.9703703703703703,
+    'precision': 0.6654135338345865,
+    'recall': 0.553125,
+    'roc_auc': 0.7706370672436752
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9710089399744573,
+    'precision': 0.6703296703296703,
+    'recall': 0.571875,
+    'roc_auc': 0.7799454893475365
+            },
+   'SVC': {'accuracy': 0.9662196679438059,
+    'precision': 0.9111111111111111,
+    'recall': 0.1921875,
+    'roc_auc': 0.595694282623169
+            },
+   'regresionLogistica': {'accuracy': 0.9707535121328225,
+    'precision': 0.6697761194029851,
+    'recall': 0.5609375,
+    'roc_auc': 0.7745766061917445
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9734355044699873,
+    'precision': 0.8414634146341463,
+    'recall': 0.43125,
+    'roc_auc': 0.7138939747003995
+            },
+   'SVC': {'accuracy': 0.9614942528735633,
+    'precision': 0.9111111111111111,
+    'recall': 0.0640625,
+    'roc_auc': 0.531898094207723
+            },
+   'regresionLogistica': {'accuracy': 0.9715197956577267,
+    'precision': 0.8368055555555556,
+    'recall': 0.3765625,
+    'roc_auc': 0.6867166694407456
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9659642401021712,
+    'precision': 0.6301703163017032,
+    'recall': 0.4046875,
+    'roc_auc': 0.6972838298934754
+            },
+   'SVC': {'accuracy': 0.9663473818646232,
+    'precision': 0.924812030075188,
+    'recall': 0.1921875,
+    'roc_auc': 0.5957608605193074
+            },
+   'regresionLogistica': {'accuracy': 0.9657088122605364,
+    'precision': 0.6297229219143576,
+    'recall': 0.390625,
+    'roc_auc': 0.6904190246338215
+            }
+        }
+    },
+ 'UCNSA': {'AdamicAdar': {'Bagging': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            },
+   'SVC': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            },
+   'regresionLogistica': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'SVC': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'regresionLogistica': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            },
+   'SVC': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'regresionLogistica': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'SVC': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'regresionLogistica': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.782608695652174,
+    'precision': 1.0,
+    'recall': 0.5,
+    'roc_auc': 0.75
+            },
+   'SVC': {'accuracy': 0.6521739130434783,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'regresionLogistica': {'accuracy': 0.782608695652174,
+    'precision': 1.0,
+    'recall': 0.5,
+    'roc_auc': 0.75
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.6956521739130435,
+    'precision': 0.7142857142857143,
+    'recall': 0.5,
+    'roc_auc': 0.673076923076923
+            },
+   'SVC': {'accuracy': 0.5652173913043478,
+    'precision': 0.5,
+    'recall': 0.7,
+    'roc_auc': 0.5807692307692307
+            },
+   'regresionLogistica': {'accuracy': 0.6956521739130435,
+    'precision': 0.7142857142857143,
+    'recall': 0.5,
+    'roc_auc': 0.673076923076923
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            },
+   'SVC': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            },
+   'regresionLogistica': {'accuracy': 0.9130434782608695,
+    'precision': 1.0,
+    'recall': 0.8,
+    'roc_auc': 0.9
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.5652173913043478,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.6086956521739131,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        }
+    },
+ 'UCV': {'AdamicAdar': {'Bagging': {'accuracy': 0.7222222222222222,
+    'precision': 0.5454545454545454,
+    'recall': 1.0,
+    'roc_auc': 0.7916666666666666
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7222222222222222,
+    'precision': 0.5454545454545454,
+    'recall': 1.0,
+    'roc_auc': 0.7916666666666666
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 1.0,
+    'roc_auc': 0.8333333333333334
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 1.0,
+    'roc_auc': 0.8333333333333334
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.2222222222222222,
+    'precision': 0.16666666666666666,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.24999999999999997
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.7222222222222222,
+    'precision': 0.5454545454545454,
+    'recall': 1.0,
+    'roc_auc': 0.7916666666666666
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7222222222222222,
+    'precision': 0.5454545454545454,
+    'recall': 1.0,
+    'roc_auc': 0.7916666666666666
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 1.0,
+    'precision': 1.0,
+    'recall': 1.0,
+    'roc_auc': 1.0
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7222222222222222,
+    'precision': 0.5454545454545454,
+    'recall': 1.0,
+    'roc_auc': 0.7916666666666666
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 1.0,
+    'precision': 1.0,
+    'recall': 1.0,
+    'roc_auc': 1.0
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 1.0,
+    'roc_auc': 0.8333333333333334
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.5555555555555556,
+    'precision': 0.3333333333333333,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7222222222222222,
+    'precision': 0.5454545454545454,
+    'recall': 1.0,
+    'roc_auc': 0.7916666666666666
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.6111111111111112,
+    'precision': 0.4444444444444444,
+    'recall': 0.6666666666666666,
+    'roc_auc': 0.6249999999999999
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.6111111111111112,
+    'precision': 0.4444444444444444,
+    'recall': 0.6666666666666666,
+    'roc_auc': 0.6249999999999999
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.8888888888888888,
+    'precision': 1.0,
+    'recall': 0.6666666666666666,
+    'roc_auc': 0.8333333333333333
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 1.0,
+    'roc_auc': 0.8333333333333334
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 1.0,
+    'precision': 1.0,
+    'recall': 1.0,
+    'roc_auc': 1.0
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 1.0,
+    'roc_auc': 0.8333333333333334
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.6666666666666666,
+    'precision': 0.5,
+    'recall': 0.6666666666666666,
+    'roc_auc': 0.6666666666666667
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.6111111111111112,
+    'precision': 0.4444444444444444,
+    'recall': 0.6666666666666666,
+    'roc_auc': 0.6249999999999999
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.7777777777777778,
+    'precision': 1.0,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.6666666666666666
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5,
+    'precision': 0.2857142857142857,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.45833333333333326
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.8888888888888888,
+    'precision': 1.0,
+    'recall': 0.6666666666666666,
+    'roc_auc': 0.8333333333333333
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 1.0,
+    'roc_auc': 0.8333333333333334
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 1.0,
+    'precision': 1.0,
+    'recall': 1.0,
+    'roc_auc': 1.0
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 1.0,
+    'roc_auc': 0.8333333333333334
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.7777777777777778,
+    'precision': 1.0,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.6666666666666666
+            },
+   'SVC': {'accuracy': 0.6666666666666666,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5555555555555556,
+    'precision': 0.3333333333333333,
+    'recall': 0.3333333333333333,
+    'roc_auc': 0.5
+            }
+        }
+    },
+ 'UM': {'AdamicAdar': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.42857142857142855,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.3
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.42857142857142855,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.3
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.42857142857142855,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.3
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.42857142857142855,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.3
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.21428571428571427,
+    'precision': 0.1111111111111111,
+    'recall': 0.25,
+    'roc_auc': 0.22499999999999998
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.42857142857142855,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.3
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        }
+    },
+ 'UNAM': {'AdamicAdar': {'Bagging': {'accuracy': 0.9624334600760456,
+    'precision': 0.6628787878787878,
+    'recall': 0.5255255255255256,
+    'roc_auc': 0.755633637482404
+            },
+   'SVC': {'accuracy': 0.9557414448669201,
+    'precision': 0.8888888888888888,
+    'recall': 0.14414414414414414,
+    'roc_auc': 0.5715914568846322
+            },
+   'regresionLogistica': {'accuracy': 0.9624334600760456,
+    'precision': 0.6628787878787878,
+    'recall': 0.5255255255255256,
+    'roc_auc': 0.755633637482404
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9650190114068441,
+    'precision': 0.7668393782383419,
+    'recall': 0.4444444444444444,
+    'roc_auc': 0.7186176083164229
+            },
+   'SVC': {'accuracy': 0.951787072243346,
+    'precision': 0.8636363636363636,
+    'recall': 0.057057057057057055,
+    'roc_auc': 0.5282882209348085
+            },
+   'regresionLogistica': {'accuracy': 0.9644106463878327,
+    'precision': 0.7647058823529411,
+    'recall': 0.4294294294294294,
+    'roc_auc': 0.7111902033401553
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.8038022813688213,
+    'precision': 0.11192214111922141,
+    'recall': 0.4144144144144144,
+    'roc_auc': 0.6194949354994213
+            },
+   'SVC': {'accuracy': 0.9492015209125475,
+    'precision': 0.4,
+    'recall': 0.006006006006006006,
+    'roc_auc': 0.5027626954092831
+            },
+   'regresionLogistica': {'accuracy': 0.8038022813688213,
+    'precision': 0.11192214111922141,
+    'recall': 0.4144144144144144,
+    'roc_auc': 0.6194949354994213
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9571102661596959,
+    'precision': 0.5652173913043478,
+    'recall': 0.6636636636636637,
+    'roc_auc': 0.818214401521034
+            },
+   'SVC': {'accuracy': 0.9472243346007605,
+    'precision': 0.23076923076923078,
+    'recall': 0.018018018018018018,
+    'roc_auc': 0.5074069583842094
+            },
+   'regresionLogistica': {'accuracy': 0.9571102661596959,
+    'precision': 0.5652173913043478,
+    'recall': 0.6636636636636637,
+    'roc_auc': 0.818214401521034
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.96106463878327,
+    'precision': 0.6652360515021459,
+    'recall': 0.46546546546546547,
+    'roc_auc': 0.7264847352960138
+            },
+   'SVC': {'accuracy': 0.9557414448669201,
+    'precision': 0.8888888888888888,
+    'recall': 0.14414414414414414,
+    'roc_auc': 0.5715914568846322
+            },
+   'regresionLogistica': {'accuracy': 0.963041825095057,
+    'precision': 0.7064220183486238,
+    'recall': 0.4624624624624625,
+    'roc_auc': 0.726104669231872
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9650190114068441,
+    'precision': 0.8456375838926175,
+    'recall': 0.3783783783783784,
+    'roc_auc': 0.6873468309706696
+            },
+   'SVC': {'accuracy': 0.951787072243346,
+    'precision': 0.8636363636363636,
+    'recall': 0.057057057057057055,
+    'roc_auc': 0.5282882209348085
+            },
+   'regresionLogistica': {'accuracy': 0.9648669201520913,
+    'precision': 0.8445945945945946,
+    'recall': 0.37537537537537535,
+    'roc_auc': 0.685845329469168
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9584790874524715,
+    'precision': 0.717391304347826,
+    'recall': 0.2972972972972973,
+    'roc_auc': 0.6455246499302892
+            },
+   'SVC': {'accuracy': 0.9492015209125475,
+    'precision': 0.42857142857142855,
+    'recall': 0.009009009009009009,
+    'roc_auc': 0.5041840943795445
+            },
+   'regresionLogistica': {'accuracy': 0.9584790874524715,
+    'precision': 0.717391304347826,
+    'recall': 0.2972972972972973,
+    'roc_auc': 0.6455246499302892
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9484410646387833,
+    'precision': 0.49079754601226994,
+    'recall': 0.4804804804804805,
+    'roc_auc': 0.7269432200544024
+            },
+   'SVC': {'accuracy': 0.9472243346007605,
+    'precision': 0.23076923076923078,
+    'recall': 0.018018018018018018,
+    'roc_auc': 0.5074069583842094
+            },
+   'regresionLogistica': {'accuracy': 0.9484410646387833,
+    'precision': 0.49079754601226994,
+    'recall': 0.4804804804804805,
+    'roc_auc': 0.7269432200544024
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9616730038022814,
+    'precision': 0.6784140969162996,
+    'recall': 0.4624624624624625,
+    'roc_auc': 0.7253837464507122
+            },
+   'SVC': {'accuracy': 0.9536121673003802,
+    'precision': 0.85,
+    'recall': 0.1021021021021021,
+    'roc_auc': 0.5505704358636111
+            },
+   'regresionLogistica': {'accuracy': 0.9634980988593156,
+    'precision': 0.7203791469194313,
+    'recall': 0.45645645645645644,
+    'roc_auc': 0.723502178885069
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9607604562737643,
+    'precision': 0.7952755905511811,
+    'recall': 0.3033033033033033,
+    'roc_auc': 0.6495689858394119
+            },
+   'SVC': {'accuracy': 0.9516349809885931,
+    'precision': 0.8260869565217391,
+    'recall': 0.057057057057057055,
+    'roc_auc': 0.5282081184035685
+            },
+   'regresionLogistica': {'accuracy': 0.9618250950570342,
+    'precision': 0.8153846153846154,
+    'recall': 0.3183183183183183,
+    'roc_auc': 0.6572366984093995
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9533079847908745,
+    'precision': 0.5783132530120482,
+    'recall': 0.2882882882882883,
+    'roc_auc': 0.6385369669573451
+            },
+   'SVC': {'accuracy': 0.9492015209125475,
+    'precision': 0.42857142857142855,
+    'recall': 0.009009009009009009,
+    'roc_auc': 0.5041840943795445
+            },
+   'regresionLogistica': {'accuracy': 0.9530038022813688,
+    'precision': 0.5759493670886076,
+    'recall': 0.2732732732732733,
+    'roc_auc': 0.6312697670435574
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9533079847908745,
+    'precision': 0.5377906976744186,
+    'recall': 0.5555555555555556,
+    'roc_auc': 0.7650414753106198
+            },
+   'SVC': {'accuracy': 0.9501140684410646,
+    'precision': 0.5112107623318386,
+    'recall': 0.34234234234234234,
+    'roc_auc': 0.6624399952660126
+            },
+   'regresionLogistica': {'accuracy': 0.9533079847908745,
+    'precision': 0.5377906976744186,
+    'recall': 0.5555555555555556,
+    'roc_auc': 0.7650414753106198
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9606083650190114,
+    'precision': 0.6541666666666667,
+    'recall': 0.47147147147147145,
+    'roc_auc': 0.7290872256428167
+            },
+   'SVC': {'accuracy': 0.9545247148288973,
+    'precision': 0.8695652173913043,
+    'recall': 0.12012012012012012,
+    'roc_auc': 0.5595794448726201
+            },
+   'regresionLogistica': {'accuracy': 0.9601520912547529,
+    'precision': 0.6621004566210046,
+    'recall': 0.43543543543543545,
+    'roc_auc': 0.7117901304059587
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9587832699619772,
+    'precision': 0.7540983606557377,
+    'recall': 0.27627627627627627,
+    'roc_auc': 0.6357350622009386
+            },
+   'SVC': {'accuracy': 0.951787072243346,
+    'precision': 0.8636363636363636,
+    'recall': 0.057057057057057055,
+    'roc_auc': 0.5282882209348085
+            },
+   'regresionLogistica': {'accuracy': 0.9595437262357415,
+    'precision': 0.7637795275590551,
+    'recall': 0.2912912912912913,
+    'roc_auc': 0.6432425697084461
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9554372623574144,
+    'precision': 0.5833333333333334,
+    'recall': 0.42042042042042044,
+    'roc_auc': 0.7021999570862115
+            },
+   'SVC': {'accuracy': 0.95787072243346,
+    'precision': 0.85,
+    'recall': 0.2042042042042042,
+    'roc_auc': 0.6011408717272223
+            },
+   'regresionLogistica': {'accuracy': 0.9554372623574144,
+    'precision': 0.5833333333333334,
+    'recall': 0.42042042042042044,
+    'roc_auc': 0.7021999570862115
+            }
+        }
+    },
+ 'UPB': {'AdamicAdar': {'Bagging': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            },
+   'SVC': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            },
+   'regresionLogistica': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            },
+   'SVC': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            },
+   'regresionLogistica': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            },
+   'SVC': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            },
+   'regresionLogistica': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            },
+   'SVC': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            },
+   'regresionLogistica': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            },
+   'SVC': {'accuracy': 0.38461538461538464,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.35714285714285715
+            },
+   'regresionLogistica': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            },
+   'SVC': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            },
+   'regresionLogistica': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            },
+   'SVC': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            },
+   'regresionLogistica': {'accuracy': 0.46153846153846156,
+    'precision': 0.3333333333333333,
+    'recall': 0.16666666666666666,
+    'roc_auc': 0.44047619047619047
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5384615384615384,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        }
+    },
+ 'UPCH': {'AdamicAdar': {'Bagging': {'accuracy': 0.8118811881188119,
+    'precision': 0.9285714285714286,
+    'recall': 0.41935483870967744,
+    'roc_auc': 0.7025345622119816
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.5,
+    'recall': 0.03225806451612903,
+    'roc_auc': 0.5089861751152074
+            },
+   'regresionLogistica': {'accuracy': 0.8118811881188119,
+    'precision': 0.9285714285714286,
+    'recall': 0.41935483870967744,
+    'roc_auc': 0.7025345622119816
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.6831683168316832,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4928571428571429
+            },
+   'SVC': {'accuracy': 0.6831683168316832,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4928571428571429
+            },
+   'regresionLogistica': {'accuracy': 0.6831683168316832,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4928571428571429
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.8118811881188119,
+    'precision': 0.9285714285714286,
+    'recall': 0.41935483870967744,
+    'roc_auc': 0.7025345622119816
+            },
+   'SVC': {'accuracy': 0.6831683168316832,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4928571428571429
+            },
+   'regresionLogistica': {'accuracy': 0.8118811881188119,
+    'precision': 0.9285714285714286,
+    'recall': 0.41935483870967744,
+    'roc_auc': 0.7025345622119816
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.7524752475247525,
+    'precision': 0.7142857142857143,
+    'recall': 0.3225806451612903,
+    'roc_auc': 0.6327188940092165
+            },
+   'SVC': {'accuracy': 0.6831683168316832,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4928571428571429
+            },
+   'regresionLogistica': {'accuracy': 0.7524752475247525,
+    'precision': 0.7142857142857143,
+    'recall': 0.3225806451612903,
+    'roc_auc': 0.6327188940092165
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7524752475247525,
+    'precision': 0.875,
+    'recall': 0.22580645161290322,
+    'roc_auc': 0.6057603686635945
+            },
+   'SVC': {'accuracy': 0.6831683168316832,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4928571428571429
+            },
+   'regresionLogistica': {'accuracy': 0.7524752475247525,
+    'precision': 0.875,
+    'recall': 0.22580645161290322,
+    'roc_auc': 0.6057603686635945
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.5841584158415841,
+    'precision': 0.36585365853658536,
+    'recall': 0.4838709677419355,
+    'roc_auc': 0.556221198156682
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.6237623762376238,
+    'precision': 0.40540540540540543,
+    'recall': 0.4838709677419355,
+    'roc_auc': 0.5847926267281107
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7524752475247525,
+    'precision': 0.875,
+    'recall': 0.22580645161290322,
+    'roc_auc': 0.6057603686635945
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.5,
+    'recall': 0.03225806451612903,
+    'roc_auc': 0.5089861751152074
+            },
+   'regresionLogistica': {'accuracy': 0.7524752475247525,
+    'precision': 0.875,
+    'recall': 0.22580645161290322,
+    'roc_auc': 0.6057603686635945
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.693069306930693,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        }
+    },
+ 'USB': {'AdamicAdar': {'Bagging': {'accuracy': 0.8518518518518519,
+    'precision': 0.75,
+    'recall': 0.6,
+    'roc_auc': 0.7672131147540984
+            },
+   'SVC': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 0.3,
+    'roc_auc': 0.6172131147540983
+            },
+   'regresionLogistica': {'accuracy': 0.8518518518518519,
+    'precision': 0.75,
+    'recall': 0.6,
+    'roc_auc': 0.7672131147540984
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8518518518518519,
+    'precision': 0.9,
+    'recall': 0.45,
+    'roc_auc': 0.7168032786885246
+            },
+   'SVC': {'accuracy': 0.7654320987654321,
+    'precision': 0.6666666666666666,
+    'recall': 0.1,
+    'roc_auc': 0.5418032786885246
+            },
+   'regresionLogistica': {'accuracy': 0.8395061728395061,
+    'precision': 0.8181818181818182,
+    'recall': 0.45,
+    'roc_auc': 0.7086065573770491
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.4691358024691358,
+    'precision': 0.17142857142857143,
+    'recall': 0.3,
+    'roc_auc': 0.41229508196721315
+            },
+   'SVC': {'accuracy': 0.7530864197530864,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.4691358024691358,
+    'precision': 0.17142857142857143,
+    'recall': 0.3,
+    'roc_auc': 0.41229508196721315
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            },
+   'SVC': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            },
+   'regresionLogistica': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.8518518518518519,
+    'precision': 0.75,
+    'recall': 0.6,
+    'roc_auc': 0.7672131147540984
+            },
+   'SVC': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 0.3,
+    'roc_auc': 0.6172131147540983
+            },
+   'regresionLogistica': {'accuracy': 0.8518518518518519,
+    'precision': 0.75,
+    'recall': 0.6,
+    'roc_auc': 0.7672131147540984
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8518518518518519,
+    'precision': 0.9,
+    'recall': 0.45,
+    'roc_auc': 0.7168032786885246
+            },
+   'SVC': {'accuracy': 0.7283950617283951,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.48360655737704916
+            },
+   'regresionLogistica': {'accuracy': 0.8518518518518519,
+    'precision': 0.9,
+    'recall': 0.45,
+    'roc_auc': 0.7168032786885246
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            },
+   'SVC': {'accuracy': 0.7407407407407407,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4918032786885246
+            },
+   'regresionLogistica': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            },
+   'SVC': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            },
+   'regresionLogistica': {'accuracy': 0.7037037037037037,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4672131147540984
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.8148148148148148,
+    'precision': 0.6923076923076923,
+    'recall': 0.45,
+    'roc_auc': 0.6922131147540984
+            },
+   'SVC': {'accuracy': 0.7777777777777778,
+    'precision': 0.6,
+    'recall': 0.3,
+    'roc_auc': 0.6172131147540983
+            },
+   'regresionLogistica': {'accuracy': 0.8148148148148148,
+    'precision': 0.6923076923076923,
+    'recall': 0.45,
+    'roc_auc': 0.6922131147540984
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8148148148148148,
+    'precision': 0.8571428571428571,
+    'recall': 0.3,
+    'roc_auc': 0.6418032786885246
+            },
+   'SVC': {'accuracy': 0.7283950617283951,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.48360655737704916
+            },
+   'regresionLogistica': {'accuracy': 0.8148148148148148,
+    'precision': 0.8571428571428571,
+    'recall': 0.3,
+    'roc_auc': 0.6418032786885246
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.7160493827160493,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.47540983606557374
+            },
+   'SVC': {'accuracy': 0.7407407407407407,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4918032786885246
+            },
+   'regresionLogistica': {'accuracy': 0.7160493827160493,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.47540983606557374
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.6790123456790124,
+    'precision': 0.38461538461538464,
+    'recall': 0.5,
+    'roc_auc': 0.6188524590163934
+            },
+   'SVC': {'accuracy': 0.6790123456790124,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.45081967213114754
+            },
+   'regresionLogistica': {'accuracy': 0.7654320987654321,
+    'precision': 0.5263157894736842,
+    'recall': 0.5,
+    'roc_auc': 0.6762295081967213
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.8148148148148148,
+    'precision': 0.6923076923076923,
+    'recall': 0.45,
+    'roc_auc': 0.6922131147540984
+            },
+   'SVC': {'accuracy': 0.8148148148148148,
+    'precision': 0.6923076923076923,
+    'recall': 0.45,
+    'roc_auc': 0.6922131147540984
+            },
+   'regresionLogistica': {'accuracy': 0.8148148148148148,
+    'precision': 0.6923076923076923,
+    'recall': 0.45,
+    'roc_auc': 0.6922131147540984
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8148148148148148,
+    'precision': 0.8571428571428571,
+    'recall': 0.3,
+    'roc_auc': 0.6418032786885246
+            },
+   'SVC': {'accuracy': 0.8148148148148148,
+    'precision': 0.8571428571428571,
+    'recall': 0.3,
+    'roc_auc': 0.6418032786885246
+            },
+   'regresionLogistica': {'accuracy': 0.8148148148148148,
+    'precision': 0.8571428571428571,
+    'recall': 0.3,
+    'roc_auc': 0.6418032786885246
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.7407407407407407,
+    'precision': 0.46153846153846156,
+    'recall': 0.3,
+    'roc_auc': 0.5926229508196722
+            },
+   'SVC': {'accuracy': 0.7530864197530864,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7407407407407407,
+    'precision': 0.46153846153846156,
+    'recall': 0.3,
+    'roc_auc': 0.5926229508196722
+            }
+        }
+    },
+ 'USFQ': {'AdamicAdar': {'Bagging': {'accuracy': 0.8021978021978022,
+    'precision': 0.6,
+    'recall': 0.3,
+    'roc_auc': 0.6218309859154929
+            },
+   'SVC': {'accuracy': 0.8241758241758241,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'regresionLogistica': {'accuracy': 0.8021978021978022,
+    'precision': 0.6,
+    'recall': 0.3,
+    'roc_auc': 0.6218309859154929
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8131868131868132,
+    'precision': 1.0,
+    'recall': 0.15,
+    'roc_auc': 0.575
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.8131868131868132,
+    'precision': 1.0,
+    'recall': 0.15,
+    'roc_auc': 0.575
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.7912087912087912,
+    'precision': 0.5294117647058824,
+    'recall': 0.45,
+    'roc_auc': 0.6686619718309859
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.6,
+    'roc_auc': 0.7154929577464789
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.6,
+    'roc_auc': 0.7154929577464789
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.3,
+    'roc_auc': 0.6077464788732394
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.3,
+    'roc_auc': 0.6077464788732394
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7912087912087912,
+    'precision': 1.0,
+    'recall': 0.05,
+    'roc_auc': 0.525
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.8021978021978022,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.8681318681318682,
+    'precision': 0.9,
+    'recall': 0.45,
+    'roc_auc': 0.7179577464788733
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.8681318681318682,
+    'precision': 0.9,
+    'recall': 0.45,
+    'roc_auc': 0.7179577464788733
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.7142857142857143,
+    'precision': 0.3125,
+    'recall': 0.25,
+    'roc_auc': 0.5475352112676056
+            },
+   'SVC': {'accuracy': 0.7472527472527473,
+    'precision': 0.3333333333333333,
+    'recall': 0.15,
+    'roc_auc': 0.5327464788732393
+            },
+   'regresionLogistica': {'accuracy': 0.7142857142857143,
+    'precision': 0.3125,
+    'recall': 0.25,
+    'roc_auc': 0.5475352112676056
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7472527472527473,
+    'precision': 0.36363636363636365,
+    'recall': 0.2,
+    'roc_auc': 0.5507042253521126
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7472527472527473,
+    'precision': 0.36363636363636365,
+    'recall': 0.2,
+    'roc_auc': 0.5507042253521126
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7912087912087912,
+    'precision': 1.0,
+    'recall': 0.05,
+    'roc_auc': 0.525
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7912087912087912,
+    'precision': 1.0,
+    'recall': 0.05,
+    'roc_auc': 0.525
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.8021978021978022,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.8021978021978022,
+    'precision': 1.0,
+    'recall': 0.1,
+    'roc_auc': 0.55
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.5,
+    'roc_auc': 0.6795774647887323
+            },
+   'SVC': {'accuracy': 0.7142857142857143,
+    'precision': 0.3125,
+    'recall': 0.25,
+    'roc_auc': 0.5475352112676056
+            },
+   'regresionLogistica': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.5,
+    'roc_auc': 0.6795774647887323
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.2,
+    'roc_auc': 0.5718309859154929
+            },
+   'SVC': {'accuracy': 0.8241758241758241,
+    'precision': 1.0,
+    'recall': 0.2,
+    'roc_auc': 0.6
+            },
+   'regresionLogistica': {'accuracy': 0.7802197802197802,
+    'precision': 0.5,
+    'recall': 0.2,
+    'roc_auc': 0.5718309859154929
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7912087912087912,
+    'precision': 1.0,
+    'recall': 0.05,
+    'roc_auc': 0.525
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.7912087912087912,
+    'precision': 1.0,
+    'recall': 0.05,
+    'roc_auc': 0.525
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.8681318681318682,
+    'precision': 0.9,
+    'recall': 0.45,
+    'roc_auc': 0.7179577464788733
+            },
+   'SVC': {'accuracy': 0.7802197802197802,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.8681318681318682,
+    'precision': 0.9,
+    'recall': 0.45,
+    'roc_auc': 0.7179577464788733
+            }
+        }
+    },
+ 'USP': {'AdamicAdar': {'Bagging': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            },
+   'SVC': {'accuracy': 0.9667535853976532,
+    'precision': 0.9612903225806452,
+    'recall': 0.1553701772679875,
+    'roc_auc': 0.5775578891427917
+            },
+   'regresionLogistica': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            },
+   'SVC': {'accuracy': 0.9626385267275098,
+    'precision': 0.9468085106382979,
+    'recall': 0.04640250260688217,
+    'roc_auc': 0.5231482515154402
+            },
+   'regresionLogistica': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.3099535528031291,
+    'precision': 0.040863243196643584,
+    'recall': 0.7413972888425443,
+    'roc_auc': 0.5169038596004114
+            },
+   'SVC': {'accuracy': 0.9608865710560626,
+    'precision': 0.3333333333333333,
+    'recall': 0.0010427528675703858,
+    'roc_auc': 0.5004789766033846
+            },
+   'regresionLogistica': {'accuracy': 0.9608865710560626,
+    'precision': 0.3333333333333333,
+    'recall': 0.0010427528675703858,
+    'roc_auc': 0.5004789766033846
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            },
+   'SVC': {'accuracy': 0.9608865710560626,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997880008479967
+            },
+   'regresionLogistica': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            },
+   'SVC': {'accuracy': 0.9626181551499348,
+    'precision': 0.9368421052631579,
+    'recall': 0.04640250260688217,
+    'roc_auc': 0.5231376515578401
+            },
+   'regresionLogistica': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            },
+   'SVC': {'accuracy': 0.9616606910039114,
+    'precision': 0.9285714285714286,
+    'recall': 0.020333680917622523,
+    'roc_auc': 0.5101350405860108
+            },
+   'regresionLogistica': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9820933833116037,
+    'precision': 0.86001386001386,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.8213728857284779
+            },
+   'SVC': {'accuracy': 0.9608661994784876,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4999682001271995
+            },
+   'regresionLogistica': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9741077249022164,
+    'precision': 0.8324768756423433,
+    'recall': 0.42231491136600624,
+    'roc_auc': 0.7094296625941755
+            },
+   'SVC': {'accuracy': 0.9608865710560626,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997880008479967
+            },
+   'regresionLogistica': {'accuracy': 0.9741077249022164,
+    'precision': 0.8324768756423433,
+    'recall': 0.42231491136600624,
+    'roc_auc': 0.7094296625941755
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9740873533246415,
+    'precision': 0.8357588357588358,
+    'recall': 0.4191866527632951,
+    'roc_auc': 0.7079185330808206
+            },
+   'SVC': {'accuracy': 0.9638200782268579,
+    'precision': 0.961038961038961,
+    'recall': 0.07716371220020855,
+    'roc_auc': 0.5385182563545032
+            },
+   'regresionLogistica': {'accuracy': 0.9740466101694916,
+    'precision': 0.8389473684210527,
+    'recall': 0.41553701772679874,
+    'roc_auc': 0.7061467153505735
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9739243807040417,
+    'precision': 0.8452380952380952,
+    'recall': 0.40719499478623566,
+    'roc_auc': 0.7020817034562935
+            },
+   'SVC': {'accuracy': 0.9616606910039114,
+    'precision': 0.9285714285714286,
+    'recall': 0.020333680917622523,
+    'roc_auc': 0.5101350405860108
+            },
+   'regresionLogistica': {'accuracy': 0.9739243807040417,
+    'precision': 0.8452380952380952,
+    'recall': 0.40719499478623566,
+    'roc_auc': 0.7020817034562935
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9741077249022164,
+    'precision': 0.8324768756423433,
+    'recall': 0.42231491136600624,
+    'roc_auc': 0.7094296625941755
+            },
+   'SVC': {'accuracy': 0.9608661994784876,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4999682001271995
+            },
+   'regresionLogistica': {'accuracy': 0.9741077249022164,
+    'precision': 0.8324768756423433,
+    'recall': 0.42231491136600624,
+    'roc_auc': 0.7094296625941755
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            },
+   'SVC': {'accuracy': 0.9659998370273793,
+    'precision': 0.8761329305135952,
+    'recall': 0.15119916579770595,
+    'roc_auc': 0.575164984637246
+            },
+   'regresionLogistica': {'accuracy': 0.9821137548891786,
+    'precision': 0.8606102635228848,
+    'recall': 0.6470281543274244,
+    'roc_auc': 0.821383485686078
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9778968383311604,
+    'precision': 0.8643919510061242,
+    'recall': 0.5151199165797706,
+    'roc_auc': 0.755916964861859
+            },
+   'SVC': {'accuracy': 0.965612777053455,
+    'precision': 0.96,
+    'recall': 0.1251303441084463,
+    'roc_auc': 0.5624591724782215
+            },
+   'regresionLogistica': {'accuracy': 0.9777338657105606,
+    'precision': 0.8640776699029126,
+    'recall': 0.5104275286757038,
+    'roc_auc': 0.7535813708674259
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9776320078226858,
+    'precision': 0.8680430879712747,
+    'recall': 0.5041710114702815,
+    'roc_auc': 0.7505273119679158
+            },
+   'SVC': {'accuracy': 0.9626385267275098,
+    'precision': 0.9468085106382979,
+    'recall': 0.04640250260688217,
+    'roc_auc': 0.5231482515154402
+            },
+   'regresionLogistica': {'accuracy': 0.9776320078226858,
+    'precision': 0.8680430879712747,
+    'recall': 0.5041710114702815,
+    'roc_auc': 0.7505273119679158
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9816655801825294,
+    'precision': 0.8579465541490858,
+    'recall': 0.6360792492179353,
+    'roc_auc': 0.8158984331737333
+            },
+   'SVC': {'accuracy': 0.9608865710560626,
+    'precision': 0.3333333333333333,
+    'recall': 0.0010427528675703858,
+    'roc_auc': 0.5004789766033846
+            },
+   'regresionLogistica': {'accuracy': 0.9816655801825294,
+    'precision': 0.8579465541490858,
+    'recall': 0.6360792492179353,
+    'roc_auc': 0.8158984331737333
+            }
+        }
+    },
+ 'Udelar': {'AdamicAdar': {'Bagging': {'accuracy': 0.9612643321970871,
+    'precision': 0.5342857142857143,
+    'recall': 0.6824817518248175,
+    'roc_auc': 0.8280531736470366
+            },
+   'SVC': {'accuracy': 0.9642082429501084,
+    'precision': 0.9215686274509803,
+    'recall': 0.17153284671532848,
+    'roc_auc': 0.5854427987621951
+            },
+   'regresionLogistica': {'accuracy': 0.9612643321970871,
+    'precision': 0.5342857142857143,
+    'recall': 0.6824817518248175,
+    'roc_auc': 0.8280531736470366
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9685466377440347,
+    'precision': 0.7052023121387283,
+    'recall': 0.44525547445255476,
+    'roc_auc': 0.7185015236340444
+            },
+   'SVC': {'accuracy': 0.9587852494577006,
+    'precision': 0.8333333333333334,
+    'recall': 0.0364963503649635,
+    'roc_auc': 0.5180863628847471
+            },
+   'regresionLogistica': {'accuracy': 0.9685466377440347,
+    'precision': 0.7052023121387283,
+    'recall': 0.44525547445255476,
+    'roc_auc': 0.7185015236340444
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.9573907654167958,
+    'precision': 0.3333333333333333,
+    'recall': 0.0036496350364963502,
+    'roc_auc': 0.5016630052205134
+            },
+   'SVC': {'accuracy': 0.9573907654167958,
+    'precision': 0.3333333333333333,
+    'recall': 0.0036496350364963502,
+    'roc_auc': 0.5016630052205134
+            },
+   'regresionLogistica': {'accuracy': 0.9573907654167958,
+    'precision': 0.3333333333333333,
+    'recall': 0.0036496350364963502,
+    'roc_auc': 0.5016630052205134
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9564611093895259,
+    'precision': 0.4916467780429594,
+    'recall': 0.7518248175182481,
+    'roc_auc': 0.8586793990503863
+            },
+   'SVC': {'accuracy': 0.955066625348621,
+    'precision': 0.19230769230769232,
+    'recall': 0.01824817518248175,
+    'roc_auc': 0.5074250584650273
+            },
+   'regresionLogistica': {'accuracy': 0.9564611093895259,
+    'precision': 0.4916467780429594,
+    'recall': 0.7518248175182481,
+    'roc_auc': 0.8586793990503863
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9642082429501084,
+    'precision': 0.5686900958466453,
+    'recall': 0.6496350364963503,
+    'roc_auc': 0.8138951881510877
+            },
+   'SVC': {'accuracy': 0.9645181282925318,
+    'precision': 0.9591836734693877,
+    'recall': 0.17153284671532848,
+    'roc_auc': 0.5856046110599296
+            },
+   'regresionLogistica': {'accuracy': 0.9642082429501084,
+    'precision': 0.5686900958466453,
+    'recall': 0.6496350364963503,
+    'roc_auc': 0.8138951881510877
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.969321351100093,
+    'precision': 0.7345679012345679,
+    'recall': 0.4343065693430657,
+    'roc_auc': 0.7136743202702384
+            },
+   'SVC': {'accuracy': 0.9587852494577006,
+    'precision': 0.8333333333333334,
+    'recall': 0.0364963503649635,
+    'roc_auc': 0.5180863628847471
+            },
+   'regresionLogistica': {'accuracy': 0.9696312364425163,
+    'precision': 0.7671232876712328,
+    'recall': 0.40875912408759124,
+    'roc_auc': 0.7016287529823069
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9637434149364735,
+    'precision': 0.6666666666666666,
+    'recall': 0.291970802919708,
+    'roc_auc': 0.6427491555051615
+            },
+   'SVC': {'accuracy': 0.9573907654167958,
+    'precision': 0.3333333333333333,
+    'recall': 0.0036496350364963502,
+    'roc_auc': 0.5016630052205134
+            },
+   'regresionLogistica': {'accuracy': 0.9637434149364735,
+    'precision': 0.6666666666666666,
+    'recall': 0.291970802919708,
+    'roc_auc': 0.6427491555051615
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9471645491168268,
+    'precision': 0.40233236151603496,
+    'recall': 0.5036496350364964,
+    'roc_auc': 0.7352390570004489
+            },
+   'SVC': {'accuracy': 0.955066625348621,
+    'precision': 0.19230769230769232,
+    'recall': 0.01824817518248175,
+    'roc_auc': 0.5074250584650273
+            },
+   'regresionLogistica': {'accuracy': 0.9471645491168268,
+    'precision': 0.40233236151603496,
+    'recall': 0.5036496350364964,
+    'roc_auc': 0.7352390570004489
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9598698481561823,
+    'precision': 0.5247524752475248,
+    'recall': 0.5802919708029197,
+    'roc_auc': 0.7784954999645667
+            },
+   'SVC': {'accuracy': 0.9629687015804153,
+    'precision': 0.9487179487179487,
+    'recall': 0.13503649635036497,
+    'roc_auc': 0.5673564358774478
+            },
+   'regresionLogistica': {'accuracy': 0.9609544468546638,
+    'precision': 0.5357142857142857,
+    'recall': 0.6021897810218978,
+    'roc_auc': 0.7895253112229231
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9640533002788968,
+    'precision': 0.6909090909090909,
+    'recall': 0.2773722627737226,
+    'roc_auc': 0.6359353223253726
+            },
+   'SVC': {'accuracy': 0.9587852494577006,
+    'precision': 0.8333333333333334,
+    'recall': 0.0364963503649635,
+    'roc_auc': 0.5180863628847471
+            },
+   'regresionLogistica': {'accuracy': 0.9642082429501084,
+    'precision': 0.6972477064220184,
+    'recall': 0.2773722627737226,
+    'roc_auc': 0.6360162284742399
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.958630306786489,
+    'precision': 0.52046783625731,
+    'recall': 0.3248175182481752,
+    'roc_auc': 0.6557744549169678
+            },
+   'SVC': {'accuracy': 0.9573907654167958,
+    'precision': 0.3333333333333333,
+    'recall': 0.0036496350364963502,
+    'roc_auc': 0.5016630052205134
+            },
+   'regresionLogistica': {'accuracy': 0.958630306786489,
+    'precision': 0.52046783625731,
+    'recall': 0.3248175182481752,
+    'roc_auc': 0.6557744549169678
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9528974279516579,
+    'precision': 0.4594594594594595,
+    'recall': 0.6204379562043796,
+    'roc_auc': 0.7940377483287271
+            },
+   'SVC': {'accuracy': 0.9558413387046792,
+    'precision': 0.47533632286995514,
+    'recall': 0.38686131386861317,
+    'roc_auc': 0.6839646375168309
+            },
+   'regresionLogistica': {'accuracy': 0.9528974279516579,
+    'precision': 0.4594594594594595,
+    'recall': 0.6204379562043796,
+    'roc_auc': 0.7940377483287271
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9612643321970871,
+    'precision': 0.541095890410959,
+    'recall': 0.5766423357664233,
+    'roc_auc': 0.7774797439349915
+            },
+   'SVC': {'accuracy': 0.9648280136349551,
+    'precision': 0.9122807017543859,
+    'recall': 0.1897810218978102,
+    'roc_auc': 0.5944859802045686
+            },
+   'regresionLogistica': {'accuracy': 0.9625038735667802,
+    'precision': 0.5533333333333333,
+    'recall': 0.6058394160583942,
+    'roc_auc': 0.792078284080977
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9640533002788968,
+    'precision': 0.6909090909090909,
+    'recall': 0.2773722627737226,
+    'roc_auc': 0.6359353223253726
+            },
+   'SVC': {'accuracy': 0.9587852494577006,
+    'precision': 0.8333333333333334,
+    'recall': 0.0364963503649635,
+    'roc_auc': 0.5180863628847471
+            },
+   'regresionLogistica': {'accuracy': 0.9640533002788968,
+    'precision': 0.6875,
+    'recall': 0.28102189781021897,
+    'roc_auc': 0.6376792336947535
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9570808800743725,
+    'precision': 0.49246231155778897,
+    'recall': 0.35766423357664234,
+    'roc_auc': 0.6706605957527224
+            },
+   'SVC': {'accuracy': 0.9573907654167958,
+    'precision': 0.3333333333333333,
+    'recall': 0.0036496350364963502,
+    'roc_auc': 0.5016630052205134
+            },
+   'regresionLogistica': {'accuracy': 0.9570808800743725,
+    'precision': 0.49246231155778897,
+    'recall': 0.35766423357664234,
+    'roc_auc': 0.6706605957527224
+            }
+        }
+    },
+ 'Unicamp': {'AdamicAdar': {'Bagging': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            },
+   'SVC': {'accuracy': 0.9486945309981735,
+    'precision': 0.9818181818181818,
+    'recall': 0.14542190305206462,
+    'roc_auc': 0.572625237240318
+            },
+   'regresionLogistica': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            },
+   'SVC': {'accuracy': 0.9432147845707533,
+    'precision': 0.9830508474576272,
+    'recall': 0.05206463195691203,
+    'roc_auc': 0.5260037445498845
+            },
+   'regresionLogistica': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.9401525733319007,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'SVC': {'accuracy': 0.9401525733319007,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.9401525733319007,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            },
+   'SVC': {'accuracy': 0.9400988503277103,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997142857142857
+            },
+   'regresionLogistica': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9726012678628989,
+    'precision': 0.852803738317757,
+    'recall': 0.6552962298025135,
+    'roc_auc': 0.8240481149012566
+            },
+   'SVC': {'accuracy': 0.9432147845707533,
+    'precision': 0.9830508474576272,
+    'recall': 0.05206463195691203,
+    'roc_auc': 0.5260037445498845
+            },
+   'regresionLogistica': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9709895777371871,
+    'precision': 0.8910081743869209,
+    'recall': 0.5870736086175943,
+    'roc_auc': 0.7912510900230828
+            },
+   'SVC': {'accuracy': 0.9400988503277103,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997142857142857
+            },
+   'regresionLogistica': {'accuracy': 0.9714193617707102,
+    'precision': 0.8740359897172236,
+    'recall': 0.6104129263913824,
+    'roc_auc': 0.8024064631956912
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            },
+   'SVC': {'accuracy': 0.9400988503277103,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997142857142857
+            },
+   'regresionLogistica': {'accuracy': 0.9722252068335662,
+    'precision': 0.8327759197324415,
+    'recall': 0.670556552962298,
+    'roc_auc': 0.8309925621954348
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9583646717524444,
+    'precision': 0.79073756432247,
+    'recall': 0.4138240574506284,
+    'roc_auc': 0.7034263144395999
+            },
+   'SVC': {'accuracy': 0.9400988503277103,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997142857142857
+            },
+   'regresionLogistica': {'accuracy': 0.9583646717524444,
+    'precision': 0.79073756432247,
+    'recall': 0.4138240574506284,
+    'roc_auc': 0.7034263144395999
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9640593101966262,
+    'precision': 0.8428351309707242,
+    'recall': 0.4910233393177738,
+    'roc_auc': 0.7425973839446012
+            },
+   'SVC': {'accuracy': 0.9432147845707533,
+    'precision': 0.9830508474576272,
+    'recall': 0.05206463195691203,
+    'roc_auc': 0.5260037445498845
+            },
+   'regresionLogistica': {'accuracy': 0.9645428172343398,
+    'precision': 0.843939393939394,
+    'recall': 0.5,
+    'roc_auc': 0.7470571428571429
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.960083807886537,
+    'precision': 0.8403669724770643,
+    'recall': 0.4111310592459605,
+    'roc_auc': 0.7030798153372658
+            },
+   'SVC': {'accuracy': 0.9400988503277103,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997142857142857
+            },
+   'regresionLogistica': {'accuracy': 0.964166756205007,
+    'precision': 0.8486739469578783,
+    'recall': 0.4883303411131059,
+    'roc_auc': 0.7413937419851243
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9583646717524444,
+    'precision': 0.7917383820998278,
+    'recall': 0.4129263913824057,
+    'roc_auc': 0.7030060528340599
+            },
+   'SVC': {'accuracy': 0.9400988503277103,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.49997142857142857
+            },
+   'regresionLogistica': {'accuracy': 0.9583646717524444,
+    'precision': 0.7917383820998278,
+    'recall': 0.4129263913824057,
+    'roc_auc': 0.7030060528340599
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9710970237455678,
+    'precision': 0.8310344827586207,
+    'recall': 0.6490125673249552,
+    'roc_auc': 0.8203062836624776
+            },
+   'SVC': {'accuracy': 0.9431073385623724,
+    'precision': 0.8571428571428571,
+    'recall': 0.059245960502693,
+    'roc_auc': 0.5293086945370608
+            },
+   'regresionLogistica': {'accuracy': 0.9711507467497582,
+    'precision': 0.8312284730195177,
+    'recall': 0.6499102333931778,
+    'roc_auc': 0.820755116696589
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.959815192865585,
+    'precision': 0.8210526315789474,
+    'recall': 0.42010771992818674,
+    'roc_auc': 0.7071395742498077
+            },
+   'SVC': {'accuracy': 0.9485870849897926,
+    'precision': 0.9815950920245399,
+    'recall': 0.1436265709156194,
+    'roc_auc': 0.5717275711720954
+            },
+   'regresionLogistica': {'accuracy': 0.9645428172343398,
+    'precision': 0.843939393939394,
+    'recall': 0.5,
+    'roc_auc': 0.7470571428571429
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9597614698613947,
+    'precision': 0.8264758497316637,
+    'recall': 0.414721723518851,
+    'roc_auc': 0.7045894331879969
+            },
+   'SVC': {'accuracy': 0.9432147845707533,
+    'precision': 0.9830508474576272,
+    'recall': 0.05206463195691203,
+    'roc_auc': 0.5260037445498845
+            },
+   'regresionLogistica': {'accuracy': 0.9599226388739658,
+    'precision': 0.8250883392226148,
+    'recall': 0.41921005385996407,
+    'roc_auc': 0.7067764555014107
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9678736434941442,
+    'precision': 0.8282442748091603,
+    'recall': 0.5843806104129264,
+    'roc_auc': 0.7883331623493203
+            },
+   'SVC': {'accuracy': 0.9401525733319007,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.9678736434941442,
+    'precision': 0.8282442748091603,
+    'recall': 0.5843806104129264,
+    'roc_auc': 0.7883331623493203
+            }
+        }
+    },
+ 'Universidad Nacional de la Asuncion': {'AdamicAdar': {'Bagging': {'accuracy': 0.8970976253298153,
+    'precision': 0.7142857142857143,
+    'recall': 0.6097560975609756,
+    'roc_auc': 0.7812560015363933
+            },
+   'SVC': {'accuracy': 0.8588390501319261,
+    'precision': 0.9444444444444444,
+    'recall': 0.13821138211382114,
+    'roc_auc': 0.5683182894821074
+            },
+   'regresionLogistica': {'accuracy': 0.8970976253298153,
+    'precision': 0.7142857142857143,
+    'recall': 0.6097560975609756,
+    'roc_auc': 0.7812560015363933
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9142480211081794,
+    'precision': 0.9264705882352942,
+    'recall': 0.5121951219512195,
+    'roc_auc': 0.752160553101594
+            },
+   'SVC': {'accuracy': 0.8456464379947229,
+    'precision': 0.875,
+    'recall': 0.056910569105691054,
+    'roc_auc': 0.5276678829780423
+            },
+   'regresionLogistica': {'accuracy': 0.9142480211081794,
+    'precision': 0.9264705882352942,
+    'recall': 0.5121951219512195,
+    'roc_auc': 0.752160553101594
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.841688654353562,
+    'precision': 0.8,
+    'recall': 0.032520325203252036,
+    'roc_auc': 0.5154727610268228
+            },
+   'SVC': {'accuracy': 0.8390501319261213,
+    'precision': 0.6666666666666666,
+    'recall': 0.016260162601626018,
+    'roc_auc': 0.5073426797260099
+            },
+   'regresionLogistica': {'accuracy': 0.841688654353562,
+    'precision': 0.8,
+    'recall': 0.032520325203252036,
+    'roc_auc': 0.5154727610268228
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.899736147757256,
+    'precision': 0.6620689655172414,
+    'recall': 0.7804878048780488,
+    'roc_auc': 0.85166122527367
+            },
+   'SVC': {'accuracy': 0.841688654353562,
+    'precision': 0.6666666666666666,
+    'recall': 0.04878048780487805,
+    'roc_auc': 0.5220280391780295
+            },
+   'regresionLogistica': {'accuracy': 0.899736147757256,
+    'precision': 0.6620689655172414,
+    'recall': 0.7804878048780488,
+    'roc_auc': 0.85166122527367
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.8970976253298153,
+    'precision': 0.7142857142857143,
+    'recall': 0.6097560975609756,
+    'roc_auc': 0.7812560015363933
+            },
+   'SVC': {'accuracy': 0.8482849604221636,
+    'precision': 0.7857142857142857,
+    'recall': 0.08943089430894309,
+    'roc_auc': 0.542353242430062
+            },
+   'regresionLogistica': {'accuracy': 0.8970976253298153,
+    'precision': 0.7142857142857143,
+    'recall': 0.6097560975609756,
+    'roc_auc': 0.7812560015363933
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8984168865435356,
+    'precision': 0.9423076923076923,
+    'recall': 0.3983739837398374,
+    'roc_auc': 0.6968247871455093
+            },
+   'SVC': {'accuracy': 0.8482849604221636,
+    'precision': 0.8333333333333334,
+    'recall': 0.08130081300813008,
+    'roc_auc': 0.5390756033544587
+            },
+   'regresionLogistica': {'accuracy': 0.8984168865435356,
+    'precision': 0.9423076923076923,
+    'recall': 0.3983739837398374,
+    'roc_auc': 0.6968247871455093
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9076517150395779,
+    'precision': 0.8840579710144928,
+    'recall': 0.4959349593495935,
+    'roc_auc': 0.7416682670763715
+            },
+   'SVC': {'accuracy': 0.8430079155672823,
+    'precision': 0.8333333333333334,
+    'recall': 0.04065040650406504,
+    'roc_auc': 0.5195378016772293
+            },
+   'regresionLogistica': {'accuracy': 0.9089709762532981,
+    'precision': 0.9090909090909091,
+    'recall': 0.4878048780487805,
+    'roc_auc': 0.7391780295755713
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.8430079155672823,
+    'precision': 0.5208333333333334,
+    'recall': 0.4065040650406504,
+    'roc_auc': 0.6670315600793802
+            },
+   'SVC': {'accuracy': 0.841688654353562,
+    'precision': 0.6666666666666666,
+    'recall': 0.04878048780487805,
+    'roc_auc': 0.5220280391780295
+            },
+   'regresionLogistica': {'accuracy': 0.8430079155672823,
+    'precision': 0.5208333333333334,
+    'recall': 0.4065040650406504,
+    'roc_auc': 0.6670315600793802
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.8799472295514512,
+    'precision': 0.6951219512195121,
+    'recall': 0.4634146341463415,
+    'roc_auc': 0.7120222777030919
+            },
+   'SVC': {'accuracy': 0.8482849604221636,
+    'precision': 0.7857142857142857,
+    'recall': 0.08943089430894309,
+    'roc_auc': 0.542353242430062
+            },
+   'regresionLogistica': {'accuracy': 0.8786279683377308,
+    'precision': 0.6962025316455697,
+    'recall': 0.44715447154471544,
+    'roc_auc': 0.7046795979770822
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8773087071240105,
+    'precision': 0.9411764705882353,
+    'recall': 0.2601626016260163,
+    'roc_auc': 0.6285064976634019
+            },
+   'SVC': {'accuracy': 0.8482849604221636,
+    'precision': 0.8333333333333334,
+    'recall': 0.08130081300813008,
+    'roc_auc': 0.5390756033544587
+            },
+   'regresionLogistica': {'accuracy': 0.8773087071240105,
+    'precision': 0.9411764705882353,
+    'recall': 0.2601626016260163,
+    'roc_auc': 0.6285064976634019
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.8482849604221636,
+    'precision': 0.7,
+    'recall': 0.11382113821138211,
+    'roc_auc': 0.5521861596568721
+            },
+   'SVC': {'accuracy': 0.8430079155672823,
+    'precision': 0.8333333333333334,
+    'recall': 0.04065040650406504,
+    'roc_auc': 0.5195378016772293
+            },
+   'regresionLogistica': {'accuracy': 0.8482849604221636,
+    'precision': 0.7,
+    'recall': 0.11382113821138211,
+    'roc_auc': 0.5521861596568721
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.8825857519788918,
+    'precision': 0.6416666666666667,
+    'recall': 0.6260162601626016,
+    'roc_auc': 0.7791498623647654
+            },
+   'SVC': {'accuracy': 0.8601583113456465,
+    'precision': 0.580952380952381,
+    'recall': 0.4959349593495935,
+    'roc_auc': 0.7133218103834581
+            },
+   'regresionLogistica': {'accuracy': 0.8852242744063324,
+    'precision': 0.652542372881356,
+    'recall': 0.6260162601626016,
+    'roc_auc': 0.7807246655143716
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.8852242744063324,
+    'precision': 0.7142857142857143,
+    'recall': 0.4878048780487805,
+    'roc_auc': 0.7250048012291146
+            },
+   'SVC': {'accuracy': 0.8588390501319261,
+    'precision': 0.9444444444444444,
+    'recall': 0.13821138211382114,
+    'roc_auc': 0.5683182894821074
+            },
+   'regresionLogistica': {'accuracy': 0.8852242744063324,
+    'precision': 0.7142857142857143,
+    'recall': 0.4878048780487805,
+    'roc_auc': 0.7250048012291146
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8680738786279684,
+    'precision': 0.8709677419354839,
+    'recall': 0.21951219512195122,
+    'roc_auc': 0.606606491261763
+            },
+   'SVC': {'accuracy': 0.8496042216358839,
+    'precision': 0.9090909090909091,
+    'recall': 0.08130081300813008,
+    'roc_auc': 0.5398630049292619
+            },
+   'regresionLogistica': {'accuracy': 0.8654353562005277,
+    'precision': 0.8620689655172413,
+    'recall': 0.2032520325203252,
+    'roc_auc': 0.59847640996095
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9102902374670184,
+    'precision': 0.9230769230769231,
+    'recall': 0.4878048780487805,
+    'roc_auc': 0.7399654311503745
+            },
+   'SVC': {'accuracy': 0.8390501319261213,
+    'precision': 0.6666666666666666,
+    'recall': 0.016260162601626018,
+    'roc_auc': 0.5073426797260099
+            },
+   'regresionLogistica': {'accuracy': 0.9089709762532981,
+    'precision': 0.9354838709677419,
+    'recall': 0.4715447154471545,
+    'roc_auc': 0.7326227514243647
+            }
+        }
+    },
+ 'Universidad Torcuato Di Tella': {'AdamicAdar': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            },
+   'SVC': {'accuracy': 0.9473684210526315,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.5263157894736842,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.2777777777777778
+            },
+   'SVC': {'accuracy': 0.9473684210526315,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.5263157894736842,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.2777777777777778
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.8421052631578947,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4444444444444444
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            },
+   'SVC': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            },
+   'regresionLogistica': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'SVC': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            },
+   'regresionLogistica': {'accuracy': 0.7894736842105263,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4166666666666667
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            },
+   'SVC': {'accuracy': 0.9473684210526315,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.5
+            },
+   'regresionLogistica': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            },
+   'SVC': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            },
+   'regresionLogistica': {'accuracy': 0.8947368421052632,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4722222222222222
+            }
+        }
+    },
+ 'Universidad de Antioquia': {'AdamicAdar': {'Bagging': {'accuracy': 0.8308351177730193,
+    'precision': 0.575,
+    'recall': 0.27058823529411763,
+    'roc_auc': 0.6130428087465352
+            },
+   'SVC': {'accuracy': 0.8501070663811563,
+    'precision': 0.8260869565217391,
+    'recall': 0.2235294117647059,
+    'roc_auc': 0.6065291037881121
+            },
+   'regresionLogistica': {'accuracy': 0.8308351177730193,
+    'precision': 0.575,
+    'recall': 0.27058823529411763,
+    'roc_auc': 0.6130428087465352
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8372591006423983,
+    'precision': 0.6551724137931034,
+    'recall': 0.2235294117647059,
+    'roc_auc': 0.5986757006467509
+            },
+   'SVC': {'accuracy': 0.8244111349036403,
+    'precision': 0.8,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5222205112411458
+            },
+   'regresionLogistica': {'accuracy': 0.8351177730192719,
+    'precision': 0.6333333333333333,
+    'recall': 0.2235294117647059,
+    'roc_auc': 0.5973668001231908
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.8115631691648822,
+    'precision': 0.2,
+    'recall': 0.011764705882352941,
+    'roc_auc': 0.5006467508469357
+            },
+   'SVC': {'accuracy': 0.815845824411135,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4986910994764398
+            },
+   'regresionLogistica': {'accuracy': 0.8115631691648822,
+    'precision': 0.2,
+    'recall': 0.011764705882352941,
+    'roc_auc': 0.5006467508469357
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.7944325481798715,
+    'precision': 0.21052631578947367,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5038959039113028
+            },
+   'SVC': {'accuracy': 0.7944325481798715,
+    'precision': 0.21052631578947367,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5038959039113028
+            },
+   'regresionLogistica': {'accuracy': 0.7944325481798715,
+    'precision': 0.21052631578947367,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5038959039113028
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.8479657387580299,
+    'precision': 0.71875,
+    'recall': 0.27058823529411763,
+    'roc_auc': 0.6235140129350168
+            },
+   'SVC': {'accuracy': 0.8501070663811563,
+    'precision': 0.8571428571428571,
+    'recall': 0.21176470588235294,
+    'roc_auc': 0.6019556513704958
+            },
+   'regresionLogistica': {'accuracy': 0.8565310492505354,
+    'precision': 0.725,
+    'recall': 0.3411764705882353,
+    'roc_auc': 0.6561903295349555
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8565310492505354,
+    'precision': 0.8214285714285714,
+    'recall': 0.27058823529411763,
+    'roc_auc': 0.6287496150292577
+            },
+   'SVC': {'accuracy': 0.8244111349036403,
+    'precision': 0.8,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5222205112411458
+            },
+   'regresionLogistica': {'accuracy': 0.8565310492505354,
+    'precision': 0.8214285714285714,
+    'recall': 0.27058823529411763,
+    'roc_auc': 0.6287496150292577
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.7922912205567452,
+    'precision': 0.2,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5025870033877425
+            },
+   'SVC': {'accuracy': 0.8179871520342612,
+    'precision': 0.5,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.518293809670465
+            },
+   'regresionLogistica': {'accuracy': 0.7922912205567452,
+    'precision': 0.2,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5025870033877425
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.7944325481798715,
+    'precision': 0.21052631578947367,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5038959039113028
+            },
+   'SVC': {'accuracy': 0.7944325481798715,
+    'precision': 0.21052631578947367,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5038959039113028
+            },
+   'regresionLogistica': {'accuracy': 0.7944325481798715,
+    'precision': 0.21052631578947367,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5038959039113028
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.854389721627409,
+    'precision': 0.7428571428571429,
+    'recall': 0.3058823529411765,
+    'roc_auc': 0.6411610717585464
+            },
+   'SVC': {'accuracy': 0.8501070663811563,
+    'precision': 0.8571428571428571,
+    'recall': 0.21176470588235294,
+    'roc_auc': 0.6019556513704958
+            },
+   'regresionLogistica': {'accuracy': 0.8522483940042827,
+    'precision': 0.7222222222222222,
+    'recall': 0.3058823529411765,
+    'roc_auc': 0.6398521712349863
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8501070663811563,
+    'precision': 0.8,
+    'recall': 0.23529411764705882,
+    'roc_auc': 0.6111025562057284
+            },
+   'SVC': {'accuracy': 0.8244111349036403,
+    'precision': 0.8,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5222205112411458
+            },
+   'regresionLogistica': {'accuracy': 0.8501070663811563,
+    'precision': 0.8,
+    'recall': 0.23529411764705882,
+    'roc_auc': 0.6111025562057284
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.7922912205567452,
+    'precision': 0.2,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5025870033877425
+            },
+   'SVC': {'accuracy': 0.8179871520342612,
+    'precision': 0.5,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.518293809670465
+            },
+   'regresionLogistica': {'accuracy': 0.7922912205567452,
+    'precision': 0.2,
+    'recall': 0.047058823529411764,
+    'roc_auc': 0.5025870033877425
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.7623126338329764,
+    'precision': 0.3617021276595745,
+    'recall': 0.4,
+    'roc_auc': 0.6214659685863874
+            },
+   'SVC': {'accuracy': 0.8008565310492506,
+    'precision': 0.4375,
+    'recall': 0.32941176470588235,
+    'roc_auc': 0.6175854635047736
+            },
+   'regresionLogistica': {'accuracy': 0.7623126338329764,
+    'precision': 0.3617021276595745,
+    'recall': 0.4,
+    'roc_auc': 0.6214659685863874
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.8522483940042827,
+    'precision': 0.7222222222222222,
+    'recall': 0.3058823529411765,
+    'roc_auc': 0.6398521712349863
+            },
+   'SVC': {'accuracy': 0.8501070663811563,
+    'precision': 0.8260869565217391,
+    'recall': 0.2235294117647059,
+    'roc_auc': 0.6065291037881121
+            },
+   'regresionLogistica': {'accuracy': 0.8458244111349036,
+    'precision': 0.6666666666666666,
+    'recall': 0.3058823529411765,
+    'roc_auc': 0.6359254696643055
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.8351177730192719,
+    'precision': 0.6818181818181818,
+    'recall': 0.17647058823529413,
+    'roc_auc': 0.5790729904527255
+            },
+   'SVC': {'accuracy': 0.8244111349036403,
+    'precision': 0.7142857142857143,
+    'recall': 0.058823529411764705,
+    'roc_auc': 0.526793963658762
+            },
+   'regresionLogistica': {'accuracy': 0.8372591006423983,
+    'precision': 0.7142857142857143,
+    'recall': 0.17647058823529413,
+    'roc_auc': 0.5803818909762858
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.8308351177730193,
+    'precision': 0.5714285714285714,
+    'recall': 0.2823529411764706,
+    'roc_auc': 0.6176162611641515
+            },
+   'SVC': {'accuracy': 0.815845824411135,
+    'precision': 0.0,
+    'recall': 0.0,
+    'roc_auc': 0.4986910994764398
+            },
+   'regresionLogistica': {'accuracy': 0.8308351177730193,
+    'precision': 0.5714285714285714,
+    'recall': 0.2823529411764706,
+    'roc_auc': 0.6176162611641515
+            }
+        }
+    },
+ 'Universidad de Chile': {'AdamicAdar': {'Bagging': {'accuracy': 0.9796251140664503,
+    'precision': 0.3910139647844566,
+    'recall': 0.6420737786640079,
+    'roc_auc': 0.8134204018768069
+            },
+   'SVC': {'accuracy': 0.9885260370697264,
+    'precision': 0.8511904761904762,
+    'recall': 0.2851445663010967,
+    'roc_auc': 0.6421925978337389
+            },
+   'regresionLogistica': {'accuracy': 0.9796251140664503,
+    'precision': 0.3910139647844566,
+    'recall': 0.6420737786640079,
+    'roc_auc': 0.8134204018768069
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9870600026927162,
+    'precision': 0.5701219512195121,
+    'recall': 0.559322033898305,
+    'roc_auc': 0.7764488791689447
+            },
+   'SVC': {'accuracy': 0.986267147366374,
+    'precision': 0.8014184397163121,
+    'recall': 0.11266201395812563,
+    'roc_auc': 0.5561183832016495
+            },
+   'regresionLogistica': {'accuracy': 0.9867458524690712,
+    'precision': 0.5567410281280311,
+    'recall': 0.5722831505483549,
+    'roc_auc': 0.7826712514785392
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.7974329438867862,
+    'precision': 0.02615268329554044,
+    'recall': 0.34496510468594216,
+    'roc_auc': 0.5746452399075175
+            },
+   'SVC': {'accuracy': 0.9847711939204452,
+    'precision': 0.2,
+    'recall': 0.004985044865403789,
+    'roc_auc': 0.5023406483059781
+            },
+   'regresionLogistica': {'accuracy': 0.7974329438867862,
+    'precision': 0.02615268329554044,
+    'recall': 0.34496510468594216,
+    'roc_auc': 0.5746452399075175
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9796251140664503,
+    'precision': 0.3910139647844566,
+    'recall': 0.6420737786640079,
+    'roc_auc': 0.8134204018768069
+            },
+   'SVC': {'accuracy': 0.9843373674211259,
+    'precision': 0.3103448275862069,
+    'recall': 0.03589232303090728,
+    'roc_auc': 0.5173386650085586
+            },
+   'regresionLogistica': {'accuracy': 0.9796251140664503,
+    'precision': 0.3910139647844566,
+    'recall': 0.6420737786640079,
+    'roc_auc': 0.8134204018768069
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9796251140664503,
+    'precision': 0.3910139647844566,
+    'recall': 0.6420737786640079,
+    'roc_auc': 0.8134204018768069
+            },
+   'SVC': {'accuracy': 0.9868505692102861,
+    'precision': 0.7792792792792793,
+    'recall': 0.17248255234297108,
+    'roc_auc': 0.5858691845610123
+            },
+   'regresionLogistica': {'accuracy': 0.9796251140664503,
+    'precision': 0.3910139647844566,
+    'recall': 0.6420737786640079,
+    'roc_auc': 0.8134204018768069
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9874190315197391,
+    'precision': 0.5852631578947368,
+    'recall': 0.5543369890329013,
+    'roc_auc': 0.7741765742199924
+            },
+   'SVC': {'accuracy': 0.9856538064535432,
+    'precision': 0.7,
+    'recall': 0.07676969092721835,
+    'roc_auc': 0.538134253154515
+            },
+   'regresionLogistica': {'accuracy': 0.9874190315197391,
+    'precision': 0.5852631578947368,
+    'recall': 0.5543369890329013,
+    'roc_auc': 0.7741765742199924
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9795652759286131,
+    'precision': 0.39019963702359345,
+    'recall': 0.6430707876370887,
+    'roc_auc': 0.8138809378316663
+            },
+   'SVC': {'accuracy': 0.984292488817748,
+    'precision': 0.3025210084033613,
+    'recall': 0.03589232303090728,
+    'roc_auc': 0.51731588388955
+            },
+   'regresionLogistica': {'accuracy': 0.9796251140664503,
+    'precision': 0.3910139647844566,
+    'recall': 0.6420737786640079,
+    'roc_auc': 0.8134204018768069
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.977007195536075,
+    'precision': 0.31509695290858725,
+    'recall': 0.45363908275174475,
+    'roc_auc': 0.7193093658093819
+            },
+   'SVC': {'accuracy': 0.9843373674211259,
+    'precision': 0.3103448275862069,
+    'recall': 0.03589232303090728,
+    'roc_auc': 0.5173386650085586
+            },
+   'regresionLogistica': {'accuracy': 0.977007195536075,
+    'precision': 0.31509695290858725,
+    'recall': 0.45363908275174475,
+    'roc_auc': 0.7193093658093819
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9795203973252352,
+    'precision': 0.3871763255240444,
+    'recall': 0.6261216350947159,
+    'roc_auc': 0.8055126734491864
+            },
+   'SVC': {'accuracy': 0.9870899217616348,
+    'precision': 0.7916666666666666,
+    'recall': 0.18943170488534397,
+    'roc_auc': 0.5943361671258626
+            },
+   'regresionLogistica': {'accuracy': 0.9795203973252352,
+    'precision': 0.3871763255240444,
+    'recall': 0.6261216350947159,
+    'roc_auc': 0.8055126734491864
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9871048812960941,
+    'precision': 0.5816917728852838,
+    'recall': 0.5004985044865404,
+    'roc_auc': 0.7475079242559062
+            },
+   'SVC': {'accuracy': 0.9856687659880025,
+    'precision': 0.7064220183486238,
+    'recall': 0.07676969092721835,
+    'roc_auc': 0.5381418468608512
+            },
+   'regresionLogistica': {'accuracy': 0.986895447813664,
+    'precision': 0.574793875147232,
+    'recall': 0.4865403788634098,
+    'roc_auc': 0.7405288614443408
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9772465480874235,
+    'precision': 0.3058470764617691,
+    'recall': 0.4067796610169492,
+    'roc_auc': 0.696358058441164
+            },
+   'SVC': {'accuracy': 0.9845617604380151,
+    'precision': 0.3253012048192771,
+    'recall': 0.026919242273180457,
+    'roc_auc': 0.5130343735817637
+            },
+   'regresionLogistica': {'accuracy': 0.9772465480874235,
+    'precision': 0.3058470764617691,
+    'recall': 0.4067796610169492,
+    'roc_auc': 0.696358058441164
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9788172992056487,
+    'precision': 0.3640552995391705,
+    'recall': 0.551345962113659,
+    'roc_auc': 0.7683374607360712
+            },
+   'SVC': {'accuracy': 0.9846515176447709,
+    'precision': 0.47306791569086654,
+    'recall': 0.20139581256231306,
+    'roc_auc': 0.598989322355514
+            },
+   'regresionLogistica': {'accuracy': 0.9788172992056487,
+    'precision': 0.3640552995391705,
+    'recall': 0.551345962113659,
+    'roc_auc': 0.7683374607360712
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9795203973252352,
+    'precision': 0.3871763255240444,
+    'recall': 0.6261216350947159,
+    'roc_auc': 0.8055126734491864
+            },
+   'SVC': {'accuracy': 0.9874190315197391,
+    'precision': 0.7934782608695652,
+    'recall': 0.21834496510468593,
+    'roc_auc': 0.6087396412911802
+            },
+   'regresionLogistica': {'accuracy': 0.9797597498765839,
+    'precision': 0.39103362391033625,
+    'recall': 0.6261216350947159,
+    'roc_auc': 0.8056341727505656
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9869253668825826,
+    'precision': 0.5745664739884393,
+    'recall': 0.4955134596211366,
+    'roc_auc': 0.7449622458788508
+            },
+   'SVC': {'accuracy': 0.9865513785211004,
+    'precision': 0.8333333333333334,
+    'recall': 0.1296111665004985,
+    'roc_auc': 0.5646081468855083
+            },
+   'regresionLogistica': {'accuracy': 0.986895447813664,
+    'precision': 0.5744431418522861,
+    'recall': 0.4885343968095713,
+    'roc_auc': 0.7415106830047491
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9787574610678116,
+    'precision': 0.3461254612546125,
+    'recall': 0.4675972083748754,
+    'roc_auc': 0.7270705803735746
+            },
+   'SVC': {'accuracy': 0.9849207892650381,
+    'precision': 0.4603174603174603,
+    'recall': 0.028913260219341975,
+    'roc_auc': 0.5141984440942406
+            },
+   'regresionLogistica': {'accuracy': 0.9787574610678116,
+    'precision': 0.3461254612546125,
+    'recall': 0.4675972083748754,
+    'roc_auc': 0.7270705803735746
+            }
+        }
+    },
+ 'Universidad de Los Andes': {'AdamicAdar': {'Bagging': {'accuracy': 0.9345824071133694,
+    'precision': 0.5576208178438662,
+    'recall': 0.6329113924050633,
+    'roc_auc': 0.7960230038948394
+            },
+   'SVC': {'accuracy': 0.9368053350269927,
+    'precision': 0.8518518518518519,
+    'recall': 0.1940928270042194,
+    'roc_auc': 0.5956727871284834
+            },
+   'regresionLogistica': {'accuracy': 0.9345824071133694,
+    'precision': 0.5576208178438662,
+    'recall': 0.6329113924050633,
+    'roc_auc': 0.7960230038948394
+            }
+        },
+  'AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9536360749444268,
+    'precision': 0.7757575757575758,
+    'recall': 0.540084388185654,
+    'roc_auc': 0.7636891721148051
+            },
+   'SVC': {'accuracy': 0.9301365512861226,
+    'precision': 0.8148148148148148,
+    'recall': 0.09282700421940929,
+    'roc_auc': 0.5455549856261881
+            },
+   'regresionLogistica': {'accuracy': 0.9536360749444268,
+    'precision': 0.7757575757575758,
+    'recall': 0.540084388185654,
+    'roc_auc': 0.7636891721148051
+            }
+        },
+  'CommonKeywords': {'Bagging': {'accuracy': 0.7840584312480152,
+    'precision': 0.14100486223662884,
+    'recall': 0.3670886075949367,
+    'roc_auc': 0.5925415565447211
+            },
+   'SVC': {'accuracy': 0.9244204509368054,
+    'precision': 0.42857142857142855,
+    'recall': 0.012658227848101266,
+    'roc_auc': 0.5056423007372375
+            },
+   'regresionLogistica': {'accuracy': 0.7840584312480152,
+    'precision': 0.14100486223662884,
+    'recall': 0.3670886075949367,
+    'roc_auc': 0.5925415565447211
+            }
+        },
+  'CommonNeighbors': {'Bagging': {'accuracy': 0.9345824071133694,
+    'precision': 0.5576208178438662,
+    'recall': 0.6329113924050633,
+    'roc_auc': 0.7960230038948394
+            },
+   'SVC': {'accuracy': 0.9241028898062877,
+    'precision': 0.46153846153846156,
+    'recall': 0.05063291139240506,
+    'roc_auc': 0.5229126095423564
+            },
+   'regresionLogistica': {'accuracy': 0.9345824071133694,
+    'precision': 0.5576208178438662,
+    'recall': 0.6329113924050633,
+    'roc_auc': 0.7960230038948394
+            }
+        },
+  'CommonNeighbors-AdamicAdar': {'Bagging': {'accuracy': 0.9345824071133694,
+    'precision': 0.5576208178438662,
+    'recall': 0.6329113924050633,
+    'roc_auc': 0.7960230038948394
+            },
+   'SVC': {'accuracy': 0.9368053350269927,
+    'precision': 0.8518518518518519,
+    'recall': 0.1940928270042194,
+    'roc_auc': 0.5956727871284834
+            },
+   'regresionLogistica': {'accuracy': 0.9345824071133694,
+    'precision': 0.5576208178438662,
+    'recall': 0.6329113924050633,
+    'roc_auc': 0.7960230038948394
+            }
+        },
+  'CommonNeighbors-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9536360749444268,
+    'precision': 0.7757575757575758,
+    'recall': 0.540084388185654,
+    'roc_auc': 0.7636891721148051
+            },
+   'SVC': {'accuracy': 0.9301365512861226,
+    'precision': 0.8148148148148148,
+    'recall': 0.09282700421940929,
+    'roc_auc': 0.5455549856261881
+            },
+   'regresionLogistica': {'accuracy': 0.9536360749444268,
+    'precision': 0.7757575757575758,
+    'recall': 0.540084388185654,
+    'roc_auc': 0.7636891721148051
+            }
+        },
+  'CommonNeighbors-CommonKeywords': {'Bagging': {'accuracy': 0.9412511908542395,
+    'precision': 0.7241379310344828,
+    'recall': 0.35443037974683544,
+    'roc_auc': 0.6717206843789123
+            },
+   'SVC': {'accuracy': 0.9237853286757701,
+    'precision': 0.45161290322580644,
+    'recall': 0.05907172995780591,
+    'roc_auc': 0.5266169089349468
+            },
+   'regresionLogistica': {'accuracy': 0.934899968243887,
+    'precision': 0.5588235294117647,
+    'recall': 0.6413502109704642,
+    'roc_auc': 0.8000707098808366
+            }
+        },
+  'CommonNeighbors-JaccardCoeff': {'Bagging': {'accuracy': 0.9190219117180057,
+    'precision': 0.453125,
+    'recall': 0.3670886075949367,
+    'roc_auc': 0.6655154576436223
+            },
+   'SVC': {'accuracy': 0.9241028898062877,
+    'precision': 0.46153846153846156,
+    'recall': 0.05063291139240506,
+    'roc_auc': 0.5229126095423564
+            },
+   'regresionLogistica': {'accuracy': 0.9190219117180057,
+    'precision': 0.453125,
+    'recall': 0.3670886075949367,
+    'roc_auc': 0.6655154576436223
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9288663067640521,
+    'precision': 0.5288888888888889,
+    'recall': 0.5021097046413502,
+    'roc_auc': 0.7328543028701255
+            },
+   'SVC': {'accuracy': 0.9355350905049222,
+    'precision': 0.8695652173913043,
+    'recall': 0.16877637130801687,
+    'roc_auc': 0.5833579658737886
+            },
+   'regresionLogistica': {'accuracy': 0.9295014290250874,
+    'precision': 0.5330396475770925,
+    'recall': 0.510548523206751,
+    'roc_auc': 0.737073712152826
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.9434741187678628,
+    'precision': 0.7610619469026548,
+    'recall': 0.3628691983122363,
+    'roc_auc': 0.6767986101451291
+            },
+   'SVC': {'accuracy': 0.9304541124166402,
+    'precision': 0.8214285714285714,
+    'recall': 0.0970464135021097,
+    'roc_auc': 0.5476646902675383
+            },
+   'regresionLogistica': {'accuracy': 0.9431565576373452,
+    'precision': 0.7543859649122807,
+    'recall': 0.3628691983122363,
+    'roc_auc': 0.6766269068484259
+            }
+        },
+  'CommonNeighbors-JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9320419180692283,
+    'precision': 0.6017699115044248,
+    'recall': 0.2869198312236287,
+    'roc_auc': 0.6357332672601659
+            },
+   'SVC': {'accuracy': 0.9256906954588758,
+    'precision': 0.56,
+    'recall': 0.05907172995780591,
+    'roc_auc': 0.5276471287151667
+            },
+   'regresionLogistica': {'accuracy': 0.9288663067640521,
+    'precision': 0.5503875968992248,
+    'recall': 0.29957805907172996,
+    'roc_auc': 0.6398302383270739
+            }
+        },
+  'JaccardCoeff': {'Bagging': {'accuracy': 0.9275960622419815,
+    'precision': 0.51931330472103,
+    'recall': 0.510548523206751,
+    'roc_auc': 0.7360434923726064
+            },
+   'SVC': {'accuracy': 0.9291838678945697,
+    'precision': 0.5573770491803278,
+    'recall': 0.2869198312236287,
+    'roc_auc': 0.6341879375898363
+            },
+   'regresionLogistica': {'accuracy': 0.9279136233724992,
+    'precision': 0.5213675213675214,
+    'recall': 0.5147679324894515,
+    'roc_auc': 0.7381531970139564
+            }
+        },
+  'JaccardCoeff-AdamicAdar': {'Bagging': {'accuracy': 0.9342648459828516,
+    'precision': 0.5675675675675675,
+    'recall': 0.5316455696202531,
+    'roc_auc': 0.7493392683266101
+            },
+   'SVC': {'accuracy': 0.9383931406795808,
+    'precision': 0.9056603773584906,
+    'recall': 0.20253164556962025,
+    'roc_auc': 0.6004073063012936
+            },
+   'regresionLogistica': {'accuracy': 0.9329946014607812,
+    'precision': 0.5570175438596491,
+    'recall': 0.5358649789029536,
+    'roc_auc': 0.7505904564844438
+            }
+        },
+  'JaccardCoeff-AdamicAdar-CommonKeywords': {'Bagging': {'accuracy': 0.947602413464592,
+    'precision': 0.7857142857142857,
+    'recall': 0.4177215189873418,
+    'roc_auc': 0.704224770482682
+            },
+   'SVC': {'accuracy': 0.9301365512861226,
+    'precision': 0.8148148148148148,
+    'recall': 0.09282700421940929,
+    'roc_auc': 0.5455549856261881
+            },
+   'regresionLogistica': {'accuracy': 0.9479199745951096,
+    'precision': 0.7874015748031497,
+    'recall': 0.4219409282700422,
+    'roc_auc': 0.706334475124032
+            }
+        },
+  'JaccardCoeff-CommonKeywords': {'Bagging': {'accuracy': 0.9368053350269927,
+    'precision': 0.625,
+    'recall': 0.4008438818565401,
+    'roc_auc': 0.6906348530161821
+            },
+   'SVC': {'accuracy': 0.9244204509368054,
+    'precision': 0.42857142857142855,
+    'recall': 0.012658227848101266,
+    'roc_auc': 0.5056423007372375
+            },
+   'regresionLogistica': {'accuracy': 0.9368053350269927,
+    'precision': 0.625,
+    'recall': 0.4008438818565401,
+    'roc_auc': 0.6906348530161821
+            }
+        }
+    }
+}

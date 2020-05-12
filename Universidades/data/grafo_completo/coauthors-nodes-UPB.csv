@@ -1,71 +1,71 @@
-ID;Label;Keywords
-Villazón, A.;Villazón, A.;performance measures,bytecode instrumentation,cache architecture evaluation,Dynamic program analysis,Unit testing,java virtual machine,Open-source projects,Scala,restructuring,integrated environments,Java Virtual Machine,complexity measures,Code repositories,Bytecode instrumentation,Debugging,JIT-unfriendly code,Detecting memory leaks,Recreating crashing conditions,calling context tree,aspect weaving,Task granularity,Dynamic metrics,GitHub,Java,Aspect weaving,aspect-oriented programming,concurrency,Promises,multicores,cache organizations,embedded Java processors,Runtime verification,reengineering,Node.js,Software-repository mining,profiling,Object-oriented programming,reverse engineering,Profiling,Aspect-oriented programming
-Sun, H.;Sun, H.;Bytecode retargeting and instrumentation,Android,Dynamic analysis,JIT-unfriendly code,Dalvik Virtual Machine,Promises,Node.js,Dynamic program analysis,Task granularity,GitHub,Java,Java Virtual Machine,Scala,Code repositories
-Rosà, A.;Rosà, A.;JIT-unfriendly code,Promises,Node.js,Dynamic program analysis,Task granularity,GitHub,Java,Scala,Code repositories
-Oporto, S.;Oporto, S.;JIT-unfriendly code,Promises,Node.js,Dynamic program analysis,Task granularity,GitHub,Java,Scala,Code repositories
-Binder, W.;Binder, W.;Bytecode retargeting and instrumentation,performance measures,bytecode instrumentation,cache architecture evaluation,Dynamic program analysis,Unit testing,java virtual machine,Open-source projects,Scala,restructuring,integrated environments,Java Virtual Machine,complexity measures,Code repositories,Bytecode instrumentation,Debugging,JIT-unfriendly code,Detecting memory leaks,Recreating crashing conditions,calling context tree,aspect weaving,Task granularity,Dynamic metrics,GitHub,Java,Aspect weaving,aspect-oriented programming,Calling Context Tree (CCT),JVM,Calling context profiles,concurrency,Android,Visualization,Promises,Calling Context Ring Charts (CCRCs),multicores,cache organizations,embedded Java processors,Runtime verification,Dynamic analysis,reengineering,Dalvik Virtual Machine,Node.js,Software-repository mining,profiling,Object-oriented programming,reverse engineering,Profiling,Aspect-oriented programming
-Li, C.;Li, C.;Wavelet packets,fuzzy rules,Fuzzy clustering,fault diagnosis,Observer-biased clustering,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Fault detection,Genetic algorithms,Fault diagnosis,Gearbox,Bearing,Wavelets packed transform,Random forest,Feature selection
-De Oliveira, J.V.;De Oliveira, J.V.;fuzzy rules,fault diagnosis,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Bearing
-Cerrada, M.;Cerrada, M.;Wavelet packets,fuzzy rules,Fuzzy clustering,fault diagnosis,Observer-biased clustering,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Fault detection,Genetic algorithms,Fault diagnosis,Gearbox,Bearing,Wavelets packed transform,Random forest,Feature selection
-Sanchez, R.V.;Sanchez, R.V.;fuzzy rules,fault diagnosis,fuzzy clustering,fuzzy entropy,fault detection,fault prognosis,fault classification,Bearing
-Zurita, G.;Zurita, G.;Microcontroller,Fourier transform,Random forest,Condition based maintenance (CBM),fuzzy entropy,fault prognosis,Software,Fault detection,Firmware,Wavelet packets,fuzzy rules,fuzzy clustering,Genetic algorithms,Gearbox,Data acquisition,Bearing,Fuzzy clustering,Observer-biased clustering,Machine diagnosis,Welch's method,Feature selection,Vibration-based condition monitoring (VBCM),fault diagnosis,fault detection,fault classification,Fault diagnosis,Wavelets packed transform,Vibration analysis
-Villarroel, A.;Villarroel, A.;Microcontroller,Fourier transform,Vibration-based condition monitoring (VBCM),Condition based maintenance (CBM),Machine diagnosis,Software,Welch's method,Firmware,Data acquisition,Vibration analysis
-Velarde, R.;Velarde, R.;Microcontroller,Fourier transform,Vibration-based condition monitoring (VBCM),Condition based maintenance (CBM),Machine diagnosis,Software,Welch's method,Firmware,Data acquisition,Vibration analysis
-Pimienta-Del-Valle, D.;Pimienta-Del-Valle, D.;fade duration,inter-fade duration,rainfall rate,Q-band,variability,satellite propagation,excess attenuation,Ka-band
-Garcia-Del-Pino, P.;Garcia-Del-Pino, P.;fade duration,inter-fade duration,rainfall rate,Q-band,variability,satellite propagation,excess attenuation,Ka-band
-Riera, J.M.;Riera, J.M.;fade duration,inter-fade duration,Electromagnetic wave propagation,rainfall rate,Gases attenuation,Q-band,variability,Water vapor retrieval,satellite propagation,excess attenuation,Ka-band
-Siles, G.A.;Siles, G.A.;Gaseous attenuation,Water vapor retrieval,IGRA,rainfall rate,High Altitude,Satellite communications,Gases attenuation,Q-band,variability,Ka-band,fade duration,inter-fade duration,Radiosoundings,Rain height,Electromagnetic wave propagation,0°C Isotherm,excess attenuation,Atmospheric propagation,Rain Attenuation,satellite propagation
-Heredia, M.;Heredia, M.;Atmospheric propagation,Radiosoundings,Satellite communications,Gaseous attenuation
-Vilela, M.;Vilela, M.;IGRA,Radiosoundings,Gaseous attenuation,High Altitude,Satellite communications,Atmospheric propagation
-Benarroch, A.;Benarroch, A.;Rain height,Rain Attenuation,0°C Isotherm
-Manuel Riera, J.;Manuel Riera, J.;Rain height,Rain Attenuation,0°C Isotherm
-Luini, L.;Luini, L.;Gases attenuation,Water vapor retrieval,Electromagnetic wave propagation
-Riva, C.;Riva, C.;Gases attenuation,Water vapor retrieval,Electromagnetic wave propagation
-Quibus, L.;Quibus, L.;Gases attenuation,Water vapor retrieval,Electromagnetic wave propagation
-Javed, O.;Javed, O.;Runtime verification,Software-repository mining,Dynamic program analysis,Unit testing,Open-source projects
-Gonzalez-Garcia, J.;Gonzalez-Garcia, J.;Sovereign risk premium,Country default risk,Public accounts transparency,Fiscal decentralisation,Spanish sovereign debt crisis,Regional fiscal discipline,Regional centrifugal economic and political forces,Regional public debt,National centripetal economic and political forces,CRAs ratings
-Sotelo-Gonzalez, J.;Sotelo-Gonzalez, J.;Sovereign risk premium,Country default risk,Public accounts transparency,Fiscal decentralisation,Spanish sovereign debt crisis,Regional fiscal discipline,Regional centrifugal economic and political forces,Regional public debt,National centripetal economic and political forces,CRAs ratings
-Zegarra-Saldaña, P.;Zegarra-Saldaña, P.;Sovereign risk premium,Country default risk,Public accounts transparency,Fiscal decentralisation,Spanish sovereign debt crisis,Regional fiscal discipline,Regional centrifugal economic and political forces,Regional public debt,National centripetal economic and political forces,CRAs ratings
-Valente De Oliveira, J.;Valente De Oliveira, J.;Fuzzy clustering,Observer-biased clustering,Fault detection,Fault diagnosis,Bearing,Wavelets packed transform
-Sanchez, V.;Sanchez, V.;Fuzzy clustering,Observer-biased clustering,Fault detection,Fault diagnosis,Bearing,Wavelets packed transform
-Cabrera, D.;Cabrera, D.;Wavelet packets,Genetic algorithms,Fault diagnosis,Gearbox,Feature selection,Random forest
-Artés, M.;Artés, M.;Wavelet packets,Genetic algorithms,Fault diagnosis,Gearbox,Feature selection,Random forest
-Zheng, Y.;Zheng, Y.;Bytecode retargeting and instrumentation,Bytecode instrumentation,Android,Dynamic analysis,Dalvik Virtual Machine,Dynamic program analysis,JVM,domain-specific languages,partial evaluation,aspect-oriented programming,Java Virtual Machine,Aspect-oriented programming
-Bulej, L.;Bulej, L.;Bytecode retargeting and instrumentation,Android,Dynamic analysis,Dalvik Virtual Machine,Java Virtual Machine
-Tůma, P.;Tůma, P.;Bytecode retargeting and instrumentation,Android,Dynamic analysis,Dalvik Virtual Machine,Java Virtual Machine
-Marechal, A.;Marechal, A.;Modularity,Composition Mechanism,High-Level Petri nets,System design and verification,LLAMAS,Standardization
-Buchs, D.;Buchs, D.;Modularity,Composition Mechanism,High-Level Petri nets,System design and verification,LLAMAS,Standardization
-Ormachea, O.;Ormachea, O.;LIBS,Spectral variation,Mueller matrix,Pulsed lasers,Open source hardware,Optical characterization,Spectroscopy,Biological tissue,Contrast increase,Spectral effects,Photovoltaic energy yields,Polarization characterization,Spectral radiation
-Urquidi, O.;Urquidi, O.;LIBS,Spectroscopy,Pulsed lasers
-Casazola, D.;Casazola, D.;LIBS,Spectroscopy,Pulsed lasers
-Abrahamse, A.;Abrahamse, A.;Spectral variation,Open source hardware,Spectral effects,Photovoltaic energy yields,Spectral radiation
-Tolavi, N.;Tolavi, N.;Spectral variation,Open source hardware,Spectral effects,Photovoltaic energy yields,Spectral radiation
-Pearce, J.M.;Pearce, J.M.;Spectral variation,Open source hardware,Spectral effects,Photovoltaic energy yields,Spectral radiation
-Andrews, R.;Andrews, R.;Spectral variation,Open source hardware,Spectral effects,Photovoltaic energy yields,Spectral radiation
-Ansaloni, D.;Ansaloni, D.;bytecode instrumentation,java virtual machine,Java Virtual Machine,Bytecode instrumentation,Debugging,Detecting memory leaks,Recreating crashing conditions,calling context tree,aspect weaving,Dynamic metrics,Aspect weaving,aspect-oriented programming,Calling Context Tree (CCT),Calling context profiles,concurrency,Visualization,Calling Context Ring Charts (CCRCs),multicores,domain-specific languages,partial evaluation,profiling,Profiling,Aspect-oriented programming
-Marek, L.;Marek, L.;Bytecode instrumentation,Dynamic program analysis,JVM,domain-specific languages,partial evaluation,aspect-oriented programming,Java Virtual Machine,Aspect-oriented programming
-Qi, Z.;Qi, Z.;Bytecode instrumentation,Dynamic program analysis,JVM,domain-specific languages,partial evaluation,aspect-oriented programming,Java Virtual Machine,Aspect-oriented programming
-Mezini, M.;Mezini, M.;Bytecode instrumentation,domain-specific languages,partial evaluation,Dynamic metrics,Java,aspect-oriented programming,Java Virtual Machine
-Villazon, A.;Villazon, A.;Calling context profiles,Bytecode instrumentation,Visualization,Dynamic program analysis,Calling Context Ring Charts (CCRCs),Aspect-oriented programming,Dynamic metrics,Calling Context Tree (CCT),JVM
-Röthlisberger, D.;Röthlisberger, D.;performance measures,reengineering,reverse engineering,Object-oriented programming,restructuring,integrated environments,complexity measures
-Härry, M.;Härry, M.;performance measures,reengineering,reverse engineering,Object-oriented programming,restructuring,integrated environments,complexity measures
-Nierstrasz, O.;Nierstrasz, O.;performance measures,reengineering,reverse engineering,Object-oriented programming,restructuring,integrated environments,complexity measures
-Sarimbekov, A.;Sarimbekov, A.;Dynamic metrics,Java
-Sewe, A.;Sewe, A.;Dynamic metrics,Java
-Moret, P.;Moret, P.;bytecode instrumentation,java virtual machine,Java Virtual Machine,Bytecode instrumentation,Debugging,Detecting memory leaks,Recreating crashing conditions,calling context tree,aspect weaving,Dynamic metrics,aspect-oriented programming,Calling Context Tree (CCT),Aspect weaving,Calling context profiles,concurrency,Visualization,Calling Context Ring Charts (CCRCs),multicores,profiling,Profiling,Aspect-oriented programming
-Schoeberl, M.;Schoeberl, M.;cache organizations,cache architecture evaluation,embedded Java processors
-Heydarnoori, A.;Heydarnoori, A.;Calling context profiles,Visualization,Calling Context Ring Charts (CCRCs),Dynamic metrics,Calling Context Tree (CCT)
-Romanov, O.G.;Romanov, O.G.;Mueller matrix,Dynamic hologram,Multiwave mixing,Resonant medium,Infra-red image,Optical characterization,Biological tissue,Optical vortex,Contrast increase,Polarization characterization
-Ormachea, O.A.;Ormachea, O.A.;Dynamic hologram,Multiwave mixing,Resonant medium,Infra-red image,Optical vortex
-Tolstik, A.L.;Tolstik, A.L.;Mueller matrix,Dynamic hologram,Multiwave mixing,Resonant medium,Infra-red image,Optical characterization,Biological tissue,Optical vortex,Contrast increase,Polarization characterization
-Fanjul-Vélez, F.;Fanjul-Vélez, F.;Mueller matrix,Optical characterization,Contrast increase,Biological tissue,Polarization characterization
-Arce-Diego, J.L.;Arce-Diego, J.L.;Mueller matrix,Optical characterization,Contrast increase,Biological tissue,Polarization characterization
-Perez, R.;Perez, R.;Wire-EDM discharge,Electroerosion,Energy balance
-Rojas, H.;Rojas, H.;Wire-EDM discharge,Electroerosion,Energy balance
-Walder, G.;Walder, G.;Wire-EDM discharge,Electroerosion,Energy balance
-Flükiger, R.;Flükiger, R.;Wire-EDM discharge,Electroerosion,Energy balance
-Rieger, M.M.;Rieger, M.M.;
-Steinbeck, L.;Steinbeck, L.;
-White, I.D.;White, I.D.;
-Rojas, H.N.;Rojas, H.N.;
-Godby, R.W.;Godby, R.W.;
+ID;Label;KeywordsB2018;KeywordsA2018
+Villazón, A.;Villazón, A.;;Scala,Task granularity,Node.js,Promises,Software-repository mining,Open-source projects,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Runtime verification,Unit testing,Java
+Sun, H.;Sun, H.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;Scala,Task granularity,Node.js,Promises,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Java
+Rosà, A.;Rosà, A.;;Scala,Task granularity,Node.js,Promises,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Java
+Oporto, S.;Oporto, S.;;Scala,Task granularity,Node.js,Promises,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Java
+Binder, W.;Binder, W.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;Scala,Task granularity,Node.js,Promises,Software-repository mining,Open-source projects,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Runtime verification,Unit testing,Java
+Li, C.;Li, C.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+De Oliveira, J.V.;De Oliveira, J.V.;;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+Cerrada, M.;Cerrada, M.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+Sanchez, R.V.;Sanchez, R.V.;;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
+Zurita, G.;Zurita, G.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;Data acquisition,fault detection,fuzzy clustering,fault classification,fuzzy entropy,Condition based maintenance (CBM),fault diagnosis,Software,Firmware,fuzzy rules,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,fault prognosis,Fourier transform,Bearing,Microcontroller
+Villarroel, A.;Villarroel, A.;;Data acquisition,Condition based maintenance (CBM),Software,Firmware,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,Fourier transform,Microcontroller
+Velarde, R.;Velarde, R.;;Data acquisition,Condition based maintenance (CBM),Software,Firmware,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,Fourier transform,Microcontroller
+Pimienta-Del-Valle, D.;Pimienta-Del-Valle, D.;;Q-band,inter-fade duration,rainfall rate,variability,fade duration,Ka-band,excess attenuation,satellite propagation
+Garcia-Del-Pino, P.;Garcia-Del-Pino, P.;;Q-band,inter-fade duration,rainfall rate,variability,fade duration,Ka-band,excess attenuation,satellite propagation
+Riera, J.M.;Riera, J.M.;;Q-band,inter-fade duration,Electromagnetic wave propagation,rainfall rate,Water vapor retrieval,variability,fade duration,Ka-band,Gases attenuation,excess attenuation,satellite propagation
+Siles, G.A.;Siles, G.A.;;Rain Attenuation,0°C Isotherm,Water vapor retrieval,variability,fade duration,satellite propagation,Satellite communications,IGRA,High Altitude,inter-fade duration,rainfall rate,Gases attenuation,Radiosoundings,excess attenuation,Rain height,Atmospheric propagation,Q-band,Electromagnetic wave propagation,Gaseous attenuation,Ka-band
+Heredia, M.;Heredia, M.;;Gaseous attenuation,Atmospheric propagation,Satellite communications,Radiosoundings
+Vilela, M.;Vilela, M.;;Atmospheric propagation,Satellite communications,High Altitude,Radiosoundings,IGRA,Gaseous attenuation
+Benarroch, A.;Benarroch, A.;;Rain Attenuation,0°C Isotherm,Rain height
+Manuel Riera, J.;Manuel Riera, J.;;Rain Attenuation,0°C Isotherm,Rain height
+Luini, L.;Luini, L.;;Water vapor retrieval,Gases attenuation,Electromagnetic wave propagation
+Riva, C.;Riva, C.;;Water vapor retrieval,Gases attenuation,Electromagnetic wave propagation
+Quibus, L.;Quibus, L.;;Water vapor retrieval,Gases attenuation,Electromagnetic wave propagation
+Javed, O.;Javed, O.;;Software-repository mining,Dynamic program analysis,Open-source projects,Runtime verification,Unit testing
+Gonzalez-Garcia, J.;Gonzalez-Garcia, J.;;Regional fiscal discipline,Regional centrifugal economic and political forces,Spanish sovereign debt crisis,Sovereign risk premium,Country default risk,Public accounts transparency,Regional public debt,National centripetal economic and political forces,Fiscal decentralisation,CRAs ratings
+Sotelo-Gonzalez, J.;Sotelo-Gonzalez, J.;;Regional fiscal discipline,Regional centrifugal economic and political forces,Spanish sovereign debt crisis,Sovereign risk premium,Country default risk,Public accounts transparency,Regional public debt,National centripetal economic and political forces,Fiscal decentralisation,CRAs ratings
+Zegarra-Saldaña, P.;Zegarra-Saldaña, P.;;Regional fiscal discipline,Regional centrifugal economic and political forces,Spanish sovereign debt crisis,Sovereign risk premium,Country default risk,Public accounts transparency,Regional public debt,National centripetal economic and political forces,Fiscal decentralisation,CRAs ratings
+Valente De Oliveira, J.;Valente De Oliveira, J.;Fault diagnosis,Fault detection,Observer-biased clustering,Wavelets packed transform,Fuzzy clustering,Bearing;
+Sanchez, V.;Sanchez, V.;Fault diagnosis,Fault detection,Observer-biased clustering,Wavelets packed transform,Fuzzy clustering,Bearing;
+Cabrera, D.;Cabrera, D.;Fault diagnosis,Random forest,Genetic algorithms,Wavelet packets,Feature selection,Gearbox;
+Artés, M.;Artés, M.;Fault diagnosis,Random forest,Genetic algorithms,Wavelet packets,Feature selection,Gearbox;
+Zheng, Y.;Zheng, Y.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;
+Bulej, L.;Bulej, L.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;
+Tůma, P.;Tůma, P.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;
+Marechal, A.;Marechal, A.;Composition Mechanism,LLAMAS,System design and verification,Standardization,Modularity,High-Level Petri nets;
+Buchs, D.;Buchs, D.;Composition Mechanism,LLAMAS,System design and verification,Standardization,Modularity,High-Level Petri nets;
+Ormachea, O.;Ormachea, O.;;
+Urquidi, O.;Urquidi, O.;;
+Casazola, D.;Casazola, D.;;
+Abrahamse, A.;Abrahamse, A.;;
+Tolavi, N.;Tolavi, N.;;
+Pearce, J.M.;Pearce, J.M.;;
+Andrews, R.;Andrews, R.;;
+Ansaloni, D.;Ansaloni, D.;;
+Marek, L.;Marek, L.;;
+Qi, Z.;Qi, Z.;;
+Mezini, M.;Mezini, M.;;
+Villazon, A.;Villazon, A.;;
+Röthlisberger, D.;Röthlisberger, D.;;
+Härry, M.;Härry, M.;;
+Nierstrasz, O.;Nierstrasz, O.;;
+Sarimbekov, A.;Sarimbekov, A.;;
+Sewe, A.;Sewe, A.;;
+Moret, P.;Moret, P.;;
+Schoeberl, M.;Schoeberl, M.;;
+Heydarnoori, A.;Heydarnoori, A.;;
+Romanov, O.G.;Romanov, O.G.;;
+Ormachea, O.A.;Ormachea, O.A.;;
+Tolstik, A.L.;Tolstik, A.L.;;
+Fanjul-Vélez, F.;Fanjul-Vélez, F.;;
+Arce-Diego, J.L.;Arce-Diego, J.L.;;
+Perez, R.;Perez, R.;;
+Rojas, H.;Rojas, H.;;
+Walder, G.;Walder, G.;;
+Flükiger, R.;Flükiger, R.;;
+Rieger, M.M.;Rieger, M.M.;;
+Steinbeck, L.;Steinbeck, L.;;
+White, I.D.;White, I.D.;;
+Rojas, H.N.;Rojas, H.N.;;
+Godby, R.W.;Godby, R.W.;;

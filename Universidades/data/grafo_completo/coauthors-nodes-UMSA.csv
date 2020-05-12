@@ -1,48 +1,48 @@
-ID;Label;Keywords
-Dolz, F.C.;Dolz, F.C.;
-Rodriguez, E.A.I.;Rodriguez, E.A.I.;MER,CS,USRP,I/Q impairments,AI,QE,ISDB-T,gr-isdbt,SDR
-Alarcón, A.G.;Alarcón, A.G.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Germán, A.;Germán, A.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Aleksinkó, A.;Aleksinkó, A.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Scavuzzo, C.M.;Scavuzzo, C.M.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Ferral, A.;Ferral, A.;Chlorophyll-a,Linear regression,LANDSAT8-OLI,Eutrophication,Phytoplankton
-Rodríguez, E.A.I.;Rodríguez, E.A.I.;ISDB-Tb,USRP,Spectrum Analyzer,Carriers,SDR,SNR,CNR
-Morales, I.;Morales, I.;Massless charged particle,Lorentz symmetry,Spinning particle,Relativistic particle
-Neves, B.;Neves, B.;Massless charged particle,Lorentz symmetry,Spinning particle,Relativistic particle
-Oporto, Z.;Oporto, Z.;Massless charged particle,Lorentz symmetry,Spinning particle,Relativistic particle
-Piguet, O.;Piguet, O.;Massless charged particle,Lorentz symmetry,Spinning particle,Relativistic particle
-Ramírez-Ávila, G.M.;Ramírez-Ávila, G.M.;
-Kurths, J.;Kurths, J.;
-Deneubourg, J.L.;Deneubourg, J.L.;
-Mosquera, X.D.;Mosquera, X.D.;
-Pacheco, D.D.;Pacheco, D.D.;
-Ruiz-Verd, A.;Ruiz-Verd, A.;Water Quality,Chlorophyll-a,Landsat-8,MODIS,Lake Titicaca
-Jiménez, J.C.;Jiménez, J.C.;Water Quality,Chlorophyll-a,Landsat-8,MODIS,Lake Titicaca
-Lazzaro, X.;Lazzaro, X.;Water Quality,Chlorophyll-a,Landsat-8,MODIS,Lake Titicaca
-Sobrino, J.A.;Sobrino, J.A.;Water Quality,Chlorophyll-a,Landsat-8,MODIS,Lake Titicaca
-Moreno, J.;Moreno, J.;Water Quality,Chlorophyll-a,Landsat-8,MODIS,Lake Titicaca
-Satge, F.;Satge, F.;SRTM,Accuracy,South America,Andean Plateau,Digital elevation model
-Denezine, M.;Denezine, M.;SRTM,Accuracy,South America,Andean Plateau,Digital elevation model
-Pillco, R.;Pillco, R.;SRTM,Accuracy,South America,Andean Plateau,Digital elevation model
-Seyler, F.;Seyler, F.;SRTM,Accuracy,South America,Andean Plateau,Digital elevation model
-Bonnet, M.-P.;Bonnet, M.-P.;SRTM,Accuracy,South America,Andean Plateau,Digital elevation model
-Cuarita, L.G.;Cuarita, L.G.;
-Tovar, E.;Tovar, E.;
-Chalco-Cano, Y.;Chalco-Cano, Y.;Interval-valued functions,Ostrowski type inequalities,gH-Differentiability and integrability of interval-valued functions
-Lodwick, W.A.;Lodwick, W.A.;Interval-valued functions,Ostrowski type inequalities,gH-Differentiability and integrability of interval-valued functions
-Condori-Equice, W.;Condori-Equice, W.;Interval-valued functions,Ostrowski type inequalities,gH-Differentiability and integrability of interval-valued functions
-Guerrero-Rascado, J.L.;Guerrero-Rascado, J.L.;Instrumentation,Technical specifications,Lidar,Networking activities,LALINET,Harmonization
-Landulfo, E.;Landulfo, E.;Instrumentation,Technical specifications,Lidar,Networking activities,LALINET,Harmonization
-Antuña, J.C.;Antuña, J.C.;Instrumentation,Technical specifications,Lidar,Networking activities,LALINET,Harmonization
-Sánchez, M.F.;Sánchez, M.F.;Instrumentation,Technical specifications,Lidar,Networking activities,LALINET,Harmonization
-Silva, A.;Silva, A.;Instrumentation,Technical specifications,Lidar,Networking activities,LALINET,Harmonization
-Zambrana, R.;Zambrana, R.;
-Dolz Salvador, F.C.;Dolz Salvador, F.C.;
-Tovar Caro, E.;Tovar Caro, E.;
-Salvador, F.C.D.;Salvador, F.C.D.;Educative software engineering,Techniques of requirements engineering,Comparative method
-Luque, J.M.;Luque, J.M.;Educative software engineering,Techniques of requirements engineering,Comparative method
-Caro, E.T.;Caro, E.T.;Educative software engineering,Techniques of requirements engineering,Comparative method
-Aguilar, R.;Aguilar, R.;
-Alonso, L.;Alonso, L.;
-López, V.;López, V.;
-Moreno, M.N.;Moreno, M.N.;
+ID;Label;KeywordsB2018;KeywordsA2018
+Dolz, F.C.;Dolz, F.C.;;
+Rodriguez, E.A.I.;Rodriguez, E.A.I.;;USRP,ISDB-T,AI,MER,I/Q impairments,gr-isdbt,CS,SDR,QE
+Alarcón, A.G.;Alarcón, A.G.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Germán, A.;Germán, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Aleksinkó, A.;Aleksinkó, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Scavuzzo, C.M.;Scavuzzo, C.M.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Ferral, A.;Ferral, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
+Rodríguez, E.A.I.;Rodríguez, E.A.I.;;USRP,Spectrum Analyzer,SNR,Carriers,ISDB-Tb,CNR,SDR
+Morales, I.;Morales, I.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
+Neves, B.;Neves, B.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
+Oporto, Z.;Oporto, Z.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
+Piguet, O.;Piguet, O.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
+Ramírez-Ávila, G.M.;Ramírez-Ávila, G.M.;;
+Kurths, J.;Kurths, J.;;
+Deneubourg, J.L.;Deneubourg, J.L.;;
+Mosquera, X.D.;Mosquera, X.D.;;
+Pacheco, D.D.;Pacheco, D.D.;;
+Ruiz-Verd, A.;Ruiz-Verd, A.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
+Jiménez, J.C.;Jiménez, J.C.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
+Lazzaro, X.;Lazzaro, X.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
+Sobrino, J.A.;Sobrino, J.A.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
+Moreno, J.;Moreno, J.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
+Satge, F.;Satge, F.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
+Denezine, M.;Denezine, M.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
+Pillco, R.;Pillco, R.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
+Seyler, F.;Seyler, F.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
+Bonnet, M.-P.;Bonnet, M.-P.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
+Cuarita, L.G.;Cuarita, L.G.;;
+Tovar, E.;Tovar, E.;;
+Chalco-Cano, Y.;Chalco-Cano, Y.;gH-Differentiability and integrability of interval-valued functions,Ostrowski type inequalities,Interval-valued functions;
+Lodwick, W.A.;Lodwick, W.A.;gH-Differentiability and integrability of interval-valued functions,Ostrowski type inequalities,Interval-valued functions;
+Condori-Equice, W.;Condori-Equice, W.;gH-Differentiability and integrability of interval-valued functions,Ostrowski type inequalities,Interval-valued functions;
+Guerrero-Rascado, J.L.;Guerrero-Rascado, J.L.;;
+Landulfo, E.;Landulfo, E.;;
+Antuña, J.C.;Antuña, J.C.;;
+Sánchez, M.F.;Sánchez, M.F.;;
+Silva, A.;Silva, A.;;
+Zambrana, R.;Zambrana, R.;;
+Dolz Salvador, F.C.;Dolz Salvador, F.C.;;
+Tovar Caro, E.;Tovar Caro, E.;;
+Salvador, F.C.D.;Salvador, F.C.D.;;
+Luque, J.M.;Luque, J.M.;;
+Caro, E.T.;Caro, E.T.;;
+Aguilar, R.;Aguilar, R.;;
+Alonso, L.;Alonso, L.;;
+López, V.;López, V.;;
+Moreno, M.N.;Moreno, M.N.;;
