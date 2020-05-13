@@ -24,22 +24,32 @@ universidades = np.unique(df["Universidad"])
 metricas = np.unique(df["Metricas"])
 modelos = ["Bagging","SVC"]
 for metrica in metricas:
-    for modelo in modelos:
-        with open("tablas/"+modelo+"_"+metrica+".csv","w") as f:
-            f.write("Universidad;Accuracy;Precision;Reacall;Roc_auc\n")
+        with open("tablas/"+metrica+".csv","w") as f:
+            f.write("Universidad;Accuracy-Bagging;Accuracy-SVM;Precision-Bagging;Precision-SVM;Recall-Bagging;Recall-SVM;Roc_auc-Bagging;Roc_auc-SVM\n")
             for universidad in universidades:
-                dataU = df[(df["Metricas"]==metrica) &  (df["model"]==modelo) & (df["Universidad"]==universidad)]
-                dataU.reset_index(inplace=True)
-                acc = str(dataU["Accuracy"][0])
-                pre = str(dataU["Precision"][0])
-                rec = str(dataU["Recall"][0])
-                roc = str(dataU["Roc_auc"][0])
+                dataUBag = df[(df["Metricas"]==metrica) & (df["model"]=="Bagging") & (df["Universidad"]==universidad)]
+                dataUSVM = df[(df["Metricas"]==metrica) & (df["model"]=="SVC") & (df["Universidad"]==universidad)]
+                dataUBag.reset_index(inplace=True)
+                dataUSVM.reset_index(inplace=True)
+
+                accBag = str(dataUBag["Accuracy"][0])
+                accSVM = str(dataUSVM["Accuracy"][0])
+
+                preBag = str(dataUBag["Precision"][0])
+                preSVM = str(dataUSVM["Precision"][0])
+
+                recBag = str(dataUBag["Recall"][0])
+                recSVM = str(dataUSVM["Recall"][0])
+
+                rocBag = str(dataUBag["Roc_auc"][0])
+                rocSVM = str(dataUSVM["Roc_auc"][0])
+
                 f.write(
                     universidad+";"+
-                    acc+";"+
-                    pre+";"+
-                    rec+";"+
-                    roc+"\n"
+                    accBag+";"+accSVM+";"+
+                    preBag+";"+preSVM+";"+
+                    recBag+";"+recSVM+";"+
+                    rocBag+";"+rocSVM+"\n"
                 )
 
 
