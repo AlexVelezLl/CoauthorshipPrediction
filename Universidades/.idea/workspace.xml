@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="743985f2-0961-4609-829e-cbb58609107e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/predictions.py" beforeDir="false" afterPath="$PROJECT_DIR$/predictions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors-AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors-AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors-JaccardCoeff-AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors-JaccardCoeff-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors-JaccardCoeff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_CommonNeighbors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_JaccardCoeff-AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_JaccardCoeff-AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_JaccardCoeff-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/Bagging_JaccardCoeff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors-AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors-AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors-JaccardCoeff-AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors-JaccardCoeff-AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors-JaccardCoeff-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors-JaccardCoeff.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_CommonNeighbors.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_JaccardCoeff-AdamicAdar-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_JaccardCoeff-AdamicAdar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_JaccardCoeff-CommonKeywords.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tablas/SVC_JaccardCoeff.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/predictions.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="35" />
+              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="35" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -238,7 +208,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,10 +232,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Prediction.json" />
     <entry file="file://$PROJECT_DIR$/predictions.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
+      <provider selected="true" editor-type-id="csv-text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/../../project/xd.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -278,17 +248,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/infoGrafo.csv">
-      <provider selected="true" editor-type-id="csv-text-editor" />
       <provider editor-type-id="csv-table-editor">
         <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tablas/Bagging_AdamicAdar.csv">
       <provider selected="true" editor-type-id="csv-text-editor" />
-      <provider editor-type-id="csv-table-editor">
-        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
-      </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tablas/Bagging_AdamicAdar.csv" />
     <entry file="file://$PROJECT_DIR$/GetCoauthors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -312,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/predictions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="35" />
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="35" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
