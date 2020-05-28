@@ -1,27 +1,27 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Lera-Romero, G.;Lera-Romero, G.;;Time-dependent travel times,Integer programming,Traveling salesman,Branch and cut,Profitable tour problem
-Miranda-Bront, J.J.;Miranda-Bront, J.J.;Integer linear programming,Time windows,Branch-and-Cut,Time-dependent TSP;Time-dependent travel times,Integer programming,Traveling salesman,Branch and cut,Profitable tour problem
-Wang, Q.J.;Wang, Q.J.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Mesz, B.;Mesz, B.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Riera, P.;Riera, P.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Guha, A.;Guha, A.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
-Spence, C.;Spence, C.;;Music,Attention,Wine evaluation,Crossmodal correspondences,Temporal dominance of sensations
+Lera-Romero, G.;Lera-Romero, G.;;Traveling salesman,Profitable tour problem,Integer programming,Branch and cut,Time-dependent travel times
+Miranda-Bront, J.J.;Miranda-Bront, J.J.;Integer linear programming,Time-dependent TSP,Branch-and-Cut,Time windows;Traveling salesman,Profitable tour problem,Integer programming,Branch and cut,Time-dependent travel times
+Wang, Q.J.;Wang, Q.J.;;Crossmodal correspondences,Attention,Music,Wine evaluation,Temporal dominance of sensations
+Mesz, B.;Mesz, B.;;Crossmodal correspondences,Attention,Music,Wine evaluation,Temporal dominance of sensations
+Riera, P.;Riera, P.;;Crossmodal correspondences,Attention,Music,Wine evaluation,Temporal dominance of sensations
+Guha, A.;Guha, A.;;Crossmodal correspondences,Attention,Music,Wine evaluation,Temporal dominance of sensations
+Spence, C.;Spence, C.;;Crossmodal correspondences,Attention,Music,Wine evaluation,Temporal dominance of sensations
 Borthagaray, J.P.;Borthagaray, J.P.;;Finite element method,Fractional Laplacian,Eigenvalue problem
 Del Pezzo, L.M.;Del Pezzo, L.M.;;Finite element method,Fractional Laplacian,Eigenvalue problem
 Martínez, S.;Martínez, S.;;Finite element method,Fractional Laplacian,Eigenvalue problem
-Gur, Y.;Gur, Y.;;Competitive facility location,1-median,Nash equilibrium,Voronoi game,Hotelling competition
-Saban, D.;Saban, D.;;Competitive facility location,1-median,Nash equilibrium,Voronoi game,Hotelling competition
-Stier-Moses, N.E.;Stier-Moses, N.E.;Risk-averse wardrop equilibrium,Mean-stdev risk measure,Congestion game,Mean-var risk measure,Revenue management,Stochastic networks,Stochastic selfish routing,Nash equilibrium,E-commerce,Linear ordering;Competitive facility location,1-median,Nash equilibrium,Voronoi game,Hotelling competition
+Gur, Y.;Gur, Y.;;1-median,Competitive facility location,Voronoi game,Nash equilibrium,Hotelling competition
+Saban, D.;Saban, D.;;1-median,Competitive facility location,Voronoi game,Nash equilibrium,Hotelling competition
+Stier-Moses, N.E.;Stier-Moses, N.E.;Revenue management,E-commerce,Congestion game,Stochastic networks,Linear ordering,Mean-stdev risk measure,Risk-averse wardrop equilibrium,Stochastic selfish routing,Nash equilibrium,Mean-var risk measure;1-median,Competitive facility location,Voronoi game,Nash equilibrium,Hotelling competition
 Fernandez Slezak, D.;Fernandez Slezak, D.;;
-Sigman, M.;Sigman, M.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
+Sigman, M.;Sigman, M.;Children problem solving,Stochastic behavior modeling,Monte Carlo Tree Search,Heuristics,N-Puzzles,First graders,Planning;
 Cecchi, G.A.;Cecchi, G.A.;;
-Montero, A.;Montero, A.;Integer linear programming,Time windows,Branch-and-Cut,Time-dependent TSP;
-Méndez-Díaz, I.;Méndez-Díaz, I.;Integer linear programming,Time windows,Branch-and-Cut,Time-dependent TSP;
-Van Ryzin, G.;Van Ryzin, G.;Demand untruncation,EM method,Demand estimation,Choice behavior;
-Vulcano, G.;Vulcano, G.;Demand untruncation,EM method,Demand estimation,Choice behavior;
-L'Ecuyer, P.;L'Ecuyer, P.;E-commerce,Revenue management,Linear ordering;
-Maillé, P.;Maillé, P.;E-commerce,Revenue management,Linear ordering;
-Tuffin, B.;Tuffin, B.;E-commerce,Revenue management,Linear ordering;
+Montero, A.;Montero, A.;Integer linear programming,Time-dependent TSP,Branch-and-Cut,Time windows;
+Méndez-Díaz, I.;Méndez-Díaz, I.;Integer linear programming,Time-dependent TSP,Branch-and-Cut,Time windows;
+Van Ryzin, G.;Van Ryzin, G.;Choice behavior,Demand estimation,Demand untruncation,EM method;
+Vulcano, G.;Vulcano, G.;Choice behavior,Demand estimation,Demand untruncation,EM method;
+L'Ecuyer, P.;L'Ecuyer, P.;Revenue management,Linear ordering,E-commerce;
+Maillé, P.;Maillé, P.;Revenue management,Linear ordering,E-commerce;
+Tuffin, B.;Tuffin, B.;Revenue management,Linear ordering,E-commerce;
 Stier-Moses, N.;Stier-Moses, N.;;
 Amalric, M.;Amalric, M.;;
 Wang, L.;Wang, L.;;
@@ -32,12 +32,12 @@ Mota, N.;Mota, N.;;
 Copelli, M.;Copelli, M.;;
 Cecchi, G.;Cecchi, G.;;
 Slezak, D.F.;Slezak, D.F.;;
-Paz, L.;Paz, L.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
-Goldin, A.P.;Goldin, A.P.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
-Diuk, C.;Diuk, C.;Stochastic behavior modeling,Planning,Children problem solving,N-Puzzles,Heuristics,Monte Carlo Tree Search,First graders;
-Nikolova, E.;Nikolova, E.;Risk-averse wardrop equilibrium,Mean-stdev risk measure,Congestion game,Mean-var risk measure,Stochastic networks,Stochastic selfish routing,Nash equilibrium;
-Merener, N.;Merener, N.;Realized variance,Stratification,Variance reduction techniques,Monte Carlo simulation,Variance swaps;
-Vicchi, L.;Vicchi, L.;Realized variance,Stratification,Variance reduction techniques,Monte Carlo simulation,Variance swaps;
+Paz, L.;Paz, L.;Children problem solving,Stochastic behavior modeling,Monte Carlo Tree Search,Heuristics,N-Puzzles,First graders,Planning;
+Goldin, A.P.;Goldin, A.P.;Children problem solving,Stochastic behavior modeling,Monte Carlo Tree Search,Heuristics,N-Puzzles,First graders,Planning;
+Diuk, C.;Diuk, C.;Children problem solving,Stochastic behavior modeling,Monte Carlo Tree Search,Heuristics,N-Puzzles,First graders,Planning;
+Nikolova, E.;Nikolova, E.;Stochastic networks,Congestion game,Mean-stdev risk measure,Risk-averse wardrop equilibrium,Stochastic selfish routing,Nash equilibrium,Mean-var risk measure;
+Merener, N.;Merener, N.;Variance reduction techniques,Realized variance,Variance swaps,Stratification,Monte Carlo simulation;
+Vicchi, L.;Vicchi, L.;Variance reduction techniques,Realized variance,Variance swaps,Stratification,Monte Carlo simulation;
 Correa, J.R.;Correa, J.R.;;
 Lederman, R.;Lederman, R.;;
 Figueroa, N.;Figueroa, N.;;

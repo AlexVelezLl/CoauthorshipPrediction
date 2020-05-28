@@ -1,40 +1,40 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Villazón, A.;Villazón, A.;;Scala,Task granularity,Node.js,Promises,Software-repository mining,Open-source projects,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Runtime verification,Unit testing,Java
-Sun, H.;Sun, H.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;Scala,Task granularity,Node.js,Promises,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Java
-Rosà, A.;Rosà, A.;;Scala,Task granularity,Node.js,Promises,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Java
-Oporto, S.;Oporto, S.;;Scala,Task granularity,Node.js,Promises,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Java
-Binder, W.;Binder, W.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;Scala,Task granularity,Node.js,Promises,Software-repository mining,Open-source projects,Code repositories,Dynamic program analysis,JIT-unfriendly code,GitHub,Runtime verification,Unit testing,Java
-Li, C.;Li, C.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
-De Oliveira, J.V.;De Oliveira, J.V.;;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
-Cerrada, M.;Cerrada, M.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
-Sanchez, R.V.;Sanchez, R.V.;;fault detection,fuzzy clustering,fault classification,fuzzy entropy,fault diagnosis,fuzzy rules,fault prognosis,Bearing
-Zurita, G.;Zurita, G.;Fault diagnosis,Genetic algorithms,Random forest,Fault detection,Observer-biased clustering,Wavelet packets,Wavelets packed transform,Fuzzy clustering,Feature selection,Bearing,Gearbox;Data acquisition,fault detection,fuzzy clustering,fault classification,fuzzy entropy,Condition based maintenance (CBM),fault diagnosis,Software,Firmware,fuzzy rules,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,fault prognosis,Fourier transform,Bearing,Microcontroller
-Villarroel, A.;Villarroel, A.;;Data acquisition,Condition based maintenance (CBM),Software,Firmware,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,Fourier transform,Microcontroller
-Velarde, R.;Velarde, R.;;Data acquisition,Condition based maintenance (CBM),Software,Firmware,Vibration-based condition monitoring (VBCM),Machine diagnosis,Welch's method,Vibration analysis,Fourier transform,Microcontroller
-Pimienta-Del-Valle, D.;Pimienta-Del-Valle, D.;;Q-band,inter-fade duration,rainfall rate,variability,fade duration,Ka-band,excess attenuation,satellite propagation
-Garcia-Del-Pino, P.;Garcia-Del-Pino, P.;;Q-band,inter-fade duration,rainfall rate,variability,fade duration,Ka-band,excess attenuation,satellite propagation
-Riera, J.M.;Riera, J.M.;;Q-band,inter-fade duration,Electromagnetic wave propagation,rainfall rate,Water vapor retrieval,variability,fade duration,Ka-band,Gases attenuation,excess attenuation,satellite propagation
-Siles, G.A.;Siles, G.A.;;Rain Attenuation,0°C Isotherm,Water vapor retrieval,variability,fade duration,satellite propagation,Satellite communications,IGRA,High Altitude,inter-fade duration,rainfall rate,Gases attenuation,Radiosoundings,excess attenuation,Rain height,Atmospheric propagation,Q-band,Electromagnetic wave propagation,Gaseous attenuation,Ka-band
-Heredia, M.;Heredia, M.;;Gaseous attenuation,Atmospheric propagation,Satellite communications,Radiosoundings
-Vilela, M.;Vilela, M.;;Atmospheric propagation,Satellite communications,High Altitude,Radiosoundings,IGRA,Gaseous attenuation
-Benarroch, A.;Benarroch, A.;;Rain Attenuation,0°C Isotherm,Rain height
-Manuel Riera, J.;Manuel Riera, J.;;Rain Attenuation,0°C Isotherm,Rain height
-Luini, L.;Luini, L.;;Water vapor retrieval,Gases attenuation,Electromagnetic wave propagation
-Riva, C.;Riva, C.;;Water vapor retrieval,Gases attenuation,Electromagnetic wave propagation
-Quibus, L.;Quibus, L.;;Water vapor retrieval,Gases attenuation,Electromagnetic wave propagation
-Javed, O.;Javed, O.;;Software-repository mining,Dynamic program analysis,Open-source projects,Runtime verification,Unit testing
-Gonzalez-Garcia, J.;Gonzalez-Garcia, J.;;Regional fiscal discipline,Regional centrifugal economic and political forces,Spanish sovereign debt crisis,Sovereign risk premium,Country default risk,Public accounts transparency,Regional public debt,National centripetal economic and political forces,Fiscal decentralisation,CRAs ratings
-Sotelo-Gonzalez, J.;Sotelo-Gonzalez, J.;;Regional fiscal discipline,Regional centrifugal economic and political forces,Spanish sovereign debt crisis,Sovereign risk premium,Country default risk,Public accounts transparency,Regional public debt,National centripetal economic and political forces,Fiscal decentralisation,CRAs ratings
-Zegarra-Saldaña, P.;Zegarra-Saldaña, P.;;Regional fiscal discipline,Regional centrifugal economic and political forces,Spanish sovereign debt crisis,Sovereign risk premium,Country default risk,Public accounts transparency,Regional public debt,National centripetal economic and political forces,Fiscal decentralisation,CRAs ratings
-Valente De Oliveira, J.;Valente De Oliveira, J.;Fault diagnosis,Fault detection,Observer-biased clustering,Wavelets packed transform,Fuzzy clustering,Bearing;
-Sanchez, V.;Sanchez, V.;Fault diagnosis,Fault detection,Observer-biased clustering,Wavelets packed transform,Fuzzy clustering,Bearing;
-Cabrera, D.;Cabrera, D.;Fault diagnosis,Random forest,Genetic algorithms,Wavelet packets,Feature selection,Gearbox;
-Artés, M.;Artés, M.;Fault diagnosis,Random forest,Genetic algorithms,Wavelet packets,Feature selection,Gearbox;
-Zheng, Y.;Zheng, Y.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;
-Bulej, L.;Bulej, L.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;
-Tůma, P.;Tůma, P.;Dalvik Virtual Machine,Android,Bytecode retargeting and instrumentation,Java Virtual Machine,Dynamic analysis;
-Marechal, A.;Marechal, A.;Composition Mechanism,LLAMAS,System design and verification,Standardization,Modularity,High-Level Petri nets;
-Buchs, D.;Buchs, D.;Composition Mechanism,LLAMAS,System design and verification,Standardization,Modularity,High-Level Petri nets;
+Villazón, A.;Villazón, A.;;Software-repository mining,Unit testing,JIT-unfriendly code,Scala,Runtime verification,Dynamic program analysis,Task granularity,GitHub,Promises,Code repositories,Node.js,Open-source projects,Java
+Sun, H.;Sun, H.;Dynamic analysis,Android,Java Virtual Machine,Bytecode retargeting and instrumentation,Dalvik Virtual Machine;JIT-unfriendly code,Scala,Dynamic program analysis,Task granularity,GitHub,Promises,Code repositories,Node.js,Java
+Rosà, A.;Rosà, A.;;JIT-unfriendly code,Scala,Dynamic program analysis,Task granularity,GitHub,Promises,Code repositories,Node.js,Java
+Oporto, S.;Oporto, S.;;JIT-unfriendly code,Scala,Dynamic program analysis,Task granularity,GitHub,Promises,Code repositories,Node.js,Java
+Binder, W.;Binder, W.;Dynamic analysis,Android,Java Virtual Machine,Bytecode retargeting and instrumentation,Dalvik Virtual Machine;Software-repository mining,Unit testing,JIT-unfriendly code,Scala,Runtime verification,Dynamic program analysis,Task granularity,GitHub,Promises,Code repositories,Node.js,Open-source projects,Java
+Li, C.;Li, C.;Gearbox,Bearing,Genetic algorithms,Random forest,Fault detection,Fault diagnosis,Feature selection,Wavelets packed transform,Fuzzy clustering,Observer-biased clustering,Wavelet packets;fault diagnosis,Bearing,fuzzy entropy,fuzzy rules,fuzzy clustering,fault prognosis,fault classification,fault detection
+De Oliveira, J.V.;De Oliveira, J.V.;;fault diagnosis,Bearing,fuzzy entropy,fuzzy rules,fuzzy clustering,fault prognosis,fault classification,fault detection
+Cerrada, M.;Cerrada, M.;Gearbox,Bearing,Genetic algorithms,Random forest,Fault detection,Fault diagnosis,Feature selection,Wavelets packed transform,Fuzzy clustering,Observer-biased clustering,Wavelet packets;fault diagnosis,Bearing,fuzzy entropy,fuzzy rules,fuzzy clustering,fault prognosis,fault classification,fault detection
+Sanchez, R.V.;Sanchez, R.V.;;fault diagnosis,Bearing,fuzzy entropy,fuzzy rules,fuzzy clustering,fault prognosis,fault classification,fault detection
+Zurita, G.;Zurita, G.;Gearbox,Bearing,Genetic algorithms,Random forest,Fault detection,Fault diagnosis,Feature selection,Wavelets packed transform,Fuzzy clustering,Observer-biased clustering,Wavelet packets;Fourier transform,Vibration-based condition monitoring (VBCM),Machine diagnosis,fault diagnosis,Software,Welch's method,Bearing,Firmware,Condition based maintenance (CBM),fuzzy entropy,fuzzy rules,Vibration analysis,Data acquisition,Microcontroller,fuzzy clustering,fault prognosis,fault classification,fault detection
+Villarroel, A.;Villarroel, A.;;Fourier transform,Vibration-based condition monitoring (VBCM),Machine diagnosis,Software,Welch's method,Firmware,Condition based maintenance (CBM),Vibration analysis,Data acquisition,Microcontroller
+Velarde, R.;Velarde, R.;;Fourier transform,Vibration-based condition monitoring (VBCM),Machine diagnosis,Software,Welch's method,Firmware,Condition based maintenance (CBM),Vibration analysis,Data acquisition,Microcontroller
+Pimienta-Del-Valle, D.;Pimienta-Del-Valle, D.;;fade duration,inter-fade duration,satellite propagation,Q-band,excess attenuation,rainfall rate,Ka-band,variability
+Garcia-Del-Pino, P.;Garcia-Del-Pino, P.;;fade duration,inter-fade duration,satellite propagation,Q-band,excess attenuation,rainfall rate,Ka-band,variability
+Riera, J.M.;Riera, J.M.;;fade duration,inter-fade duration,satellite propagation,Gases attenuation,Water vapor retrieval,Q-band,excess attenuation,rainfall rate,Ka-band,variability,Electromagnetic wave propagation
+Siles, G.A.;Siles, G.A.;;satellite propagation,0°C Isotherm,Satellite communications,inter-fade duration,Gases attenuation,High Altitude,rainfall rate,Ka-band,IGRA,Gaseous attenuation,Atmospheric propagation,Rain height,variability,Electromagnetic wave propagation,fade duration,Water vapor retrieval,Radiosoundings,Q-band,excess attenuation,Rain Attenuation
+Heredia, M.;Heredia, M.;;Satellite communications,Radiosoundings,Gaseous attenuation,Atmospheric propagation
+Vilela, M.;Vilela, M.;;Gaseous attenuation,Satellite communications,Radiosoundings,High Altitude,IGRA,Atmospheric propagation
+Benarroch, A.;Benarroch, A.;;Rain Attenuation,Rain height,0°C Isotherm
+Manuel Riera, J.;Manuel Riera, J.;;Rain Attenuation,Rain height,0°C Isotherm
+Luini, L.;Luini, L.;;Electromagnetic wave propagation,Gases attenuation,Water vapor retrieval
+Riva, C.;Riva, C.;;Electromagnetic wave propagation,Gases attenuation,Water vapor retrieval
+Quibus, L.;Quibus, L.;;Electromagnetic wave propagation,Gases attenuation,Water vapor retrieval
+Javed, O.;Javed, O.;;Unit testing,Runtime verification,Dynamic program analysis,Open-source projects,Software-repository mining
+Gonzalez-Garcia, J.;Gonzalez-Garcia, J.;;Sovereign risk premium,Spanish sovereign debt crisis,Country default risk,National centripetal economic and political forces,Regional centrifugal economic and political forces,Public accounts transparency,CRAs ratings,Regional fiscal discipline,Fiscal decentralisation,Regional public debt
+Sotelo-Gonzalez, J.;Sotelo-Gonzalez, J.;;Sovereign risk premium,Spanish sovereign debt crisis,Country default risk,National centripetal economic and political forces,Regional centrifugal economic and political forces,Public accounts transparency,CRAs ratings,Regional fiscal discipline,Fiscal decentralisation,Regional public debt
+Zegarra-Saldaña, P.;Zegarra-Saldaña, P.;;Sovereign risk premium,Spanish sovereign debt crisis,Country default risk,National centripetal economic and political forces,Regional centrifugal economic and political forces,Public accounts transparency,CRAs ratings,Regional fiscal discipline,Fiscal decentralisation,Regional public debt
+Valente De Oliveira, J.;Valente De Oliveira, J.;Bearing,Fault detection,Fault diagnosis,Wavelets packed transform,Fuzzy clustering,Observer-biased clustering;
+Sanchez, V.;Sanchez, V.;Bearing,Fault detection,Fault diagnosis,Wavelets packed transform,Fuzzy clustering,Observer-biased clustering;
+Cabrera, D.;Cabrera, D.;Gearbox,Genetic algorithms,Random forest,Fault diagnosis,Feature selection,Wavelet packets;
+Artés, M.;Artés, M.;Gearbox,Genetic algorithms,Random forest,Fault diagnosis,Feature selection,Wavelet packets;
+Zheng, Y.;Zheng, Y.;Dynamic analysis,Android,Java Virtual Machine,Bytecode retargeting and instrumentation,Dalvik Virtual Machine;
+Bulej, L.;Bulej, L.;Dynamic analysis,Android,Java Virtual Machine,Bytecode retargeting and instrumentation,Dalvik Virtual Machine;
+Tůma, P.;Tůma, P.;Dynamic analysis,Android,Java Virtual Machine,Bytecode retargeting and instrumentation,Dalvik Virtual Machine;
+Marechal, A.;Marechal, A.;LLAMAS,Modularity,High-Level Petri nets,System design and verification,Composition Mechanism,Standardization;
+Buchs, D.;Buchs, D.;LLAMAS,Modularity,High-Level Petri nets,System design and verification,Composition Mechanism,Standardization;
 Ormachea, O.;Ormachea, O.;;
 Urquidi, O.;Urquidi, O.;;
 Casazola, D.;Casazola, D.;;

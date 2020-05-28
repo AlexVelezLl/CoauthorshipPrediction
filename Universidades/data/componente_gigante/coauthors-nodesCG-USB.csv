@@ -1,36 +1,36 @@
 ID;Label;KeywordsB2018;KeywordsA2018
 Debattista, J.;Debattista, J.;;
 Fernández, J.D.;Fernández, J.D.;;
-Vidal, M.-E.;Vidal, M.-E.;Crowdsourcing,Enterprise knowledge graphs,Volumetric Image,Knowledge graph,Semantic Annotations,Enterprise information systems,Data-driven tasks,RDF-Molecule,Semantic data integration,RDF Data,DICOM Ontology,Microtasks,Graph partitioning,Linked data,Semantic web technologies,Relation discovery,RDF,Query execution,Linked enterprise data,Fragment replication,Semantic similarity measures,Hybrid system,SPARQL Query,Crowd Knowledge,Federated query processing,AutomationML,Integration on demand,Crowd knowledge,Query decomposition,Source selection,Semantic similarity,Hybrid System,Query Execution,Web 3D-Visualizer,SPARQL query,Completeness model,Completeness Model,RDF data,Industry 4.0;Test Cases,Big Data Applications,RDF,Dependency Graph,Oceanographic Data,Big Data,Test-Driven Ontology Development,Data integration,Maritime Applications,RDF molecules,Ontology Engineering,Knowledge graphs
+Vidal, M.-E.;Vidal, M.-E.;Source selection,Linked enterprise data,AutomationML,Hybrid system,Relation discovery,Completeness model,Enterprise knowledge graphs,Query Execution,RDF Data,Data-driven tasks,Graph partitioning,Volumetric Image,RDF,Linked data,Web 3D-Visualizer,Crowd Knowledge,RDF data,Semantic similarity measures,Industry 4.0,Crowd knowledge,SPARQL query,RDF-Molecule,Crowdsourcing,Semantic data integration,Semantic Annotations,Knowledge graph,Microtasks,DICOM Ontology,Federated query processing,Semantic similarity,Enterprise information systems,Semantic web technologies,Hybrid System,Query decomposition,Fragment replication,SPARQL Query,Integration on demand,Query execution,Completeness Model;Ontology Engineering,Knowledge graphs,Maritime Applications,Dependency Graph,Test-Driven Ontology Development,Data integration,Oceanographic Data,RDF,Big Data,Big Data Applications,Test Cases,RDF molecules
 Umbrich, J.;Umbrich, J.;;
 Lytra, I.;Lytra, I.;;Oceanographic Data,Maritime Applications,Big Data,Big Data Applications
 Orlandi, F.;Orlandi, F.;;Oceanographic Data,Maritime Applications,Big Data,Big Data Applications
 Attard, J.;Attard, J.;;Oceanographic Data,Maritime Applications,Big Data,Big Data Applications
-Halilaj, L.;Halilaj, L.;AutomationML,Industry 4.0,Semantic data integration;Ontology Engineering,Test Cases,Test-Driven Ontology Development,Dependency Graph
-Grangel-González, I.;Grangel-González, I.;AutomationML,Industry 4.0,Semantic data integration;Ontology Engineering,Test Cases,Test-Driven Ontology Development,Dependency Graph
-Lohmann, S.;Lohmann, S.;;Ontology Engineering,Test Cases,Test-Driven Ontology Development,Dependency Graph
-Auer, S.;Auer, S.;Semantic web technologies,RDF,Enterprise knowledge graphs,Knowledge graph,AutomationML,Linked enterprise data,Enterprise information systems,RDF-Molecule,Semantic data integration,Integration on demand,Industry 4.0;Test Cases,RDF,Dependency Graph,Test-Driven Ontology Development,Data integration,RDF molecules,Ontology Engineering,Knowledge graphs
+Halilaj, L.;Halilaj, L.;Semantic data integration,AutomationML,Industry 4.0;Dependency Graph,Ontology Engineering,Test-Driven Ontology Development,Test Cases
+Grangel-González, I.;Grangel-González, I.;Semantic data integration,AutomationML,Industry 4.0;Dependency Graph,Ontology Engineering,Test-Driven Ontology Development,Test Cases
+Lohmann, S.;Lohmann, S.;;Dependency Graph,Ontology Engineering,Test-Driven Ontology Development,Test Cases
+Auer, S.;Auer, S.;Enterprise information systems,Linked enterprise data,Semantic web technologies,Industry 4.0,RDF-Molecule,Enterprise knowledge graphs,AutomationML,Semantic data integration,RDF,Knowledge graph,Integration on demand;Ontology Engineering,Knowledge graphs,Dependency Graph,Test-Driven Ontology Development,Data integration,RDF,Test Cases,RDF molecules
 Musyaffa, F.A.;Musyaffa, F.A.;;
 Li, Y.;Li, Y.;;
-Collarana, D.;Collarana, D.;RDF,Knowledge graph,AutomationML,RDF-Molecule,Semantic data integration,Integration on demand,Industry 4.0;Data integration,Knowledge graphs,RDF molecules,RDF
-Galkin, M.;Galkin, M.;Semantic web technologies,RDF,Enterprise knowledge graphs,Knowledge graph,Linked enterprise data,Enterprise information systems,RDF-Molecule,Integration on demand;Data integration,Knowledge graphs,RDF molecules,RDF
-Lange, C.;Lange, C.;RDF,Integration on demand,RDF-Molecule,Knowledge graph;Data integration,Knowledge graphs,RDF molecules,RDF
+Collarana, D.;Collarana, D.;Industry 4.0,RDF-Molecule,AutomationML,Semantic data integration,RDF,Knowledge graph,Integration on demand;Knowledge graphs,RDF,RDF molecules,Data integration
+Galkin, M.;Galkin, M.;Enterprise information systems,Linked enterprise data,Semantic web technologies,RDF-Molecule,Enterprise knowledge graphs,RDF,Knowledge graph,Integration on demand;Knowledge graphs,RDF,RDF molecules,Data integration
+Lange, C.;Lange, C.;RDF,RDF-Molecule,Knowledge graph,Integration on demand;Knowledge graphs,RDF,RDF molecules,Data integration
 Gangemi, A.;Gangemi, A.;;
 Navigli, R.;Navigli, R.;;
 Hollink, L.;Hollink, L.;;
 Tordai, A.;Tordai, A.;;
-Acosta, M.;Acosta, M.;Crowdsourcing,RDF data,Crowd Knowledge,Hybrid System,Query execution,Query Execution,SPARQL query,Completeness model,RDF Data,Completeness Model,Microtasks,Crowd knowledge,Hybrid system,SPARQL Query;
-Simperl, E.;Simperl, E.;Crowdsourcing,RDF data,Crowd Knowledge,Hybrid System,Query execution,Query Execution,SPARQL query,Completeness model,RDF Data,Completeness Model,Microtasks,Crowd knowledge,Hybrid system,SPARQL Query;
-Flöck, F.;Flöck, F.;Crowdsourcing,RDF data,Crowd Knowledge,Hybrid System,Query execution,Query Execution,SPARQL query,Completeness model,RDF Data,Completeness Model,Microtasks,Crowd knowledge,Hybrid system,SPARQL Query;
+Acosta, M.;Acosta, M.;Crowd Knowledge,RDF data,Hybrid System,Crowd knowledge,SPARQL query,Query Execution,RDF Data,Hybrid system,Crowdsourcing,SPARQL Query,Completeness model,Query execution,Microtasks,Completeness Model;
+Simperl, E.;Simperl, E.;Crowd Knowledge,RDF data,Hybrid System,Crowd knowledge,SPARQL query,Query Execution,RDF Data,Hybrid system,Crowdsourcing,SPARQL Query,Completeness model,Query execution,Microtasks,Completeness Model;
+Flöck, F.;Flöck, F.;Crowd Knowledge,RDF data,Hybrid System,Crowd knowledge,SPARQL query,Query Execution,RDF Data,Hybrid system,Crowdsourcing,SPARQL Query,Completeness model,Query execution,Microtasks,Completeness Model;
 Pasarella, E.;Pasarella, E.;;
 Zoltan, C.;Zoltan, C.;;
-Montoya, G.;Montoya, G.;Federated query processing,Fragment replication,Query decomposition,Linked data,Source selection;
-Skaf-Molli, H.;Skaf-Molli, H.;Federated query processing,Fragment replication,Query decomposition,Linked data,Source selection;
-Molli, P.;Molli, P.;Federated query processing,Fragment replication,Query decomposition,Linked data,Source selection;
+Montoya, G.;Montoya, G.;Source selection,Query decomposition,Fragment replication,Linked data,Federated query processing;
+Skaf-Molli, H.;Skaf-Molli, H.;Source selection,Query decomposition,Fragment replication,Linked data,Federated query processing;
+Molli, P.;Molli, P.;Source selection,Query decomposition,Fragment replication,Linked data,Federated query processing;
 Sure-Vetter, Y.;Sure-Vetter, Y.;Semantic similarity measures,Data-driven tasks,Knowledge graph;
 Morales, C.;Morales, C.;;
-Scerri, S.;Scerri, S.;Semantic web technologies,Linked enterprise data,Enterprise information systems,Enterprise knowledge graphs;
-Traverso-Ribón, I.;Traverso-Ribón, I.;Relation discovery,Graph partitioning,Semantic similarity;
+Scerri, S.;Scerri, S.;Enterprise knowledge graphs,Enterprise information systems,Linked enterprise data,Semantic web technologies;
+Traverso-Ribón, I.;Traverso-Ribón, I.;Semantic similarity,Relation discovery,Graph partitioning;
 Goncalves, M.;Goncalves, M.;;
 Mendoza, J.N.;Mendoza, J.N.;;
 Bizer, C.;Bizer, C.;;
@@ -42,20 +42,20 @@ Rengifo, P.;Rengifo, P.;;
 Rodríguez, D.A.;Rodríguez, D.A.;;
 Martínez, I.C.;Martínez, I.C.;;
 Castillo, S.;Castillo, S.;;
-Palma, G.;Palma, G.;Relation discovery,Graph partitioning,Semantic similarity;
+Palma, G.;Palma, G.;Semantic similarity,Relation discovery,Graph partitioning;
 Breslin, J.G.;Breslin, J.G.;;
-Flores, A.;Flores, A.;Relation discovery,Graph partitioning,Semantic similarity;
+Flores, A.;Flores, A.;Semantic similarity,Relation discovery,Graph partitioning;
 Perez, W.;Perez, W.;;
-Tello, A.;Tello, A.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
+Tello, A.;Tello, A.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
 Saquicela, V.;Saquicela, V.;;
-La Cruz, A.;La Cruz, A.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
+La Cruz, A.;La Cruz, A.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
 Alibrandi, S.;Alibrandi, S.;;
 Bravo, S.;Bravo, S.;;
 Overby, C.L.;Overby, C.L.;;
 Zotkina, E.;Zotkina, E.;;
 Raschid, L.;Raschid, L.;;
-Vega, F.;Vega, F.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
-Pérez, W.;Pérez, W.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
+Vega, F.;Vega, F.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
+Pérez, W.;Pérez, W.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
 Folz, P.;Folz, P.;;
 Haag, E.;Haag, E.;;
 Thor, A.;Thor, A.;;

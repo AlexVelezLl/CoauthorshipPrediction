@@ -7,10 +7,10 @@ Barraza, N.R.;Barraza, N.R.;memory channel,Polya noise,Gilbert-Elliot model,loga
 Lazzari, L.L.;Lazzari, L.L.;;
 Mouliá, P.I.;Mouliá, P.I.;;
 Eriz, M.;Eriz, M.;;
-Clua, O.;Clua, O.;student motivation,teaching and research,research projects in the classroom,distributed software systems,complexity,scaffolding,scaffolding courses,requirements elicitation;
-Feldgen, M.;Feldgen, M.;student motivation,teaching and research,research projects in the classroom,distributed software systems,complexity,scaffolding,scaffolding courses,requirements elicitation;
-Frank, G.A.;Frank, G.A.;Evacuation,panic,couples,time delays;
-Dorso, C.O.;Dorso, C.O.;Evacuation,panic,couples,time delays;
+Clua, O.;Clua, O.;complexity,student motivation,scaffolding,scaffolding courses,research projects in the classroom,distributed software systems,teaching and research,requirements elicitation;
+Feldgen, M.;Feldgen, M.;complexity,student motivation,scaffolding,scaffolding courses,research projects in the classroom,distributed software systems,teaching and research,requirements elicitation;
+Frank, G.A.;Frank, G.A.;time delays,couples,Evacuation,panic;
+Dorso, C.O.;Dorso, C.O.;time delays,couples,Evacuation,panic;
 Robiolo, G.;Robiolo, G.;;
 Pasquini, R.;Pasquini, R.;;
 Isoldi, J.;Isoldi, J.;;
@@ -20,8 +20,8 @@ Grieskamp, W.;Grieskamp, W.;;
 Kicillof, N.;Kicillof, N.;;
 Monteverde, D.;Monteverde, D.;;
 Olivero, A.;Olivero, A.;;
-Yovine, S.;Yovine, S.;Parallel programming,Automated code generation,Formal methods,Software design patterns;
-Braberman, V.;Braberman, V.;requirements engineering,specification patterns,Model checking,Requirements Engineering,Behavioral modeling,Probability,Partial verification,Formal Specifications,Quantitativemodelling,Estimation;Safety,Tools,Controller Synthesis,Runtime,Dynamic Update,Paints,Business,Adaptive Systems,Control systems
+Yovine, S.;Yovine, S.;Automated code generation,Parallel programming,Formal methods,Software design patterns;
+Braberman, V.;Braberman, V.;Formal Specifications,Quantitativemodelling,Partial verification,requirements engineering,Probability,Behavioral modeling,Estimation,specification patterns,Requirements Engineering,Model checking;Tools,Safety,Runtime,Paints,Control systems,Business,Dynamic Update,Adaptive Systems,Controller Synthesis
 Ponta, F.L.;Ponta, F.L.;;
 Gomez, P.M.;Gomez, P.M.;;
 D'Onofrio, E.M.;D'Onofrio, E.M.;;
@@ -38,7 +38,7 @@ Ramírez, C.L.;Ramírez, C.L.;;
 Zeida, A.;Zeida, A.;;
 Jara, G.E.;Jara, G.E.;;
 Roitberg, A.E.;Roitberg, A.E.;;
-Uchitel, S.;Uchitel, S.;Model checking,Probability,Partial verification,Quantitativemodelling,Estimation;Safety,Tools,Controller Synthesis,Runtime,Dynamic Update,Paints,Business,Adaptive Systems,Control systems
+Uchitel, S.;Uchitel, S.;Partial verification,Quantitativemodelling,Probability,Estimation,Model checking;Tools,Safety,Runtime,Paints,Control systems,Business,Dynamic Update,Adaptive Systems,Controller Synthesis
 Brunet, G.;Brunet, G.;;
 Chechik, M.;Chechik, M.;;
 Maronna, R.A.;Maronna, R.A.;;
@@ -47,11 +47,11 @@ Arcia, A.;Arcia, A.;;
 Montavont, N.;Montavont, N.;;
 Paltrineri, A.;Paltrineri, A.;;
 Ros, D.;Ros, D.;;
-Levitan, R.;Levitan, R.;Avatars,Entrainment,Alignment,Virtual agents;
-Beňuš, Š.;Beňuš, Š.;Avatars,Entrainment,Cross-linguistic,Turn-taking,Alignment,Dialogue,Prosody,Virtual agents;
-Gálvez, R.H.;Gálvez, R.H.;Avatars,Entrainment,Random forest,Stock market,Alignment,Latent semantic analysis,Ridge regression,Text mining,Virtual agents;
-Weise, A.;Weise, A.;Avatars,Entrainment,Alignment,Virtual agents;
-Hirschberg, J.;Hirschberg, J.;Avatars,Entrainment,Alignment,Virtual agents;
+Levitan, R.;Levitan, R.;Alignment,Virtual agents,Avatars,Entrainment;
+Beňuš, Š.;Beňuš, Š.;Virtual agents,Avatars,Turn-taking,Cross-linguistic,Prosody,Entrainment,Alignment,Dialogue;
+Gálvez, R.H.;Gálvez, R.H.;Virtual agents,Avatars,Random forest,Entrainment,Alignment,Ridge regression,Stock market,Text mining,Latent semantic analysis;
+Weise, A.;Weise, A.;Alignment,Virtual agents,Avatars,Entrainment;
+Hirschberg, J.;Hirschberg, J.;Alignment,Virtual agents,Avatars,Entrainment;
 Graziano, M.;Graziano, M.;;
 Parra, L.C.;Parra, L.C.;;
 Sigman, M.;Sigman, M.;;
@@ -61,15 +61,15 @@ Solero, P.;Solero, P.;;
 Aspis, A.;Aspis, A.;;
 Cabrelli, C.;Cabrelli, C.;;
 Molter, U.;Molter, U.;;
-Paternostro, V.;Paternostro, V.;Perturbation,Fusion frame,Canonical dual;
-Philipp, F.;Philipp, F.;Perturbation,Fusion frame,Canonical dual;
+Paternostro, V.;Paternostro, V.;Canonical dual,Fusion frame,Perturbation;
+Philipp, F.;Philipp, F.;Canonical dual,Fusion frame,Perturbation;
 Vaisman, A.A.;Vaisman, A.A.;;
 Mendelzon, A.O.;Mendelzon, A.O.;;
-Bondar, C.;Bondar, C.;Osteoclast,Osteocyte,Bone,Apoptotic bodies,Gaucher disease;
-Ormazabal, M.;Ormazabal, M.;Osteoclast,Osteocyte,Bone,Apoptotic bodies,Gaucher disease;
-Crivaro, A.;Crivaro, A.;Osteoclast,Osteocyte,Bone,Apoptotic bodies,Gaucher disease;
-Rozenfeld, P.A.;Rozenfeld, P.A.;Osteoclast,Osteocyte,Bone,Apoptotic bodies,Gaucher disease;
-Mucci, J.M.;Mucci, J.M.;Osteoclast,Osteocyte,Bone,Apoptotic bodies,Gaucher disease;
+Bondar, C.;Bondar, C.;Osteoclast,Gaucher disease,Apoptotic bodies,Bone,Osteocyte;
+Ormazabal, M.;Ormazabal, M.;Osteoclast,Gaucher disease,Apoptotic bodies,Bone,Osteocyte;
+Crivaro, A.;Crivaro, A.;Osteoclast,Gaucher disease,Apoptotic bodies,Bone,Osteocyte;
+Rozenfeld, P.A.;Rozenfeld, P.A.;Osteoclast,Gaucher disease,Apoptotic bodies,Bone,Osteocyte;
+Mucci, J.M.;Mucci, J.M.;Osteoclast,Gaucher disease,Apoptotic bodies,Bone,Osteocyte;
 Romano, S.A.;Romano, S.A.;;
 Pérez-Schuster, V.;Pérez-Schuster, V.;;
 Jouary, A.;Jouary, A.;;
@@ -77,25 +77,25 @@ Pietri, T.;Pietri, T.;;
 Sumbre, G.;Sumbre, G.;;
 España, M.;España, M.;;
 Iglesias, M.A.;Iglesias, M.A.;memory channel,Polya noise,Gilbert-Elliot model,logarithmic noise;
-Verghelet, P.;Verghelet, P.;Distributed systems,Monitoring,Resource distribution policy;
-Mocskos, E.;Mocskos, E.;MANET,QoS,ad hoc,AQM,Monitoring,OLSR,wireless,Resource distribution policy,Distributed systems,disaster;Distributed systems,Parallel applications,Benchmarks,Fog and edge computing
+Verghelet, P.;Verghelet, P.;Distributed systems,Resource distribution policy,Monitoring;
+Mocskos, E.;Mocskos, E.;wireless,MANET,QoS,Resource distribution policy,OLSR,AQM,Monitoring,Distributed systems,ad hoc,disaster;Distributed systems,Benchmarks,Parallel applications,Fog and edge computing
 Pedrc, S.;Pedrc, S.;;
 De Cristóforis, P.;De Cristóforis, P.;;
 Bendersky, D.;Bendersky, D.;;
 Santos, J.;Santos, J.;;
-Castro, R.;Castro, R.;Network control,MANET,QoS,ad hoc,World3,Optimization-based sensitivity analysis,Multiparameter sweep,AQM,disaster,OLSR,Parameter sensitivity,OpenModelica,wireless,Quantized State Systems,DEVS simulation,Hybrid modeling,Derivative-free optimization;
-Kofman, E.;Kofman, E.;Network control,Quantized State Systems,DEVS simulation,Hybrid modeling;
-Garbervetsky, D.;Garbervetsky, D.;Program comprehension and visualization,Performance,Metaobject protocols,Program analysis,Virtual machines,Distributed and concurrent systems,Reflection,Development environments and tools,Parallel,Performance and scalability;Task analysis,Shape,Software,Memory management,Semantics,Virtual machining
-Zoppi, E.;Zoppi, E.;Program comprehension and visualization,Program analysis,Distributed and concurrent systems,Development environments and tools,Parallel,Performance and scalability;
-Livshits, B.;Livshits, B.;Program comprehension and visualization,Program analysis,Distributed and concurrent systems,Development environments and tools,Parallel,Performance and scalability;
+Castro, R.;Castro, R.;World3,Network control,wireless,Multiparameter sweep,Hybrid modeling,MANET,QoS,OLSR,ad hoc,Parameter sensitivity,AQM,Optimization-based sensitivity analysis,OpenModelica,Derivative-free optimization,disaster,Quantized State Systems,DEVS simulation;
+Kofman, E.;Kofman, E.;Hybrid modeling,Network control,Quantized State Systems,DEVS simulation;
+Garbervetsky, D.;Garbervetsky, D.;Program comprehension and visualization,Virtual machines,Performance and scalability,Parallel,Metaobject protocols,Performance,Reflection,Distributed and concurrent systems,Program analysis,Development environments and tools;Semantics,Virtual machining,Software,Shape,Task analysis,Memory management
+Zoppi, E.;Zoppi, E.;Program comprehension and visualization,Performance and scalability,Parallel,Distributed and concurrent systems,Program analysis,Development environments and tools;
+Livshits, B.;Livshits, B.;Program comprehension and visualization,Performance and scalability,Parallel,Distributed and concurrent systems,Program analysis,Development environments and tools;
 González, N.;González, N.;;
 Calot, E.P.;Calot, E.P.;;
 Sobral, P.A.;Sobral, P.A.;;
 Wagner, J.R.;Wagner, J.R.;;
-Rukavina, A.;Rukavina, A.;wordle,Raw,VAST 2014,Streaming,Mini-Challlenge 3,Tableau;
-Landoni, M.;Landoni, M.;wordle,Raw,VAST 2014,Streaming,Mini-Challlenge 3,Tableau;
-Verasay, P.;Verasay, P.;wordle,Raw,VAST 2014,Streaming,Mini-Challlenge 3,Tableau;
-Traverso, M.L.;Traverso, M.L.;wordle,Raw,VAST 2014,Streaming,Mini-Challlenge 3,Tableau;
+Rukavina, A.;Rukavina, A.;Raw,Tableau,VAST 2014,Streaming,Mini-Challlenge 3,wordle;
+Landoni, M.;Landoni, M.;Raw,Tableau,VAST 2014,Streaming,Mini-Challlenge 3,wordle;
+Verasay, P.;Verasay, P.;Raw,Tableau,VAST 2014,Streaming,Mini-Challlenge 3,wordle;
+Traverso, M.L.;Traverso, M.L.;Raw,Tableau,VAST 2014,Streaming,Mini-Challlenge 3,wordle;
 Cabrelli, C.A.;Cabrelli, C.A.;;
 Molter, U.M.;Molter, U.M.;;
 Grasselli, M.;Grasselli, M.;;
@@ -103,18 +103,18 @@ Cascone, O.;Cascone, O.;;
 Anspach, F.B.;Anspach, F.B.;;
 Delfino, J.M.;Delfino, J.M.;;
 Bendersky, P.;Bendersky, P.;;
-Galeotti, J.P.;Galeotti, J.P.;xml schema,functional mocking,automated test generation,unit testing,environment mocking;
+Galeotti, J.P.;Galeotti, J.P.;unit testing,xml schema,automated test generation,environment mocking,functional mocking;
 Acevedo, D.;Acevedo, D.;;
-Negri, P.;Negri, P.;;Support vector machine,Multi-style license plate recognition,Histogram of oriented gradients,Sequential minimal optimization
+Negri, P.;Negri, P.;;Support vector machine,Histogram of oriented gradients,Sequential minimal optimization,Multi-style license plate recognition
 Buemi, M.E.;Buemi, M.E.;;
 Fernandez, F.G.;Fernandez, F.G.;;
-Mejail, M.;Mejail, M.;RGB-D,Point clouds,Object recognition,Tracking;
+Mejail, M.;Mejail, M.;Object recognition,Tracking,RGB-D,Point clouds;
 Amster, P.;Amster, P.;;
 Berezansky, L.;Berezansky, L.;;
 Idels, L.;Idels, L.;;
-Bruni, R.;Bruni, R.;;Concurrency,Persistent places,Confusion,Event structures,Coreflection,Dynamic nets,Petri nets,Unfolding,Local connectedness,OR causality,Disjunctive causes,Persistence
-Melgratti, H.;Melgratti, H.;Cloud,Process calculi,Weak stores,Eventual consistency;Concurrency,Persistent places,Confusion,Event structures,Coreflection,Dynamic nets,Petri nets,Unfolding,Local connectedness,OR causality,Disjunctive causes,Persistence
-Montanari, U.;Montanari, U.;;Concurrency,Persistent places,Confusion,Event structures,Coreflection,Dynamic nets,Petri nets,Unfolding,Local connectedness,OR causality,Disjunctive causes,Persistence
+Bruni, R.;Bruni, R.;;Persistence,Unfolding,Event structures,Disjunctive causes,Coreflection,Confusion,Concurrency,OR causality,Dynamic nets,Local connectedness,Persistent places,Petri nets
+Melgratti, H.;Melgratti, H.;Cloud,Process calculi,Weak stores,Eventual consistency;Persistence,Unfolding,Event structures,Disjunctive causes,Coreflection,Confusion,Concurrency,OR causality,Dynamic nets,Local connectedness,Persistent places,Petri nets
+Montanari, U.;Montanari, U.;;Persistence,Unfolding,Event structures,Disjunctive causes,Coreflection,Confusion,Concurrency,OR causality,Dynamic nets,Local connectedness,Persistent places,Petri nets
 Rocca, J.J.G.;Rocca, J.J.G.;;
 Tomasel, F.G.;Tomasel, F.G.;;
 Marconi, M.C.;Marconi, M.C.;;
@@ -122,24 +122,24 @@ Gonzalez, J.J.;Gonzalez, J.J.;;
 Macchietto, C.D.;Macchietto, C.D.;;
 Kamareddine, F.;Kamareddine, F.;;
 Ríos, A.;Ríos, A.;;
-Abriola, S.;Abriola, S.;Saturation,Ultraproduct,Xpath,Bisimulation,Definability,First-order logic,Separation,Data tree;
-Figueira, S.;Figueira, S.;Saturation,Ultraproduct,Xpath,Bisimulation,Definability,First-order logic,Separation,Data tree;Algorithmic randomness,Algorithmic learning theory
-Senno, G.;Senno, G.;Nonlocality,Bell inequalities,Communication complexity,Detector efficiency;
+Abriola, S.;Abriola, S.;Saturation,Separation,Ultraproduct,First-order logic,Data tree,Definability,Bisimulation,Xpath;
+Figueira, S.;Figueira, S.;Saturation,Separation,Ultraproduct,First-order logic,Data tree,Definability,Bisimulation,Xpath;Algorithmic randomness,Algorithmic learning theory
+Senno, G.;Senno, G.;Detector efficiency,Nonlocality,Communication complexity,Bell inequalities;
 Frias, M.F.;Frias, M.F.;;
 Pombo, C.G.L.;Pombo, C.G.L.;;
 Gessaghi, V.C.;Gessaghi, V.C.;;
 Raschi, M.A.;Raschi, M.A.;;
 Tanoni, D.Y.;Tanoni, D.Y.;;
 Perazzo, C.A.;Perazzo, C.A.;;
-Larreteguy, A.E.;Larreteguy, A.E.;Finite volume simulations,Dam-break,Volume of fluid,Dimensional effects,Numerical study,Experimental validation;
+Larreteguy, A.E.;Larreteguy, A.E.;Experimental validation,Dam-break,Dimensional effects,Volume of fluid,Numerical study,Finite volume simulations;
 Herrera, R.M.;Herrera, R.M.;;
 Heil, C.;Heil, C.;;
 Bienvenu, L.;Bienvenu, L.;;Algorithmic randomness,Algorithmic learning theory
 Monin, B.;Monin, B.;;Algorithmic randomness,Algorithmic learning theory
 Shen, A.;Shen, A.;;Algorithmic randomness,Algorithmic learning theory
-Lin, M.C.;Lin, M.C.;Proper interval models,Linear space algorithm,Cluster editing problem,Graph algorithms;
+Lin, M.C.;Lin, M.C.;Cluster editing problem,Linear space algorithm,Proper interval models,Graph algorithms;
 Mizrahi, M.J.;Mizrahi, M.J.;;
-Szwarcfiter, J.L.;Szwarcfiter, J.L.;Proper interval models,Linear space algorithm,Cluster editing problem,Graph algorithms;
+Szwarcfiter, J.L.;Szwarcfiter, J.L.;Cluster editing problem,Linear space algorithm,Proper interval models,Graph algorithms;
 Castro, P.F.;Castro, P.F.;;
 Aguirre, N.M.;Aguirre, N.M.;;
 López Pombo, C.G.;López Pombo, C.G.;;
@@ -156,21 +156,21 @@ Tormena, C.F.;Tormena, C.F.;;
 Ledesma, S.A.;Ledesma, S.A.;;
 Iemmi, C.C.;Iemmi, C.C.;;
 Brudny, Vera L.;Brudny, Vera L.;;
-Ferreira, F.;Ferreira, F.;evaluation,project based learning,teaching,electronics engineering;
-Veiga, R.A.;Veiga, R.A.;Non-linear systems,Neural Networks,project based learning,electronics engineering,teaching,Variable structure control,evaluation,Discrete-Time systems;
-Politi, M.T.;Politi, M.T.;Medical physiology,Dicrotic notch,Numerical model,Reflection wave;
-Ghigo, A.;Ghigo, A.;Medical physiology,Dicrotic notch,Numerical model,Reflection wave;
-Fernández, J.M.;Fernández, J.M.;Medical physiology,Dicrotic notch,Numerical model,Reflection wave;
-Fullana, J.M.;Fullana, J.M.;Medical physiology,Dicrotic notch,Numerical model,Reflection wave;
-Lagrée, P.-Y.;Lagrée, P.-Y.;Medical physiology,Dicrotic notch,Numerical model,Reflection wave;
-Vila, A.R.;Vila, A.R.;Harold bloom,Latin-American literature,"digital libraries",Digital libraries,"sales platforms",Paper work,Sales platforms,Literary canon,Transposition of literature,Ebooks,"Literary canon","ebooks","transposition of literature","electronic edition,"Latin-American literature";
+Ferreira, F.;Ferreira, F.;evaluation,electronics engineering,project based learning,teaching;
+Veiga, R.A.;Veiga, R.A.;Non-linear systems,teaching,Variable structure control,evaluation,electronics engineering,Discrete-Time systems,project based learning,Neural Networks;
+Politi, M.T.;Politi, M.T.;Dicrotic notch,Reflection wave,Medical physiology,Numerical model;
+Ghigo, A.;Ghigo, A.;Dicrotic notch,Reflection wave,Medical physiology,Numerical model;
+Fernández, J.M.;Fernández, J.M.;Dicrotic notch,Reflection wave,Medical physiology,Numerical model;
+Fullana, J.M.;Fullana, J.M.;Dicrotic notch,Reflection wave,Medical physiology,Numerical model;
+Lagrée, P.-Y.;Lagrée, P.-Y.;Dicrotic notch,Reflection wave,Medical physiology,Numerical model;
+Vila, A.R.;Vila, A.R.;Literary canon,Transposition of literature,"transposition of literature",Sales platforms,"Latin-American literature",Paper work,"sales platforms",Harold bloom,Ebooks,"Literary canon",Latin-American literature,"digital libraries",Digital libraries,"electronic edition,"ebooks";
 Becher, V.;Becher, V.;;
 Grigorieff, S.;Grigorieff, S.;;
-Pire, T.;Pire, T.;Loop closure,SLAM,Visual SLAM,Stereo SLAM,Stereo vision;
-Fischer, T.;Fischer, T.;Loop closure,SLAM,Visual SLAM,Stereo SLAM,Stereo vision;
-Castro, G.;Castro, G.;Loop closure,SLAM,Visual SLAM,Stereo SLAM,Stereo vision;
-Civera, J.;Civera, J.;Loop closure,SLAM,Visual SLAM,Stereo SLAM,Stereo vision;
-Jacobo Berlles, J.;Jacobo Berlles, J.;Loop closure,SLAM,Visual SLAM,Stereo SLAM,Stereo vision;
+Pire, T.;Pire, T.;Loop closure,Visual SLAM,SLAM,Stereo vision,Stereo SLAM;
+Fischer, T.;Fischer, T.;Loop closure,Visual SLAM,SLAM,Stereo vision,Stereo SLAM;
+Castro, G.;Castro, G.;Loop closure,Visual SLAM,SLAM,Stereo vision,Stereo SLAM;
+Civera, J.;Civera, J.;Loop closure,Visual SLAM,SLAM,Stereo vision,Stereo SLAM;
+Jacobo Berlles, J.;Jacobo Berlles, J.;Loop closure,Visual SLAM,SLAM,Stereo vision,Stereo SLAM;
 Boggi, S.;Boggi, S.;;
 Alonso, R.;Alonso, R.;;
 Fano, W.G.;Fano, W.G.;;
@@ -192,17 +192,17 @@ Biafore, F.L.;Biafore, F.L.;;
 D'Attellis, C.E.;D'Attellis, C.E.;;
 Heineken, S.;Heineken, S.;;
 Matusiak, E.;Matusiak, E.;;
-Pérez López, N.;Pérez López, N.;Pulse transit time,Vascular reactivity,Applanation tonometry,Ultrasound,Real-time system,Pressure-Diameter loop;
-De Luca, M.A.;De Luca, M.A.;Pulse transit time,Vascular reactivity,Applanation tonometry,Ultrasound,Real-time system,Pressure-Diameter loop;
-Sivori, G.;Sivori, G.;Pulse transit time,Vascular reactivity,Applanation tonometry,Ultrasound,Real-time system,Pressure-Diameter loop;
-Cymberknop, L.J.;Cymberknop, L.J.;Pulse transit time,Vascular reactivity,Applanation tonometry,Ultrasound,Real-time system,Pressure-Diameter loop;
-Armentano, R.L.;Armentano, R.L.;Pulse transit time,Vascular reactivity,Applanation tonometry,Ultrasound,Real-time system,Pressure-Diameter loop;
+Pérez López, N.;Pérez López, N.;Applanation tonometry,Real-time system,Vascular reactivity,Ultrasound,Pressure-Diameter loop,Pulse transit time;
+De Luca, M.A.;De Luca, M.A.;Applanation tonometry,Real-time system,Vascular reactivity,Ultrasound,Pressure-Diameter loop,Pulse transit time;
+Sivori, G.;Sivori, G.;Applanation tonometry,Real-time system,Vascular reactivity,Ultrasound,Pressure-Diameter loop,Pulse transit time;
+Cymberknop, L.J.;Cymberknop, L.J.;Applanation tonometry,Real-time system,Vascular reactivity,Ultrasound,Pressure-Diameter loop,Pulse transit time;
+Armentano, R.L.;Armentano, R.L.;Applanation tonometry,Real-time system,Vascular reactivity,Ultrasound,Pressure-Diameter loop,Pulse transit time;
 Giménez, M.;Giménez, M.;;
 Moscato, M.M.;Moscato, M.M.;;
-Feuerstein, E.;Feuerstein, E.;Approximation algorithm,Information retrieval systems,Integrated cache,Caching,Scenarios,Makespan,Performance improvement,Job scheduling;
-Marchetti-Spaccamela, A.;Marchetti-Spaccamela, A.;Approximation algorithm,Information retrieval systems,Integrated cache,Caching,Scenarios,Makespan,Performance improvement,Job scheduling;
-Schalekamp, F.;Schalekamp, F.;Scenarios,Makespan,Approximation algorithm,Job scheduling;
-Stougie, L.;Stougie, L.;Scenarios,Makespan,Approximation algorithm,Job scheduling;
+Feuerstein, E.;Feuerstein, E.;Scenarios,Makespan,Performance improvement,Caching,Information retrieval systems,Approximation algorithm,Job scheduling,Integrated cache;
+Marchetti-Spaccamela, A.;Marchetti-Spaccamela, A.;Scenarios,Makespan,Performance improvement,Caching,Information retrieval systems,Approximation algorithm,Job scheduling,Integrated cache;
+Schalekamp, F.;Schalekamp, F.;Job scheduling,Makespan,Approximation algorithm,Scenarios;
+Stougie, L.;Stougie, L.;Job scheduling,Makespan,Approximation algorithm,Scenarios;
 Van Zuylen, A.;Van Zuylen, A.;;
 Schaber, J.;Schaber, J.;;
 Baltanas, R.;Baltanas, R.;;
@@ -218,52 +218,52 @@ Curtis, A.R.;Curtis, A.R.;;
 McConnell, R.M.;McConnell, R.M.;;
 Spinrad, J.P.;Spinrad, J.P.;;
 Del Hoyo, M.L.;Del Hoyo, M.L.;;
-Minian, E.G.;Minian, E.G.;Discrete Morse theory,Collapsibility,Discrete Morse complex;
+Minian, E.G.;Minian, E.G.;Discrete Morse complex,Discrete Morse theory,Collapsibility;
 Escalera, J.C.;Escalera, J.C.;;
 Davis, J.;Davis, J.;;
 Yzuel, M.;Yzuel, M.;;
-Inchaussandague, M.E.;Inchaussandague, M.E.;UV protection,Natural photonic crystals,Microalgae;
-Gigli, M.L.;Gigli, M.L.;UV protection,Natural photonic crystals,Microalgae;
-Skigin, D.C.;Skigin, D.C.;UV protection,Natural photonic crystals,Microalgae;
-Tolivia, A.;Tolivia, A.;UV protection,Natural photonic crystals,Microalgae;
-Conforti, V.;Conforti, V.;UV protection,Natural photonic crystals,Microalgae;
+Inchaussandague, M.E.;Inchaussandague, M.E.;Microalgae,UV protection,Natural photonic crystals;
+Gigli, M.L.;Gigli, M.L.;Microalgae,UV protection,Natural photonic crystals;
+Skigin, D.C.;Skigin, D.C.;Microalgae,UV protection,Natural photonic crystals;
+Tolivia, A.;Tolivia, A.;Microalgae,UV protection,Natural photonic crystals;
+Conforti, V.;Conforti, V.;Microalgae,UV protection,Natural photonic crystals;
 Zalvidea, D.;Zalvidea, D.;;
 Sicre, E.E.;Sicre, E.E.;;
 Esteva, F.;Esteva, F.;;
 Godo, L.;Godo, L.;;
 Rodríguez, R.Ó.;Rodríguez, R.Ó.;;
-Ferrer, L.;Ferrer, L.;Mismatch,Spoken language recognition,Speaker recognition,Non-stationary noise,Deep neural network,Speech activity detection,Bottleneck features,Calibration;
-McLaren, M.;McLaren, M.;Mismatch,Spoken language recognition,Speaker recognition,Non-stationary noise,Deep neural network,Speech activity detection,Bottleneck features,Calibration;
-Lawson, A.;Lawson, A.;Mismatch,Spoken language recognition,Speaker recognition,Non-stationary noise,Deep neural network,Speech activity detection,Bottleneck features,Calibration;
-Graciarena, M.;Graciarena, M.;Non-stationary noise,Speech activity detection,Spoken language recognition;
+Ferrer, L.;Ferrer, L.;Non-stationary noise,Speech activity detection,Mismatch,Calibration,Bottleneck features,Deep neural network,Spoken language recognition,Speaker recognition;
+McLaren, M.;McLaren, M.;Non-stationary noise,Speech activity detection,Mismatch,Calibration,Bottleneck features,Deep neural network,Spoken language recognition,Speaker recognition;
+Lawson, A.;Lawson, A.;Non-stationary noise,Speech activity detection,Mismatch,Calibration,Bottleneck features,Deep neural network,Spoken language recognition,Speaker recognition;
+Graciarena, M.;Graciarena, M.;Spoken language recognition,Non-stationary noise,Speech activity detection;
 Alexander, P.;Alexander, P.;;
 De La Torre, A.;De La Torre, A.;;
 Bonomini, M.P.;Bonomini, M.P.;;
 Corizzo, S.J.;Corizzo, S.J.;;
 Laguna, P.;Laguna, P.;;
-Arini, P.D.;Arini, P.D.;;Non-homogeneity of depolarization,High resolution ECG,QRS spectral index,Myocardial infarction
-Baldan, P.;Baldan, P.;;Concurrency,Event structures,Coreflection,Petri nets,Unfolding,Local connectedness,Disjunctive causes,Persistence
-Corradini, A.;Corradini, A.;;Concurrency,Event structures,Coreflection,Petri nets,Unfolding,Local connectedness,Disjunctive causes,Persistence
-Piazza, V.G.;Piazza, V.G.;Normalization strategy,Reverse transcription-quantitative PCR,Growth hormone,Skeletal muscle,Total RNA,Isolated messenger RNA,Signal transduction,Dilution effect,Growing mice,Reference genes;
-Bartke, A.;Bartke, A.;Normalization strategy,Reverse transcription-quantitative PCR,Growth hormone,Skeletal muscle,Total RNA,Isolated messenger RNA,Signal transduction,Dilution effect,Growing mice,Reference genes;
-Miquet, J.G.;Miquet, J.G.;Normalization strategy,Reverse transcription-quantitative PCR,Growth hormone,Skeletal muscle,Total RNA,Isolated messenger RNA,Signal transduction,Dilution effect,Growing mice,Reference genes;
-Sotelo, A.I.;Sotelo, A.I.;Normalization strategy,Reverse transcription-quantitative PCR,Growth hormone,Skeletal muscle,Total RNA,Isolated messenger RNA,Signal transduction,Dilution effect,Growing mice,Reference genes;
+Arini, P.D.;Arini, P.D.;;Non-homogeneity of depolarization,High resolution ECG,Myocardial infarction,QRS spectral index
+Baldan, P.;Baldan, P.;;Persistence,Unfolding,Event structures,Disjunctive causes,Coreflection,Concurrency,Local connectedness,Petri nets
+Corradini, A.;Corradini, A.;;Persistence,Unfolding,Event structures,Disjunctive causes,Coreflection,Concurrency,Local connectedness,Petri nets
+Piazza, V.G.;Piazza, V.G.;Normalization strategy,Skeletal muscle,Reference genes,Growing mice,Signal transduction,Reverse transcription-quantitative PCR,Dilution effect,Growth hormone,Total RNA,Isolated messenger RNA;
+Bartke, A.;Bartke, A.;Normalization strategy,Skeletal muscle,Reference genes,Growing mice,Signal transduction,Reverse transcription-quantitative PCR,Dilution effect,Growth hormone,Total RNA,Isolated messenger RNA;
+Miquet, J.G.;Miquet, J.G.;Normalization strategy,Skeletal muscle,Reference genes,Growing mice,Signal transduction,Reverse transcription-quantitative PCR,Dilution effect,Growth hormone,Total RNA,Isolated messenger RNA;
+Sotelo, A.I.;Sotelo, A.I.;Normalization strategy,Skeletal muscle,Reference genes,Growing mice,Signal transduction,Reverse transcription-quantitative PCR,Dilution effect,Growth hormone,Total RNA,Isolated messenger RNA;
 Rossi, G.;Rossi, G.;;
 Urbieta, M.;Urbieta, M.;;
 Ginzburg, J.;Ginzburg, J.;;
 Distante, D.;Distante, D.;;
 Garrido, A.;Garrido, A.;;
-Tolosa, G.;Tolosa, G.;Integrated cache,Caching,Information retrieval systems,Performance improvement;
-Becchetti, L.;Becchetti, L.;Integrated cache,Caching,Information retrieval systems,Performance improvement;
-Pelle, P.;Pelle, P.;zero-resources,keyword detection,segmental models,Speech recognition;
-Estienne, C.;Estienne, C.;zero-resources,keyword detection,segmental models,Speech recognition;
+Tolosa, G.;Tolosa, G.;Integrated cache,Performance improvement,Caching,Information retrieval systems;
+Becchetti, L.;Becchetti, L.;Integrated cache,Performance improvement,Caching,Information retrieval systems;
+Pelle, P.;Pelle, P.;zero-resources,segmental models,Speech recognition,keyword detection;
+Estienne, C.;Estienne, C.;zero-resources,segmental models,Speech recognition,keyword detection;
 Franco, H.;Franco, H.;;
-Capitelli, N.A.;Capitelli, N.A.;Discrete Morse theory,Collapsibility,Discrete Morse complex;
-Danós, A.;Danós, A.;World3,Optimization-based sensitivity analysis,Multiparameter sweep,Parameter sensitivity,OpenModelica,Derivative-free optimization;
-Pop, A.;Pop, A.;World3,Optimization-based sensitivity analysis,Multiparameter sweep,Parameter sensitivity,OpenModelica,Derivative-free optimization;
-Braun, W.;Braun, W.;World3,Optimization-based sensitivity analysis,Multiparameter sweep,Parameter sensitivity,OpenModelica,Derivative-free optimization;
-Fritzson, P.;Fritzson, P.;World3,Optimization-based sensitivity analysis,Multiparameter sweep,Parameter sensitivity,OpenModelica,Derivative-free optimization;
-Valverde, E.R.;Valverde, E.R.;;Non-homogeneity of depolarization,High resolution ECG,QRS spectral index,Myocardial infarction
+Capitelli, N.A.;Capitelli, N.A.;Discrete Morse complex,Discrete Morse theory,Collapsibility;
+Danós, A.;Danós, A.;World3,Multiparameter sweep,Parameter sensitivity,Optimization-based sensitivity analysis,OpenModelica,Derivative-free optimization;
+Pop, A.;Pop, A.;World3,Multiparameter sweep,Parameter sensitivity,Optimization-based sensitivity analysis,OpenModelica,Derivative-free optimization;
+Braun, W.;Braun, W.;World3,Multiparameter sweep,Parameter sensitivity,Optimization-based sensitivity analysis,OpenModelica,Derivative-free optimization;
+Fritzson, P.;Fritzson, P.;World3,Multiparameter sweep,Parameter sensitivity,Optimization-based sensitivity analysis,OpenModelica,Derivative-free optimization;
+Valverde, E.R.;Valverde, E.R.;;Non-homogeneity of depolarization,High resolution ECG,Myocardial infarction,QRS spectral index
 Dogliotti, A.I.;Dogliotti, A.I.;;
 Gagliardini, D.A.;Gagliardini, D.A.;;
 Frouin, R.;Frouin, R.;;
@@ -271,13 +271,13 @@ Hirschfeldt, D.;Hirschfeldt, D.;;
 Miller, J.S.;Miller, J.S.;;
 Ng, K.M.;Ng, K.M.;;
 Nies, A.;Nies, A.;;
-Gravano, A.;Gravano, A.;Random forest,Cross-linguistic,Turn-taking,Stock market,Dialogue,Latent semantic analysis,Text mining,Prosody,Ridge regression;
+Gravano, A.;Gravano, A.;Turn-taking,Cross-linguistic,Prosody,Random forest,Ridge regression,Dialogue,Stock market,Text mining,Latent semantic analysis;
 Clúa, O.;Clúa, O.;;
 Boro, F.;Boro, F.;;
 Santos, J.J.;Santos, J.J.;;
-Ventura, A.C.;Ventura, A.C.;Drug design,MAPK cascades,Signaling cascades,Retroactivity,Kinase inhibitors;
+Ventura, A.C.;Ventura, A.C.;Retroactivity,Drug design,MAPK cascades,Kinase inhibitors,Signaling cascades;
 Sneyd, J.;Sneyd, J.;;
-Soulignac, F.J.;Soulignac, F.J.;Proper interval models,Linear space algorithm,Cluster editing problem,Graph algorithms;
+Soulignac, F.J.;Soulignac, F.J.;Cluster editing problem,Linear space algorithm,Proper interval models,Graph algorithms;
 Consens, M.P.;Consens, M.P.;;
 Miller, R.J.;Miller, R.J.;;
 Rizzolo, F.;Rizzolo, F.;;
@@ -290,9 +290,9 @@ Rubio-García, A.;Rubio-García, A.;;
 Alcoba, D.R.;Alcoba, D.R.;;
 Capuzzi, P.;Capuzzi, P.;;
 Dukelsky, J.;Dukelsky, J.;;
-Maya, J.A.;Maya, J.A.;wireless sensor networks,energy and bandwidth constraints,multiple access channel,Distributed detection;
-Rey Vega, L.;Rey Vega, L.;Heegard-Berger problem,energy and bandwidth constraints,Multiterminal source coding,interactive lossy source coding,multiple access channel,distributed lossy source coding,Distributed detection,wireless sensor networks,Berger-Tung problem;
-Galarza, C.G.;Galarza, C.G.;wireless sensor networks,energy and bandwidth constraints,multiple access channel,Distributed detection;
+Maya, J.A.;Maya, J.A.;wireless sensor networks,Distributed detection,energy and bandwidth constraints,multiple access channel;
+Rey Vega, L.;Rey Vega, L.;interactive lossy source coding,energy and bandwidth constraints,Multiterminal source coding,Berger-Tung problem,wireless sensor networks,Distributed detection,Heegard-Berger problem,distributed lossy source coding,multiple access channel;
+Galarza, C.G.;Galarza, C.G.;wireless sensor networks,Distributed detection,energy and bandwidth constraints,multiple access channel;
 Hirsch, D.;Hirsch, D.;;
 Bank, B.;Bank, B.;;
 Giusti, M.;Giusti, M.;;
@@ -305,7 +305,7 @@ Riobó, L.M.;Riobó, L.M.;;
 González, M.G.;González, M.G.;;
 Veiras, F.E.;Veiras, F.E.;;
 Garea, M.T.;Garea, M.T.;;
-Sorichetti, P.A.;Sorichetti, P.A.;Monte Carlo,Spectral analysis,Mechanical spectroscopy,Dielectric spectroscopy,Bayesian methods;
+Sorichetti, P.A.;Sorichetti, P.A.;Bayesian methods,Spectral analysis,Dielectric spectroscopy,Mechanical spectroscopy,Monte Carlo;
 Lobayan, R.M.;Lobayan, R.M.;;
 Jubert, A.H.;Jubert, A.H.;;
 Vitale, M.G.;Vitale, M.G.;;
@@ -318,7 +318,7 @@ Musé, P.;Musé, P.;;
 Almansa, A.;Almansa, A.;;
 Bañuelos, A.;Bañuelos, A.;;
 Rodriguez-Trelles, F.;Rodriguez-Trelles, F.;;
-Bilbao, L.;Bilbao, L.;Exploding wire,Copper gas resistivity,Plasma simulations;
+Bilbao, L.;Bilbao, L.;Plasma simulations,Exploding wire,Copper gas resistivity;
 Gambini, J.;Gambini, J.;;
 Rozichner, D.;Rozichner, D.;;
 Berllés, J.J.;Berllés, J.J.;;
@@ -340,58 +340,58 @@ Castrillo, F.P.;Castrillo, F.P.;;
 Eijo, J.F.G.;Eijo, J.F.G.;;
 Solar, M.R.D.;Solar, M.R.D.;;
 Pollan, R.R.;Pollan, R.R.;;
-Brusco, P.;Brusco, P.;Prosody,Dialogue,Cross-linguistic,Turn-taking;
+Brusco, P.;Brusco, P.;Prosody,Turn-taking,Dialogue,Cross-linguistic;
 Valverde, E.;Valverde, E.;;
 Arini, P.;Arini, P.;;
-Domingo, C.S.;Domingo, C.S.;Cynara cardunculus,Pectin,Biomass to chemicals,Protease,Polyphenols,Hemicellulase,Inulin;
-Soria, M.;Soria, M.;Cynara cardunculus,Pectin,Biomass to chemicals,Protease,Polyphenols,Hemicellulase,Inulin;
-Rojas, A.M.;Rojas, A.M.;Cynara cardunculus,Pectin,Biomass to chemicals,Protease,Polyphenols,Hemicellulase,Inulin;
-Fissore, E.N.;Fissore, E.N.;Cynara cardunculus,Pectin,Biomass to chemicals,Protease,Polyphenols,Hemicellulase,Inulin;
-Gerschenson, L.N.;Gerschenson, L.N.;Cynara cardunculus,Pectin,Biomass to chemicals,Protease,Polyphenols,Hemicellulase,Inulin;
+Domingo, C.S.;Domingo, C.S.;Polyphenols,Hemicellulase,Cynara cardunculus,Pectin,Protease,Inulin,Biomass to chemicals;
+Soria, M.;Soria, M.;Polyphenols,Hemicellulase,Cynara cardunculus,Pectin,Protease,Inulin,Biomass to chemicals;
+Rojas, A.M.;Rojas, A.M.;Polyphenols,Hemicellulase,Cynara cardunculus,Pectin,Protease,Inulin,Biomass to chemicals;
+Fissore, E.N.;Fissore, E.N.;Polyphenols,Hemicellulase,Cynara cardunculus,Pectin,Protease,Inulin,Biomass to chemicals;
+Gerschenson, L.N.;Gerschenson, L.N.;Polyphenols,Hemicellulase,Cynara cardunculus,Pectin,Protease,Inulin,Biomass to chemicals;
 Chocron, P.;Chocron, P.;;
 Fontaine, P.;Fontaine, P.;;
 Ringeissen, C.;Ringeissen, C.;;
-Nahabedian, L.;Nahabedian, L.;Controller Synthesis,Dynamic Updates,Business process management,Behavioural Modelling;Safety,Tools,Controller Synthesis,Runtime,Dynamic Update,Paints,Business,Adaptive Systems,Control systems
-DIppolito, N.;DIppolito, N.;;Safety,Tools,Controller Synthesis,Runtime,Dynamic Update,Paints,Business,Adaptive Systems,Control systems
-Tei, K.;Tei, K.;;Safety,Tools,Controller Synthesis,Runtime,Dynamic Update,Paints,Business,Adaptive Systems,Control systems
+Nahabedian, L.;Nahabedian, L.;Controller Synthesis,Dynamic Updates,Behavioural Modelling,Business process management;Tools,Safety,Runtime,Paints,Control systems,Business,Dynamic Update,Adaptive Systems,Controller Synthesis
+DIppolito, N.;DIppolito, N.;;Tools,Safety,Runtime,Paints,Control systems,Business,Dynamic Update,Adaptive Systems,Controller Synthesis
+Tei, K.;Tei, K.;;Tools,Safety,Runtime,Paints,Control systems,Business,Dynamic Update,Adaptive Systems,Controller Synthesis
 Villarreal, Mirta, Ledesma, Silvia, Iemmi, Claudio.;Villarreal, Mirta, Ledesma, Silvia, Iemmi, Claudio.;;
-Laplante, S.;Laplante, S.;Nonlocality,Bell inequalities,Communication complexity,Detector efficiency;
-Laurière, M.;Laurière, M.;Nonlocality,Bell inequalities,Communication complexity,Detector efficiency;
-Nolin, A.;Nolin, A.;Nonlocality,Bell inequalities,Communication complexity,Detector efficiency;
-Roland, J.;Roland, J.;Nonlocality,Bell inequalities,Communication complexity,Detector efficiency;
+Laplante, S.;Laplante, S.;Detector efficiency,Nonlocality,Communication complexity,Bell inequalities;
+Laurière, M.;Laurière, M.;Detector efficiency,Nonlocality,Communication complexity,Bell inequalities;
+Nolin, A.;Nolin, A.;Detector efficiency,Nonlocality,Communication complexity,Bell inequalities;
+Roland, J.;Roland, J.;Detector efficiency,Nonlocality,Communication complexity,Bell inequalities;
 Craiem, D.;Craiem, D.;;
 Pessana, F.M.;Pessana, F.M.;;
 Graf, S.;Graf, S.;;
 De Forteza, E.;De Forteza, E.;;
 Cartelli, C.J.;Cartelli, C.J.;;
 Anigtein, M.;Anigtein, M.;;
-Prieto, G.R.;Prieto, G.R.;Exploding wire,Copper gas resistivity,Plasma simulations;
+Prieto, G.R.;Prieto, G.R.;Plasma simulations,Exploding wire,Copper gas resistivity;
 Cignoli, R.;Cignoli, R.;;
 Lafalce, S.;Lafalce, S.;;
 Petrovich, A.;Petrovich, A.;;
 Ponzio, P.;Ponzio, P.;;
-Regis, G.;Regis, G.;Temporal logic,Model checking,Specification and verification;
+Regis, G.;Regis, G.;Specification and verification,Temporal logic,Model checking;
 Rosner, N.;Rosner, N.;;
 Siddiqui, J.H.;Siddiqui, J.H.;;
-Aguirre, N.;Aguirre, N.;Temporal logic,Model checking,Specification and verification;
+Aguirre, N.;Aguirre, N.;Specification and verification,Temporal logic,Model checking;
 Khurshid, S.;Khurshid, S.;;
 Crivelli, T.;Crivelli, T.;;
-Cernuschi-Frías, B.;Cernuschi-Frías, B.;;Lp spaces,uncertainty principles,Continuous wavelet transform
+Cernuschi-Frías, B.;Cernuschi-Frías, B.;;Lp spaces,Continuous wavelet transform,uncertainty principles
 Bouthemy, P.;Bouthemy, P.;;
 Yao, J.F.;Yao, J.F.;;
 Hirsch, Dan, Inverardi, Paola, Montanari, Ugo.;Hirsch, Dan, Inverardi, Paola, Montanari, Ugo.;;
-Medina, J.M.;Medina, J.M.;;Lp spaces,uncertainty principles,Continuous wavelet transform
+Medina, J.M.;Medina, J.M.;;Lp spaces,Continuous wavelet transform,uncertainty principles
 Barrera, G.D.;Barrera, G.D.;;
 De Tendler, R.H.;De Tendler, R.H.;;
 Cafure, A.;Cafure, A.;;
 Matera, G.;Matera, G.;;
 Privitelli, M.;Privitelli, M.;;
 Blandi, L.;Blandi, L.;;
-Rodríguez, R.O.;Rodríguez, R.O.;Many-valued logics.,Gödel logic,Modal algebras,Modal logic,Kripke models,Fuzzy logic;
-Havrikov, N.;Havrikov, N.;xml schema,functional mocking,automated test generation,unit testing,environment mocking;
-Gambi, A.;Gambi, A.;xml schema,functional mocking,automated test generation,unit testing,environment mocking;
-Zeller, A.;Zeller, A.;xml schema,functional mocking,automated test generation,unit testing,environment mocking;
-Arcuri, A.;Arcuri, A.;xml schema,functional mocking,automated test generation,unit testing,environment mocking;
+Rodríguez, R.O.;Rodríguez, R.O.;Fuzzy logic,Gödel logic,Modal logic,Modal algebras,Kripke models,Many-valued logics.;
+Havrikov, N.;Havrikov, N.;unit testing,xml schema,automated test generation,environment mocking,functional mocking;
+Gambi, A.;Gambi, A.;unit testing,xml schema,automated test generation,environment mocking,functional mocking;
+Zeller, A.;Zeller, A.;unit testing,xml schema,automated test generation,environment mocking,functional mocking;
+Arcuri, A.;Arcuri, A.;unit testing,xml schema,automated test generation,environment mocking,functional mocking;
 Azzopardi, S.;Azzopardi, S.;Deontic logic,CL,Contract automata;
 Pace, G.J.;Pace, G.J.;Deontic logic,CL,Contract automata;
 Schapachnik, F.;Schapachnik, F.;Deontic logic,CL,Contract automata;
@@ -412,17 +412,17 @@ Ter Beek, M.H.;Ter Beek, M.H.;;
 Cruz-Filipe, L.;Cruz-Filipe, L.;;
 Wachenchauzer, R.;Wachenchauzer, R.;;
 Kuijpers, B.;Kuijpers, B.;;
-Bonomo, F.;Bonomo, F.;Sum coloring,Cluster deletion,P4-sparse,Graph algorithms;
-Duran, G.;Duran, G.;Sum coloring,Cluster deletion,P4-sparse,Graph algorithms;
-Napoli, A.;Napoli, A.;Sum coloring,Cluster deletion,P4-sparse,Graph algorithms;
-Valencia-Pabon, M.;Valencia-Pabon, M.;Sum coloring,Cluster deletion,P4-sparse,Graph algorithms;
-Benedetto, M.F.;Benedetto, M.F.;Fracture flows,Mixed formulation,Darcy flows,Mixed Virtual Elements,Discrete Fracture Networks;
-Borio, A.;Borio, A.;Fracture flows,Mixed formulation,Darcy flows,Mixed Virtual Elements,Discrete Fracture Networks;
-Scialò, S.;Scialò, S.;Fracture flows,Mixed formulation,Darcy flows,Mixed Virtual Elements,Discrete Fracture Networks;
-Pedre, S.;Pedre, S.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
-Krajník, T.;Krajník, T.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
-Todorovich, E.;Todorovich, E.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
-Borensztejn, P.;Borensztejn, P.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
+Bonomo, F.;Bonomo, F.;P4-sparse,Cluster deletion,Sum coloring,Graph algorithms;
+Duran, G.;Duran, G.;P4-sparse,Cluster deletion,Sum coloring,Graph algorithms;
+Napoli, A.;Napoli, A.;P4-sparse,Cluster deletion,Sum coloring,Graph algorithms;
+Valencia-Pabon, M.;Valencia-Pabon, M.;P4-sparse,Cluster deletion,Sum coloring,Graph algorithms;
+Benedetto, M.F.;Benedetto, M.F.;Discrete Fracture Networks,Darcy flows,Mixed formulation,Fracture flows,Mixed Virtual Elements;
+Borio, A.;Borio, A.;Discrete Fracture Networks,Darcy flows,Mixed formulation,Fracture flows,Mixed Virtual Elements;
+Scialò, S.;Scialò, S.;Discrete Fracture Networks,Darcy flows,Mixed formulation,Fracture flows,Mixed Virtual Elements;
+Pedre, S.;Pedre, S.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
+Krajník, T.;Krajník, T.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
+Todorovich, E.;Todorovich, E.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
+Borensztejn, P.;Borensztejn, P.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
 Pascaner, A.F.;Pascaner, A.F.;;
 Casciaro, M.E.;Casciaro, M.E.;;
 Kelly, A.J.;Kelly, A.J.;;
@@ -430,16 +430,16 @@ Mi, J.;Mi, J.;;
 Sinha, G.V.;Sinha, G.V.;;
 Audebert, F.;Audebert, F.;;
 Grant, P.S.;Grant, P.S.;;
-Parino, F.;Parino, F.;;Bitcoin adoption,Bitcoin blockchain,Transaction network
-Beiró, M.G.;Beiró, M.G.;;Bitcoin adoption,Bitcoin blockchain,Transaction network
-Gauvin, L.;Gauvin, L.;;Bitcoin adoption,Bitcoin blockchain,Transaction network
-Díaz-Caro, A.;Díaz-Caro, A.;;abstract rewriting system,probabilistic rewriting,confluence
-Martínez, G.;Martínez, G.;;abstract rewriting system,probabilistic rewriting,confluence
+Parino, F.;Parino, F.;;Bitcoin blockchain,Bitcoin adoption,Transaction network
+Beiró, M.G.;Beiró, M.G.;;Bitcoin blockchain,Bitcoin adoption,Transaction network
+Gauvin, L.;Gauvin, L.;;Bitcoin blockchain,Bitcoin adoption,Transaction network
+Díaz-Caro, A.;Díaz-Caro, A.;;probabilistic rewriting,abstract rewriting system,confluence
+Martínez, G.;Martínez, G.;;probabilistic rewriting,abstract rewriting system,confluence
 Verucchi, C.J.;Verucchi, C.J.;;
 Acosta, G.G.;Acosta, G.G.;;
 Carusso, E.M.;Carusso, E.M.;;
 Pfander, G.E.;Pfander, G.E.;;
-Azzaro, J.E.;Azzaro, J.E.;Variable structure control,Non-linear systems,Discrete-Time systems,Neural Networks;
+Azzaro, J.E.;Azzaro, J.E.;Variable structure control,Discrete-Time systems,Neural Networks,Non-linear systems;
 Jaume, D.A.;Jaume, D.A.;;
 Grippo, L.N.;Grippo, L.N.;;
 Trevisan, V.;Trevisan, V.;;
@@ -447,7 +447,7 @@ Gutman, I.;Gutman, I.;;
 De Ves, E.;De Ves, E.;;
 Benavent, X.;Benavent, X.;;
 Avendaño, M.;Avendaño, M.;;
-Krick, T.;Krick, T.;;Real projective varieties,Condition,Homology groups,Complexity,Exponential time
+Krick, T.;Krick, T.;;Complexity,Homology groups,Exponential time,Real projective varieties,Condition
 Pacetti, A.;Pacetti, A.;;
 Baricco, G.A.;Baricco, G.A.;;
 Olivero, A.M.;Olivero, A.M.;;
@@ -461,20 +461,20 @@ Carballo, F.;Carballo, F.;;
 Grings, F.;Grings, F.;;
 Crow, W.;Crow, W.;;
 Karszenbaum, H.;Karszenbaum, H.;;
-Karlsson, M.;Karlsson, M.;Nonlinear mixed-effects modelling,Single cell modelling,Singe cell analysis,NLME,FRAP;
-Janzén, D.L.I.;Janzén, D.L.I.;Nonlinear mixed-effects modelling,Single cell modelling,Singe cell analysis,NLME,FRAP;
-Durrieu, L.;Durrieu, L.;Nonlinear mixed-effects modelling,Single cell modelling,Singe cell analysis,NLME,FRAP;
-Kjellsson, M.C.;Kjellsson, M.C.;Nonlinear mixed-effects modelling,Single cell modelling,Singe cell analysis,NLME,FRAP;
-Cedersund, G.;Cedersund, G.;Nonlinear mixed-effects modelling,Single cell modelling,Singe cell analysis,NLME,FRAP;
+Karlsson, M.;Karlsson, M.;Single cell modelling,Singe cell analysis,Nonlinear mixed-effects modelling,NLME,FRAP;
+Janzén, D.L.I.;Janzén, D.L.I.;Single cell modelling,Singe cell analysis,Nonlinear mixed-effects modelling,NLME,FRAP;
+Durrieu, L.;Durrieu, L.;Single cell modelling,Singe cell analysis,Nonlinear mixed-effects modelling,NLME,FRAP;
+Kjellsson, M.C.;Kjellsson, M.C.;Single cell modelling,Singe cell analysis,Nonlinear mixed-effects modelling,NLME,FRAP;
+Cedersund, G.;Cedersund, G.;Single cell modelling,Singe cell analysis,Nonlinear mixed-effects modelling,NLME,FRAP;
 Premuzic, Z.;Premuzic, Z.;;
 Brichta, J.P.;Brichta, J.P.;;
 Rendina, A.E.;Rendina, A.E.;;
 Iorio, A.F.;Iorio, A.F.;;
-Seijas, L.M.;Seijas, L.M.;handwritten digit recognition,support vector machine,binary fish school search,binary particle swarm optimization,advanced binary ant colony optimization,wavelet transform,feature selection,binary optimization;
-Carneiro, R.F.;Carneiro, R.F.;handwritten digit recognition,support vector machine,binary fish school search,binary particle swarm optimization,advanced binary ant colony optimization,wavelet transform,feature selection,binary optimization;
-Santana, C.J.;Santana, C.J.;handwritten digit recognition,support vector machine,binary fish school search,binary particle swarm optimization,advanced binary ant colony optimization,wavelet transform,feature selection,binary optimization;
-Bezerra, S.G.T.A.;Bezerra, S.G.T.A.;handwritten digit recognition,support vector machine,binary fish school search,binary particle swarm optimization,advanced binary ant colony optimization,wavelet transform,feature selection,binary optimization;
-Bastos-Filho, C.J.A.;Bastos-Filho, C.J.A.;handwritten digit recognition,support vector machine,binary fish school search,binary particle swarm optimization,advanced binary ant colony optimization,wavelet transform,feature selection,binary optimization;
+Seijas, L.M.;Seijas, L.M.;binary particle swarm optimization,advanced binary ant colony optimization,feature selection,binary optimization,binary fish school search,support vector machine,wavelet transform,handwritten digit recognition;
+Carneiro, R.F.;Carneiro, R.F.;binary particle swarm optimization,advanced binary ant colony optimization,feature selection,binary optimization,binary fish school search,support vector machine,wavelet transform,handwritten digit recognition;
+Santana, C.J.;Santana, C.J.;binary particle swarm optimization,advanced binary ant colony optimization,feature selection,binary optimization,binary fish school search,support vector machine,wavelet transform,handwritten digit recognition;
+Bezerra, S.G.T.A.;Bezerra, S.G.T.A.;binary particle swarm optimization,advanced binary ant colony optimization,feature selection,binary optimization,binary fish school search,support vector machine,wavelet transform,handwritten digit recognition;
+Bastos-Filho, C.J.A.;Bastos-Filho, C.J.A.;binary particle swarm optimization,advanced binary ant colony optimization,feature selection,binary optimization,binary fish school search,support vector machine,wavelet transform,handwritten digit recognition;
 Parrilo, P.A.;Parrilo, P.A.;;
 Sánchez Peña, R.S.;Sánchez Peña, R.S.;;
 Sznaier, M.;Sznaier, M.;;
@@ -499,14 +499,14 @@ Lakhtakia, A.;Lakhtakia, A.;;
 Sarraute, C.;Sarraute, C.;;
 Blanc, P.;Blanc, P.;;
 Burroni, J.;Burroni, J.;;
-Pérez, G.;Pérez, G.;Parallel programming,Automated code generation,Formal methods,Software design patterns;
+Pérez, G.;Pérez, G.;Automated code generation,Parallel programming,Formal methods,Software design patterns;
 Cemuschi Frias, B.;Cemuschi Frias, B.;;
 Thomasz, E.O.;Thomasz, E.O.;;
 Casparri, M.T.;Casparri, M.T.;;
-Soria, A.;Soria, A.;software architecture,fault analysis,Use-Case Maps,tool support,Java;
-Díaz-Pace, J.A.;Díaz-Pace, J.A.;software architecture,fault analysis,Use-Case Maps,tool support,Java;
-Campo, M.R.;Campo, M.R.;software architecture,fault analysis,Use-Case Maps,tool support,Java;
-Asteasuain, F.;Asteasuain, F.;requirements engineering,specification patterns,Requirements Engineering,Behavioral modeling,Formal Specifications;
+Soria, A.;Soria, A.;tool support,Java,fault analysis,software architecture,Use-Case Maps;
+Díaz-Pace, J.A.;Díaz-Pace, J.A.;tool support,Java,fault analysis,software architecture,Use-Case Maps;
+Campo, M.R.;Campo, M.R.;tool support,Java,fault analysis,software architecture,Use-Case Maps;
+Asteasuain, F.;Asteasuain, F.;Formal Specifications,requirements engineering,Behavioral modeling,specification patterns,Requirements Engineering;
 de los Rios, A.;de los Rios, A.;;
 Bilotti, G.;Bilotti, G.;;
 de Iorio, A.F.;de Iorio, A.F.;;
@@ -515,15 +515,15 @@ Valentinuzzi, M.E.;Valentinuzzi, M.E.;;
 Salgado, H.;Salgado, H.;;
 Zabala, S.M.;Zabala, S.M.;;
 Mili, A.;Mili, A.;;
-Geier, M.;Geier, M.;;Distributed systems,Parallel applications,Benchmarks,Fog and edge computing
+Geier, M.;Geier, M.;;Distributed systems,Benchmarks,Parallel applications,Fog and edge computing
 Peralta, N.R.;Peralta, N.R.;;
 Costa, J.L.;Costa, J.L.;;
 Serrano, E.P.;Serrano, E.P.;;
 Troparevsky, M.I.;Troparevsky, M.I.;;
 Fabio, M.A.;Fabio, M.A.;;
-Vera, M.;Vera, M.;;Source coding,Decoding,Mutual information,Noisy rate-distortion,Complexity theory,Distortion measurement,Distributed source coding,Distortion,Information Bottleneck,Interactive lossy source coding,Collaboration,Logarithmic loss,Multi-terminal source coding,Shannon theory,Side information
-Vega, L.R.;Vega, L.R.;;Source coding,Decoding,Mutual information,Noisy rate-distortion,Complexity theory,Distortion measurement,Distributed source coding,Distortion,Information Bottleneck,Interactive lossy source coding,Collaboration,Logarithmic loss,Multi-terminal source coding,Shannon theory,Side information
-Piantanida, P.;Piantanida, P.;Multiterminal source coding,Heegard-Berger problem,interactive lossy source coding,distributed lossy source coding,Berger-Tung problem;Source coding,Decoding,Mutual information,Noisy rate-distortion,Complexity theory,Distortion measurement,Distributed source coding,Distortion,Information Bottleneck,Interactive lossy source coding,Collaboration,Logarithmic loss,Multi-terminal source coding,Shannon theory,Side information
+Vera, M.;Vera, M.;;Interactive lossy source coding,Noisy rate-distortion,Distributed source coding,Source coding,Decoding,Logarithmic loss,Side information,Distortion,Multi-terminal source coding,Collaboration,Mutual information,Shannon theory,Complexity theory,Information Bottleneck,Distortion measurement
+Vega, L.R.;Vega, L.R.;;Interactive lossy source coding,Noisy rate-distortion,Distributed source coding,Source coding,Decoding,Logarithmic loss,Side information,Distortion,Multi-terminal source coding,Collaboration,Mutual information,Shannon theory,Complexity theory,Information Bottleneck,Distortion measurement
+Piantanida, P.;Piantanida, P.;interactive lossy source coding,Multiterminal source coding,Berger-Tung problem,Heegard-Berger problem,distributed lossy source coding;Interactive lossy source coding,Noisy rate-distortion,Distributed source coding,Source coding,Decoding,Logarithmic loss,Side information,Distortion,Multi-terminal source coding,Collaboration,Mutual information,Shannon theory,Complexity theory,Information Bottleneck,Distortion measurement
 Gallardo, S.;Gallardo, S.;;
 Fernández, J.C.;Fernández, J.C.;;
 Isaurralde, S.;Isaurralde, S.;;
@@ -533,11 +533,11 @@ Moreno, I.;Moreno, I.;;
 Cerioli, M.R.;Cerioli, M.R.;;
 Mottalli, M.;Mottalli, M.;;
 Jacobo-Berlles, J.;Jacobo-Berlles, J.;;
-Pavese, E.;Pavese, E.;Model checking,Probability,Partial verification,Quantitativemodelling,Estimation;
+Pavese, E.;Pavese, E.;Partial verification,Quantitativemodelling,Probability,Estimation,Model checking;
 Leguizamón, C.A.;Leguizamón, C.A.;;
 Zaretzky, A.N.;Zaretzky, A.N.;;
-Bianco, A.M.;Bianco, A.M.;Nonparametric regression,Fisher-consistency,Kernel weights,M-location functionals,Robust estimation;
-Spano, P.M.;Spano, P.M.;Nonparametric regression,Fisher-consistency,Kernel weights,M-location functionals,Robust estimation;
+Bianco, A.M.;Bianco, A.M.;Fisher-consistency,Nonparametric regression,Kernel weights,M-location functionals,Robust estimation;
+Spano, P.M.;Spano, P.M.;Fisher-consistency,Nonparametric regression,Kernel weights,M-location functionals,Robust estimation;
 Acosta, G.;Acosta, G.;;
 Durán, R.G.;Durán, R.G.;;
 Rossi, J.D.;Rossi, J.D.;;
@@ -547,8 +547,8 @@ Moelans, B.;Moelans, B.;;
 Vaisman, A.;Vaisman, A.;;
 Minuto Espil, M.;Minuto Espil, M.;;
 Nitsche, M.;Nitsche, M.;;
-Kulich, M.;Kulich, M.;Robotic search,Graph Search Problem,Traveling Deliveryman Problem,GRASP,Mobile robotics;
-Barenbaum, P.;Barenbaum, P.;Explicit substitutions,Rewriting,Lambda calculus,Optimal reduction;
+Kulich, M.;Kulich, M.;GRASP,Robotic search,Graph Search Problem,Mobile robotics,Traveling Deliveryman Problem;
+Barenbaum, P.;Barenbaum, P.;Optimal reduction,Lambda calculus,Explicit substitutions,Rewriting;
 Deymonnaz, A.;Deymonnaz, A.;;
 Halsband, M.;Halsband, M.;;
 Saavedra, A.;Saavedra, A.;;
@@ -557,7 +557,7 @@ Mazzaferri, J.;Mazzaferri, J.;;
 Ledesma, S.;Ledesma, S.;;
 Caiafa, C.F.;Caiafa, C.F.;;
 Gomez, L.I.;Gomez, L.I.;;
-Bujjamer, J.;Bujjamer, J.;zero-resources,keyword detection,segmental models,Speech recognition;
+Bujjamer, J.;Bujjamer, J.;zero-resources,segmental models,Speech recognition,keyword detection;
 Gorín, D.;Gorín, D.;;
 Areces, C.;Areces, C.;;
 Carreiro, F.;Carreiro, F.;;
@@ -565,13 +565,13 @@ De Caso, G.;De Caso, G.;;
 Mailing, A.;Mailing, A.;;
 D'Ippolito, N.R.;D'Ippolito, N.R.;;
 Piterman, N.;Piterman, N.;;
-Britos, P.;Britos, P.;Requirement engineering,Requirement management,Methodology,Process,Information mining;
+Britos, P.;Britos, P.;Process,Requirement management,Information mining,Requirement engineering,Methodology;
 Rey, E.J.;Rey, E.J.;;
 Rodriguez, D.;Rodriguez, D.;;
 Garcia-Martinez, R.;Garcia-Martinez, R.;;
 Cotik, V.;Cotik, V.;;
 Jenik, M.;Jenik, M.;;
-D'Ippolito, N.;D'Ippolito, N.;Temporal logic,Model checking,Specification and verification;
+D'Ippolito, N.;D'Ippolito, N.;Specification and verification,Temporal logic,Model checking;
 Sacco, N.J.;Sacco, N.J.;;
 Avella-Oliver, M.;Avella-Oliver, M.;;
 Puchades, R.;Puchades, R.;;
@@ -579,10 +579,10 @@ Maquieira, A.;Maquieira, A.;;
 Moreno, P.;Moreno, P.;;
 Pose, C.;Pose, C.;;
 Giribet, J.;Giribet, J.;;
-Degiovanni, R.;Degiovanni, R.;Temporal logic,Model checking,Specification and verification;
-Giribet, J.I.;Giribet, J.I.;Unmanned aerial vehicle,Fault tolerant control,Actuator allocation;
-Pose, C.D.;Pose, C.D.;Unmanned aerial vehicle,Fault tolerant control,Actuator allocation;
-Mas, I.;Mas, I.;Unmanned aerial vehicle,Fault tolerant control,Actuator allocation;
+Degiovanni, R.;Degiovanni, R.;Specification and verification,Temporal logic,Model checking;
+Giribet, J.I.;Giribet, J.I.;Actuator allocation,Unmanned aerial vehicle,Fault tolerant control;
+Pose, C.D.;Pose, C.D.;Actuator allocation,Unmanned aerial vehicle,Fault tolerant control;
+Mas, I.;Mas, I.;Actuator allocation,Unmanned aerial vehicle,Fault tolerant control;
 Coll, P.;Coll, P.;;
 Factorovich, P.;Factorovich, P.;;
 Loiseau, I.;Loiseau, I.;;
@@ -591,7 +591,7 @@ Rosso, O.A.;Rosso, O.A.;;
 Figliola, A.;Figliola, A.;;
 Creso, J.;Creso, J.;;
 Serrano, E.;Serrano, E.;;
-Belaustegui Goitia, C.F.;Belaustegui Goitia, C.F.;queuing analysis,telecommunication network reliability,wireless sensor networks,Internet of Things (IoT),Closed-form solutions;
+Belaustegui Goitia, C.F.;Belaustegui Goitia, C.F.;Internet of Things (IoT),wireless sensor networks,Closed-form solutions,queuing analysis,telecommunication network reliability;
 Uzal, R.;Uzal, R.;;
 Montejano, G.;Montejano, G.;;
 Riesco, D.;Riesco, D.;;
@@ -601,7 +601,7 @@ Omaña, M.E.;Omaña, M.E.;;
 Debnath, N.C.;Debnath, N.C.;;
 Pollo-Cattaneo, M.;Pollo-Cattaneo, M.;;
 Fernández, Merlino, H.;Fernández, Merlino, H.;;
-García-Martínez, R.;García-Martínez, R.;Requirement engineering,Requirement management,Methodology,Process,Information mining;
+García-Martínez, R.;García-Martínez, R.;Process,Requirement management,Information mining,Requirement engineering,Methodology;
 Baglivo, F.H.;Baglivo, F.H.;;
 Martínez, J.P.;Martínez, J.P.;;
 Ruedin, A.M.C.;Ruedin, A.M.C.;;
@@ -621,19 +621,19 @@ Orozco, I.;Orozco, I.;;
 Savioli, G.B.;Savioli, G.B.;;
 Jacovkis, P.M.;Jacovkis, P.M.;;
 Bidner, M.S.;Bidner, M.S.;;
-Heineken, S.B.;Heineken, S.B.;;Consistent reconstruction,oblique projections,oblique dual fusion frames,frames,fusion frames,oblique dual frames
-Morillas, P.M.;Morillas, P.M.;;Consistent reconstruction,oblique projections,oblique dual fusion frames,frames,fusion frames,oblique dual frames
+Heineken, S.B.;Heineken, S.B.;;oblique dual fusion frames,fusion frames,Consistent reconstruction,oblique projections,oblique dual frames,frames
+Morillas, P.M.;Morillas, P.M.;;oblique dual fusion frames,fusion frames,Consistent reconstruction,oblique projections,oblique dual frames,frames
 Espada, R.;Espada, R.;;
 Parra, R.G.;Parra, R.G.;;
 Mora, T.;Mora, T.;;
 Walczak, A.M.;Walczak, A.M.;;
 Ferreiro, D.U.;Ferreiro, D.U.;;
 Servidia, P.A.;Servidia, P.A.;;
-Lascano, N.;Lascano, N.;Diffusion MRI,Core graph problem,Brain connectivity,Group-wise connectome;
-Gallardo-Diez, G.;Gallardo-Diez, G.;Diffusion MRI,Core graph problem,Brain connectivity,Group-wise connectome;
-Deriche, R.;Deriche, R.;Diffusion MRI,Core graph problem,Brain connectivity,Group-wise connectome;
-Mazauric, D.;Mazauric, D.;Diffusion MRI,Core graph problem,Brain connectivity,Group-wise connectome;
-Wassermann, D.;Wassermann, D.;Diffusion MRI,Core graph problem,Brain connectivity,Group-wise connectome;
+Lascano, N.;Lascano, N.;Core graph problem,Diffusion MRI,Group-wise connectome,Brain connectivity;
+Gallardo-Diez, G.;Gallardo-Diez, G.;Core graph problem,Diffusion MRI,Group-wise connectome,Brain connectivity;
+Deriche, R.;Deriche, R.;Core graph problem,Diffusion MRI,Group-wise connectome,Brain connectivity;
+Mazauric, D.;Mazauric, D.;Core graph problem,Diffusion MRI,Group-wise connectome,Brain connectivity;
+Wassermann, D.;Wassermann, D.;Core graph problem,Diffusion MRI,Group-wise connectome,Brain connectivity;
 Comas, G.;Comas, G.;;
 Seiguer, M.;Seiguer, M.;;
 Pelle, P.A.;Pelle, P.A.;;
@@ -678,7 +678,7 @@ Sülsen, V.P.;Sülsen, V.P.;;
 Gil-Costa, V.;Gil-Costa, V.;;
 Mizrahi, M.;Mizrahi, M.;;
 Marin, M.;Marin, M.;;
-Kutyniok, G.;Kutyniok, G.;Perturbation,Fusion frame,Canonical dual;
+Kutyniok, G.;Kutyniok, G.;Canonical dual,Fusion frame,Perturbation;
 Torres, L.;Torres, L.;;
 Marqués, F.;Marqués, F.;;
 Lorente, L.;Lorente, L.;;
@@ -702,7 +702,7 @@ Cecchi, G.;Cecchi, G.;;
 Slezak, D.F.;Slezak, D.F.;;
 Mandel, R.;Mandel, R.;;
 Solernó, P.;Solernó, P.;;
-Ferpozzi, H.;Ferpozzi, H.;Policy,Discourse,Open access,Participation,Co-production of knowledge;
+Ferpozzi, H.;Ferpozzi, H.;Participation,Open access,Co-production of knowledge,Policy,Discourse;
 Bruno, N.;Bruno, N.;;
 Finquelievich, S.;Finquelievich, S.;;
 Hamkalo, J.L.;Hamkalo, J.L.;;
@@ -717,21 +717,21 @@ Barmak, J.A.;Barmak, J.A.;;
 Sigman, L.;Sigman, L.;;
 Sánchez, V.M.;Sánchez, V.M.;;
 Turjanski, A.G.;Turjanski, A.G.;;
-van Zuylen, A.;van Zuylen, A.;Scenarios,Makespan,Approximation algorithm,Job scheduling;
+van Zuylen, A.;van Zuylen, A.;Job scheduling,Makespan,Approximation algorithm,Scenarios;
 Moreno, A.;Moreno, A.;;
 Nicolás, J.;Nicolás, J.;;
-Descotte, M.E.;Descotte, M.E.;Saturation,Ultraproduct,Xpath,Bisimulation,Definability,First-order logic,Separation,Data tree;
+Descotte, M.E.;Descotte, M.E.;Saturation,Separation,Ultraproduct,First-order logic,Data tree,Definability,Bisimulation,Xpath;
 López De Luise, M.D.;López De Luise, M.D.;;
 Ale, J.M.;Ale, J.M.;;
-Cassol, I.;Cassol, I.;;object-oriented paradigm,reengineering,procedural language,design recovery,reverse engineering,refactoring,legacy software
-Arévalo, G.;Arévalo, G.;;object-oriented paradigm,reengineering,procedural language,design recovery,reverse engineering,refactoring,legacy software
+Cassol, I.;Cassol, I.;;legacy software,procedural language,reengineering,refactoring,reverse engineering,object-oriented paradigm,design recovery
+Arévalo, G.;Arévalo, G.;;legacy software,procedural language,reengineering,refactoring,reverse engineering,object-oriented paradigm,design recovery
 Durán, G.;Durán, G.;;
 Soulignac, F.;Soulignac, F.;;
 Sueiro, G.;Sueiro, G.;;
 Méndez, M.;Méndez, M.;Change-driven development,High performance computing,Scientific programming;
 Tinetti, F.G.;Tinetti, F.G.;Change-driven development,High performance computing,Scientific programming;
 Kramer, J.;Kramer, J.;;
-Linne, J.;Linne, J.;Performance,Buenos aires,Adolescents,Facebook,Intimacy;
+Linne, J.;Linne, J.;Intimacy,Buenos aires,Adolescents,Facebook,Performance;
 Amandi, A.;Amandi, A.;;
 Leonardi, M.C.;Leonardi, M.C.;;
 Lopez, M.J.;Lopez, M.J.;;
@@ -748,14 +748,14 @@ Arroyo, V.;Arroyo, V.;;
 Morelli Andres, A.;Morelli Andres, A.;;
 Padovani, S.;Padovani, S.;;
 Jacobo, J.;Jacobo, J.;;
-Teach, A.;Teach, A.;MANET,QoS,ad hoc,AQM,OLSR,wireless,disaster;
+Teach, A.;Teach, A.;wireless,MANET,QoS,OLSR,AQM,ad hoc,disaster;
 Pistore, M.;Pistore, M.;;
 Yankelevich, D.;Yankelevich, D.;;
 Mirandou, M.;Mirandou, M.;;
 Fontana, M.;Fontana, M.;;
 Arcondo, B.;Arcondo, B.;;
-Miranda-Bront, J.J.;Miranda-Bront, J.J.;Robotic search,Graph Search Problem,Traveling Deliveryman Problem,GRASP,Integer programming,University timetabling,Mobile robotics,Matheuristic;
-Přeučil, L.;Přeučil, L.;Robotic search,Graph Search Problem,Traveling Deliveryman Problem,GRASP,Mobile robotics;
+Miranda-Bront, J.J.;Miranda-Bront, J.J.;Matheuristic,GRASP,Robotic search,Integer programming,Graph Search Problem,Mobile robotics,University timetabling,Traveling Deliveryman Problem;
+Přeučil, L.;Přeučil, L.;GRASP,Robotic search,Graph Search Problem,Mobile robotics,Traveling Deliveryman Problem;
 Gantner, M.E.;Gantner, M.E.;;
 Peroni, R.N.;Peroni, R.N.;;
 Morales, J.F.;Morales, J.F.;;
@@ -787,13 +787,13 @@ Medina, F.M.;Medina, F.M.;;
 Rey, H.;Rey, H.;;
 Benesty, J.;Benesty, J.;;
 Tressens, S.;Tressens, S.;;
-Bonelli, E.;Bonelli, E.;Explicit substitutions,Rewriting,Lambda calculus,Optimal reduction;
+Bonelli, E.;Bonelli, E.;Optimal reduction,Lambda calculus,Explicit substitutions,Rewriting;
 Jajamovich, G.H.;Jajamovich, G.H.;;
 Giménez, J.C.;Giménez, J.C.;;
 Borrajo, D.;Borrajo, D.;;
-Castro, R.D.;Castro, R.D.;Energy,Sustainability,Emergy,Bond graphs,Modelica;
-Cellier, F.E.;Cellier, F.E.;Energy,Sustainability,Emergy,Bond graphs,Modelica;
-Fischlin, A.;Fischlin, A.;Energy,Sustainability,Emergy,Bond graphs,Modelica;
+Castro, R.D.;Castro, R.D.;Sustainability,Energy,Modelica,Emergy,Bond graphs;
+Cellier, F.E.;Cellier, F.E.;Sustainability,Energy,Modelica,Emergy,Bond graphs;
+Fischlin, A.;Fischlin, A.;Sustainability,Energy,Modelica,Emergy,Bond graphs;
 Espil, M.M.;Espil, M.M.;;
 Lopez Pombo, C.G.;Lopez Pombo, C.G.;;
 Violante, L.;Violante, L.;;
@@ -803,22 +803,22 @@ Marrero-Ponce, Y.;Marrero-Ponce, Y.;;
 Meneses-Marcel, A.;Meneses-Marcel, A.;;
 Rivera, N.;Rivera, N.;;
 Vogel, C.;Vogel, C.;;
-Bianchi, M.;Bianchi, M.;RGB-D,Point clouds,Object recognition,Tracking;
-Heredia, N.;Heredia, N.;RGB-D,Point clouds,Object recognition,Tracking;
-Gómez-Fernández, F.;Gómez-Fernández, F.;RGB-D,Point clouds,Object recognition,Tracking;
-Pardo, A.;Pardo, A.;RGB-D,Point clouds,Object recognition,Tracking;
-Chari, G.;Chari, G.;Reflection,Performance,Metaobject protocols,Virtual machines;Task analysis,Shape,Software,Memory management,Semantics,Virtual machining
-Marr, S.;Marr, S.;Reflection,Performance,Metaobject protocols,Virtual machines;Task analysis,Shape,Software,Memory management,Semantics,Virtual machining
-Ducasse, S.;Ducasse, S.;;Task analysis,Shape,Software,Memory management,Semantics,Virtual machining
+Bianchi, M.;Bianchi, M.;Object recognition,Tracking,RGB-D,Point clouds;
+Heredia, N.;Heredia, N.;Object recognition,Tracking,RGB-D,Point clouds;
+Gómez-Fernández, F.;Gómez-Fernández, F.;Object recognition,Tracking,RGB-D,Point clouds;
+Pardo, A.;Pardo, A.;Object recognition,Tracking,RGB-D,Point clouds;
+Chari, G.;Chari, G.;Reflection,Virtual machines,Metaobject protocols,Performance;Semantics,Virtual machining,Software,Shape,Task analysis,Memory management
+Marr, S.;Marr, S.;Reflection,Virtual machines,Metaobject protocols,Performance;Semantics,Virtual machining,Software,Shape,Task analysis,Memory management
+Ducasse, S.;Ducasse, S.;;Semantics,Virtual machining,Software,Shape,Task analysis,Memory management
 Vergyri, D.;Vergyri, D.;PTSD assessment,Mental health assessment;
 Knoth, B.;Knoth, B.;PTSD assessment,Mental health assessment;
 Shriberg, E.;Shriberg, E.;PTSD assessment,Mental health assessment;
 Garcia, P.;Garcia, P.;PTSD assessment,Mental health assessment;
 Marmar, C.;Marmar, C.;PTSD assessment,Mental health assessment;
 Ferraro, D.O.;Ferraro, D.O.;;
-Ciocci Brazzano, L.;Ciocci Brazzano, L.;Monte Carlo,Spectral analysis,Mechanical spectroscopy,Dielectric spectroscopy,Bayesian methods;
-Pellizza, L.J.;Pellizza, L.J.;Monte Carlo,Spectral analysis,Mechanical spectroscopy,Dielectric spectroscopy,Bayesian methods;
-Matteo, C.L.;Matteo, C.L.;Monte Carlo,Spectral analysis,Mechanical spectroscopy,Dielectric spectroscopy,Bayesian methods;
+Ciocci Brazzano, L.;Ciocci Brazzano, L.;Bayesian methods,Spectral analysis,Dielectric spectroscopy,Mechanical spectroscopy,Monte Carlo;
+Pellizza, L.J.;Pellizza, L.J.;Bayesian methods,Spectral analysis,Dielectric spectroscopy,Mechanical spectroscopy,Monte Carlo;
+Matteo, C.L.;Matteo, C.L.;Bayesian methods,Spectral analysis,Dielectric spectroscopy,Mechanical spectroscopy,Monte Carlo;
 Castro, M.A.;Castro, M.A.;;
 Cukiernik, F.D.;Cukiernik, F.D.;;
 Hurtado, C.A.;Hurtado, C.A.;;
@@ -839,22 +839,22 @@ Brudny, V.L.;Brudny, V.L.;;
 Lew, S.;Lew, S.;;
 Rey, H.G.;Rey, H.G.;;
 Zanutto, B.S.;Zanutto, B.S.;;
-de la Vega, C.S.F.;de la Vega, C.S.F.;;Noise immunity,Optimal control,Optical fibers,Nonlinear Schrödinger equation
-Rial, D.;Rial, D.;;Noise immunity,Optimal control,Optical fibers,Nonlinear Schrödinger equation
-Martini, J.W.R.;Martini, J.W.R.;Epistasis model,Interaction,Genomic prediction;
-Gao, N.;Gao, N.;Epistasis model,Interaction,Genomic prediction;
-Cardoso, D.F.;Cardoso, D.F.;Epistasis model,Interaction,Genomic prediction;
-Cantet, R.J.C.;Cantet, R.J.C.;Epistasis model,Interaction,Genomic prediction;
-Simianer, H.;Simianer, H.;Epistasis model,Interaction,Genomic prediction;
-Catozzi, S.;Catozzi, S.;Drug design,MAPK cascades,Signaling cascades,Retroactivity,Kinase inhibitors;
-Di-Bella, J.P.;Di-Bella, J.P.;Drug design,MAPK cascades,Signaling cascades,Retroactivity,Kinase inhibitors;
-Sepulchre, J.-A.;Sepulchre, J.-A.;Drug design,MAPK cascades,Signaling cascades,Retroactivity,Kinase inhibitors;
+de la Vega, C.S.F.;de la Vega, C.S.F.;;Nonlinear Schrödinger equation,Noise immunity,Optimal control,Optical fibers
+Rial, D.;Rial, D.;;Nonlinear Schrödinger equation,Noise immunity,Optimal control,Optical fibers
+Martini, J.W.R.;Martini, J.W.R.;Genomic prediction,Epistasis model,Interaction;
+Gao, N.;Gao, N.;Genomic prediction,Epistasis model,Interaction;
+Cardoso, D.F.;Cardoso, D.F.;Genomic prediction,Epistasis model,Interaction;
+Cantet, R.J.C.;Cantet, R.J.C.;Genomic prediction,Epistasis model,Interaction;
+Simianer, H.;Simianer, H.;Genomic prediction,Epistasis model,Interaction;
+Catozzi, S.;Catozzi, S.;Retroactivity,Drug design,MAPK cascades,Kinase inhibitors,Signaling cascades;
+Di-Bella, J.P.;Di-Bella, J.P.;Retroactivity,Drug design,MAPK cascades,Kinase inhibitors,Signaling cascades;
+Sepulchre, J.-A.;Sepulchre, J.-A.;Retroactivity,Drug design,MAPK cascades,Kinase inhibitors,Signaling cascades;
 Armentano, M.G.;Armentano, M.G.;;
 Abalde, R.;Abalde, R.;;
 Schiaffino, S.;Schiaffino, S.;;
-Freytes, H.;Freytes, H.;Global valuations,Intuitionistic quantum logic,Modal operators;
-de Ronde, C.;de Ronde, C.;Global valuations,Intuitionistic quantum logic,Modal operators;
-Domenech, G.;Domenech, G.;Global valuations,Intuitionistic quantum logic,Modal operators;
+Freytes, H.;Freytes, H.;Modal operators,Intuitionistic quantum logic,Global valuations;
+de Ronde, C.;de Ronde, C.;Modal operators,Intuitionistic quantum logic,Global valuations;
+Domenech, G.;Domenech, G.;Modal operators,Intuitionistic quantum logic,Global valuations;
 Padra, C.;Padra, C.;;
 Rodríguez, R.;Rodríguez, R.;;
 Scheble, M.;Scheble, M.;;
@@ -867,8 +867,8 @@ Petruk, A.A.;Petruk, A.A.;;
 Defelipe, L.A.;Defelipe, L.A.;;
 Rodríguez Limardo, R.G.;Rodríguez Limardo, R.G.;;
 Bedregal, B.C.;Bedregal, B.C.;;
-Wood, I.;Wood, I.;Naratriptan,POPC,Lipid bilayer,Molecular dynamics;
-Pickholz, M.;Pickholz, M.;Naratriptan,POPC,Lipid bilayer,Molecular dynamics;
+Wood, I.;Wood, I.;Lipid bilayer,Molecular dynamics,Naratriptan,POPC;
+Pickholz, M.;Pickholz, M.;Lipid bilayer,Molecular dynamics,Naratriptan,POPC;
 Salvucci, F.P.;Salvucci, F.P.;;
 Gurfinkel, E.;Gurfinkel, E.;;
 Barra, J.G.;Barra, J.G.;;
@@ -879,8 +879,8 @@ Acevedo, D.G.;Acevedo, D.G.;;
 Caivano, J.L.;Caivano, J.L.;;
 Rais, M.;Rais, M.;;
 Frías, B.C.;Frías, B.C.;;
-Jonckheere, M.;Jonckheere, M.;;Mean-field scalings,Insensitive load balancing,QED-Jagerman–Halfin–Whitt regime,Blocking phases
-Prabhu, B.J.;Prabhu, B.J.;;Mean-field scalings,Insensitive load balancing,QED-Jagerman–Halfin–Whitt regime,Blocking phases
+Jonckheere, M.;Jonckheere, M.;;Blocking phases,Mean-field scalings,QED-Jagerman–Halfin–Whitt regime,Insensitive load balancing
+Prabhu, B.J.;Prabhu, B.J.;;Blocking phases,Mean-field scalings,QED-Jagerman–Halfin–Whitt regime,Insensitive load balancing
 Rozenfeld, A.;Rozenfeld, A.;;
 Ghommam, J.;Ghommam, J.;;
 Picos, R.;Picos, R.;;
@@ -907,17 +907,17 @@ Pereira, P.C.;Pereira, P.C.;;
 Harcha, J.Z.;Harcha, J.Z.;;
 Preucil, L.;Preucil, L.;;
 Bront, J.J.M.;Bront, J.J.M.;;
-Caicedo, X.;Caicedo, X.;Many-valued logics.,Gödel logic,Modal algebras,Modal logic,Kripke models,Fuzzy logic;
+Caicedo, X.;Caicedo, X.;Fuzzy logic,Gödel logic,Modal logic,Modal algebras,Kripke models,Many-valued logics.;
 Abecasis, S.M.;Abecasis, S.M.;;
 Femenia, F.R.;Femenia, F.R.;;
 Stubrin, L.H.;Stubrin, L.H.;;
-Méndez-Díaz, I.;Méndez-Díaz, I.;Matheuristic,University timetabling,Integer programming;
-Zabala, P.;Zabala, P.;Matheuristic,University timetabling,Integer programming;
-Koile, D.;Koile, D.;;Variant analysis,Exome sequencing,Bioinformatics,Clinical informatics,Genome sequencing,Rare disease
-Cordoba, M.;Cordoba, M.;;Variant analysis,Exome sequencing,Bioinformatics,Clinical informatics,Genome sequencing,Rare disease
-de Sousa Serro, M.;de Sousa Serro, M.;;Variant analysis,Exome sequencing,Bioinformatics,Clinical informatics,Genome sequencing,Rare disease
-Kauffman, M.A.;Kauffman, M.A.;;Variant analysis,Exome sequencing,Bioinformatics,Clinical informatics,Genome sequencing,Rare disease
-Yankilevich, P.;Yankilevich, P.;;Variant analysis,Exome sequencing,Bioinformatics,Clinical informatics,Genome sequencing,Rare disease
+Méndez-Díaz, I.;Méndez-Díaz, I.;Matheuristic,Integer programming,University timetabling;
+Zabala, P.;Zabala, P.;Matheuristic,Integer programming,University timetabling;
+Koile, D.;Koile, D.;;Bioinformatics,Genome sequencing,Clinical informatics,Exome sequencing,Variant analysis,Rare disease
+Cordoba, M.;Cordoba, M.;;Bioinformatics,Genome sequencing,Clinical informatics,Exome sequencing,Variant analysis,Rare disease
+de Sousa Serro, M.;de Sousa Serro, M.;;Bioinformatics,Genome sequencing,Clinical informatics,Exome sequencing,Variant analysis,Rare disease
+Kauffman, M.A.;Kauffman, M.A.;;Bioinformatics,Genome sequencing,Clinical informatics,Exome sequencing,Variant analysis,Rare disease
+Yankilevich, P.;Yankilevich, P.;;Bioinformatics,Genome sequencing,Clinical informatics,Exome sequencing,Variant analysis,Rare disease
 DeMarco, F.;DeMarco, F.;;
 Xuan, J.;Xuan, J.;;
 Berre, D.L.;Berre, D.L.;;
@@ -928,8 +928,8 @@ Tártaro, M.L.;Tártaro, M.L.;;
 Torres, C.;Torres, C.;;
 Wainer, G.;Wainer, G.;;
 Zanutto, S.;Zanutto, S.;;
-Pollo-Cattaneo, M.F.;Pollo-Cattaneo, M.F.;Requirement engineering,Requirement management,Methodology,Process,Information mining;
-Pesado, P.;Pesado, P.;Requirement engineering,Requirement management,Methodology,Process,Information mining;
+Pollo-Cattaneo, M.F.;Pollo-Cattaneo, M.F.;Process,Requirement management,Information mining,Requirement engineering,Methodology;
+Pesado, P.;Pesado, P.;Process,Requirement management,Information mining,Requirement engineering,Methodology;
 Mydlarz, M.;Mydlarz, M.;;
 Radusky, L.;Radusky, L.;;
 Ruiz-Carmona, S.;Ruiz-Carmona, S.;;
@@ -941,9 +941,9 @@ Gris, J.H.;Gris, J.H.;;
 Dragonetti, M.A.;Dragonetti, M.A.;;
 Fernández, B.M.;Fernández, B.M.;;
 Moglioni, A.G.;Moglioni, A.G.;;
-Hero, A.O.;Hero, A.O.;Multiterminal source coding,Heegard-Berger problem,interactive lossy source coding,distributed lossy source coding,Berger-Tung problem;
-Caron, P.A.;Caron, P.A.;Finite volume simulations,Dam-break,Volume of fluid,Dimensional effects,Numerical study,Experimental validation;
-Cruchaga, M.A.;Cruchaga, M.A.;Finite volume simulations,Dam-break,Volume of fluid,Dimensional effects,Numerical study,Experimental validation;
+Hero, A.O.;Hero, A.O.;interactive lossy source coding,Multiterminal source coding,Berger-Tung problem,Heegard-Berger problem,distributed lossy source coding;
+Caron, P.A.;Caron, P.A.;Experimental validation,Dam-break,Dimensional effects,Volume of fluid,Numerical study,Finite volume simulations;
+Cruchaga, M.A.;Cruchaga, M.A.;Experimental validation,Dam-break,Dimensional effects,Volume of fluid,Numerical study,Finite volume simulations;
 Busaniche, M.;Busaniche, M.;;
 Gomes, L.F.A.M.;Gomes, L.F.A.M.;;
 González, X.I.;González, X.I.;;
@@ -970,15 +970,15 @@ Yuan, J.;Yuan, J.;;
 Liu, Z.;Liu, Z.;;
 Lei, Y.;Lei, Y.;;
 Scheffer, N.;Scheffer, N.;;
-Zola, J.G.;Zola, J.G.;active voltage probe,oscilloscope,high frequency,measurement;
-Kelly, J.M.;Kelly, J.M.;active voltage probe,oscilloscope,high frequency,measurement;
-Cucker, F.;Cucker, F.;;Real projective varieties,Condition,Homology groups,Complexity,Exponential time
-Shub, M.;Shub, M.;;Real projective varieties,Condition,Homology groups,Complexity,Exponential time
+Zola, J.G.;Zola, J.G.;active voltage probe,measurement,high frequency,oscilloscope;
+Kelly, J.M.;Kelly, J.M.;active voltage probe,measurement,high frequency,oscilloscope;
+Cucker, F.;Cucker, F.;;Complexity,Homology groups,Exponential time,Real projective varieties,Condition
+Shub, M.;Shub, M.;;Complexity,Homology groups,Exponential time,Real projective varieties,Condition
 Bocchi, L.;Bocchi, L.;Cloud,Process calculi,Weak stores,Eventual consistency;
-Cabrer, L.;Cabrer, L.;Lukasiewicz modal logic,MV-algebras,Epistemic logics,Public Announcements Logic;
-Rivieccio, U.;Rivieccio, U.;Lukasiewicz modal logic,MV-algebras,Epistemic logics,Public Announcements Logic;
-Rodriguez, R.O.;Rodriguez, R.O.;Lukasiewicz modal logic,MV-algebras,Epistemic logics,Public Announcements Logic;
-Castan, D.;Castan, D.;Mismatch,Speaker recognition,Deep neural network,Bottleneck features,Calibration;
+Cabrer, L.;Cabrer, L.;Public Announcements Logic,MV-algebras,Lukasiewicz modal logic,Epistemic logics;
+Rivieccio, U.;Rivieccio, U.;Public Announcements Logic,MV-algebras,Lukasiewicz modal logic,Epistemic logics;
+Rodriguez, R.O.;Rodriguez, R.O.;Public Announcements Logic,MV-algebras,Lukasiewicz modal logic,Epistemic logics;
+Castan, D.;Castan, D.;Mismatch,Calibration,Bottleneck features,Deep neural network,Speaker recognition;
 Jares-Erijman, E.A.;Jares-Erijman, E.A.;;
 Giordano, L.;Giordano, L.;;
 Spagnuolo, C.;Spagnuolo, C.;;

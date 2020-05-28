@@ -1,54 +1,54 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Muehlig, A.;Muehlig, A.;;Quantitative SERS detection of PZA and POA,Surface-enhanced Raman spectroscopy (SERS),Personal medicine,Drug resistant mycobacteria,Lab-on-a-Chip (LoC)
-Jahn, I.J.;Jahn, I.J.;;Quantitative SERS detection of PZA and POA,Surface-enhanced Raman spectroscopy (SERS),Personal medicine,Drug resistant mycobacteria,Lab-on-a-Chip (LoC)
-Heidler, J.;Heidler, J.;;Quantitative SERS detection of PZA and POA,Surface-enhanced Raman spectroscopy (SERS),Personal medicine,Drug resistant mycobacteria,Lab-on-a-Chip (LoC)
-Cialla-May, D.;Cialla-May, D.;;Quantitative SERS detection of PZA and POA,Surface-enhanced Raman spectroscopy (SERS),Personal medicine,Drug resistant mycobacteria,Lab-on-a-Chip (LoC)
-Popp, J.;Popp, J.;;Quantitative SERS detection of PZA and POA,Surface-enhanced Raman spectroscopy (SERS),Personal medicine,Drug resistant mycobacteria,Lab-on-a-Chip (LoC)
-Achanccaray, D.;Achanccaray, D.;Neurorehabilitation,Brain-computer/machine interface,Neural signal processing;virtual reality,stroke,rehabilitation,brain computer interface
-Pacheco, K.;Pacheco, K.;Neurorehabilitation,Brain-computer/machine interface,Neural signal processing;virtual reality,stroke,rehabilitation,brain computer interface
-Carranza, E.;Carranza, E.;Neurorehabilitation,Brain-computer/machine interface,Neural signal processing;virtual reality,stroke,rehabilitation,brain computer interface
-Hayashibe, M.;Hayashibe, M.;;virtual reality,stroke,rehabilitation,brain computer interface
-Alvarado-Diaz, W.;Alvarado-Diaz, W.;;under-ten Children,BIA,lean Fat,Analysis,fat Mass,bioimpedance,total Body Water
-Meneses-Claudio, B.;Meneses-Claudio, B.;;under-ten Children,Brain-computer interface,BIA,electroencephalogram,lean Fat,BCI,Analysis,Image processing,Stroke or heart attack,fat Mass,bioimpedance,Diagonal ear fold,total Body Water,Ischemic cardiopathy,Segmentation,yes/no question,SOM
-Romero-Alva, V.;Romero-Alva, V.;;under-ten Children,BIA,lean Fat,Analysis,fat Mass,bioimpedance,total Body Water
-Roman-Gonzalez, A.;Roman-Gonzalez, A.;image processing,remote diagnostics,communication system,yes-no questions,echography,M-CHAT,BCI,brain-computer interface,EEG,Pneumonia,ultrasound,eye tracking,diagnosis,Autism spectrum disorders,Ultrasound images;under-ten Children,earthquakes,fat Mass,Ischemic cardiopathy,risk,Analysis,Stroke or heart attack,bioimpedance,total Body Water,Total amount of electrons,yes/no question,SOM,Anemia,electroencephalogram,Brain-computer interface,BIA,lean Fat,BCI,ionosphere,prevention,Segmentation,Palpebral conjunctiva,Segmentation method,Image processing,Diagonal ear fold,Android application
-Zimic, M.;Zimic, M.;image processing,remote diagnostics,communication system,yes-no questions,echography,M-CHAT,BCI,brain-computer interface,EEG,Pneumonia,ultrasound,eye tracking,diagnosis,Autism spectrum disorders,Ultrasound images;Chagas,under-ten Children,fat Mass,QRS score,ECG signals,Analysis,bioimpedance,Signal processing,total Body Water,yes/no question,Waveforms,SOM,electroencephalogram,Brain-computer interface,BIA,lean Fat,BCI,Confounder,Neural networks
-Diaz-Sotelo, W.J.;Diaz-Sotelo, W.J.;;electroencephalogram,Brain-computer interface,BCI,yes/no question,SOM
-Vargas-Cuentas, N.I.;Vargas-Cuentas, N.I.;communication system,yes-no questions,M-CHAT,BCI,brain-computer interface,EEG,eye tracking,diagnosis,Autism spectrum disorders;electroencephalogram,Brain-computer interface,BCI,yes/no question,SOM
-Delgado-Rivera, G.;Delgado-Rivera, G.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
-Alva-Mantari, A.;Alva-Mantari, A.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
-Barrientos-Porras, F.;Barrientos-Porras, F.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
-Salguedo-Bohorquez, M.;Salguedo-Bohorquez, M.;;Anemia,Palpebral conjunctiva,Segmentation method,Image processing,Android application
-Medina, M.P.;Medina, M.P.;;Teaching competences,Clinical Environment,Medical school,Teachers,Application of knowledge,Medical education,Learning,Faculty of Medicine,Integration of knowledge,ICT,Evaluation by Competencies
+Muehlig, A.;Muehlig, A.;;Surface-enhanced Raman spectroscopy (SERS),Lab-on-a-Chip (LoC),Drug resistant mycobacteria,Quantitative SERS detection of PZA and POA,Personal medicine
+Jahn, I.J.;Jahn, I.J.;;Surface-enhanced Raman spectroscopy (SERS),Lab-on-a-Chip (LoC),Drug resistant mycobacteria,Quantitative SERS detection of PZA and POA,Personal medicine
+Heidler, J.;Heidler, J.;;Surface-enhanced Raman spectroscopy (SERS),Lab-on-a-Chip (LoC),Drug resistant mycobacteria,Quantitative SERS detection of PZA and POA,Personal medicine
+Cialla-May, D.;Cialla-May, D.;;Surface-enhanced Raman spectroscopy (SERS),Lab-on-a-Chip (LoC),Drug resistant mycobacteria,Quantitative SERS detection of PZA and POA,Personal medicine
+Popp, J.;Popp, J.;;Surface-enhanced Raman spectroscopy (SERS),Lab-on-a-Chip (LoC),Drug resistant mycobacteria,Quantitative SERS detection of PZA and POA,Personal medicine
+Achanccaray, D.;Achanccaray, D.;Neural signal processing,Brain-computer/machine interface,Neurorehabilitation;brain computer interface,rehabilitation,virtual reality,stroke
+Pacheco, K.;Pacheco, K.;Neural signal processing,Brain-computer/machine interface,Neurorehabilitation;brain computer interface,rehabilitation,virtual reality,stroke
+Carranza, E.;Carranza, E.;Neural signal processing,Brain-computer/machine interface,Neurorehabilitation;brain computer interface,rehabilitation,virtual reality,stroke
+Hayashibe, M.;Hayashibe, M.;;brain computer interface,rehabilitation,virtual reality,stroke
+Alvarado-Diaz, W.;Alvarado-Diaz, W.;;Analysis,fat Mass,lean Fat,BIA,under-ten Children,bioimpedance,total Body Water
+Meneses-Claudio, B.;Meneses-Claudio, B.;;Analysis,BCI,Image processing,fat Mass,lean Fat,SOM,Ischemic cardiopathy,BIA,under-ten Children,Stroke or heart attack,Brain-computer interface,Diagonal ear fold,bioimpedance,Segmentation,total Body Water,yes/no question,electroencephalogram
+Romero-Alva, V.;Romero-Alva, V.;;Analysis,fat Mass,lean Fat,BIA,under-ten Children,bioimpedance,total Body Water
+Roman-Gonzalez, A.;Roman-Gonzalez, A.;eye tracking,remote diagnostics,brain-computer interface,BCI,yes-no questions,communication system,Ultrasound images,Autism spectrum disorders,echography,M-CHAT,diagnosis,Pneumonia,ultrasound,EEG,image processing;prevention,BIA,under-ten Children,Android application,Diagonal ear fold,ionosphere,Total amount of electrons,Image processing,fat Mass,Segmentation method,bioimpedance,total Body Water,Anemia,yes/no question,risk,BCI,SOM,lean Fat,Brain-computer interface,Segmentation,electroencephalogram,Analysis,Ischemic cardiopathy,Palpebral conjunctiva,Stroke or heart attack,earthquakes
+Zimic, M.;Zimic, M.;eye tracking,remote diagnostics,brain-computer interface,BCI,yes-no questions,communication system,Ultrasound images,Autism spectrum disorders,echography,M-CHAT,diagnosis,Pneumonia,ultrasound,EEG,image processing;Waveforms,BIA,under-ten Children,fat Mass,Signal processing,bioimpedance,QRS score,total Body Water,yes/no question,BCI,ECG signals,SOM,lean Fat,Confounder,Brain-computer interface,electroencephalogram,Analysis,Neural networks,Chagas
+Diaz-Sotelo, W.J.;Diaz-Sotelo, W.J.;;BCI,SOM,Brain-computer interface,yes/no question,electroencephalogram
+Vargas-Cuentas, N.I.;Vargas-Cuentas, N.I.;eye tracking,brain-computer interface,BCI,yes-no questions,communication system,Autism spectrum disorders,M-CHAT,diagnosis,EEG;BCI,SOM,Brain-computer interface,yes/no question,electroencephalogram
+Delgado-Rivera, G.;Delgado-Rivera, G.;;Image processing,Segmentation method,Palpebral conjunctiva,Android application,Anemia
+Alva-Mantari, A.;Alva-Mantari, A.;;Image processing,Segmentation method,Palpebral conjunctiva,Android application,Anemia
+Barrientos-Porras, F.;Barrientos-Porras, F.;;Image processing,Segmentation method,Palpebral conjunctiva,Android application,Anemia
+Salguedo-Bohorquez, M.;Salguedo-Bohorquez, M.;;Image processing,Segmentation method,Palpebral conjunctiva,Android application,Anemia
+Medina, M.P.;Medina, M.P.;;Medical school,Faculty of Medicine,Evaluation by Competencies,Clinical Environment,Medical education,ICT,Teaching competences,Application of knowledge,Integration of knowledge,Teachers,Learning
 Valencia, J.S.;Valencia, J.S.;;
-Mendez, V.M.;Mendez, V.M.;;Teaching competences,Medical school,Application of knowledge,Medical education,Integration of knowledge,ICT
+Mendez, V.M.;Mendez, V.M.;;Medical school,Medical education,ICT,Teaching competences,Application of knowledge,Integration of knowledge
 Escobedo, J.R.C.;Escobedo, J.R.C.;;
-Placencia, Y.K.A.;Placencia, Y.K.A.;;Teaching competences,Clinical Environment,Medical school,Teachers,Application of knowledge,Medical education,Learning,Faculty of Medicine,Integration of knowledge,ICT,Evaluation by Competencies
-Cabanillas, J.;Cabanillas, J.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
-Tello, G.;Tello, G.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
-Mercado, B.;Mercado, B.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
-Gilman, R.;Gilman, R.;;Chagas,ECG signals,Confounder,Neural networks,Signal processing,QRS score,Waveforms
-Krehenwinkel, H.;Krehenwinkel, H.;;Oxford Nanopore Technologies,Long DNA barcodes,Eukaryotes,Biodiversity,MinION,Metabarcoding,Ribosomal
-Pomerantz, A.;Pomerantz, A.;;Oxford Nanopore Technologies,Long DNA barcodes,Eukaryotes,Biodiversity,MinION,Metabarcoding,Ribosomal
-Henderson, J.B.;Henderson, J.B.;;Oxford Nanopore Technologies,Long DNA barcodes,Eukaryotes,Biodiversity,MinION,Metabarcoding,Ribosomal
-Gillespie, R.G.;Gillespie, R.G.;;Oxford Nanopore Technologies,Long DNA barcodes,Eukaryotes,Biodiversity,MinION,Metabarcoding,Ribosomal
-Prost, S.;Prost, S.;;Oxford Nanopore Technologies,Long DNA barcodes,Eukaryotes,Biodiversity,MinION,Metabarcoding,Ribosomal
-Huaroto, J.J.;Huaroto, J.J.;;prosthetics and exoskeletons,wearable robots,haptics and haptic interfaces,Soft material robotics,perception for grasping and manipulation
-Suarez, E.;Suarez, E.;;prosthetics and exoskeletons,wearable robots,haptics and haptic interfaces,Soft material robotics,perception for grasping and manipulation
-Krebs, H.I.;Krebs, H.I.;;prosthetics and exoskeletons,wearable robots,haptics and haptic interfaces,Soft material robotics,perception for grasping and manipulation
-Marasco, P.D.;Marasco, P.D.;;prosthetics and exoskeletons,wearable robots,haptics and haptic interfaces,Soft material robotics,perception for grasping and manipulation
-Vela, E.A.;Vela, E.A.;;prosthetics and exoskeletons,wearable robots,haptics and haptic interfaces,Soft material robotics,perception for grasping and manipulation
-Alva Mantari, A.;Alva Mantari, A.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
-Zarate Segura, G.W.;Zarate Segura, G.W.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
-Saldivar-Espinoza, B.;Saldivar-Espinoza, B.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
-Sotomayor Beltran, C.;Sotomayor Beltran, C.;;earthquakes,risk,ionosphere,prevention,Total amount of electrons
-Chavez-Alarcon, E.;Chavez-Alarcon, E.;;Stroke or heart attack,Image processing,Diagonal ear fold,Ischemic cardiopathy,Segmentation
-Segura-Saldana, P.;Segura-Saldana, P.;;Stroke or heart attack,Image processing,Diagonal ear fold,Ischemic cardiopathy,Segmentation
-Alicia, A.M.;Alicia, A.M.;;Implementation,Mobile system,Melanoma,Callao
-Ordonez, C.;Ordonez, C.;;Implementation,Mobile system,Melanoma,Callao
-Sadith, V.Z.;Sadith, V.Z.;;Implementation,Mobile system,Melanoma,Callao
-Ramos Aguilar, C.;Ramos Aguilar, C.;;Implementation,Mobile system,Melanoma,Callao
-Mirko, Z.P.;Mirko, Z.P.;;Implementation,Mobile system,Melanoma,Callao
+Placencia, Y.K.A.;Placencia, Y.K.A.;;Medical school,Faculty of Medicine,Evaluation by Competencies,Clinical Environment,Medical education,ICT,Teaching competences,Application of knowledge,Integration of knowledge,Teachers,Learning
+Cabanillas, J.;Cabanillas, J.;;Waveforms,ECG signals,Confounder,Neural networks,Chagas,Signal processing,QRS score
+Tello, G.;Tello, G.;;Waveforms,ECG signals,Confounder,Neural networks,Chagas,Signal processing,QRS score
+Mercado, B.;Mercado, B.;;Waveforms,ECG signals,Confounder,Neural networks,Chagas,Signal processing,QRS score
+Gilman, R.;Gilman, R.;;Waveforms,ECG signals,Confounder,Neural networks,Chagas,Signal processing,QRS score
+Krehenwinkel, H.;Krehenwinkel, H.;;Oxford Nanopore Technologies,Metabarcoding,Long DNA barcodes,Biodiversity,MinION,Ribosomal,Eukaryotes
+Pomerantz, A.;Pomerantz, A.;;Oxford Nanopore Technologies,Metabarcoding,Long DNA barcodes,Biodiversity,MinION,Ribosomal,Eukaryotes
+Henderson, J.B.;Henderson, J.B.;;Oxford Nanopore Technologies,Metabarcoding,Long DNA barcodes,Biodiversity,MinION,Ribosomal,Eukaryotes
+Gillespie, R.G.;Gillespie, R.G.;;Oxford Nanopore Technologies,Metabarcoding,Long DNA barcodes,Biodiversity,MinION,Ribosomal,Eukaryotes
+Prost, S.;Prost, S.;;Oxford Nanopore Technologies,Metabarcoding,Long DNA barcodes,Biodiversity,MinION,Ribosomal,Eukaryotes
+Huaroto, J.J.;Huaroto, J.J.;;prosthetics and exoskeletons,perception for grasping and manipulation,haptics and haptic interfaces,wearable robots,Soft material robotics
+Suarez, E.;Suarez, E.;;prosthetics and exoskeletons,perception for grasping and manipulation,haptics and haptic interfaces,wearable robots,Soft material robotics
+Krebs, H.I.;Krebs, H.I.;;prosthetics and exoskeletons,perception for grasping and manipulation,haptics and haptic interfaces,wearable robots,Soft material robotics
+Marasco, P.D.;Marasco, P.D.;;prosthetics and exoskeletons,perception for grasping and manipulation,haptics and haptic interfaces,wearable robots,Soft material robotics
+Vela, E.A.;Vela, E.A.;;prosthetics and exoskeletons,perception for grasping and manipulation,haptics and haptic interfaces,wearable robots,Soft material robotics
+Alva Mantari, A.;Alva Mantari, A.;;prevention,earthquakes,ionosphere,Total amount of electrons,risk
+Zarate Segura, G.W.;Zarate Segura, G.W.;;prevention,earthquakes,ionosphere,Total amount of electrons,risk
+Saldivar-Espinoza, B.;Saldivar-Espinoza, B.;;prevention,earthquakes,ionosphere,Total amount of electrons,risk
+Sotomayor Beltran, C.;Sotomayor Beltran, C.;;prevention,earthquakes,ionosphere,Total amount of electrons,risk
+Chavez-Alarcon, E.;Chavez-Alarcon, E.;;Image processing,Ischemic cardiopathy,Stroke or heart attack,Diagonal ear fold,Segmentation
+Segura-Saldana, P.;Segura-Saldana, P.;;Image processing,Ischemic cardiopathy,Stroke or heart attack,Diagonal ear fold,Segmentation
+Alicia, A.M.;Alicia, A.M.;;Callao,Mobile system,Implementation,Melanoma
+Ordonez, C.;Ordonez, C.;;Callao,Mobile system,Implementation,Melanoma
+Sadith, V.Z.;Sadith, V.Z.;;Callao,Mobile system,Implementation,Melanoma
+Ramos Aguilar, C.;Ramos Aguilar, C.;;Callao,Mobile system,Implementation,Melanoma
+Mirko, Z.P.;Mirko, Z.P.;;Callao,Mobile system,Implementation,Melanoma
 Astucuri, J.;Astucuri, J.;;
 Pirca, J.;Pirca, J.;;
 Espinoza, V.;Espinoza, V.;;
@@ -60,28 +60,28 @@ Jaiswal, M.;Jaiswal, M.;;
 Delahunt, C.;Delahunt, C.;;
 Bachman, C.;Bachman, C.;;
 Bell, D.;Bell, D.;;
-Álvarez, R.P.;Álvarez, R.P.;;Teaching competences,Clinical Environment,Medical school,Teachers,Application of knowledge,Medical education,Learning,Faculty of Medicine,Integration of knowledge,ICT,Evaluation by Competencies
-Rojas, H.J.M.;Rojas, H.J.M.;;Teaching competences,Medical school,Application of knowledge,Medical education,Integration of knowledge,ICT
-Silva-Valencia, J.;Silva-Valencia, J.;;Teachers,Clinical Environment,Learning,Faculty of Medicine,Evaluation by Competencies
-Escobedo, E.J.C.;Escobedo, E.J.C.;;Teachers,Clinical Environment,Learning,Faculty of Medicine,Evaluation by Competencies
+Álvarez, R.P.;Álvarez, R.P.;;Medical school,Faculty of Medicine,Evaluation by Competencies,Clinical Environment,Medical education,ICT,Teaching competences,Application of knowledge,Integration of knowledge,Teachers,Learning
+Rojas, H.J.M.;Rojas, H.J.M.;;Medical school,Medical education,ICT,Teaching competences,Application of knowledge,Integration of knowledge
+Silva-Valencia, J.;Silva-Valencia, J.;;Faculty of Medicine,Evaluation by Competencies,Clinical Environment,Teachers,Learning
+Escobedo, E.J.C.;Escobedo, E.J.C.;;Faculty of Medicine,Evaluation by Competencies,Clinical Environment,Teachers,Learning
 Alvarez, R.P.;Alvarez, R.P.;;
-Zenteno, O.;Zenteno, O.;Leishamaniasis,Ultrasound Imaging,PCA,ROC.,image texture analysis,Pneumonia,Disease Monitoring,Texture Analysis,ultrasound imaging,3D Reconstruction;3D scanning,photogrammetry,Leishmaniasis,volumetric measurement
-González, E.;González, E.;;3D scanning,photogrammetry,Leishmaniasis,volumetric measurement
-Treuillet, S.;Treuillet, S.;;3D scanning,photogrammetry,Leishmaniasis,volumetric measurement
+Zenteno, O.;Zenteno, O.;Leishamaniasis,Ultrasound Imaging,ultrasound imaging,Texture Analysis,3D Reconstruction,Pneumonia,PCA,image texture analysis,ROC.,Disease Monitoring;3D scanning,Leishmaniasis,photogrammetry,volumetric measurement
+González, E.;González, E.;;3D scanning,Leishmaniasis,photogrammetry,volumetric measurement
+Treuillet, S.;Treuillet, S.;;3D scanning,Leishmaniasis,photogrammetry,volumetric measurement
 Llanos, A.;Llanos, A.;;
-Lucas, Y.;Lucas, Y.;;3D scanning,photogrammetry,Leishmaniasis,volumetric measurement
-Llanos-Cuentas, A.;Llanos-Cuentas, A.;;3D scanning,photogrammetry,Leishmaniasis,volumetric measurement
-Hoyos, M.;Hoyos, M.;communication system,yes-no questions,BCI,brain-computer interface,EEG;
-Diaz, J.;Diaz, J.;communication system,yes-no questions,BCI,brain-computer interface,EEG;
-Zvietcovich, F.;Zvietcovich, F.;Leishamaniasis,Ultrasound Imaging,Disease Monitoring,Texture Analysis,3D Reconstruction;
-Zapata, D.;Zapata, D.;Leishamaniasis,Ultrasound Imaging,Disease Monitoring,Texture Analysis,3D Reconstruction;
-Lavarello, R.;Lavarello, R.;Leishamaniasis,Ultrasound Imaging,PCA,ROC.,image texture analysis,Pneumonia,Disease Monitoring,Texture Analysis,ultrasound imaging,3D Reconstruction;
-Castaneda, B.;Castaneda, B.;Leishamaniasis,Ultrasound Imaging,Disease Monitoring,Texture Analysis,3D Reconstruction;
-Acuna, K.;Acuna, K.;Neurorehabilitation,Brain-computer/machine interface,Neural signal processing;
-Andreu-Perez, J.;Andreu-Perez, J.;Neurorehabilitation,Brain-computer/machine interface,Neural signal processing;
-Barrientos, R.;Barrientos, R.;remote diagnostics,image processing,echography,ultrasound,Pneumonia,Ultrasound images;
-Barrientos, F.;Barrientos, F.;remote diagnostics,image processing,echography,ultrasound,Pneumonia,Ultrasound images;
-Gilman, R.H.;Gilman, R.H.;remote diagnostics,image processing,echography,M-CHAT,ultrasound,Pneumonia,eye tracking,diagnosis,Autism spectrum disorders,Ultrasound images;
+Lucas, Y.;Lucas, Y.;;3D scanning,Leishmaniasis,photogrammetry,volumetric measurement
+Llanos-Cuentas, A.;Llanos-Cuentas, A.;;3D scanning,Leishmaniasis,photogrammetry,volumetric measurement
+Hoyos, M.;Hoyos, M.;brain-computer interface,BCI,yes-no questions,communication system,EEG;
+Diaz, J.;Diaz, J.;brain-computer interface,BCI,yes-no questions,communication system,EEG;
+Zvietcovich, F.;Zvietcovich, F.;Leishamaniasis,Ultrasound Imaging,Texture Analysis,3D Reconstruction,Disease Monitoring;
+Zapata, D.;Zapata, D.;Leishamaniasis,Ultrasound Imaging,Texture Analysis,3D Reconstruction,Disease Monitoring;
+Lavarello, R.;Lavarello, R.;Leishamaniasis,Ultrasound Imaging,ultrasound imaging,Texture Analysis,3D Reconstruction,Pneumonia,PCA,image texture analysis,ROC.,Disease Monitoring;
+Castaneda, B.;Castaneda, B.;Leishamaniasis,Ultrasound Imaging,Texture Analysis,3D Reconstruction,Disease Monitoring;
+Acuna, K.;Acuna, K.;Neural signal processing,Brain-computer/machine interface,Neurorehabilitation;
+Andreu-Perez, J.;Andreu-Perez, J.;Neural signal processing,Brain-computer/machine interface,Neurorehabilitation;
+Barrientos, R.;Barrientos, R.;remote diagnostics,Ultrasound images,echography,Pneumonia,ultrasound,image processing;
+Barrientos, F.;Barrientos, F.;remote diagnostics,Ultrasound images,echography,Pneumonia,ultrasound,image processing;
+Gilman, R.H.;Gilman, R.H.;eye tracking,remote diagnostics,Autism spectrum disorders,Ultrasound images,echography,M-CHAT,diagnosis,Pneumonia,ultrasound,image processing;
 Cintas, C.;Cintas, C.;;
 Quinto-Sánchez, M.;Quinto-Sánchez, M.;;
 Acuña, V.;Acuña, V.;;
@@ -91,28 +91,28 @@ Flores, L.;Flores, L.;Iterative algorithms,CT reconstruction,CUDA C;
 Vidal, V.;Vidal, V.;Iterative algorithms,CT reconstruction,CUDA C;
 Parcero, E.;Parcero, E.;;
 Verdú, G.;Verdú, G.;Iterative algorithms,CT reconstruction,CUDA C;
-Del Carpio, C.;Del Carpio, C.;Ziehl-neelsen,Digital image,Baciloscopy,Sputum smear,Image processing,Tuberculosis,Algorithm,Diagnostics;
-Dianderas, E.;Dianderas, E.;Ziehl-neelsen,Digital image,Baciloscopy,Sputum smear,Image processing,Tuberculosis,Algorithm,Diagnostics;
-Zimick, M.;Zimick, M.;Ziehl-neelsen,Digital image,Baciloscopy,Sputum smear,Image processing,Tuberculosis,Algorithm,Diagnostics;
-Fuentes, P.;Fuentes, P.;Ziehl-neelsen,Digital image,Baciloscopy,Sputum smear,Image processing,Tuberculosis,Algorithm,Diagnostics;
-Kemper, G.;Kemper, G.;Ziehl-neelsen,Digital image,Baciloscopy,Sputum smear,Image processing,Tuberculosis,Algorithm,Diagnostics;
+Del Carpio, C.;Del Carpio, C.;Tuberculosis,Sputum smear,Image processing,Ziehl-neelsen,Digital image,Diagnostics,Baciloscopy,Algorithm;
+Dianderas, E.;Dianderas, E.;Tuberculosis,Sputum smear,Image processing,Ziehl-neelsen,Digital image,Diagnostics,Baciloscopy,Algorithm;
+Zimick, M.;Zimick, M.;Tuberculosis,Sputum smear,Image processing,Ziehl-neelsen,Digital image,Diagnostics,Baciloscopy,Algorithm;
+Fuentes, P.;Fuentes, P.;Tuberculosis,Sputum smear,Image processing,Ziehl-neelsen,Digital image,Diagnostics,Baciloscopy,Algorithm;
+Kemper, G.;Kemper, G.;Tuberculosis,Sputum smear,Image processing,Ziehl-neelsen,Digital image,Diagnostics,Baciloscopy,Algorithm;
 Cisneros-Velarde, P.;Cisneros-Velarde, P.;;
 Correa, M.;Correa, M.;;
 Mayta, H.;Mayta, H.;;
-Hidalgo, D.;Hidalgo, D.;M-CHAT,Autism spectrum disorders,diagnosis,eye tracking;
-Zheng, J.;Zheng, J.;ICEMR,OBO Foundry,PlasmoDB,Standardizing data dictionaries;
-Cade, J.;Cade, J.;ICEMR,OBO Foundry,PlasmoDB,Standardizing data dictionaries;
-Brunk, B.;Brunk, B.;ICEMR,OBO Foundry,PlasmoDB,Standardizing data dictionaries;
-Maguina-Mercedes, P.;Maguina-Mercedes, P.;ICEMR,OBO Foundry,PlasmoDB,Standardizing data dictionaries;
-Vinetz, J.M.;Vinetz, J.M.;ICEMR,OBO Foundry,PlasmoDB,Standardizing data dictionaries;
-Ramírez-Salinas, G.L.;Ramírez-Salinas, G.L.;Mutations,Docking,Influenza A H1N1,Neuraminidase,Molecular dynamics simulations;
-García-Machorro, J.;García-Machorro, J.;Mutations,Docking,Influenza A H1N1,Neuraminidase,Molecular dynamics simulations;
-Quiliano, M.;Quiliano, M.;Mutations,Docking,Influenza A H1N1,Neuraminidase,Molecular dynamics simulations;
-Rojas-Hernández, S.;Rojas-Hernández, S.;Mutations,Docking,Influenza A H1N1,Neuraminidase,Molecular dynamics simulations;
-Correa-Basurto, J.;Correa-Basurto, J.;Mutations,Docking,Influenza A H1N1,Neuraminidase,Molecular dynamics simulations;
-Diaz, K.;Diaz, K.;ROC.,PCA,image texture analysis,Pneumonia,ultrasound imaging;
-Figueroa, D.;Figueroa, D.;ROC.,PCA,image texture analysis,Pneumonia,ultrasound imaging;
-Castañeda, B.;Castañeda, B.;ROC.,PCA,image texture analysis,Pneumonia,ultrasound imaging;
+Hidalgo, D.;Hidalgo, D.;eye tracking,Autism spectrum disorders,diagnosis,M-CHAT;
+Zheng, J.;Zheng, J.;ICEMR,Standardizing data dictionaries,PlasmoDB,OBO Foundry;
+Cade, J.;Cade, J.;ICEMR,Standardizing data dictionaries,PlasmoDB,OBO Foundry;
+Brunk, B.;Brunk, B.;ICEMR,Standardizing data dictionaries,PlasmoDB,OBO Foundry;
+Maguina-Mercedes, P.;Maguina-Mercedes, P.;ICEMR,Standardizing data dictionaries,PlasmoDB,OBO Foundry;
+Vinetz, J.M.;Vinetz, J.M.;ICEMR,Standardizing data dictionaries,PlasmoDB,OBO Foundry;
+Ramírez-Salinas, G.L.;Ramírez-Salinas, G.L.;Neuraminidase,Mutations,Influenza A H1N1,Docking,Molecular dynamics simulations;
+García-Machorro, J.;García-Machorro, J.;Neuraminidase,Mutations,Influenza A H1N1,Docking,Molecular dynamics simulations;
+Quiliano, M.;Quiliano, M.;Neuraminidase,Mutations,Influenza A H1N1,Docking,Molecular dynamics simulations;
+Rojas-Hernández, S.;Rojas-Hernández, S.;Neuraminidase,Mutations,Influenza A H1N1,Docking,Molecular dynamics simulations;
+Correa-Basurto, J.;Correa-Basurto, J.;Neuraminidase,Mutations,Influenza A H1N1,Docking,Molecular dynamics simulations;
+Diaz, K.;Diaz, K.;ultrasound imaging,Pneumonia,PCA,image texture analysis,ROC.;
+Figueroa, D.;Figueroa, D.;ultrasound imaging,Pneumonia,PCA,image texture analysis,ROC.;
+Castañeda, B.;Castañeda, B.;ultrasound imaging,Pneumonia,PCA,image texture analysis,ROC.;
 Furukawa, R.;Furukawa, R.;;
 Rueda, D.;Rueda, D.;;
 Delgado, S.;Delgado, S.;;

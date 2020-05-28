@@ -1,36 +1,36 @@
 ID;Label;KeywordsB2018;KeywordsA2018
 Dolz, F.C.;Dolz, F.C.;;
-Rodriguez, E.A.I.;Rodriguez, E.A.I.;;USRP,ISDB-T,AI,MER,I/Q impairments,gr-isdbt,CS,SDR,QE
-Alarcón, A.G.;Alarcón, A.G.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
-Germán, A.;Germán, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
-Aleksinkó, A.;Aleksinkó, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
-Scavuzzo, C.M.;Scavuzzo, C.M.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
-Ferral, A.;Ferral, A.;;Eutrophication,Phytoplankton,Linear regression,LANDSAT8-OLI,Chlorophyll-a
-Rodríguez, E.A.I.;Rodríguez, E.A.I.;;USRP,Spectrum Analyzer,SNR,Carriers,ISDB-Tb,CNR,SDR
-Morales, I.;Morales, I.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
-Neves, B.;Neves, B.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
-Oporto, Z.;Oporto, Z.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
-Piguet, O.;Piguet, O.;;Relativistic particle,Massless charged particle,Spinning particle,Lorentz symmetry
+Rodriguez, E.A.I.;Rodriguez, E.A.I.;;gr-isdbt,QE,ISDB-T,AI,CS,USRP,I/Q impairments,MER,SDR
+Alarcón, A.G.;Alarcón, A.G.;;LANDSAT8-OLI,Eutrophication,Chlorophyll-a,Phytoplankton,Linear regression
+Germán, A.;Germán, A.;;LANDSAT8-OLI,Eutrophication,Chlorophyll-a,Phytoplankton,Linear regression
+Aleksinkó, A.;Aleksinkó, A.;;LANDSAT8-OLI,Eutrophication,Chlorophyll-a,Phytoplankton,Linear regression
+Scavuzzo, C.M.;Scavuzzo, C.M.;;LANDSAT8-OLI,Eutrophication,Chlorophyll-a,Phytoplankton,Linear regression
+Ferral, A.;Ferral, A.;;LANDSAT8-OLI,Eutrophication,Chlorophyll-a,Phytoplankton,Linear regression
+Rodríguez, E.A.I.;Rodríguez, E.A.I.;;ISDB-Tb,Carriers,SNR,Spectrum Analyzer,USRP,SDR,CNR
+Morales, I.;Morales, I.;;Lorentz symmetry,Massless charged particle,Relativistic particle,Spinning particle
+Neves, B.;Neves, B.;;Lorentz symmetry,Massless charged particle,Relativistic particle,Spinning particle
+Oporto, Z.;Oporto, Z.;;Lorentz symmetry,Massless charged particle,Relativistic particle,Spinning particle
+Piguet, O.;Piguet, O.;;Lorentz symmetry,Massless charged particle,Relativistic particle,Spinning particle
 Ramírez-Ávila, G.M.;Ramírez-Ávila, G.M.;;
 Kurths, J.;Kurths, J.;;
 Deneubourg, J.L.;Deneubourg, J.L.;;
 Mosquera, X.D.;Mosquera, X.D.;;
 Pacheco, D.D.;Pacheco, D.D.;;
-Ruiz-Verd, A.;Ruiz-Verd, A.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
-Jiménez, J.C.;Jiménez, J.C.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
-Lazzaro, X.;Lazzaro, X.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
-Sobrino, J.A.;Sobrino, J.A.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
-Moreno, J.;Moreno, J.;Lake Titicaca,Water Quality,MODIS,Landsat-8,Chlorophyll-a;
-Satge, F.;Satge, F.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
-Denezine, M.;Denezine, M.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
-Pillco, R.;Pillco, R.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
-Seyler, F.;Seyler, F.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
-Bonnet, M.-P.;Bonnet, M.-P.;Andean Plateau,SRTM,South America,Digital elevation model,Accuracy;
+Ruiz-Verd, A.;Ruiz-Verd, A.;Landsat-8,Lake Titicaca,Chlorophyll-a,MODIS,Water Quality;
+Jiménez, J.C.;Jiménez, J.C.;Landsat-8,Lake Titicaca,Chlorophyll-a,MODIS,Water Quality;
+Lazzaro, X.;Lazzaro, X.;Landsat-8,Lake Titicaca,Chlorophyll-a,MODIS,Water Quality;
+Sobrino, J.A.;Sobrino, J.A.;Landsat-8,Lake Titicaca,Chlorophyll-a,MODIS,Water Quality;
+Moreno, J.;Moreno, J.;Landsat-8,Lake Titicaca,Chlorophyll-a,MODIS,Water Quality;
+Satge, F.;Satge, F.;South America,Digital elevation model,SRTM,Andean Plateau,Accuracy;
+Denezine, M.;Denezine, M.;South America,Digital elevation model,SRTM,Andean Plateau,Accuracy;
+Pillco, R.;Pillco, R.;South America,Digital elevation model,SRTM,Andean Plateau,Accuracy;
+Seyler, F.;Seyler, F.;South America,Digital elevation model,SRTM,Andean Plateau,Accuracy;
+Bonnet, M.-P.;Bonnet, M.-P.;South America,Digital elevation model,SRTM,Andean Plateau,Accuracy;
 Cuarita, L.G.;Cuarita, L.G.;;
 Tovar, E.;Tovar, E.;;
-Chalco-Cano, Y.;Chalco-Cano, Y.;gH-Differentiability and integrability of interval-valued functions,Ostrowski type inequalities,Interval-valued functions;
-Lodwick, W.A.;Lodwick, W.A.;gH-Differentiability and integrability of interval-valued functions,Ostrowski type inequalities,Interval-valued functions;
-Condori-Equice, W.;Condori-Equice, W.;gH-Differentiability and integrability of interval-valued functions,Ostrowski type inequalities,Interval-valued functions;
+Chalco-Cano, Y.;Chalco-Cano, Y.;Ostrowski type inequalities,gH-Differentiability and integrability of interval-valued functions,Interval-valued functions;
+Lodwick, W.A.;Lodwick, W.A.;Ostrowski type inequalities,gH-Differentiability and integrability of interval-valued functions,Interval-valued functions;
+Condori-Equice, W.;Condori-Equice, W.;Ostrowski type inequalities,gH-Differentiability and integrability of interval-valued functions,Interval-valued functions;
 Guerrero-Rascado, J.L.;Guerrero-Rascado, J.L.;;
 Landulfo, E.;Landulfo, E.;;
 Antuña, J.C.;Antuña, J.C.;;

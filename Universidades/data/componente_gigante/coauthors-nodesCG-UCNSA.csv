@@ -1,30 +1,30 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Arteta, R.;Arteta, R.;;Social innovation,Participatory democracy,Public service innovation,Civic technology
-Saldivar, J.;Saldivar, J.;;Social innovation,Participatory democracy,Public service innovation,Civic technology
-Parra, C.;Parra, C.;;Social innovation,Participatory democracy,Public service innovation,Civic technology
-Cernuzzi, L.;Cernuzzi, L.;Sustainability,Model Oriented Web Approach,Web methodologies,Social Networks,Model Driven Development,model driven development,Data Privacy and Security,Semantic Access Control,Model-Driven Development,Interoperability,Semantic Web,Model-to-Model Transformation,Semantic Search,Internet/Web technologies,RIA,remote work,systematic mapping study,Systematic Mapping Study,MDD,Architectural Specific Model,online work,Knowledge Bases,Service Oriented Methodology (SOM),Model driven architecture,Service-Based Application,Model-Driven Architecture,portability,older adults,Model driven development,online contribution,Web application,MDA,Model Driven Architecture,seniors,Navigational models,Linked Data,MoWebA,Rich Internet Applications,mobile cloud applications;Participatory democracy,Network communication,Web Testing,ATDD,Public service innovation,MBT,BDD,MDD,Mobile applications,TDD,TestNG,Cloud,Transformation templates,User interface,Selenium,Software Testing,MDE,Model-driven engineering,Civic technology,Social innovation,Acceptance Tests,Portability
-Alcaraz, M.;Alcaraz, M.;;Social innovation,Participatory democracy,Public service innovation,Civic technology
-Riquelme, L.;Riquelme, L.;;Selenium,MBT,Acceptance Tests,BDD,Web Testing,Software Testing,TDD,ATDD,TestNG
-Gonzalez, M.;Gonzalez, M.;systematic mapping study,Systematic Mapping Study,type of mobile development,Mobile application,methodology,model driven development,SMS,Architectural Specific Model,Model-Driven Architecture,Model-Driven Development,portability,Model-to-Model Transformation,tools,Rich Internet Applications,mobile cloud applications;Selenium,MBT,Acceptance Tests,BDD,Web Testing,Software Testing,TDD,ATDD,TestNG
-Aquino, N.;Aquino, N.;Model Oriented Web Approach,RIA,Rich Internet Applications,systematic mapping study,Systematic Mapping Study,MDD,Architectural Specific Model,Model Driven Development,Model Driven Architecture,model driven development,Model-Driven Architecture,Model-Driven Development,portability,MoWebA,Model-to-Model Transformation,MDA,mobile cloud applications;Model-driven engineering,Network communication,Transformation templates,Selenium,MBT,Acceptance Tests,BDD,Web Testing,MDD,Portability,Software Testing,Mobile applications,TDD,ATDD,MDE,TestNG,Cloud,User interface
-Sanchiz, E.;Sanchiz, E.;model driven development,portability,systematic mapping study,mobile cloud applications;Network communication,MDD,Portability,Mobile applications,Cloud
-González, M.;González, M.;Model Oriented Web Approach,RIA,Web methodologies,Rich Internet Applications,MDD,Model driven architecture,Web application,Model Driven Development,Model Driven Architecture,Model driven development,Navigational models,MoWebA,MDA;Network communication,MDD,Portability,Mobile applications,Cloud
-Pastor, O.;Pastor, O.;Web methodologies,MDD,Model driven architecture,Web application,MDA,Navigational models,Model driven development;Transformation templates,User interface,Model-driven engineering,MDE
-Nuñez, G.;Nuñez, G.;Model Oriented Web Approach,RIA,Rich Internet Applications,MDD,Model Driven Development,Model Driven Architecture,MoWebA,MDA;
-Galeano, I.;Galeano, I.;type of mobile development,Mobile application,methodology,SMS,tools;
-Casariego, J.;Casariego, J.;type of mobile development,Mobile application,methodology,SMS,tools;
-Merln, M.;Merln, M.;type of mobile development,Mobile application,methodology,SMS,tools;
-Bonhaure, D.;Bonhaure, D.;Systematic Mapping Study,Architectural Specific Model,Model-Driven Architecture,Model-Driven Development,Model-to-Model Transformation,Rich Internet Applications;
-Pons, C.;Pons, C.;Systematic Mapping Study,Architectural Specific Model,Model-Driven Architecture,Model-Driven Development,Model-to-Model Transformation,Rich Internet Applications;
-Grau, I.;Grau, I.;Sustainability,Service Oriented Methodology (SOM),Service-Based Application,Interoperability;
-Villafiorita, A.;Villafiorita, A.;Sustainability,Service Oriented Methodology (SOM),Service-Based Application,Interoperability;
-Ibarra, F.;Ibarra, F.;online contribution,remote work,online work,seniors,older adults,Internet/Web technologies;
-Korovina, O.;Korovina, O.;online contribution,remote work,online work,seniors,older adults,Internet/Web technologies;
-Báez, M.;Báez, M.;online contribution,remote work,online work,seniors,older adults,Internet/Web technologies;
-Barysheva, G.A.;Barysheva, G.A.;online contribution,remote work,online work,seniors,older adults,Internet/Web technologies;
+Arteta, R.;Arteta, R.;;Social innovation,Participatory democracy,Civic technology,Public service innovation
+Saldivar, J.;Saldivar, J.;;Social innovation,Participatory democracy,Civic technology,Public service innovation
+Parra, C.;Parra, C.;;Social innovation,Participatory democracy,Civic technology,Public service innovation
+Cernuzzi, L.;Cernuzzi, L.;Model Driven Development,Interoperability,online work,seniors,portability,model driven development,Architectural Specific Model,Semantic Access Control,Knowledge Bases,Model driven development,Data Privacy and Security,MDA,Service-Based Application,Semantic Web,Model Driven Architecture,online contribution,Web application,MDD,RIA,Sustainability,Model driven architecture,Model-Driven Architecture,Service Oriented Methodology (SOM),Semantic Search,Social Networks,Navigational models,Model-to-Model Transformation,mobile cloud applications,MoWebA,Model-Driven Development,older adults,remote work,Rich Internet Applications,Systematic Mapping Study,Web methodologies,Linked Data,Internet/Web technologies,systematic mapping study,Model Oriented Web Approach;Software Testing,Public service innovation,TestNG,Social innovation,Participatory democracy,Acceptance Tests,Cloud,MDE,MDD,TDD,Model-driven engineering,Mobile applications,User interface,BDD,Civic technology,MBT,ATDD,Web Testing,Network communication,Selenium,Transformation templates,Portability
+Alcaraz, M.;Alcaraz, M.;;Social innovation,Participatory democracy,Civic technology,Public service innovation
+Riquelme, L.;Riquelme, L.;;Web Testing,TDD,Software Testing,Selenium,TestNG,BDD,Acceptance Tests,MBT,ATDD
+Gonzalez, M.;Gonzalez, M.;mobile cloud applications,SMS,portability,Model-Driven Development,type of mobile development,methodology,Rich Internet Applications,tools,Model-Driven Architecture,Systematic Mapping Study,model driven development,Architectural Specific Model,systematic mapping study,Mobile application,Model-to-Model Transformation;Web Testing,TDD,Software Testing,Selenium,TestNG,BDD,Acceptance Tests,MBT,ATDD
+Aquino, N.;Aquino, N.;Model Driven Development,MDA,MDD,RIA,mobile cloud applications,portability,MoWebA,Model-Driven Development,Rich Internet Applications,Systematic Mapping Study,Model-Driven Architecture,Model Driven Architecture,model driven development,Architectural Specific Model,systematic mapping study,Model Oriented Web Approach,Model-to-Model Transformation;Web Testing,Cloud,Network communication,MDD,MDE,TDD,Software Testing,Mobile applications,Model-driven engineering,User interface,Selenium,Transformation templates,TestNG,BDD,Acceptance Tests,Portability,MBT,ATDD
+Sanchiz, E.;Sanchiz, E.;systematic mapping study,model driven development,mobile cloud applications,portability;Cloud,Network communication,MDD,Mobile applications,Portability
+González, M.;González, M.;Model Driven Development,MDA,MDD,RIA,Model driven architecture,MoWebA,Rich Internet Applications,Web methodologies,Model Driven Architecture,Web application,Navigational models,Model driven development,Model Oriented Web Approach;Cloud,Network communication,MDD,Mobile applications,Portability
+Pastor, O.;Pastor, O.;MDA,MDD,Model driven architecture,Web methodologies,Web application,Navigational models,Model driven development;MDE,User interface,Transformation templates,Model-driven engineering
+Nuñez, G.;Nuñez, G.;Model Driven Development,MDA,MDD,RIA,MoWebA,Rich Internet Applications,Model Driven Architecture,Model Oriented Web Approach;
+Galeano, I.;Galeano, I.;SMS,type of mobile development,methodology,tools,Mobile application;
+Casariego, J.;Casariego, J.;SMS,type of mobile development,methodology,tools,Mobile application;
+Merln, M.;Merln, M.;SMS,type of mobile development,methodology,tools,Mobile application;
+Bonhaure, D.;Bonhaure, D.;Model-Driven Development,Rich Internet Applications,Systematic Mapping Study,Model-Driven Architecture,Architectural Specific Model,Model-to-Model Transformation;
+Pons, C.;Pons, C.;Model-Driven Development,Rich Internet Applications,Systematic Mapping Study,Model-Driven Architecture,Architectural Specific Model,Model-to-Model Transformation;
+Grau, I.;Grau, I.;Service-Based Application,Interoperability,Sustainability,Service Oriented Methodology (SOM);
+Villafiorita, A.;Villafiorita, A.;Service-Based Application,Interoperability,Sustainability,Service Oriented Methodology (SOM);
+Ibarra, F.;Ibarra, F.;online work,seniors,older adults,remote work,online contribution,Internet/Web technologies;
+Korovina, O.;Korovina, O.;online work,seniors,older adults,remote work,online contribution,Internet/Web technologies;
+Báez, M.;Báez, M.;online work,seniors,older adults,remote work,online contribution,Internet/Web technologies;
+Barysheva, G.A.;Barysheva, G.A.;online work,seniors,older adults,remote work,online contribution,Internet/Web technologies;
 López, I.;López, I.;;
-Hume, A.;Hume, A.;P2P,Distributed Directory,Name-based Search,Entity;
-Giunchiglia, F.;Giunchiglia, F.;P2P,Name-based Search,Knowledge Bases,Entity,Social Networks,Distributed Directory,Linked Data,Data Privacy and Security,Semantic Access Control,Semantic Web,Semantic Search;
-Cemuzzi, L.;Cemuzzi, L.;P2P,Distributed Directory,Name-based Search,Entity;
-Chenu-Abente, R.;Chenu-Abente, R.;Knowledge Bases,Social Networks,Linked Data,Data Privacy and Security,Semantic Access Control,Semantic Web,Semantic Search;
+Hume, A.;Hume, A.;Distributed Directory,Name-based Search,P2P,Entity;
+Giunchiglia, F.;Giunchiglia, F.;Semantic Web,Distributed Directory,Name-based Search,Linked Data,P2P,Entity,Social Networks,Semantic Access Control,Semantic Search,Knowledge Bases,Data Privacy and Security;
+Cemuzzi, L.;Cemuzzi, L.;Distributed Directory,Name-based Search,P2P,Entity;
+Chenu-Abente, R.;Chenu-Abente, R.;Semantic Web,Linked Data,Social Networks,Semantic Access Control,Semantic Search,Knowledge Bases,Data Privacy and Security;
 Cajes, V.;Cajes, V.;;

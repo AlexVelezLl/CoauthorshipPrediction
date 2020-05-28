@@ -1,28 +1,28 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Luna, A.;Luna, A.;;Generation Z,case study,simulations,gamification,constructive research,Revolution 4.0,serious games,ITC2
-Chong, M.;Chong, M.;;Generation Z,case study,simulations,gamification,constructive research,Revolution 4.0,serious games,ITC2
-Jurburg, D.;Jurburg, D.;Competences,Bloom's taxonomy,Higher education,Engineering;Generation Z,case study,simulations,gamification,constructive research,Revolution 4.0,serious games,ITC2
-Sotelo, R.;Sotelo, R.;DTV and broadband multimedia systems,Set-top box and home networking,Subjective methods,Program guides and navigation,HEVC,Multimedia quality and content,Objective evaluation techniques,Recommender Systems,Video Quality Assessment,video subjective tests database,Augmented Broadcasting,VoD,Quality Assessment,MOS,Hybrid Television,Interactivity,ISDB-T,Augmented Reality,ISDB-Tb,Subjective evaluation techniques,HbbTV,Quality of Experience,QoE,UHD,Objective methods,Content management,Video quality assessment,Performance evaluation,interactivity;Future broadcasting services,Quality of Experience,Objective Subjective Evaluation
-Joskowicz, J.;Joskowicz, J.;DTV and broadband multimedia systems,Set-top box and home networking,HEVC,Video Quality Assessment,video subjective tests database,Augmented Broadcasting,Quality Assessment,MOS,Hybrid Television,Interactivity,ISDB-T,Augmented Reality,Subjective evaluation techniques,HbbTV,Quality of Experience,QoE,UHD,ISDB-Tb,Performance evaluation;Future broadcasting services,Quality of Experience,Objective Subjective Evaluation
-Puddu, R.;Puddu, R.;;Future broadcasting services,Quality of Experience,Objective Subjective Evaluation
-Giusto, D.D.;Giusto, D.D.;QoE,HEVC,UHD,MOS,Performance evaluation,Video Quality Assessment,Subjective evaluation techniques;Future broadcasting services,Quality of Experience,Objective Subjective Evaluation
-Anedda, M.;Anedda, M.;QoE,HEVC,UHD,MOS,Performance evaluation,Video Quality Assessment,Subjective evaluation techniques;Future broadcasting services,Quality of Experience,Objective Subjective Evaluation
-Gonzalez, A.;Gonzalez, A.;;Future broadcasting services,Quality of Experience,Objective Subjective Evaluation
-Rondan, N.;Rondan, N.;ISDB-T,Augmented Broadcasting,Augmented Reality,DTV and broadband multimedia systems,Set-top box and home networking,Hybrid Television,HbbTV,Interactivity;
-Murroni, M.;Murroni, M.;QoE,HEVC,UHD,MOS,Performance evaluation,Video Quality Assessment,Subjective evaluation techniques;
+Luna, A.;Luna, A.;;simulations,constructive research,ITC2,gamification,serious games,Revolution 4.0,case study,Generation Z
+Chong, M.;Chong, M.;;simulations,constructive research,ITC2,gamification,serious games,Revolution 4.0,case study,Generation Z
+Jurburg, D.;Jurburg, D.;Engineering,Competences,Bloom's taxonomy,Higher education;simulations,constructive research,ITC2,gamification,serious games,Revolution 4.0,case study,Generation Z
+Sotelo, R.;Sotelo, R.;MOS,HEVC,Objective methods,Augmented Broadcasting,HbbTV,Content management,DTV and broadband multimedia systems,video subjective tests database,Quality Assessment,Hybrid Television,ISDB-T,Video Quality Assessment,Subjective methods,Quality of Experience,Performance evaluation,Interactivity,Program guides and navigation,Subjective evaluation techniques,QoE,Multimedia quality and content,Recommender Systems,Set-top box and home networking,UHD,Augmented Reality,ISDB-Tb,VoD,Video quality assessment,interactivity,Objective evaluation techniques;Quality of Experience,Objective Subjective Evaluation,Future broadcasting services
+Joskowicz, J.;Joskowicz, J.;MOS,HEVC,Augmented Broadcasting,HbbTV,DTV and broadband multimedia systems,video subjective tests database,Quality Assessment,Hybrid Television,ISDB-T,Video Quality Assessment,Quality of Experience,Performance evaluation,Interactivity,Subjective evaluation techniques,QoE,Set-top box and home networking,UHD,Augmented Reality,ISDB-Tb;Quality of Experience,Objective Subjective Evaluation,Future broadcasting services
+Puddu, R.;Puddu, R.;;Quality of Experience,Objective Subjective Evaluation,Future broadcasting services
+Giusto, D.D.;Giusto, D.D.;Subjective evaluation techniques,MOS,HEVC,QoE,Video Quality Assessment,Performance evaluation,UHD;Quality of Experience,Objective Subjective Evaluation,Future broadcasting services
+Anedda, M.;Anedda, M.;Subjective evaluation techniques,MOS,HEVC,QoE,Video Quality Assessment,Performance evaluation,UHD;Quality of Experience,Objective Subjective Evaluation,Future broadcasting services
+Gonzalez, A.;Gonzalez, A.;;Quality of Experience,Objective Subjective Evaluation,Future broadcasting services
+Rondan, N.;Rondan, N.;Interactivity,DTV and broadband multimedia systems,Hybrid Television,ISDB-T,Augmented Broadcasting,Set-top box and home networking,HbbTV,Augmented Reality;
+Murroni, M.;Murroni, M.;Subjective evaluation techniques,MOS,HEVC,QoE,Video Quality Assessment,Performance evaluation,UHD;
 Perez, A.;Perez, A.;;
-Medina, A.;Medina, A.;Competences,Bloom's taxonomy,Higher education,Engineering;
-Ruibal, C.;Ruibal, C.;Competences,Bloom's taxonomy,Higher education,Engineering;
-Juayek, M.;Juayek, M.;VoD,Program guides and navigation,Quality of Experience,Quality Assessment,Multimedia quality and content,Content management,Objective evaluation techniques,Recommender Systems,ISDB-Tb,Performance evaluation,interactivity,video subjective tests database;
-Canale, E.;Canale, E.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Monte Carlo,Network reliability,Recursive Variance Reduction,Gilbert's model,planar graphs,Network Reliability,Stochastic Binary System,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
-Cancela, H.;Cancela, H.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Monte Carlo,Network reliability,Recursive Variance Reduction,Gilbert's model,planar graphs,Network Reliability,Stochastic Binary System,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
-Robledo, F.;Robledo, F.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Network reliability,Gilbert's model,planar graphs,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
-Romero, P.;Romero, P.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Network reliability,Gilbert's model,planar graphs,Monma graphs,diameter constrained reliability,Diameter-constrained reliability;
-Sartor, P.;Sartor, P.;random graphs,computational complexity,Computational complexity,network reliability,hop-limit,Monte Carlo,Network reliability,Recursive Variance Reduction,Gilbert's model,planar graphs,Network Reliability,Stochastic Binary System,Monma graphs,graph theory,diameter constraints,diameter constrained reliability,Diameter-constrained reliability;
-Piecini, J.;Piecini, J.;Monte Carlo,Stochastic Binary System,Recursive Variance Reduction,Network Reliability;
-Rubino, G.;Rubino, G.;Monte Carlo,Stochastic Binary System,Recursive Variance Reduction,Network Reliability;
-Garella, J.P.;Garella, J.P.;Quality Assessment,Quality of Experience,video subjective tests database,ISDB-Tb;
-Duran, D.;Duran, D.;Quality Assessment,Quality of Experience,video subjective tests database,ISDB-Tb;
+Medina, A.;Medina, A.;Engineering,Competences,Bloom's taxonomy,Higher education;
+Ruibal, C.;Ruibal, C.;Engineering,Competences,Bloom's taxonomy,Higher education;
+Juayek, M.;Juayek, M.;video subjective tests database,Program guides and navigation,ISDB-Tb,Quality Assessment,VoD,Multimedia quality and content,Recommender Systems,Performance evaluation,interactivity,Quality of Experience,Objective evaluation techniques,Content management;
+Canale, E.;Canale, E.;Computational complexity,network reliability,Diameter-constrained reliability,Stochastic Binary System,Recursive Variance Reduction,computational complexity,diameter constrained reliability,Network reliability,random graphs,Monma graphs,planar graphs,Monte Carlo,hop-limit,Gilbert's model,Network Reliability;
+Cancela, H.;Cancela, H.;Computational complexity,network reliability,Diameter-constrained reliability,Stochastic Binary System,Recursive Variance Reduction,computational complexity,diameter constrained reliability,Network reliability,random graphs,Monma graphs,planar graphs,Monte Carlo,hop-limit,Gilbert's model,Network Reliability;
+Robledo, F.;Robledo, F.;Computational complexity,network reliability,computational complexity,diameter constrained reliability,Network reliability,random graphs,Monma graphs,planar graphs,Diameter-constrained reliability,hop-limit,Gilbert's model;
+Romero, P.;Romero, P.;Computational complexity,network reliability,computational complexity,diameter constrained reliability,Network reliability,random graphs,Monma graphs,planar graphs,Diameter-constrained reliability,hop-limit,Gilbert's model;
+Sartor, P.;Sartor, P.;Computational complexity,network reliability,Diameter-constrained reliability,Stochastic Binary System,Recursive Variance Reduction,computational complexity,diameter constraints,diameter constrained reliability,graph theory,Network reliability,random graphs,Monma graphs,planar graphs,Monte Carlo,hop-limit,Gilbert's model,Network Reliability;
+Piecini, J.;Piecini, J.;Stochastic Binary System,Monte Carlo,Recursive Variance Reduction,Network Reliability;
+Rubino, G.;Rubino, G.;Stochastic Binary System,Monte Carlo,Recursive Variance Reduction,Network Reliability;
+Garella, J.P.;Garella, J.P.;Quality of Experience,video subjective tests database,ISDB-Tb,Quality Assessment;
+Duran, D.;Duran, D.;Quality of Experience,video subjective tests database,ISDB-Tb,Quality Assessment;
 Tanco, M.;Tanco, M.;;
 Santos, J.;Santos, J.;;
 Rodriguez, J.L.;Rodriguez, J.L.;;

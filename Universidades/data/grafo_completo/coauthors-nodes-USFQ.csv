@@ -1,236 +1,236 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Ponce, M.;Ponce, M.;;Desirability function,Lupinus mutabilis Sweet,Surface response,Pasta,Central composed design
-Navarrete, D.;Navarrete, D.;;Desirability function,Lupinus mutabilis Sweet,Surface response,Pasta,Central composed design
-Vernaza, M.G.;Vernaza, M.G.;;Desirability function,Lupinus mutabilis Sweet,Surface response,Pasta,Central composed design
-Klimley, A.P.;Klimley, A.P.;Geolocation,Geomagnetic intensity,Irradiance,Archival tags;
-Flagg, M.;Flagg, M.;Geolocation,Geomagnetic intensity,Irradiance,Archival tags;
-Hammerschlag, N.;Hammerschlag, N.;Geolocation,Geomagnetic intensity,Irradiance,Archival tags;
-Hearn, A.;Hearn, A.;Geolocation,Geomagnetic intensity,Irradiance,Archival tags;
-García-Jacas, C.R.;García-Jacas, C.R.;Atom/bond-based molecular descriptor,Mutual probability matrices,Non-stochastic,Bilinear and quadratic indices,Simple stochastic,QuBiLS-MIDAS,3D-QSAR,Linear,Double stochastic,QSAR,QuBiLS-MAS,ToMoCoMD-CARDD,Multiple Linear Regression,TOMOCOMD-CARDD,Free and open source software;Molecular descriptors,Aggregation operators,QuBiLS-MIDAS,QuBiLS-MIDAS molecular descriptors,OWA aggregation operator,Choquet integral,Fuzzy measures,3D molecular descriptors,LOEIs,OWAWA aggregation operator,QSAR,data fusion,ToMoCoMD-CARDD software,LOVIs,aggregation operators,WA aggregation operator
-Cabrera-Leyva, L.;Cabrera-Leyva, L.;Multiple Linear Regression,3D-QSAR,TOMOCOMD-CARDD,QuBiLS-MIDAS;Molecular descriptors,Aggregation operators,QuBiLS-MIDAS,QuBiLS-MIDAS molecular descriptors,OWA aggregation operator,Choquet integral,Fuzzy measures,3D molecular descriptors,LOEIs,OWAWA aggregation operator,QSAR,data fusion,ToMoCoMD-CARDD software,LOVIs,aggregation operators,WA aggregation operator
-Marrero-Ponce, Y.;Marrero-Ponce, Y.;Atom/bond-based molecular descriptor,Non-stochastic,Activation entropy,QSAR,Multiple Linear Regression,Reactivity,Free valence,Mutual probability matrices,17O-RMN,Linear,QuBiLS-MAS,GDIs,Derivative indices,TOMOCOMD-CARDD,Discrete derivative,Structural interpretation,QuBiLS-MIDAS,Bilinear and quadratic indices,3D-QSAR,Double stochastic,ToMoCoMD-CARDD,Free and open source software,Simple stochastic,Resonance energy;Molecular descriptors,Aggregation operators,QuBiLS-MIDAS,QuBiLS-MIDAS molecular descriptors,OWA aggregation operator,Choquet integral,Fuzzy measures,3D molecular descriptors,LOEIs,OWAWA aggregation operator,QSAR,data fusion,ToMoCoMD-CARDD software,LOVIs,aggregation operators,WA aggregation operator
-Cortés-Guzmán, F.;Cortés-Guzmán, F.;;QuBiLS-MIDAS,OWA aggregation operator,3D molecular descriptors,LOEIs,OWAWA aggregation operator,data fusion,LOVIs,aggregation operators,WA aggregation operator
-García-González, L.A.;García-González, L.A.;;QuBiLS-MIDAS,OWA aggregation operator,3D molecular descriptors,LOEIs,OWAWA aggregation operator,data fusion,LOVIs,aggregation operators,WA aggregation operator
-Mora, J.R.;Mora, J.R.;Hydrogen activation,Frustrated Lewis pairs,Many body decomposition analysis,Methane activation,Halocarbons,Reductive dehalogenation,Cob[I]alamin,Dft,Reaction force;DFT,Herbicides,Organohalides,Cobalt complexes,Computational modeling,Reaction mechanism,Reductive dehalogenation,Density functional theory,Transition state
-Cervantes, C.;Cervantes, C.;;Herbicides,Computational modeling,Reaction mechanism,Density functional theory,Transition state
-Marquez, E.;Marquez, E.;;Herbicides,Computational modeling,Reaction mechanism,Density functional theory,Transition state
-García-Tenesaca, M.;García-Tenesaca, M.;;Avocado honey,Ecuadorian monofloral honey,Eucalyptus honey,Rapeseed honey
-Navarrete, E.S.;Navarrete, E.S.;;Avocado honey,Ecuadorian monofloral honey,Eucalyptus honey,Rapeseed honey
-Iturralde, G.A.;Iturralde, G.A.;;Avocado honey,Ecuadorian monofloral honey,Eucalyptus honey,Rapeseed honey
-Battino, M.;Battino, M.;;Avocado honey,Ecuadorian monofloral honey,Eucalyptus honey,Rapeseed honey
-Alvarez-Suarez, J.M.;Alvarez-Suarez, J.M.;;Avocado honey,Ecuadorian monofloral honey,Eucalyptus honey,Rapeseed honey
-Martínez-Santiago, O.;Martínez-Santiago, O.;Structural interpretation,Free valence,Activation entropy,17O-RMN,GDIs,Reactivity,Derivative indices,Resonance energy,Discrete derivative;
-Barigye, S.J.;Barigye, S.J.;Structural interpretation,Free valence,QuBiLS-MIDAS,Activation entropy,3D-QSAR,17O-RMN,Multiple Linear Regression,GDIs,Reactivity,Derivative indices,Resonance energy,TOMOCOMD-CARDD,Discrete derivative;
-Infante, L.V.;Infante, L.V.;Structural interpretation,Free valence,Activation entropy,17O-RMN,GDIs,Reactivity,Derivative indices,Resonance energy,Discrete derivative;
-Artiles Martínez, L.M.;Artiles Martínez, L.M.;Structural interpretation,Free valence,Activation entropy,17O-RMN,GDIs,Reactivity,Derivative indices,Resonance energy,Discrete derivative;
-Terán, J.E.;Terán, J.E.;;Organohalides,Cobalt complexes,DFT,Reductive dehalogenation
-Zambrano, C.H.;Zambrano, C.H.;;Organohalides,Cobalt complexes,DFT,Reductive dehalogenation
-Rincón, L.;Rincón, L.;Radiative efficiency,density functional theory,greenhouse gases;Organohalides,Cobalt complexes,DFT,Reductive dehalogenation
-Torres, F.J.;Torres, F.J.;Reductive dehalogenation,Cob[I]alamin,Dft,Halocarbons;Organohalides,Cobalt complexes,DFT,Reductive dehalogenation
-Cortés-Arriagada, D.;Cortés-Arriagada, D.;Reductive dehalogenation,Cob[I]alamin,Dft,Halocarbons;
-Toro-Labbe, A.;Toro-Labbe, A.;Reductive dehalogenation,Cob[I]alamin,Dft,Halocarbons;
-Mereau, R.;Mereau, R.;Reductive dehalogenation,Cob[I]alamin,Dft,Halocarbons;
-Villegas-Escobar, N.;Villegas-Escobar, N.;Hydrogen activation,Frustrated Lewis pairs,Many body decomposition analysis,Methane activation,Reaction force;
-Toro-Labbé, A.;Toro-Labbé, A.;Hydrogen activation,Frustrated Lewis pairs,Many body decomposition analysis,Methane activation,Reaction force;
-Becerra, M.;Becerra, M.;Hydrogen activation,Frustrated Lewis pairs,Many body decomposition analysis,Methane activation,Reaction force;
-Rincon, L.;Rincon, L.;Hydrogen activation,Frustrated Lewis pairs,Many body decomposition analysis,Methane activation,Reaction force;
+Ponce, M.;Ponce, M.;;Central composed design,Pasta,Desirability function,Surface response,Lupinus mutabilis Sweet
+Navarrete, D.;Navarrete, D.;;Central composed design,Pasta,Desirability function,Surface response,Lupinus mutabilis Sweet
+Vernaza, M.G.;Vernaza, M.G.;;Central composed design,Pasta,Desirability function,Surface response,Lupinus mutabilis Sweet
+Klimley, A.P.;Klimley, A.P.;Archival tags,Irradiance,Geomagnetic intensity,Geolocation;
+Flagg, M.;Flagg, M.;Archival tags,Irradiance,Geomagnetic intensity,Geolocation;
+Hammerschlag, N.;Hammerschlag, N.;Archival tags,Irradiance,Geomagnetic intensity,Geolocation;
+Hearn, A.;Hearn, A.;Archival tags,Irradiance,Geomagnetic intensity,Geolocation;
+García-Jacas, C.R.;García-Jacas, C.R.;Simple stochastic,Multiple Linear Regression,TOMOCOMD-CARDD,Bilinear and quadratic indices,QuBiLS-MAS,Mutual probability matrices,QuBiLS-MIDAS,Free and open source software,Atom/bond-based molecular descriptor,Double stochastic,QSAR,Non-stochastic,Linear,ToMoCoMD-CARDD,3D-QSAR;Aggregation operators,3D molecular descriptors,OWAWA aggregation operator,WA aggregation operator,aggregation operators,QuBiLS-MIDAS,Choquet integral,Molecular descriptors,LOEIs,data fusion,OWA aggregation operator,QSAR,ToMoCoMD-CARDD software,Fuzzy measures,LOVIs,QuBiLS-MIDAS molecular descriptors
+Cabrera-Leyva, L.;Cabrera-Leyva, L.;Multiple Linear Regression,3D-QSAR,QuBiLS-MIDAS,TOMOCOMD-CARDD;Aggregation operators,3D molecular descriptors,OWAWA aggregation operator,WA aggregation operator,aggregation operators,QuBiLS-MIDAS,Choquet integral,Molecular descriptors,LOEIs,data fusion,OWA aggregation operator,QSAR,ToMoCoMD-CARDD software,Fuzzy measures,LOVIs,QuBiLS-MIDAS molecular descriptors
+Marrero-Ponce, Y.;Marrero-Ponce, Y.;Simple stochastic,Multiple Linear Regression,Mutual probability matrices,QuBiLS-MIDAS,17O-RMN,QSAR,Atom/bond-based molecular descriptor,Double stochastic,Linear,3D-QSAR,Non-stochastic,ToMoCoMD-CARDD,GDIs,QuBiLS-MAS,Free and open source software,Resonance energy,TOMOCOMD-CARDD,Reactivity,Free valence,Discrete derivative,Bilinear and quadratic indices,Structural interpretation,Derivative indices,Activation entropy;Aggregation operators,3D molecular descriptors,OWAWA aggregation operator,WA aggregation operator,aggregation operators,QuBiLS-MIDAS,Choquet integral,Molecular descriptors,LOEIs,data fusion,OWA aggregation operator,QSAR,ToMoCoMD-CARDD software,Fuzzy measures,LOVIs,QuBiLS-MIDAS molecular descriptors
+Cortés-Guzmán, F.;Cortés-Guzmán, F.;;3D molecular descriptors,OWAWA aggregation operator,WA aggregation operator,aggregation operators,QuBiLS-MIDAS,LOEIs,data fusion,OWA aggregation operator,LOVIs
+García-González, L.A.;García-González, L.A.;;3D molecular descriptors,OWAWA aggregation operator,WA aggregation operator,aggregation operators,QuBiLS-MIDAS,LOEIs,data fusion,OWA aggregation operator,LOVIs
+Mora, J.R.;Mora, J.R.;Reductive dehalogenation,Reaction force,Hydrogen activation,Many body decomposition analysis,Halocarbons,Dft,Frustrated Lewis pairs,Methane activation,Cob[I]alamin;Reductive dehalogenation,Computational modeling,DFT,Organohalides,Cobalt complexes,Transition state,Density functional theory,Reaction mechanism,Herbicides
+Cervantes, C.;Cervantes, C.;;Computational modeling,Transition state,Density functional theory,Reaction mechanism,Herbicides
+Marquez, E.;Marquez, E.;;Computational modeling,Transition state,Density functional theory,Reaction mechanism,Herbicides
+García-Tenesaca, M.;García-Tenesaca, M.;;Ecuadorian monofloral honey,Avocado honey,Rapeseed honey,Eucalyptus honey
+Navarrete, E.S.;Navarrete, E.S.;;Ecuadorian monofloral honey,Avocado honey,Rapeseed honey,Eucalyptus honey
+Iturralde, G.A.;Iturralde, G.A.;;Ecuadorian monofloral honey,Avocado honey,Rapeseed honey,Eucalyptus honey
+Battino, M.;Battino, M.;;Ecuadorian monofloral honey,Avocado honey,Rapeseed honey,Eucalyptus honey
+Alvarez-Suarez, J.M.;Alvarez-Suarez, J.M.;;Ecuadorian monofloral honey,Avocado honey,Rapeseed honey,Eucalyptus honey
+Martínez-Santiago, O.;Martínez-Santiago, O.;Discrete derivative,Structural interpretation,Derivative indices,17O-RMN,Reactivity,Resonance energy,GDIs,Activation entropy,Free valence;
+Barigye, S.J.;Barigye, S.J.;Discrete derivative,Multiple Linear Regression,TOMOCOMD-CARDD,QuBiLS-MIDAS,Structural interpretation,Derivative indices,17O-RMN,Reactivity,Resonance energy,3D-QSAR,GDIs,Activation entropy,Free valence;
+Infante, L.V.;Infante, L.V.;Discrete derivative,Structural interpretation,Derivative indices,17O-RMN,Reactivity,Resonance energy,GDIs,Activation entropy,Free valence;
+Artiles Martínez, L.M.;Artiles Martínez, L.M.;Discrete derivative,Structural interpretation,Derivative indices,17O-RMN,Reactivity,Resonance energy,GDIs,Activation entropy,Free valence;
+Terán, J.E.;Terán, J.E.;;Reductive dehalogenation,DFT,Organohalides,Cobalt complexes
+Zambrano, C.H.;Zambrano, C.H.;;Reductive dehalogenation,DFT,Organohalides,Cobalt complexes
+Rincón, L.;Rincón, L.;density functional theory,greenhouse gases,Radiative efficiency;Reductive dehalogenation,DFT,Organohalides,Cobalt complexes
+Torres, F.J.;Torres, F.J.;Reductive dehalogenation,Halocarbons,Cob[I]alamin,Dft;Reductive dehalogenation,DFT,Organohalides,Cobalt complexes
+Cortés-Arriagada, D.;Cortés-Arriagada, D.;Reductive dehalogenation,Halocarbons,Cob[I]alamin,Dft;
+Toro-Labbe, A.;Toro-Labbe, A.;Reductive dehalogenation,Halocarbons,Cob[I]alamin,Dft;
+Mereau, R.;Mereau, R.;Reductive dehalogenation,Halocarbons,Cob[I]alamin,Dft;
+Villegas-Escobar, N.;Villegas-Escobar, N.;Reaction force,Hydrogen activation,Many body decomposition analysis,Frustrated Lewis pairs,Methane activation;
+Toro-Labbé, A.;Toro-Labbé, A.;Reaction force,Hydrogen activation,Many body decomposition analysis,Frustrated Lewis pairs,Methane activation;
+Becerra, M.;Becerra, M.;Reaction force,Hydrogen activation,Many body decomposition analysis,Frustrated Lewis pairs,Methane activation;
+Rincon, L.;Rincon, L.;Reaction force,Hydrogen activation,Many body decomposition analysis,Frustrated Lewis pairs,Methane activation;
 Manzano, S.;Manzano, S.;;
 Mendez, M.A.;Mendez, M.A.;;
 Cazar, R.A.;Cazar, R.A.;;
-Pupo-Meriño, M.;Pupo-Meriño, M.;;Aggregation operators,QuBiLS-MIDAS molecular descriptors,Fuzzy measures,Choquet integral,LOEIs,QSAR,ToMoCoMD-CARDD software,LOVIs,Molecular descriptors
-Vivas-Reyes, R.;Vivas-Reyes, R.;;Aggregation operators,QuBiLS-MIDAS molecular descriptors,Fuzzy measures,Choquet integral,LOEIs,QSAR,ToMoCoMD-CARDD software,LOVIs,Molecular descriptors
-Valdés-Martiní, J.R.;Valdés-Martiní, J.R.;Atom/bond-based molecular descriptor,Mutual probability matrices,Non-stochastic,Bilinear and quadratic indices,Simple stochastic,Linear,Double stochastic,QSAR,QuBiLS-MAS,ToMoCoMD-CARDD,Free and open source software;
-Pérez-Giménez, F.;Pérez-Giménez, F.;Atom/bond-based molecular descriptor,Mutual probability matrices,Non-stochastic,Bilinear and quadratic indices,Simple stochastic,Linear,Double stochastic,QSAR,QuBiLS-MAS,ToMoCoMD-CARDD,Free and open source software;
-Morell, C.A.;Morell, C.A.;Atom/bond-based molecular descriptor,Mutual probability matrices,Non-stochastic,Bilinear and quadratic indices,Simple stochastic,Linear,Double stochastic,QSAR,QuBiLS-MAS,ToMoCoMD-CARDD,Free and open source software;
-Contreras-Torres, E.;Contreras-Torres, E.;Multiple Linear Regression,3D-QSAR,TOMOCOMD-CARDD,QuBiLS-MIDAS;
-Jara, O.;Jara, O.;;Repeatability,Postural load,Anthropometry,Awkward postures,Ergonomic risk,Ergonomic risks,Load handling
-Ballesteros, F.;Ballesteros, F.;;Repeatability,Postural load,Anthropometry,Awkward postures,Ergonomic risk,Ergonomic risks,Load handling
-Carrera, E.;Carrera, E.;;Repeatability,Postural load,Anthropometry,Awkward postures,Ergonomic risk,Ergonomic risks,Load handling
-Dávila, P.;Dávila, P.;;Postural load,Anthropometry,Ergonomic risk
-Vallejo-Huanga, D.;Vallejo-Huanga, D.;;Fault tolerance,Mobile devices,Fuzzy logic
-Proaño, J.;Proaño, J.;;Fault tolerance,Mobile devices,Fuzzy logic
-Morillo, P.;Morillo, P.;;Fault tolerance,Mobile devices,Fuzzy logic
-Ortega, H.;Ortega, H.;;Fault tolerance,Mobile devices,Fuzzy logic
-Guanochanga, B.;Guanochanga, B.;;CO2,methane,SO2,WSN,NO2,air pollution,Air pollution,monitoring,Web services,dust particles,IoT,Zigbee,Xbee,CO,H2S,ozone,IaaS
-Cachipuendo, R.;Cachipuendo, R.;;CO2,methane,SO2,WSN,NO2,air pollution,Air pollution,monitoring,Web services,dust particles,IoT,Zigbee,Xbee,CO,H2S,ozone,IaaS
-Fuertes, W.;Fuertes, W.;;CO2,methane,SO2,WSN,NO2,air pollution,Air pollution,monitoring,Web services,dust particles,IoT,Zigbee,Xbee,CO,H2S,ozone,IaaS
-Tapia, F.;Tapia, F.;;CO2,methane,SO2,WSN,NO2,air pollution,Air pollution,monitoring,Web services,dust particles,IoT,Zigbee,Xbee,CO,H2S,ozone,IaaS
-Meneses, F.;Meneses, F.;;CO2,methane,SO2,WSN,NO2,air pollution,Air pollution,monitoring,Web services,dust particles,IoT,Zigbee,Xbee,CO,H2S,ozone,IaaS
-Játiva, R.;Játiva, R.;Cramer Rao Bounds (CRB),Time Of Arrival (TOA),Greenstein model,Antenna Arrays,wireless sensor networks,network-based positioning,Bi-exponential regression;CRB,Mobile subscriber location,Time of arrival,Cramer-Rao bounds,TOA
-Vidal, J.;Vidal, J.;WLLS,Cramer Rao Bounds (CRB),Time Of Arrival (TOA),TDOA based positioning systems,TOA based positioning systems,reference anchor node,Greenstein model,Antenna Arrays,space-time diversity,wireless sensor networks,wireless sensor network,network-based positioning,NLOS mitigation,geometrical restrictions,Bi-exponential regression;TDOA based positioning systems,CRB,GLRT detector,wireless sensor networks,Mobile subscriber location,Time of arrival,antenna arrays,NLOS mitigation,Cramer-Rao bounds,TOA
-Loza, C.A.;Loza, C.A.;;non-Stationarity,embedding,EEG,gaussianity,Dictionary learning,Robust estimation,K-SVD
-Principe, J.C.;Principe, J.C.;;gaussianity,embedding,non-Stationarity,EEG
-Del Pozo, I.;Del Pozo, I.;Confidentiality,Decryption,Encryption,Algorithm,Instant messaging;Social networks,Deceptive advertising,Psychology,Social Engineering,Passwords,Information security
-Iturralde, M.;Iturralde, M.;Confidentiality,Instant messaging,Decryption,Semantic,Encryption,Stylometry,Algorithm,Writing,Syntax,Authorship;Social networks,Deceptive advertising,Psychology,Social Engineering,Passwords,Information security
-Restrepo, F.;Restrepo, F.;;Social networks,Deceptive advertising,Psychology,Social Engineering,Passwords,Information security
+Pupo-Meriño, M.;Pupo-Meriño, M.;;Aggregation operators,Choquet integral,Molecular descriptors,LOEIs,QSAR,ToMoCoMD-CARDD software,Fuzzy measures,LOVIs,QuBiLS-MIDAS molecular descriptors
+Vivas-Reyes, R.;Vivas-Reyes, R.;;Aggregation operators,Choquet integral,Molecular descriptors,LOEIs,QSAR,ToMoCoMD-CARDD software,Fuzzy measures,LOVIs,QuBiLS-MIDAS molecular descriptors
+Valdés-Martiní, J.R.;Valdés-Martiní, J.R.;Simple stochastic,Bilinear and quadratic indices,QuBiLS-MAS,Mutual probability matrices,Free and open source software,Atom/bond-based molecular descriptor,Double stochastic,QSAR,Non-stochastic,Linear,ToMoCoMD-CARDD;
+Pérez-Giménez, F.;Pérez-Giménez, F.;Simple stochastic,Bilinear and quadratic indices,QuBiLS-MAS,Mutual probability matrices,Free and open source software,Atom/bond-based molecular descriptor,Double stochastic,QSAR,Non-stochastic,Linear,ToMoCoMD-CARDD;
+Morell, C.A.;Morell, C.A.;Simple stochastic,Bilinear and quadratic indices,QuBiLS-MAS,Mutual probability matrices,Free and open source software,Atom/bond-based molecular descriptor,Double stochastic,QSAR,Non-stochastic,Linear,ToMoCoMD-CARDD;
+Contreras-Torres, E.;Contreras-Torres, E.;Multiple Linear Regression,3D-QSAR,QuBiLS-MIDAS,TOMOCOMD-CARDD;
+Jara, O.;Jara, O.;;Postural load,Repeatability,Awkward postures,Ergonomic risks,Load handling,Ergonomic risk,Anthropometry
+Ballesteros, F.;Ballesteros, F.;;Postural load,Repeatability,Awkward postures,Ergonomic risks,Load handling,Ergonomic risk,Anthropometry
+Carrera, E.;Carrera, E.;;Postural load,Repeatability,Awkward postures,Ergonomic risks,Load handling,Ergonomic risk,Anthropometry
+Dávila, P.;Dávila, P.;;Ergonomic risk,Postural load,Anthropometry
+Vallejo-Huanga, D.;Vallejo-Huanga, D.;;Fuzzy logic,Fault tolerance,Mobile devices
+Proaño, J.;Proaño, J.;;Fuzzy logic,Fault tolerance,Mobile devices
+Morillo, P.;Morillo, P.;;Fuzzy logic,Fault tolerance,Mobile devices
+Ortega, H.;Ortega, H.;;Fuzzy logic,Fault tolerance,Mobile devices
+Guanochanga, B.;Guanochanga, B.;;IoT,monitoring,methane,CO,air pollution,NO2,Air pollution,CO2,SO2,WSN,ozone,IaaS,dust particles,H2S,Xbee,Web services,Zigbee
+Cachipuendo, R.;Cachipuendo, R.;;IoT,monitoring,methane,CO,air pollution,NO2,Air pollution,CO2,SO2,WSN,ozone,IaaS,dust particles,H2S,Xbee,Web services,Zigbee
+Fuertes, W.;Fuertes, W.;;IoT,monitoring,methane,CO,air pollution,NO2,Air pollution,CO2,SO2,WSN,ozone,IaaS,dust particles,H2S,Xbee,Web services,Zigbee
+Tapia, F.;Tapia, F.;;IoT,monitoring,methane,CO,air pollution,NO2,Air pollution,CO2,SO2,WSN,ozone,IaaS,dust particles,H2S,Xbee,Web services,Zigbee
+Meneses, F.;Meneses, F.;;IoT,monitoring,methane,CO,air pollution,NO2,Air pollution,CO2,SO2,WSN,ozone,IaaS,dust particles,H2S,Xbee,Web services,Zigbee
+Játiva, R.;Játiva, R.;Time Of Arrival (TOA),Greenstein model,wireless sensor networks,Antenna Arrays,network-based positioning,Bi-exponential regression,Cramer Rao Bounds (CRB);Cramer-Rao bounds,CRB,Mobile subscriber location,TOA,Time of arrival
+Vidal, J.;Vidal, J.;Time Of Arrival (TOA),space-time diversity,NLOS mitigation,Greenstein model,wireless sensor networks,TDOA based positioning systems,TOA based positioning systems,Antenna Arrays,network-based positioning,Bi-exponential regression,Cramer Rao Bounds (CRB),reference anchor node,wireless sensor network,geometrical restrictions,WLLS;NLOS mitigation,Cramer-Rao bounds,wireless sensor networks,TDOA based positioning systems,CRB,Mobile subscriber location,TOA,GLRT detector,Time of arrival,antenna arrays
+Loza, C.A.;Loza, C.A.;;non-Stationarity,K-SVD,gaussianity,Dictionary learning,EEG,Robust estimation,embedding
+Principe, J.C.;Principe, J.C.;;gaussianity,embedding,EEG,non-Stationarity
+Del Pozo, I.;Del Pozo, I.;Confidentiality,Algorithm,Decryption,Encryption,Instant messaging;Social networks,Information security,Psychology,Passwords,Deceptive advertising,Social Engineering
+Iturralde, M.;Iturralde, M.;Authorship,Confidentiality,Syntax,Algorithm,Decryption,Semantic,Encryption,Writing,Instant messaging,Stylometry;Social networks,Information security,Psychology,Passwords,Deceptive advertising,Social Engineering
+Restrepo, F.;Restrepo, F.;;Social networks,Information security,Psychology,Passwords,Deceptive advertising,Social Engineering
 Proano, E.;Proano, E.;;
 Navarro, M.;Navarro, M.;;
 Sanchez, A.;Sanchez, A.;;
-Benitez, D.S.;Benitez, D.S.;Magnetic Field,Magnetic field imaging,Nanoparticles,Sensor array,Baropodometry,Eyewink Detection,EEG,Hurst-operator,Image processing,signal processing,Edge-detection,Texture Analysis,Magnetoinductive sensors,Neural Network Classification,instrumented shoes,Magneto-inductive sensors,NDE,Brain Computer Interface;system capacity,MS,wavelet transforms,vehicle classification,WiMAX,pattern classification,System Identification,Coupler,S matrix,PID control,signal detection,Seismic signal processing,ARM,IEEE 802.16,Mode-Matching,Numerical Methods,NCTUns,T-RS,NT-RS,Energy Reduction,real-time systems,Model Predictive Control,MmR,Odroid-XU4,vehicle detection
-Pico, L.C.;Pico, L.C.;;Odroid-XU4,ARM,vehicle classification,vehicle detection
-Alarcón, G.;Alarcón, G.;Intracranial EEG,centromedian nucleus,generalized epilepsy,ictal recordings;single pulse electrical stimulation,control systems,EEG,Forced coupling
-Jiménez-Jiménez, D.;Jiménez-Jiménez, D.;Intracranial EEG,centromedian nucleus,generalized epilepsy,ictal recordings;single pulse electrical stimulation,control systems,EEG,Forced coupling
-Valentín, A.;Valentín, A.;Intracranial EEG,centromedian nucleus,generalized epilepsy,ictal recordings;single pulse electrical stimulation,control systems,EEG,Forced coupling
-Martín-López, D.;Martín-López, D.;Intracranial EEG,centromedian nucleus,generalized epilepsy,ictal recordings;single pulse electrical stimulation,control systems,EEG,Forced coupling
+Benitez, D.S.;Benitez, D.S.;Magnetic field imaging,Magnetoinductive sensors,Magnetic Field,Image processing,Brain Computer Interface,Neural Network Classification,Baropodometry,Eyewink Detection,Texture Analysis,NDE,instrumented shoes,signal processing,Magneto-inductive sensors,Hurst-operator,Edge-detection,EEG,Sensor array,Nanoparticles;ARM,Mode-Matching,NCTUns,NT-RS,MmR,WiMAX,vehicle detection,pattern classification,Seismic signal processing,signal detection,S matrix,vehicle classification,MS,Odroid-XU4,wavelet transforms,System Identification,PID control,Coupler,system capacity,T-RS,real-time systems,Model Predictive Control,Energy Reduction,Numerical Methods,IEEE 802.16
+Pico, L.C.;Pico, L.C.;;vehicle detection,ARM,vehicle classification,Odroid-XU4
+Alarcón, G.;Alarcón, G.;centromedian nucleus,generalized epilepsy,ictal recordings,Intracranial EEG;Forced coupling,control systems,single pulse electrical stimulation,EEG
+Jiménez-Jiménez, D.;Jiménez-Jiménez, D.;centromedian nucleus,generalized epilepsy,ictal recordings,Intracranial EEG;Forced coupling,control systems,single pulse electrical stimulation,EEG
+Valentín, A.;Valentín, A.;centromedian nucleus,generalized epilepsy,ictal recordings,Intracranial EEG;Forced coupling,control systems,single pulse electrical stimulation,EEG
+Martín-López, D.;Martín-López, D.;centromedian nucleus,generalized epilepsy,ictal recordings,Intracranial EEG;Forced coupling,control systems,single pulse electrical stimulation,EEG
 Espinoza-Aguirre, C.;Espinoza-Aguirre, C.;;Government and Management of information technologies,Higher education,SENESCYT
 Pillo-Guanoluisa, D.;Pillo-Guanoluisa, D.;;Government and Management of information technologies,Higher education,SENESCYT
-Intriago-Pazmino, M.;Intriago-Pazmino, M.;;retinopathy of prematurity,fundus image analysis,medical image processing,retinal vessels segmentation
-Ibarra-Fiallo, J.;Ibarra-Fiallo, J.;Feature selection,Algorithms,Testor theory,Typical testor algorithms;retinopathy of prematurity,fundus image analysis,medical image processing,retinal vessels segmentation
-Alonso-Calvo, R.;Alonso-Calvo, R.;;retinopathy of prematurity,fundus image analysis,medical image processing,retinal vessels segmentation
-Crespo, J.;Crespo, J.;;retinopathy of prematurity,fundus image analysis,medical image processing,retinal vessels segmentation
-Criollo-Ramos, A.;Criollo-Ramos, A.;;retinopathy of prematurity,fundus image analysis,medical image processing,retinal vessels segmentation
-Alias, C.;Alias, C.;;Logistics,Technology Benefit Assessment,Benefits,Transportation,Technology,Innovation,Supply Chain
-Olalla, F.E.A.;Olalla, F.E.A.;;Logistics,Technology Benefit Assessment,Benefits,Transportation,Technology,Innovation,Supply Chain
-Potechin, A.;Potechin, A.;;Logistics,Technology Benefit Assessment,Benefits,Transportation,Technology,Innovation,Supply Chain
-Noche, B.;Noche, B.;;Logistics,Technology Benefit Assessment,Benefits,Transportation,Technology,Innovation,Supply Chain
-Mocskos, E.;Mocskos, E.;;education,high-performance computing,cloud,HPC,big data,history of computing,Computational Science in Developing Countries,computer science,Countries,scientific computing
-Barrios, C.J.H.;Barrios, C.J.H.;;education,high-performance computing,cloud,HPC,big data,history of computing,Computational Science in Developing Countries,computer science,Countries,scientific computing
-Castro, H.;Castro, H.;;education,high-performance computing,cloud,HPC,big data,history of computing,Computational Science in Developing Countries,computer science,Countries,scientific computing
-Nesmachnow, S.;Nesmachnow, S.;;education,high-performance computing,cloud,HPC,big data,history of computing,Computational Science in Developing Countries,computer science,Countries,scientific computing
-Mayo-Garcia, R.;Mayo-Garcia, R.;;education,high-performance computing,cloud,HPC,big data,history of computing,Computational Science in Developing Countries,computer science,Countries,scientific computing
+Intriago-Pazmino, M.;Intriago-Pazmino, M.;;retinopathy of prematurity,retinal vessels segmentation,fundus image analysis,medical image processing
+Ibarra-Fiallo, J.;Ibarra-Fiallo, J.;Feature selection,Testor theory,Typical testor algorithms,Algorithms;retinopathy of prematurity,retinal vessels segmentation,fundus image analysis,medical image processing
+Alonso-Calvo, R.;Alonso-Calvo, R.;;retinopathy of prematurity,retinal vessels segmentation,fundus image analysis,medical image processing
+Crespo, J.;Crespo, J.;;retinopathy of prematurity,retinal vessels segmentation,fundus image analysis,medical image processing
+Criollo-Ramos, A.;Criollo-Ramos, A.;;retinopathy of prematurity,retinal vessels segmentation,fundus image analysis,medical image processing
+Alias, C.;Alias, C.;;Logistics,Transportation,Benefits,Supply Chain,Technology,Innovation,Technology Benefit Assessment
+Olalla, F.E.A.;Olalla, F.E.A.;;Logistics,Transportation,Benefits,Supply Chain,Technology,Innovation,Technology Benefit Assessment
+Potechin, A.;Potechin, A.;;Logistics,Transportation,Benefits,Supply Chain,Technology,Innovation,Technology Benefit Assessment
+Noche, B.;Noche, B.;;Logistics,Transportation,Benefits,Supply Chain,Technology,Innovation,Technology Benefit Assessment
+Mocskos, E.;Mocskos, E.;;big data,HPC,high-performance computing,history of computing,scientific computing,Computational Science in Developing Countries,cloud,computer science,education,Countries
+Barrios, C.J.H.;Barrios, C.J.H.;;big data,HPC,high-performance computing,history of computing,scientific computing,Computational Science in Developing Countries,cloud,computer science,education,Countries
+Castro, H.;Castro, H.;;big data,HPC,high-performance computing,history of computing,scientific computing,Computational Science in Developing Countries,cloud,computer science,education,Countries
+Nesmachnow, S.;Nesmachnow, S.;;big data,HPC,high-performance computing,history of computing,scientific computing,Computational Science in Developing Countries,cloud,computer science,education,Countries
+Mayo-Garcia, R.;Mayo-Garcia, R.;;big data,HPC,high-performance computing,history of computing,scientific computing,Computational Science in Developing Countries,cloud,computer science,education,Countries
 Soria Zurita, N.F.;Soria Zurita, N.F.;;
 Colby, M.K.;Colby, M.K.;;
 Tumer, I.Y.;Tumer, I.Y.;;
 Hoyle, C.;Hoyle, C.;;
 Tumer, K.;Tumer, K.;;
-Sotomayor, D.;Sotomayor, D.;Speed determination,ARM,Vehicle identification,ODROID-U3;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Castellanos, S.;Castellanos, S.;;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Arcos-Aviles, D.;Arcos-Aviles, D.;;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Benítez, D.;Benítez, D.;througput,QoS,Robotic Arm,Emotiv EPOC Headset,WDS,Head Computer Interface,packet loss,jitter,Low Complexity,Ad-Hoc,IEEE 802.11.b,delay;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Canizares, A.;Canizares, A.;;Low Cost Prosthesis,Prosthesis,Prosthetic Arm,Bionic Arm,EMG,Myoelectric Sensor,3D-printable
-Pazos, J.;Pazos, J.;;Low Cost Prosthesis,Prosthesis,Prosthetic Arm,Bionic Arm,EMG,Myoelectric Sensor,3D-printable
-Benitez, D.;Benitez, D.;propagation model,IEEE 802.16-2004,WiMAX,Volcanic events,feature selection,signal classification,semi-empirical,machine learning;Low Cost Prosthesis,Prosthesis,Prosthetic Arm,Bionic Arm,EMG,Myoelectric Sensor,3D-printable
+Sotomayor, D.;Sotomayor, D.;Vehicle identification,ARM,ODROID-U3,Speed determination;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Castellanos, S.;Castellanos, S.;;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Arcos-Aviles, D.;Arcos-Aviles, D.;;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Benítez, D.;Benítez, D.;Ad-Hoc,Head Computer Interface,delay,jitter,Robotic Arm,Low Complexity,througput,QoS,Emotiv EPOC Headset,packet loss,WDS,IEEE 802.11.b;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Canizares, A.;Canizares, A.;;3D-printable,Bionic Arm,Prosthetic Arm,EMG,Low Cost Prosthesis,Prosthesis,Myoelectric Sensor
+Pazos, J.;Pazos, J.;;3D-printable,Bionic Arm,Prosthetic Arm,EMG,Low Cost Prosthesis,Prosthesis,Myoelectric Sensor
+Benitez, D.;Benitez, D.;IEEE 802.16-2004,machine learning,propagation model,feature selection,semi-empirical,WiMAX,Volcanic events,signal classification;3D-printable,Bionic Arm,Prosthetic Arm,EMG,Low Cost Prosthesis,Prosthesis,Myoelectric Sensor
 Romero, J.S.;Romero, J.S.;;
-Procel, L.M.;Procel, L.M.;channel hot carrier degradation,defect centrict framework,oxide traps,QPC model,area scaling,Temperature,TiN,RERAM,high-κ,HfO2,interface states;SiON,Y-function,RFCV,n-MOS,HALO,additional mobility,short channel device
-Trojman, L.;Trojman, L.;Temperature,defect generation SiON,HfO2,FDSOI,SMU,CMOS,SCPI,Split-CV,UTTB,Python,interface states,short channel device,channel hot carrier degradation,defect centrict framework,SiON,UTEOT,RFCV,TiN,high-k,Network Analyzer,RERAM,high-κ,IEEE 488.2,VNA,oxide traps,MOSFET,QPC model,EOT,p-MOS,RCS,area scaling,interface defects,statistic,mobility;SiON,Y-function,RFCV,n-MOS,HALO,additional mobility,short channel device
+Procel, L.M.;Procel, L.M.;interface states,defect centrict framework,RERAM,QPC model,high-κ,Temperature,TiN,HfO2,channel hot carrier degradation,area scaling,oxide traps;n-MOS,short channel device,additional mobility,SiON,RFCV,Y-function,HALO
+Trojman, L.;Trojman, L.;UTEOT,MOSFET,Temperature,interface defects,high-k,SMU,EOT,high-κ,RERAM,HfO2,CMOS,area scaling,short channel device,IEEE 488.2,SiON,SCPI,statistic,defect generation SiON,Python,Split-CV,p-MOS,UTTB,interface states,Network Analyzer,defect centrict framework,FDSOI,QPC model,RCS,TiN,RFCV,mobility,channel hot carrier degradation,VNA,oxide traps;n-MOS,short channel device,additional mobility,SiON,RFCV,Y-function,HALO
 Verdier, D.;Verdier, D.;;
-Benalcázar, D.R.;Benalcázar, D.R.;;SiON,Y-function,RFCV,n-MOS,HALO,additional mobility,short channel device
-Jobard, G.;Jobard, G.;;SiON,Y-function,RFCV,n-MOS,HALO,additional mobility,short channel device
-Lara-Cueva, R.;Lara-Cueva, R.;Volcanic events,througput,QoS,WDS,feature selection,signal classification,machine learning,packet loss,jitter,Ad-Hoc,IEEE 802.11.b,delay;NT-RS,WiMAX,pattern classification,real-time systems,Seismic signal processing,system capacity,IEEE 802.16,MS,wavelet transforms,MmR,NCTUns,T-RS,signal detection
-Paillacho, V.;Paillacho, V.;;pattern classification,real-time systems,Seismic signal processing,wavelet transforms,signal detection
-Villalva, M.;Villalva, M.;;pattern classification,real-time systems,Seismic signal processing,wavelet transforms,signal detection
-Rojo-Alvarez, J.L.;Rojo-Alvarez, J.L.;;pattern classification,real-time systems,Seismic signal processing,wavelet transforms,signal detection
-Caiza, L.;Caiza, L.;;PID control,Model Predictive Control,Energy Reduction,System Identification
-Rosich-Oliva, A.;Rosich-Oliva, A.;;PID control,Model Predictive Control,Energy Reduction,System Identification
-Ocampo-Martinez, C.;Ocampo-Martinez, C.;;PID control,Model Predictive Control,Energy Reduction,System Identification
-Talavera, B.;Talavera, B.;;PMT,SIPM,DAS,Detection,Astroparticles,LAGO,WCD,RedPitaya
-Cazar, D.;Cazar, D.;;PMT,SIPM,DAS,Detection,Astroparticles,LAGO,WCD,RedPitaya
-Rene, J.E.;Rene, J.E.;Cramer Rao Bounds (CRB),reference anchor node,Greenstein model,space-time diversity,wireless sensor networks,network-based positioning;TDOA based positioning systems,GLRT detector,wireless sensor networks,antenna arrays,NLOS mitigation
-Valdiviezo, S.;Valdiviezo, S.;Cramer Rao Bounds (CRB),Time Of Arrival (TOA),Greenstein model,Antenna Arrays,wireless sensor networks,network-based positioning,Bi-exponential regression;TDOA based positioning systems,GLRT detector,wireless sensor networks,antenna arrays,NLOS mitigation
-Espinosa, A.;Espinosa, A.;;TDOA based positioning systems,GLRT detector,wireless sensor networks,antenna arrays,NLOS mitigation
-Reyes, J.A.;Reyes, J.A.;;Self-organizing feature maps,Tungurahua volcano,k-means,volcanic activity,Unsupervised classification,archetypal analysis,feature space,volcanic seismic signals
-Mosquera, C.J.J.;Mosquera, C.J.J.;;Self-organizing feature maps,Tungurahua volcano,k-means,volcanic activity,Unsupervised classification,archetypal analysis,feature space,volcanic seismic signals
-Custodio-Rivera, D.;Custodio-Rivera, D.;;NT-RS,WiMAX,system capacity,IEEE 802.16,MS,MmR,NCTUns,T-RS
-Dziekan, M.;Dziekan, M.;;low-cost,emergency,Ecuador,automatic,medical device,Cardiopulmonary resuscitation,portable
-Jubaer, S.;Jubaer, S.;;low-cost,emergency,Ecuador,automatic,medical device,Cardiopulmonary resuscitation,portable
-Sell, V.;Sell, V.;;low-cost,emergency,Ecuador,automatic,medical device,Cardiopulmonary resuscitation,portable
-Mejia-Viana, J.C.;Mejia-Viana, J.C.;;low-cost,emergency,Ecuador,automatic,medical device,Cardiopulmonary resuscitation,portable
-Uquillas, J.A.;Uquillas, J.A.;;low-cost,emergency,Ecuador,automatic,medical device,Cardiopulmonary resuscitation,portable
-Bonifaz, E.A.;Bonifaz, E.A.;;Residual stresses,Finite element method,Thermal cycles,Weld profiles,Heating and cooling curves
-Carrera, E.V.;Carrera, E.V.;support vector machines,Volcanic events,feature selection,signal classification,machine learning,Diabetic retinopathy,digital image processing;Digital image processing,Machine learning algorithms,Finger-vein biometry
+Benalcázar, D.R.;Benalcázar, D.R.;;n-MOS,short channel device,additional mobility,SiON,RFCV,Y-function,HALO
+Jobard, G.;Jobard, G.;;n-MOS,short channel device,additional mobility,SiON,RFCV,Y-function,HALO
+Lara-Cueva, R.;Lara-Cueva, R.;Ad-Hoc,delay,jitter,machine learning,througput,QoS,feature selection,packet loss,WDS,Volcanic events,IEEE 802.11.b,signal classification;real-time systems,pattern classification,MS,NCTUns,NT-RS,T-RS,MmR,Seismic signal processing,wavelet transforms,signal detection,WiMAX,IEEE 802.16,system capacity
+Paillacho, V.;Paillacho, V.;;real-time systems,pattern classification,Seismic signal processing,wavelet transforms,signal detection
+Villalva, M.;Villalva, M.;;real-time systems,pattern classification,Seismic signal processing,wavelet transforms,signal detection
+Rojo-Alvarez, J.L.;Rojo-Alvarez, J.L.;;real-time systems,pattern classification,Seismic signal processing,wavelet transforms,signal detection
+Caiza, L.;Caiza, L.;;System Identification,PID control,Model Predictive Control,Energy Reduction
+Rosich-Oliva, A.;Rosich-Oliva, A.;;System Identification,PID control,Model Predictive Control,Energy Reduction
+Ocampo-Martinez, C.;Ocampo-Martinez, C.;;System Identification,PID control,Model Predictive Control,Energy Reduction
+Talavera, B.;Talavera, B.;;Astroparticles,RedPitaya,Detection,WCD,SIPM,PMT,LAGO,DAS
+Cazar, D.;Cazar, D.;;Astroparticles,RedPitaya,Detection,WCD,SIPM,PMT,LAGO,DAS
+Rene, J.E.;Rene, J.E.;space-time diversity,Greenstein model,wireless sensor networks,network-based positioning,reference anchor node,Cramer Rao Bounds (CRB);NLOS mitigation,wireless sensor networks,TDOA based positioning systems,GLRT detector,antenna arrays
+Valdiviezo, S.;Valdiviezo, S.;Time Of Arrival (TOA),Greenstein model,wireless sensor networks,Antenna Arrays,network-based positioning,Bi-exponential regression,Cramer Rao Bounds (CRB);NLOS mitigation,wireless sensor networks,TDOA based positioning systems,GLRT detector,antenna arrays
+Espinosa, A.;Espinosa, A.;;NLOS mitigation,wireless sensor networks,TDOA based positioning systems,GLRT detector,antenna arrays
+Reyes, J.A.;Reyes, J.A.;;Tungurahua volcano,Unsupervised classification,k-means,Self-organizing feature maps,volcanic seismic signals,volcanic activity,archetypal analysis,feature space
+Mosquera, C.J.J.;Mosquera, C.J.J.;;Tungurahua volcano,Unsupervised classification,k-means,Self-organizing feature maps,volcanic seismic signals,volcanic activity,archetypal analysis,feature space
+Custodio-Rivera, D.;Custodio-Rivera, D.;;NCTUns,NT-RS,MS,T-RS,MmR,WiMAX,IEEE 802.16,system capacity
+Dziekan, M.;Dziekan, M.;;Cardiopulmonary resuscitation,Ecuador,automatic,portable,low-cost,medical device,emergency
+Jubaer, S.;Jubaer, S.;;Cardiopulmonary resuscitation,Ecuador,automatic,portable,low-cost,medical device,emergency
+Sell, V.;Sell, V.;;Cardiopulmonary resuscitation,Ecuador,automatic,portable,low-cost,medical device,emergency
+Mejia-Viana, J.C.;Mejia-Viana, J.C.;;Cardiopulmonary resuscitation,Ecuador,automatic,portable,low-cost,medical device,emergency
+Uquillas, J.A.;Uquillas, J.A.;;Cardiopulmonary resuscitation,Ecuador,automatic,portable,low-cost,medical device,emergency
+Bonifaz, E.A.;Bonifaz, E.A.;;Finite element method,Residual stresses,Heating and cooling curves,Weld profiles,Thermal cycles
+Carrera, E.V.;Carrera, E.V.;machine learning,Diabetic retinopathy,support vector machines,feature selection,Volcanic events,digital image processing,signal classification;Digital image processing,Machine learning algorithms,Finger-vein biometry
 Izurieta, S.;Izurieta, S.;;Digital image processing,Machine learning algorithms,Finger-vein biometry
-Carrera, R.;Carrera, R.;Diabetic retinopathy,support vector machines,machine learning,digital image processing;Digital image processing,Machine learning algorithms,Finger-vein biometry
+Carrera, R.;Carrera, R.;support vector machines,Diabetic retinopathy,digital image processing,machine learning;Digital image processing,Machine learning algorithms,Finger-vein biometry
 Zurita, N.F.S.;Zurita, N.F.S.;;
 Stone, R.B.;Stone, R.B.;;
 Demirel, O.;Demirel, O.;;
-Haro-Baez, R.;Haro-Baez, R.;Linecalc,Microstrip,Effective electric length,S Parameters,Coupler,Coupling factor C,C-Band;Mode-Matching,Coupler,Numerical Methods,S matrix
-Benítez, D.S.;Benítez, D.S.;insects,Microstrip,Integral equations,Speed determination,Effective electric length,ODROID-U3,Method of Moments,patterns,Coupling factor C,Vehicle identification,centers,Adaptive baseline estimation,Least Square method,Coupler,morphological wings analysis,skeleton,Linecalc,edges,ARM,radii,C-Band,cells,Gaussian noise,QRS-onset detection,Pocklington Equation,S Parameters,Electromagnetic theory,ECG;
-Navarro, M.S.;Navarro, M.S.;Pocklington Equation,Integral equations,Least Square method,Electromagnetic theory,Method of Moments;
-Sánchez, A.;Sánchez, A.;Wireless,Pocklington Equation,Integral equations,Least Square method,White spaces,Interference mitigation,Electromagnetic theory,Method of Moments,Self-orga-nized,Self-coexistence;
-Fiallos-Silva, C.;Fiallos-Silva, C.;Linecalc,Microstrip,Effective electric length,S Parameters,Coupler,Coupling factor C,C-Band;
-Acosta-Buenaño, F.;Acosta-Buenaño, F.;Linecalc,Microstrip,Effective electric length,S Parameters,Coupler,Coupling factor C,C-Band;
-Rosero, M.F.;Rosero, M.F.;Speed determination,ARM,Vehicle identification,ODROID-U3;
-Leon, P.;Leon, P.;propagation model,IEEE 802.16-2004,WiMAX,Speed determination,ARM,ODROID-U3,semi-empirical,Vehicle identification;
-Cabañés-Martínez, L.;Cabañés-Martínez, L.;Intracranial EEG,centromedian nucleus,generalized epilepsy,ictal recordings;
-Gonzalez, A.;Gonzalez, A.;Diabetic retinopathy,support vector machines,machine learning,digital image processing;
-Bravo, M.;Bravo, M.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
-Bermeo, A.;Bermeo, A.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
+Haro-Baez, R.;Haro-Baez, R.;Linecalc,S Parameters,Microstrip,Coupling factor C,Coupler,Effective electric length,C-Band;Coupler,Numerical Methods,Mode-Matching,S matrix
+Benítez, D.S.;Benítez, D.S.;QRS-onset detection,ARM,ODROID-U3,edges,Integral equations,skeleton,centers,Pocklington Equation,cells,morphological wings analysis,Effective electric length,ECG,Gaussian noise,patterns,Adaptive baseline estimation,Vehicle identification,Coupler,C-Band,Least Square method,Method of Moments,Linecalc,radii,S Parameters,Speed determination,insects,Microstrip,Coupling factor C,Electromagnetic theory;
+Navarro, M.S.;Navarro, M.S.;Method of Moments,Pocklington Equation,Least Square method,Integral equations,Electromagnetic theory;
+Sánchez, A.;Sánchez, A.;Interference mitigation,Method of Moments,Pocklington Equation,Least Square method,Self-orga-nized,Wireless,Integral equations,White spaces,Self-coexistence,Electromagnetic theory;
+Fiallos-Silva, C.;Fiallos-Silva, C.;Linecalc,S Parameters,Microstrip,Coupling factor C,Coupler,Effective electric length,C-Band;
+Acosta-Buenaño, F.;Acosta-Buenaño, F.;Linecalc,S Parameters,Microstrip,Coupling factor C,Coupler,Effective electric length,C-Band;
+Rosero, M.F.;Rosero, M.F.;Vehicle identification,ARM,ODROID-U3,Speed determination;
+Leon, P.;Leon, P.;ARM,IEEE 802.16-2004,ODROID-U3,Speed determination,propagation model,Vehicle identification,semi-empirical,WiMAX;
+Cabañés-Martínez, L.;Cabañés-Martínez, L.;centromedian nucleus,generalized epilepsy,ictal recordings,Intracranial EEG;
+Gonzalez, A.;Gonzalez, A.;support vector machines,Diabetic retinopathy,digital image processing,machine learning;
+Bravo, M.;Bravo, M.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
+Bermeo, A.;Bermeo, A.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
 Huerta, M.;Huerta, M.;;
 Clotet, R.;Clotet, R.;;
 Soto, A.;Soto, A.;;
-Garzón, E.;Garzón, E.;Cramer Rao Bounds (CRB),Time Of Arrival (TOA),Greenstein model,Antenna Arrays,wireless sensor networks,network-based positioning,Bi-exponential regression;
-Garzon, E.;Garzon, E.;SMU,VNA,WLLS,Cramer Rao Bounds (CRB),SCPI,TDOA based positioning systems,Antenna Arrays,RFCV,geometrical restrictions,wireless sensor network,Python,Network Analyzer,NLOS mitigation,IEEE 488.2,MOSFET;
-Sanchez, F.;Sanchez, F.;SMU,VNA,SCPI,RFCV,Python,Network Analyzer,IEEE 488.2,MOSFET;
-Procel, L.-M.;Procel, L.-M.;channel hot carrier degradation,SMU,VNA,CMOS,SCPI,statistic,RFCV,mobility,Python,Network Analyzer,defect generation SiON,short channel device,IEEE 488.2,MOSFET;
-Acosta, J.S.;Acosta, J.S.;channel hot carrier degradation,CMOS,statistic,mobility,defect generation SiON,short channel device;
-Ortega, M.;Ortega, M.;channel hot carrier degradation,CMOS,statistic,mobility,defect generation SiON,short channel device;
-Crupi, F.;Crupi, F.;channel hot carrier degradation,interface states,defect centrict framework,oxide traps;
-Aguiar, S.;Aguiar, S.;Glove,Robotic Arm,Emotiv EPOC Headset,Hearing Impairment,Morse Code,Sign Language,Head Computer Interface,Speech Disorders,Communication,Low Complexity;
-Yánez, W.;Yánez, W.;Robotic Arm,Head Computer Interface,Emotiv EPOC Headset,Low Complexity;
-Guerrón, A.;Guerrón, A.;morphological wings analysis,insects,edges,radii,patterns,cells,centers,skeleton,Gaussian noise;
-Zapata, S.;Zapata, S.;morphological wings analysis,insects,edges,radii,patterns,cells,centers,skeleton,Gaussian noise;
-Augot, D.;Augot, D.;morphological wings analysis,insects,edges,radii,patterns,cells,centers,skeleton,Gaussian noise;
+Garzón, E.;Garzón, E.;Time Of Arrival (TOA),Greenstein model,wireless sensor networks,Antenna Arrays,network-based positioning,Bi-exponential regression,Cramer Rao Bounds (CRB);
+Garzon, E.;Garzon, E.;MOSFET,NLOS mitigation,Network Analyzer,IEEE 488.2,TDOA based positioning systems,Antenna Arrays,SMU,Cramer Rao Bounds (CRB),RFCV,SCPI,wireless sensor network,Python,VNA,geometrical restrictions,WLLS;
+Sanchez, F.;Sanchez, F.;MOSFET,Network Analyzer,IEEE 488.2,SMU,RFCV,SCPI,Python,VNA;
+Procel, L.-M.;Procel, L.-M.;MOSFET,channel hot carrier degradation,Network Analyzer,short channel device,IEEE 488.2,defect generation SiON,SMU,RFCV,SCPI,mobility,CMOS,statistic,Python,VNA;
+Acosta, J.S.;Acosta, J.S.;CMOS,short channel device,statistic,mobility,defect generation SiON,channel hot carrier degradation;
+Ortega, M.;Ortega, M.;CMOS,short channel device,statistic,mobility,defect generation SiON,channel hot carrier degradation;
+Crupi, F.;Crupi, F.;defect centrict framework,channel hot carrier degradation,interface states,oxide traps;
+Aguiar, S.;Aguiar, S.;Head Computer Interface,Speech Disorders,Robotic Arm,Low Complexity,Glove,Hearing Impairment,Morse Code,Emotiv EPOC Headset,Communication,Sign Language;
+Yánez, W.;Yánez, W.;Emotiv EPOC Headset,Head Computer Interface,Robotic Arm,Low Complexity;
+Guerrón, A.;Guerrón, A.;Gaussian noise,cells,radii,edges,patterns,insects,skeleton,centers,morphological wings analysis;
+Zapata, S.;Zapata, S.;Gaussian noise,cells,radii,edges,patterns,insects,skeleton,centers,morphological wings analysis;
+Augot, D.;Augot, D.;Gaussian noise,cells,radii,edges,patterns,insects,skeleton,centers,morphological wings analysis;
 Redrobán, M.;Redrobán, M.;;
 Aguirre, O.;Aguirre, O.;;
-Aráuz, J.;Aráuz, J.;Wireless,White spaces,Interference mitigation,Self-orga-nized,Self-coexistence;
-Davila, K.L.;Davila, K.L.;Radiative efficiency,density functional theory,greenhouse gases;
-Seijas, L.E.;Seijas, L.E.;Radiative efficiency,density functional theory,greenhouse gases;
-Almeida, R.;Almeida, R.;Radiative efficiency,density functional theory,greenhouse gases;
-Maldonado, R.;Maldonado, R.;Semantic,Stylometry,Writing,Syntax,Authorship;
-Fellig, D.;Fellig, D.;Semantic,Stylometry,Writing,Syntax,Authorship;
-Guitarra, S.;Guitarra, S.;QPC model,area scaling,Temperature,TiN,RERAM,high-κ,HfO2;
-Raymond, L.;Raymond, L.;QPC model,area scaling,Temperature,TiN,RERAM,high-κ,HfO2;
-Ortiz, D.;Ortiz, D.;Cramer Rao Bounds (CRB),reference anchor node,Greenstein model,space-time diversity,wireless sensor networks,network-based positioning;
-Venegas, P.;Venegas, P.;Cramer Rao Bounds (CRB),reference anchor node,Greenstein model,space-time diversity,wireless sensor networks,network-based positioning;
-Benalcazar, D.;Benalcazar, D.;neonates,electronic device,blood serum,parenteral nutrition (PN),Turbidity,sepsis;
-Eguiguren, L.;Eguiguren, L.;neonates,electronic device,blood serum,parenteral nutrition (PN),Turbidity,sepsis;
-Alvarez, M.B.;Alvarez, M.B.;neonates,electronic device,blood serum,parenteral nutrition (PN),Turbidity,sepsis;
-Jacome, F.;Jacome, F.;neonates,electronic device,blood serum,parenteral nutrition (PN),Turbidity,sepsis;
-Grunauer, M.;Grunauer, M.;neonates,electronic device,blood serum,parenteral nutrition (PN),Turbidity,sepsis;
-Erazo, A.;Erazo, A.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Romero, S.;Romero, S.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Atiencia, V.;Atiencia, V.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Figueroa, J.P.;Figueroa, J.P.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Contreras, R.;Contreras, R.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
-Sagbay, G.;Sagbay, G.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
-Llumiguano, C.;Llumiguano, C.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
-Alba-Cabrera, E.;Alba-Cabrera, E.;Feature selection,Algorithms,Testor theory,Typical testor algorithms;
-Godoy-Calderon, S.;Godoy-Calderon, S.;Feature selection,Algorithms,Testor theory,Typical testor algorithms;
-Toscano, S.;Toscano, S.;Eyewink Detection,EEG,Neural Network Classification,Brain Computer Interface;
-Silva, A.;Silva, A.;Eyewink Detection,EEG,Neural Network Classification,Brain Computer Interface;
-Pineda-Lopez, F.;Pineda-Lopez, F.;signal processing,Baropodometry,instrumented shoes;
-Guerra, A.;Guerra, A.;signal processing,Baropodometry,instrumented shoes;
-Montes, E.;Montes, E.;signal processing,Baropodometry,instrumented shoes;
-Lara-Cueva, R.A.;Lara-Cueva, R.A.;propagation model,IEEE 802.16-2004,WiMAX,semi-empirical;
-Aguilar, D.;Aguilar, D.;propagation model,IEEE 802.16-2004,WiMAX,semi-empirical;
-Almeida, D.;Almeida, D.;propagation model,IEEE 802.16-2004,WiMAX,semi-empirical;
+Aráuz, J.;Aráuz, J.;Interference mitigation,Self-orga-nized,Wireless,White spaces,Self-coexistence;
+Davila, K.L.;Davila, K.L.;density functional theory,greenhouse gases,Radiative efficiency;
+Seijas, L.E.;Seijas, L.E.;density functional theory,greenhouse gases,Radiative efficiency;
+Almeida, R.;Almeida, R.;density functional theory,greenhouse gases,Radiative efficiency;
+Maldonado, R.;Maldonado, R.;Authorship,Syntax,Semantic,Writing,Stylometry;
+Fellig, D.;Fellig, D.;Authorship,Syntax,Semantic,Writing,Stylometry;
+Guitarra, S.;Guitarra, S.;RERAM,QPC model,high-κ,Temperature,TiN,HfO2,area scaling;
+Raymond, L.;Raymond, L.;RERAM,QPC model,high-κ,Temperature,TiN,HfO2,area scaling;
+Ortiz, D.;Ortiz, D.;space-time diversity,Greenstein model,wireless sensor networks,network-based positioning,reference anchor node,Cramer Rao Bounds (CRB);
+Venegas, P.;Venegas, P.;space-time diversity,Greenstein model,wireless sensor networks,network-based positioning,reference anchor node,Cramer Rao Bounds (CRB);
+Benalcazar, D.;Benalcazar, D.;neonates,sepsis,electronic device,parenteral nutrition (PN),Turbidity,blood serum;
+Eguiguren, L.;Eguiguren, L.;neonates,sepsis,electronic device,parenteral nutrition (PN),Turbidity,blood serum;
+Alvarez, M.B.;Alvarez, M.B.;neonates,sepsis,electronic device,parenteral nutrition (PN),Turbidity,blood serum;
+Jacome, F.;Jacome, F.;neonates,sepsis,electronic device,parenteral nutrition (PN),Turbidity,blood serum;
+Grunauer, M.;Grunauer, M.;neonates,sepsis,electronic device,parenteral nutrition (PN),Turbidity,blood serum;
+Erazo, A.;Erazo, A.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Romero, S.;Romero, S.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Atiencia, V.;Atiencia, V.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Figueroa, J.P.;Figueroa, J.P.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Contreras, R.;Contreras, R.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
+Sagbay, G.;Sagbay, G.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
+Llumiguano, C.;Llumiguano, C.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
+Alba-Cabrera, E.;Alba-Cabrera, E.;Feature selection,Testor theory,Typical testor algorithms,Algorithms;
+Godoy-Calderon, S.;Godoy-Calderon, S.;Feature selection,Testor theory,Typical testor algorithms,Algorithms;
+Toscano, S.;Toscano, S.;Neural Network Classification,EEG,Eyewink Detection,Brain Computer Interface;
+Silva, A.;Silva, A.;Neural Network Classification,EEG,Eyewink Detection,Brain Computer Interface;
+Pineda-Lopez, F.;Pineda-Lopez, F.;instrumented shoes,Baropodometry,signal processing;
+Guerra, A.;Guerra, A.;instrumented shoes,Baropodometry,signal processing;
+Montes, E.;Montes, E.;instrumented shoes,Baropodometry,signal processing;
+Lara-Cueva, R.A.;Lara-Cueva, R.A.;propagation model,semi-empirical,IEEE 802.16-2004,WiMAX;
+Aguilar, D.;Aguilar, D.;propagation model,semi-empirical,IEEE 802.16-2004,WiMAX;
+Almeida, D.;Almeida, D.;propagation model,semi-empirical,IEEE 802.16-2004,WiMAX;
 Arauz, J.;Arauz, J.;;
 McClure, J.W.;McClure, J.W.;;
 Miller, Z.;Miller, Z.;;
 Morejon, J.F.;Morejon, J.F.;feature selection,signal classification,Volcanic events,machine learning;
-Rene Jativa, E.;Rene Jativa, E.;WLLS,Cramer Rao Bounds (CRB),TDOA based positioning systems,Antenna Arrays,wireless sensor network,NLOS mitigation,geometrical restrictions;
+Rene Jativa, E.;Rene Jativa, E.;NLOS mitigation,TDOA based positioning systems,Antenna Arrays,Cramer Rao Bounds (CRB),wireless sensor network,geometrical restrictions,WLLS;
 Kim, S.;Kim, S.;;
 Duan, Z.;Duan, Z.;;
 Llano, D.;Llano, D.;;
 Mancheno, S.;Mancheno, S.;;
-Quek, S.;Quek, S.;Magnetic Field,Magnetic field imaging,Sensor array,Magnetoinductive sensors,Magneto-inductive sensors,NDE;
-Gaydecki, P.;Gaydecki, P.;Magnetic Field,Magnetic field imaging,Sensor array,Magnetoinductive sensors,Magneto-inductive sensors,NDE;
-Debut, A.;Debut, A.;Nanoparticles,Hurst-operator,Image processing,Edge-detection,Texture Analysis;
-Cumbal, L.;Cumbal, L.;Nanoparticles,Hurst-operator,Image processing,Edge-detection,Texture Analysis;
-Jadán-Guerrero, J.;Jadán-Guerrero, J.;Quality of life,ICT,Assistive technology,Children with disabilities;
-Altamirano, I.;Altamirano, I.;Quality of life,ICT,Assistive technology,Children with disabilities;
-Arias, H.;Arias, H.;Quality of life,ICT,Assistive technology,Children with disabilities;
-Jadán, J.;Jadán, J.;Quality of life,ICT,Assistive technology,Children with disabilities;
+Quek, S.;Quek, S.;Magnetic field imaging,Magnetoinductive sensors,NDE,Magneto-inductive sensors,Magnetic Field,Sensor array;
+Gaydecki, P.;Gaydecki, P.;Magnetic field imaging,Magnetoinductive sensors,NDE,Magneto-inductive sensors,Magnetic Field,Sensor array;
+Debut, A.;Debut, A.;Image processing,Texture Analysis,Hurst-operator,Edge-detection,Nanoparticles;
+Cumbal, L.;Cumbal, L.;Image processing,Texture Analysis,Hurst-operator,Edge-detection,Nanoparticles;
+Jadán-Guerrero, J.;Jadán-Guerrero, J.;Assistive technology,ICT,Quality of life,Children with disabilities;
+Altamirano, I.;Altamirano, I.;Assistive technology,ICT,Quality of life,Children with disabilities;
+Arias, H.;Arias, H.;Assistive technology,ICT,Quality of life,Children with disabilities;
+Jadán, J.;Jadán, J.;Assistive technology,ICT,Quality of life,Children with disabilities;
 Soria, N.F.;Soria, N.F.;;
-Pezzi, L.;Pezzi, L.;thermal effect,Nanoparticles,NLC;
-De Sio, L.;De Sio, L.;thermal effect,Nanoparticles,NLC;
-Palermo, G.;Palermo, G.;thermal effect,Nanoparticles,NLC;
-Tabiryan, N.;Tabiryan, N.;thermal effect,Nanoparticles,NLC;
-Umeton, C.;Umeton, C.;thermal effect,Nanoparticles,NLC;
-Portilla-Yandún, J.;Portilla-Yandún, J.;Directional wave spectra,Swell,Spectral wave climate,Spectral wave systems,Wind sea,Spectral partitioning;
-Cavaleri, L.;Cavaleri, L.;Directional wave spectra,Triaxys buoy,Swell,Spectral wave climate,Colombian Pacific Ocean,Spectral wave systems,ECMWF,Wind sea,Spectral partitioning,ERA-Interim;
-Van Vledder, G.P.;Van Vledder, G.P.;Directional wave spectra,Swell,Spectral wave climate,Spectral wave systems,Wind sea,Spectral partitioning;
-Cassola, A.;Cassola, A.;Mobile,GPU,NTRU,Private Information Retrieval,Wi-Fi,Anonymity,ISP,Authentication;
-Blass, E.-O.;Blass, E.-O.;Mobile,GPU,NTRU,Private Information Retrieval,Wi-Fi,Anonymity,ISP,Authentication;
-Noubir, G.;Noubir, G.;Mobile,GPU,NTRU,Private Information Retrieval,Wi-Fi,Anonymity,ISP,Authentication;
-Fernández, C.;Fernández, C.;througput,QoS,WDS,packet loss,jitter,Ad-Hoc,IEEE 802.11.b,delay;
-Morales, C.;Morales, C.;througput,QoS,WDS,packet loss,jitter,Ad-Hoc,IEEE 802.11.b,delay;
-Játiva, E.R.;Játiva, E.R.;WLLS,TOA based positioning systems,wireless sensor networks,NLOS mitigation,geometrical restrictions;
-Sánchez, D.;Sánchez, D.;WLLS,TOA based positioning systems,wireless sensor networks,NLOS mitigation,geometrical restrictions;
-Portilla, J.;Portilla, J.;Triaxys buoy,Spectral wave climate,Colombian Pacific Ocean,ECMWF,Spectral partitioning,ERA-Interim;
-Caicedo, A.L.;Caicedo, A.L.;Triaxys buoy,Spectral wave climate,Colombian Pacific Ocean,ECMWF,Spectral partitioning,ERA-Interim;
-Padilla-Hernández, R.;Padilla-Hernández, R.;Triaxys buoy,Spectral wave climate,Colombian Pacific Ocean,ECMWF,Spectral partitioning,ERA-Interim;
-González-Guevara, V.I.;González-Guevara, V.I.;Feature selection,Algorithms,Testor theory;
+Pezzi, L.;Pezzi, L.;NLC,Nanoparticles,thermal effect;
+De Sio, L.;De Sio, L.;NLC,Nanoparticles,thermal effect;
+Palermo, G.;Palermo, G.;NLC,Nanoparticles,thermal effect;
+Tabiryan, N.;Tabiryan, N.;NLC,Nanoparticles,thermal effect;
+Umeton, C.;Umeton, C.;NLC,Nanoparticles,thermal effect;
+Portilla-Yandún, J.;Portilla-Yandún, J.;Directional wave spectra,Spectral wave climate,Spectral wave systems,Swell,Spectral partitioning,Wind sea;
+Cavaleri, L.;Cavaleri, L.;Directional wave spectra,ECMWF,Spectral wave climate,Triaxys buoy,ERA-Interim,Colombian Pacific Ocean,Spectral wave systems,Swell,Spectral partitioning,Wind sea;
+Van Vledder, G.P.;Van Vledder, G.P.;Directional wave spectra,Spectral wave climate,Spectral wave systems,Swell,Spectral partitioning,Wind sea;
+Cassola, A.;Cassola, A.;ISP,Authentication,Wi-Fi,Anonymity,GPU,Private Information Retrieval,NTRU,Mobile;
+Blass, E.-O.;Blass, E.-O.;ISP,Authentication,Wi-Fi,Anonymity,GPU,Private Information Retrieval,NTRU,Mobile;
+Noubir, G.;Noubir, G.;ISP,Authentication,Wi-Fi,Anonymity,GPU,Private Information Retrieval,NTRU,Mobile;
+Fernández, C.;Fernández, C.;Ad-Hoc,delay,jitter,througput,QoS,packet loss,WDS,IEEE 802.11.b;
+Morales, C.;Morales, C.;Ad-Hoc,delay,jitter,througput,QoS,packet loss,WDS,IEEE 802.11.b;
+Játiva, E.R.;Játiva, E.R.;NLOS mitigation,wireless sensor networks,TOA based positioning systems,geometrical restrictions,WLLS;
+Sánchez, D.;Sánchez, D.;NLOS mitigation,wireless sensor networks,TOA based positioning systems,geometrical restrictions,WLLS;
+Portilla, J.;Portilla, J.;ECMWF,Spectral wave climate,Triaxys buoy,ERA-Interim,Colombian Pacific Ocean,Spectral partitioning;
+Caicedo, A.L.;Caicedo, A.L.;ECMWF,Spectral wave climate,Triaxys buoy,ERA-Interim,Colombian Pacific Ocean,Spectral partitioning;
+Padilla-Hernández, R.;Padilla-Hernández, R.;ECMWF,Spectral wave climate,Triaxys buoy,ERA-Interim,Colombian Pacific Ocean,Spectral partitioning;
+González-Guevara, V.I.;González-Guevara, V.I.;Feature selection,Testor theory,Algorithms;
 Cervantes-Alonso, F.;Cervantes-Alonso, F.;;
 Arévalo, G.;Arévalo, G.;;
 Cárdenas, D.;Cárdenas, D.;;

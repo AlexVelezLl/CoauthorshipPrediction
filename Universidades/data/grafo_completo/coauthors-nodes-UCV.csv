@@ -1,170 +1,170 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Gamess, E.;Gamess, E.;Wireless networks,Network simulator,Counting nodes,INET,OMNeT++,Algorithm;Asterisk,Corosync,Mobile application,Benchmarking tools,SIPp,Geolocation,Shopping center,SIP,Access points,WiFi,LLMNR,VoIP,IPv6,Kamailio,Cluster,Link-local multicast name resolution,Load balancer,Zero-configuration networking,Web application,High availability,Performance evaluation
-Garroz, J.;Garroz, J.;;LLMNR,Zero-configuration networking,IPv6,Link-local multicast name resolution,Performance evaluation,Benchmarking tools
+Gamess, E.;Gamess, E.;Counting nodes,Wireless networks,INET,Algorithm,OMNeT++,Network simulator;Shopping center,IPv6,SIPp,Load balancer,SIP,Cluster,LLMNR,Link-local multicast name resolution,Access points,Web application,Corosync,Zero-configuration networking,Geolocation,VoIP,Performance evaluation,Kamailio,WiFi,Asterisk,Benchmarking tools,High availability,Mobile application
+Garroz, J.;Garroz, J.;;Zero-configuration networking,IPv6,LLMNR,Link-local multicast name resolution,Benchmarking tools,Performance evaluation
 Verma, V.K.;Verma, V.K.;;
 Ntalianis, K.;Ntalianis, K.;;
 Moreno, C.M.;Moreno, C.M.;;
 Yang, C.-T.;Yang, C.-T.;;
-Brea, E.;Brea, E.;;Genetic algorithms,Game of Patterns,Comparison of metaheuristic optimization methods
-Derras, M.;Derras, M.;;Reference architecture,Domain and realization design,Software Product Quality,Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Application design,Software Architecture,Software product line
-Deruelle, L.;Deruelle, L.;;Reference architecture,Domain and realization design,Software Product Quality,Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Application design,Software Architecture,Software product line
-Douin, J.M.;Douin, J.M.;;Software Product Quality,Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software Architecture
-Pollet, Y.;Pollet, Y.;;Software Product Quality,Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software Architecture
-Reiner, V.;Reiner, V.;;Software Product Quality,Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software Architecture
-Aguirre-Munizaga, M.;Aguirre-Munizaga, M.;;Meteorological data,Crowdsourcing,Sensors,Monitoring,Vigilance,Meteorology,Meteorological stations,Opendata,Webmapping
-Lagos-Ortiz, K.;Lagos-Ortiz, K.;;Crowdsourcing,Vigilance,Meteorology,Meteorological stations,Opendata
-Vergara-Lozano, V.;Vergara-Lozano, V.;;Meteorological data,Crowdsourcing,Sensors,Monitoring,Vigilance,Meteorology,Meteorological stations,Opendata,Webmapping
-Sinche-Guzmán, A.;Sinche-Guzmán, A.;;Meteorological data,Crowdsourcing,Sensors,Monitoring,Vigilance,Meteorology,Meteorological stations,Opendata,Webmapping
-Hernández-Rosas, J.;Hernández-Rosas, J.;;Meteorological data,Crowdsourcing,Sensors,Monitoring,Vigilance,Meteorology,Meteorological stations,Opendata,Webmapping
-Rojas, O.;Rojas, O.;;Training and testing data sets,Earthquake hypocenters,Deep and convolutional neural networks,Unsupervised and semisupervised,P and S seismic waves,Supervised
-Otero, B.;Otero, B.;CUDA programming,mimetic finite differences,GPU,acoustic waves,SIMD extensions;Training and testing data sets,Earthquake hypocenters,Deep and convolutional neural networks,Unsupervised and semisupervised,P and S seismic waves,Supervised
-Alvarado, L.;Alvarado, L.;;Training and testing data sets,Earthquake hypocenters,Deep and convolutional neural networks,Unsupervised and semisupervised,P and S seismic waves,Supervised
-Mus, S.;Mus, S.;;Training and testing data sets,Earthquake hypocenters,Deep and convolutional neural networks,Unsupervised and semisupervised,P and S seismic waves,Supervised
-Tous, R.;Tous, R.;;Training and testing data sets,Earthquake hypocenters,Deep and convolutional neural networks,Unsupervised and semisupervised,P and S seismic waves,Supervised
-Levy, N.;Levy, N.;;Domain and realization design,Application design,Reference architecture,Software product line
-Losavio, F.;Losavio, F.;quality requirements,product derivation,software product line,bottom-up design,non-functional requirements,reference architecture,bottom-up process,quality model,software product lines;Domain and realization design,Application design,Reference architecture,Software product line
-Garcia, P.;Garcia, P.;;Kernel Methods,Chaotic Switching,Nonlinear Regression,Non-Intrusive Load Monitoring
-Dominguez, X.;Dominguez, X.;;Kernel Methods,Chaotic Switching,Nonlinear Regression,Non-Intrusive Load Monitoring
-Chiza, D.;Chiza, D.;;Kernel Methods,Chaotic Switching,Nonlinear Regression,Non-Intrusive Load Monitoring
-Restrepo, J.;Restrepo, J.;;Kernel Methods,Chaotic Switching,Nonlinear Regression,Non-Intrusive Load Monitoring
-Ramirez, H.L.N.;Ramirez, H.L.N.;;Photovoltaic cell,SCILAB,Two-diode model,Efficiency,Photovoltaic module
-Kassar, G.G.C.;Kassar, G.G.C.;;Photovoltaic cell,SCILAB,Two-diode model,Efficiency,Photovoltaic module
-Maestre, F.C.B.;Maestre, F.C.B.;;Photovoltaic cell,SCILAB,Two-diode model,Efficiency,Photovoltaic module
-Avendano, L.A.S.;Avendano, L.A.S.;;Photovoltaic cell,SCILAB,Two-diode model,Efficiency,Photovoltaic module
-Toro, C.G.;Toro, C.G.;;Photovoltaic cell,SCILAB,Two-diode model,Efficiency,Photovoltaic module
-Silva Sprock, A.;Silva Sprock, A.;LMS,Moodle,Knowledge management,Knowledge based system;FuzzyILS,Fuzzy sets,MOODLE,Learning styles,FuzzyILS instruction
-Crema, A.;Crema, A.;;Bottlenecks,Resource constraints,Average shadow price,Mixed integer programming
-Fernandes, K.;Fernandes, K.;Transfer learning,Cervical cancer,Regularization,Colposcopic images,Histogram distances,Temporal segmentation,Digital colposcopy,Weighted finite automata;Autoencoder,Dimensionality reduction,Cervical cancer,Artificial neural networks,Biomedical informatics,Deep learning,computer vision,Binary classification,machine learning,Denoising autoencoder,Health-care informatics,Health informatics,digital colposcopy,computer aided diagnosis
-Cardoso, J.S.;Cardoso, J.S.;Transfer learning,Cervical cancer,Regularization,Colposcopic images,Histogram distances,Temporal segmentation,Digital colposcopy,Weighted finite automata;Autoencoder,Dimensionality reduction,Cervical cancer,Artificial neural networks,Biomedical informatics,Deep learning,computer vision,Binary classification,machine learning,Denoising autoencoder,Health-care informatics,Health informatics,digital colposcopy,computer aided diagnosis
-Fernandes, J.;Fernandes, J.;Transfer learning,Cervical cancer,Regularization,Colposcopic images,Histogram distances,Temporal segmentation,Digital colposcopy,Weighted finite automata;Autoencoder,Dimensionality reduction,Cervical cancer,Artificial neural networks,Biomedical informatics,Deep learning,computer vision,Binary classification,machine learning,Denoising autoencoder,Health-care informatics,Health informatics,digital colposcopy,computer aided diagnosis
-Chicco, D.;Chicco, D.;;Dimensionality reduction,Cervical cancer,Biomedical informatics,Artificial neural networks,Deep learning,Binary classification,Denoising autoencoder,Health-care informatics,Health informatics,Autoencoder
-Barroso, R.H.;Barroso, R.H.;;Homogenization,Diamagnetism,Metamaterial,Matching,Broadband,UTL
-Malpica, W.N.;Malpica, W.N.;;Homogenization,Diamagnetism,Metamaterial,Matching,Broadband,UTL
-Francisco, S.J.;Francisco, S.J.;;Computational complexity,Grids,Load balancing,Fault monitoring,Agent architecture
-Rina, S.;Rina, S.;;Computational complexity,Grids,Load balancing,Fault monitoring,Agent architecture
-Villegas, O.;Villegas, O.;;Thermal Lens,Nanoparticles,Thermo-optical parameters,Thermal diffusibility,Heat transfer
-Castillo, J.;Castillo, J.;;Thermal Lens,Nanoparticles,Thermo-optical parameters,Thermal diffusibility,Heat transfer
-Martin, A.;Martin, A.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
-Urribarri, D.;Urribarri, D.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
-Gómez, J.;Gómez, J.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
-Andrade, L.;Andrade, L.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
-Quintero, J.;Quintero, J.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
-Russoniello, A.;Russoniello, A.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
-Ferreira, M.;Ferreira, M.;fluorescence,TLS,silver nanoparticles,Thermal lens spectroscopy,quantum yield,nanoparticles,Rhodamine B;TLS,quantum yield,nanoparticles,Rhodamine B,thermal lens spectroscopy
-Piscitelli, V.;Piscitelli, V.;fluorescence,TLS,silver nanoparticles,Thermal lens spectroscopy,quantum yield,nanoparticles,Rhodamine B;TLS,quantum yield,nanoparticles,Rhodamine B,thermal lens spectroscopy
-Vásquez-Bermudez, M.;Vásquez-Bermudez, M.;;Meteorological data,Monitoring,Webmapping,Sensors
-Zapata, H.;Zapata, H.;Interval-valued generalized modus ponens,Interval-valued strong equality index,Admissible order,Interval-valued fuzzy implications;t-norm,Aggregation function,Overlap function
-Dimuro, G.P.;Dimuro, G.P.;;t-norm,Aggregation function,Overlap function
-Fernández, J.;Fernández, J.;;t-norm,Aggregation function,Overlap function
-Bustince, H.;Bustince, H.;Interval-valued generalized modus ponens,Interval-valued strong equality index,Admissible order,Interval-valued fuzzy implications;t-norm,Aggregation function,Overlap function
-Barrera, Y.C.;Barrera, Y.C.;Algorithms and Programming in the UCV,Curricular design oriented to the development of skills,Algorithms teaching,Educational strategies,Academic competences;
-Bezeira, A.M.;Bezeira, A.M.;Protocol Language,Transactions,Colored Petri Nets,WiMax MAC IEEE 802.16 Protocol,Pitfalls,Dynamic Service Flow;
-Villapol, M.;Villapol, M.;Protocol Language,Transactions,Colored Petri Nets,WiMax MAC IEEE 802.16 Protocol,Pitfalls,Dynamic Service Flow;
-Scalise, E.;Scalise, E.;Protocol Language,hybrid Machine Learning techniques,Transactions,Computer networks security,Machine Learning,attack,Colored Petri Nets,WiMax MAC IEEE 802.16 Protocol,intrusion detection,Pitfalls,Dynamic Service Flow;
-Naranjo, C.;Naranjo, C.;Protocol Language,Transactions,Colored Petri Nets,WiMax MAC IEEE 802.16 Protocol,Pitfalls,Dynamic Service Flow;
-Alvarez, F.;Alvarez, F.;Protocol Language,Transactions,Colored Petri Nets,WiMax MAC IEEE 802.16 Protocol,Pitfalls,Dynamic Service Flow;
-Perez, D.;Perez, D.;hybrid Machine Learning techniques,Machine Learning,Computer networks security,attack,intrusion detection;
-Astor, M.A.;Astor, M.A.;hybrid Machine Learning techniques,Machine Learning,Computer networks security,attack,intrusion detection;
-Abreu, D.P.;Abreu, D.P.;hybrid Machine Learning techniques,Urban Geography,Machine Learning,Computer networks security,Wireless Mesh Network (WMN),attack,Hybrid Wireless Mesh Protocol (HWMP),Optimized Link State Routing Protocol (OLSR),intrusion detection,Metropolitan Area of Caracas;
-Gonzalez-Abril, L.;Gonzalez-Abril, L.;Cost-sensitive SVM,Pattern recognition,Support Vector Machines,Post-processing strategies;
-Angulo, C.;Angulo, C.;Cost-sensitive SVM,Pattern recognition,Support Vector Machines,Post-processing strategies;
-Nuñez, H.;Nuñez, H.;Cost-sensitive SVM,Pattern recognition,Support Vector Machines,Post-processing strategies;
-Leal, Y.;Leal, Y.;Cost-sensitive SVM,Pattern recognition,Support Vector Machines,Post-processing strategies;
-Sprock, A.S.;Sprock, A.S.;FuzzyILS,Instructionals Techniques,Learning Styles,Latin-American Higher Education Institutions,Learning Analytics,Felder,Research Network,Silverman Learning Styles Model,Fuzzy Logic,Latin-American Network of Learning Analytics,Felder & Soloman Questionnaire (Test),MeLOTS;
-Gallegos, J.P.;Gallegos, J.P.;FuzzyILS,Instructionals Techniques,Learning Styles,Fuzzy Logic,MeLOTS;
-Vicari, R.M.;Vicari, R.M.;FuzzyILS,Instructionals Techniques,Learning Styles,Latin-American Higher Education Institutions,Learning Analytics,LMS,Knowledge based system,Felder,Moodle,Research Network,Silverman Learning Styles Model,Knowledge management,Fuzzy Logic,Latin-American Network of Learning Analytics,Felder & Soloman Questionnaire (Test),MeLOTS;
-Rincón, M.R.;Rincón, M.R.;Latin-American Higher Education Institutions,Learning Analytics,Research Network,Latin-American Network of Learning Analytics;
-Maldonado, J.;Maldonado, J.;Latin-American Higher Education Institutions,Learning Analytics,Research Network,Latin-American Network of Learning Analytics;
-Toscano, A.;Toscano, A.;Latin-American Higher Education Institutions,Learning Analytics,Research Network,Latin-American Network of Learning Analytics;
-Martínez-De Dios, J.R.;Martínez-De Dios, J.R.;RSSI,Localization,Wireless sensor network;
-Ollero, A.;Ollero, A.;RSSI,Localization,Wireless sensor network;
-Fernández, F.J.;Fernández, F.J.;RSSI,Localization,Wireless sensor network;
-Regoli, C.;Regoli, C.;RSSI,Localization,Wireless sensor network;
-Montes, S.;Montes, S.;Interval-valued generalized modus ponens,Interval-valued strong equality index,Admissible order,Interval-valued fuzzy implications;
-Baczyński, M.;Baczyński, M.;Interval-valued generalized modus ponens,Interval-valued strong equality index,Admissible order,Interval-valued fuzzy implications;
-Fernandez, J.;Fernandez, J.;Interval-valued generalized modus ponens,Interval-valued strong equality index,Admissible order,Interval-valued fuzzy implications;
-Mijares, H.;Mijares, H.;Properties,Formal Specification,Big Data,Quality,Business Processes,IoT;
-Marize, D.;Marize, D.;Properties,Formal Specification,Big Data,Quality,Business Processes,IoT;
-Bonillo, R.;Bonillo, R.;Properties,Formal Specification,Big Data,Quality,Business Processes,IoT;
-Pedro, N.;Pedro, N.;Properties,Formal Specification,Big Data,Quality,Business Processes,IoT;
+Brea, E.;Brea, E.;;Game of Patterns,Genetic algorithms,Comparison of metaheuristic optimization methods
+Derras, M.;Derras, M.;;Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software product line,Software Architecture,Software Product Quality,Domain and realization design,Reference architecture,Application design
+Deruelle, L.;Deruelle, L.;;Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software product line,Software Architecture,Software Product Quality,Domain and realization design,Reference architecture,Application design
+Douin, J.M.;Douin, J.M.;;Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software Architecture,Software Product Quality
+Pollet, Y.;Pollet, Y.;;Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software Architecture,Software Product Quality
+Reiner, V.;Reiner, V.;;Reference Architecture Design,Bottom-up Strategy,Software Product Lines (SPL),Software Architecture,Software Product Quality
+Aguirre-Munizaga, M.;Aguirre-Munizaga, M.;;Opendata,Meteorological stations,Vigilance,Crowdsourcing,Meteorological data,Webmapping,Sensors,Monitoring,Meteorology
+Lagos-Ortiz, K.;Lagos-Ortiz, K.;;Opendata,Meteorological stations,Vigilance,Crowdsourcing,Meteorology
+Vergara-Lozano, V.;Vergara-Lozano, V.;;Opendata,Meteorological stations,Vigilance,Crowdsourcing,Meteorological data,Webmapping,Sensors,Monitoring,Meteorology
+Sinche-Guzmán, A.;Sinche-Guzmán, A.;;Opendata,Meteorological stations,Vigilance,Crowdsourcing,Meteorological data,Webmapping,Sensors,Monitoring,Meteorology
+Hernández-Rosas, J.;Hernández-Rosas, J.;;Opendata,Meteorological stations,Vigilance,Crowdsourcing,Meteorological data,Webmapping,Sensors,Monitoring,Meteorology
+Rojas, O.;Rojas, O.;;Supervised,Training and testing data sets,Unsupervised and semisupervised,Earthquake hypocenters,P and S seismic waves,Deep and convolutional neural networks
+Otero, B.;Otero, B.;GPU,mimetic finite differences,SIMD extensions,acoustic waves,CUDA programming;Supervised,Training and testing data sets,Unsupervised and semisupervised,Earthquake hypocenters,P and S seismic waves,Deep and convolutional neural networks
+Alvarado, L.;Alvarado, L.;;Supervised,Training and testing data sets,Unsupervised and semisupervised,Earthquake hypocenters,P and S seismic waves,Deep and convolutional neural networks
+Mus, S.;Mus, S.;;Supervised,Training and testing data sets,Unsupervised and semisupervised,Earthquake hypocenters,P and S seismic waves,Deep and convolutional neural networks
+Tous, R.;Tous, R.;;Supervised,Training and testing data sets,Unsupervised and semisupervised,Earthquake hypocenters,P and S seismic waves,Deep and convolutional neural networks
+Levy, N.;Levy, N.;;Application design,Domain and realization design,Software product line,Reference architecture
+Losavio, F.;Losavio, F.;product derivation,quality model,bottom-up design,software product line,software product lines,reference architecture,quality requirements,bottom-up process,non-functional requirements;Application design,Domain and realization design,Software product line,Reference architecture
+Garcia, P.;Garcia, P.;;Nonlinear Regression,Kernel Methods,Chaotic Switching,Non-Intrusive Load Monitoring
+Dominguez, X.;Dominguez, X.;;Nonlinear Regression,Kernel Methods,Chaotic Switching,Non-Intrusive Load Monitoring
+Chiza, D.;Chiza, D.;;Nonlinear Regression,Kernel Methods,Chaotic Switching,Non-Intrusive Load Monitoring
+Restrepo, J.;Restrepo, J.;;Nonlinear Regression,Kernel Methods,Chaotic Switching,Non-Intrusive Load Monitoring
+Ramirez, H.L.N.;Ramirez, H.L.N.;;Photovoltaic module,Efficiency,SCILAB,Two-diode model,Photovoltaic cell
+Kassar, G.G.C.;Kassar, G.G.C.;;Photovoltaic module,Efficiency,SCILAB,Two-diode model,Photovoltaic cell
+Maestre, F.C.B.;Maestre, F.C.B.;;Photovoltaic module,Efficiency,SCILAB,Two-diode model,Photovoltaic cell
+Avendano, L.A.S.;Avendano, L.A.S.;;Photovoltaic module,Efficiency,SCILAB,Two-diode model,Photovoltaic cell
+Toro, C.G.;Toro, C.G.;;Photovoltaic module,Efficiency,SCILAB,Two-diode model,Photovoltaic cell
+Silva Sprock, A.;Silva Sprock, A.;Knowledge based system,Knowledge management,LMS,Moodle;MOODLE,FuzzyILS instruction,Learning styles,Fuzzy sets,FuzzyILS
+Crema, A.;Crema, A.;;Bottlenecks,Mixed integer programming,Average shadow price,Resource constraints
+Fernandes, K.;Fernandes, K.;Weighted finite automata,Cervical cancer,Colposcopic images,Regularization,Temporal segmentation,Histogram distances,Transfer learning,Digital colposcopy;computer aided diagnosis,Binary classification,Deep learning,Biomedical informatics,Dimensionality reduction,Cervical cancer,machine learning,Health-care informatics,Health informatics,Artificial neural networks,Autoencoder,computer vision,digital colposcopy,Denoising autoencoder
+Cardoso, J.S.;Cardoso, J.S.;Weighted finite automata,Cervical cancer,Colposcopic images,Regularization,Temporal segmentation,Histogram distances,Transfer learning,Digital colposcopy;computer aided diagnosis,Binary classification,Deep learning,Biomedical informatics,Dimensionality reduction,Cervical cancer,machine learning,Health-care informatics,Health informatics,Artificial neural networks,Autoencoder,computer vision,digital colposcopy,Denoising autoencoder
+Fernandes, J.;Fernandes, J.;Weighted finite automata,Cervical cancer,Colposcopic images,Regularization,Temporal segmentation,Histogram distances,Transfer learning,Digital colposcopy;computer aided diagnosis,Binary classification,Deep learning,Biomedical informatics,Dimensionality reduction,Cervical cancer,machine learning,Health-care informatics,Health informatics,Artificial neural networks,Autoencoder,computer vision,digital colposcopy,Denoising autoencoder
+Chicco, D.;Chicco, D.;;Deep learning,Biomedical informatics,Dimensionality reduction,Cervical cancer,Health-care informatics,Health informatics,Artificial neural networks,Autoencoder,Binary classification,Denoising autoencoder
+Barroso, R.H.;Barroso, R.H.;;Homogenization,UTL,Broadband,Matching,Metamaterial,Diamagnetism
+Malpica, W.N.;Malpica, W.N.;;Homogenization,UTL,Broadband,Matching,Metamaterial,Diamagnetism
+Francisco, S.J.;Francisco, S.J.;;Fault monitoring,Computational complexity,Grids,Agent architecture,Load balancing
+Rina, S.;Rina, S.;;Fault monitoring,Computational complexity,Grids,Agent architecture,Load balancing
+Villegas, O.;Villegas, O.;;Thermal Lens,Thermal diffusibility,Heat transfer,Thermo-optical parameters,Nanoparticles
+Castillo, J.;Castillo, J.;;Thermal Lens,Thermal diffusibility,Heat transfer,Thermo-optical parameters,Nanoparticles
+Martin, A.;Martin, A.;;Kamailio,SIP,Cluster,SIPp,Corosync,Load balancer,Asterisk,VoIP,High availability
+Urribarri, D.;Urribarri, D.;;Kamailio,SIP,Cluster,SIPp,Corosync,Load balancer,Asterisk,VoIP,High availability
+Gómez, J.;Gómez, J.;;Kamailio,SIP,Cluster,SIPp,Corosync,Load balancer,Asterisk,VoIP,High availability
+Andrade, L.;Andrade, L.;;Shopping center,WiFi,Access points,Web application,Geolocation,Mobile application
+Quintero, J.;Quintero, J.;;Shopping center,WiFi,Access points,Web application,Geolocation,Mobile application
+Russoniello, A.;Russoniello, A.;;Shopping center,WiFi,Access points,Web application,Geolocation,Mobile application
+Ferreira, M.;Ferreira, M.;fluorescence,quantum yield,Rhodamine B,TLS,silver nanoparticles,nanoparticles,Thermal lens spectroscopy;quantum yield,Rhodamine B,thermal lens spectroscopy,TLS,nanoparticles
+Piscitelli, V.;Piscitelli, V.;fluorescence,quantum yield,Rhodamine B,TLS,silver nanoparticles,nanoparticles,Thermal lens spectroscopy;quantum yield,Rhodamine B,thermal lens spectroscopy,TLS,nanoparticles
+Vásquez-Bermudez, M.;Vásquez-Bermudez, M.;;Meteorological data,Webmapping,Sensors,Monitoring
+Zapata, H.;Zapata, H.;Interval-valued fuzzy implications,Interval-valued generalized modus ponens,Admissible order,Interval-valued strong equality index;Overlap function,t-norm,Aggregation function
+Dimuro, G.P.;Dimuro, G.P.;;Overlap function,t-norm,Aggregation function
+Fernández, J.;Fernández, J.;;Overlap function,t-norm,Aggregation function
+Bustince, H.;Bustince, H.;Interval-valued fuzzy implications,Interval-valued generalized modus ponens,Admissible order,Interval-valued strong equality index;Overlap function,t-norm,Aggregation function
+Barrera, Y.C.;Barrera, Y.C.;Educational strategies,Algorithms and Programming in the UCV,Algorithms teaching,Curricular design oriented to the development of skills,Academic competences;
+Bezeira, A.M.;Bezeira, A.M.;Transactions,Colored Petri Nets,Pitfalls,WiMax MAC IEEE 802.16 Protocol,Dynamic Service Flow,Protocol Language;
+Villapol, M.;Villapol, M.;Transactions,Colored Petri Nets,Pitfalls,WiMax MAC IEEE 802.16 Protocol,Dynamic Service Flow,Protocol Language;
+Scalise, E.;Scalise, E.;Transactions,Colored Petri Nets,Pitfalls,WiMax MAC IEEE 802.16 Protocol,Dynamic Service Flow,attack,Protocol Language,Machine Learning,Computer networks security,hybrid Machine Learning techniques,intrusion detection;
+Naranjo, C.;Naranjo, C.;Transactions,Colored Petri Nets,Pitfalls,WiMax MAC IEEE 802.16 Protocol,Dynamic Service Flow,Protocol Language;
+Alvarez, F.;Alvarez, F.;Transactions,Colored Petri Nets,Pitfalls,WiMax MAC IEEE 802.16 Protocol,Dynamic Service Flow,Protocol Language;
+Perez, D.;Perez, D.;attack,Machine Learning,Computer networks security,hybrid Machine Learning techniques,intrusion detection;
+Astor, M.A.;Astor, M.A.;attack,Machine Learning,Computer networks security,hybrid Machine Learning techniques,intrusion detection;
+Abreu, D.P.;Abreu, D.P.;Optimized Link State Routing Protocol (OLSR),Metropolitan Area of Caracas,attack,Hybrid Wireless Mesh Protocol (HWMP),Wireless Mesh Network (WMN),Machine Learning,Urban Geography,Computer networks security,hybrid Machine Learning techniques,intrusion detection;
+Gonzalez-Abril, L.;Gonzalez-Abril, L.;Pattern recognition,Support Vector Machines,Cost-sensitive SVM,Post-processing strategies;
+Angulo, C.;Angulo, C.;Pattern recognition,Support Vector Machines,Cost-sensitive SVM,Post-processing strategies;
+Nuñez, H.;Nuñez, H.;Pattern recognition,Support Vector Machines,Cost-sensitive SVM,Post-processing strategies;
+Leal, Y.;Leal, Y.;Pattern recognition,Support Vector Machines,Cost-sensitive SVM,Post-processing strategies;
+Sprock, A.S.;Sprock, A.S.;MeLOTS,Silverman Learning Styles Model,Latin-American Higher Education Institutions,Learning Styles,Latin-American Network of Learning Analytics,Instructionals Techniques,Learning Analytics,Research Network,Felder,Felder & Soloman Questionnaire (Test),Fuzzy Logic,FuzzyILS;
+Gallegos, J.P.;Gallegos, J.P.;MeLOTS,Learning Styles,Instructionals Techniques,Fuzzy Logic,FuzzyILS;
+Vicari, R.M.;Vicari, R.M.;MeLOTS,Knowledge based system,Silverman Learning Styles Model,Latin-American Higher Education Institutions,LMS,Learning Styles,Latin-American Network of Learning Analytics,Knowledge management,Instructionals Techniques,Learning Analytics,Research Network,Moodle,Felder,Felder & Soloman Questionnaire (Test),Fuzzy Logic,FuzzyILS;
+Rincón, M.R.;Rincón, M.R.;Learning Analytics,Latin-American Higher Education Institutions,Research Network,Latin-American Network of Learning Analytics;
+Maldonado, J.;Maldonado, J.;Learning Analytics,Latin-American Higher Education Institutions,Research Network,Latin-American Network of Learning Analytics;
+Toscano, A.;Toscano, A.;Learning Analytics,Latin-American Higher Education Institutions,Research Network,Latin-American Network of Learning Analytics;
+Martínez-De Dios, J.R.;Martínez-De Dios, J.R.;Wireless sensor network,RSSI,Localization;
+Ollero, A.;Ollero, A.;Wireless sensor network,RSSI,Localization;
+Fernández, F.J.;Fernández, F.J.;Wireless sensor network,RSSI,Localization;
+Regoli, C.;Regoli, C.;Wireless sensor network,RSSI,Localization;
+Montes, S.;Montes, S.;Interval-valued fuzzy implications,Interval-valued generalized modus ponens,Admissible order,Interval-valued strong equality index;
+Baczyński, M.;Baczyński, M.;Interval-valued fuzzy implications,Interval-valued generalized modus ponens,Admissible order,Interval-valued strong equality index;
+Fernandez, J.;Fernandez, J.;Interval-valued fuzzy implications,Interval-valued generalized modus ponens,Admissible order,Interval-valued strong equality index;
+Mijares, H.;Mijares, H.;IoT,Formal Specification,Quality,Big Data,Business Processes,Properties;
+Marize, D.;Marize, D.;IoT,Formal Specification,Quality,Big Data,Business Processes,Properties;
+Bonillo, R.;Bonillo, R.;IoT,Formal Specification,Quality,Big Data,Business Processes,Properties;
+Pedro, N.;Pedro, N.;IoT,Formal Specification,Quality,Big Data,Business Processes,Properties;
 Swenson, B.;Swenson, B.;;
 Ricardo, M.;Ricardo, M.;;
 Henderson, T.R.;Henderson, T.R.;;
-Ariza García, E.;Ariza García, E.;Associated spaces,Interior estimates,Associated Operators,Initial value problem;
-Di Teodoro, A.;Di Teodoro, A.;Associated spaces,Interior estimates,Associated Operators,Initial value problem;
-Sapiain, M.;Sapiain, M.;Associated spaces,Interior estimates,Associated Operators,Initial value problem;
-Vargas, F.;Vargas, F.;Associated spaces,Interior estimates,Associated Operators,Initial value problem;
-Francés, J.;Francés, J.;CUDA programming,mimetic finite differences,GPU,acoustic waves,SIMD extensions;
-Rodriguez, R.;Rodriguez, R.;CUDA programming,mimetic finite differences,GPU,acoustic waves,SIMD extensions;
-Solano, F.;Solano, F.;CUDA programming,mimetic finite differences,GPU,acoustic waves,SIMD extensions;
-Guevara-Jordan, J.;Guevara-Jordan, J.;CUDA programming,mimetic finite differences,GPU,acoustic waves,SIMD extensions;
-Alvarez, A.;Alvarez, A.;JavaScript,3D graphics,EZ3.js,Web Browser,WebGL;
-Zapata, C.;Zapata, C.;JavaScript,3D graphics,EZ3.js,Web Browser,WebGL;
-Ramirez, E.;Ramirez, E.;JavaScript,Cone Tracing,Voxelization,Voxel Shading,GPU,3D graphics,Real-Time Rendering,EZ3.js,Global Illumination,Web Browser,WebGL;
-Villegas, J.;Villegas, J.;Cone Tracing,Voxelization,Voxel Shading,GPU,Global Illumination,Real-Time Rendering;
-De Rivas, B.L.;De Rivas, B.L.;Engine oil,FTIR,Total acid number (TAN),Aircraft turbine,Regression models;
-Vivancos, J.-L.;Vivancos, J.-L.;Engine oil,FTIR,Total acid number (TAN),Aircraft turbine,Regression models;
-Ordieres-Meré, J.;Ordieres-Meré, J.;Engine oil,FTIR,Total acid number (TAN),Aircraft turbine,Regression models;
-Capuz-Rizo, S.F.;Capuz-Rizo, S.F.;Engine oil,FTIR,Total acid number (TAN),Aircraft turbine,Regression models;
-Gilanyi, A.;Gilanyi, A.;Convexity,Animation,Mathability,m-convexity,m-Convexity,Cognitive Infocommunications,Computer Assisted Methods;
-Merentes, N.;Merentes, N.;Convexity,Animation,Mathability,m-convexity,m-Convexity,Cognitive Infocommunications,Computer Assisted Methods;
-Quintero, R.;Quintero, R.;Convexity,Animation,Mathability,m-convexity,m-Convexity,Cognitive Infocommunications,Computer Assisted Methods;
-Mirena, J.;Mirena, J.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Moreno, M.;Moreno, M.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Sogne, G.;Sogne, G.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Papa, J.;Papa, J.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Pittol, J.;Pittol, J.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Sanoja, A.;Sanoja, A.;Migration,Web archive,Format obsolescence,HTML5,Web,Blocks,Segmentation;
-Gançarski, S.;Gançarski, S.;Migration,Web archive,Format obsolescence,HTML5,Web,Blocks,Segmentation;
+Ariza García, E.;Ariza García, E.;Initial value problem,Interior estimates,Associated Operators,Associated spaces;
+Di Teodoro, A.;Di Teodoro, A.;Initial value problem,Interior estimates,Associated Operators,Associated spaces;
+Sapiain, M.;Sapiain, M.;Initial value problem,Interior estimates,Associated Operators,Associated spaces;
+Vargas, F.;Vargas, F.;Initial value problem,Interior estimates,Associated Operators,Associated spaces;
+Francés, J.;Francés, J.;GPU,mimetic finite differences,SIMD extensions,acoustic waves,CUDA programming;
+Rodriguez, R.;Rodriguez, R.;GPU,mimetic finite differences,SIMD extensions,acoustic waves,CUDA programming;
+Solano, F.;Solano, F.;GPU,mimetic finite differences,SIMD extensions,acoustic waves,CUDA programming;
+Guevara-Jordan, J.;Guevara-Jordan, J.;GPU,mimetic finite differences,SIMD extensions,acoustic waves,CUDA programming;
+Alvarez, A.;Alvarez, A.;EZ3.js,3D graphics,WebGL,Web Browser,JavaScript;
+Zapata, C.;Zapata, C.;EZ3.js,3D graphics,WebGL,Web Browser,JavaScript;
+Ramirez, E.;Ramirez, E.;EZ3.js,3D graphics,GPU,WebGL,Cone Tracing,Voxelization,Web Browser,Voxel Shading,JavaScript,Real-Time Rendering,Global Illumination;
+Villegas, J.;Villegas, J.;GPU,Cone Tracing,Voxelization,Voxel Shading,Real-Time Rendering,Global Illumination;
+De Rivas, B.L.;De Rivas, B.L.;Aircraft turbine,Regression models,Engine oil,Total acid number (TAN),FTIR;
+Vivancos, J.-L.;Vivancos, J.-L.;Aircraft turbine,Regression models,Engine oil,Total acid number (TAN),FTIR;
+Ordieres-Meré, J.;Ordieres-Meré, J.;Aircraft turbine,Regression models,Engine oil,Total acid number (TAN),FTIR;
+Capuz-Rizo, S.F.;Capuz-Rizo, S.F.;Aircraft turbine,Regression models,Engine oil,Total acid number (TAN),FTIR;
+Gilanyi, A.;Gilanyi, A.;Convexity,m-Convexity,Computer Assisted Methods,Animation,m-convexity,Mathability,Cognitive Infocommunications;
+Merentes, N.;Merentes, N.;Convexity,m-Convexity,Computer Assisted Methods,Animation,m-convexity,Mathability,Cognitive Infocommunications;
+Quintero, R.;Quintero, R.;Convexity,m-Convexity,Computer Assisted Methods,Animation,m-convexity,Mathability,Cognitive Infocommunications;
+Mirena, J.;Mirena, J.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Moreno, M.;Moreno, M.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Sogne, G.;Sogne, G.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Papa, J.;Papa, J.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Pittol, J.;Pittol, J.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Sanoja, A.;Sanoja, A.;Blocks,Format obsolescence,HTML5,Web archive,Segmentation,Web,Migration;
+Gançarski, S.;Gançarski, S.;Blocks,Format obsolescence,HTML5,Web archive,Segmentation,Web,Migration;
 Ruette, F.;Ruette, F.;;
 Sierralta, A.;Sierralta, A.;;
 Sánchez, M.;Sánchez, M.;;
 Luiggi, N.;Luiggi, N.;;
-Velásquez, M.;Velásquez, M.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Rodríguez, J.;Rodríguez, J.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Bastardo, A.;Bastardo, A.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Añez, R.;Añez, R.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Coll, D.S.;Coll, D.S.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Gallegos, J.C.P.;Gallegos, J.C.P.;Learning Styles,Felder,Silverman Learning Styles Model,Fuzzy Logic,Felder & Soloman Questionnaire (Test);
-Rocco, C.M.;Rocco, C.M.;multicriteria decision analysis,stochastic ranking,ordered weighted averaging;
-Barker, K.;Barker, K.;multicriteria decision analysis,stochastic ranking,ordered weighted averaging;
-Hernández-Perdomo, E.;Hernández-Perdomo, E.;multicriteria decision analysis,stochastic ranking,ordered weighted averaging;
-Lopez, G.;Lopez, G.;Certification,Ontology,Trust,Social Semantic Web,Evaluation;
-Leon, C.;Leon, C.;Certification,Ontology,Trust,Social Semantic Web,Evaluation;
-García-Martínez, A.;García-Martínez, A.;Relational coordination,Viability,Learning curve of innovation,Dynamic capabilities;
-Rivas-Rangel, J.;Rivas-Rangel, J.;Relational coordination,Viability,Learning curve of innovation,Dynamic capabilities;
-Rangel-Quintos, J.;Rangel-Quintos, J.;Relational coordination,Viability,Learning curve of innovation,Dynamic capabilities;
-Barba, C.;Barba, C.;Relational coordination,Viability,Learning curve of innovation,Dynamic capabilities;
-de-Pablos-Heredero, C.;de-Pablos-Heredero, C.;Relational coordination,Viability,Learning curve of innovation,Dynamic capabilities;
-Leal, D.L.;Leal, D.L.;embedded or built-in systems,Experimentation environments,real-time systems,microcontrollers;
-Celi, M.R.;Celi, M.R.;embedded or built-in systems,Experimentation environments,real-time systems,microcontrollers;
-Alvarez, E.;Alvarez, E.;embedded or built-in systems,Experimentation environments,real-time systems,microcontrollers;
-Moreno, F.;Moreno, F.;image processing,kinect,framework,open source,interoperability;
-Ramírez, E.;Ramírez, E.;image processing,kinect,framework,open source,interoperability;
-Sans, F.;Sans, F.;image processing,kinect,framework,open source,interoperability;
-Carmona, R.;Carmona, R.;image processing,kinect,framework,open source,interoperability;
+Velásquez, M.;Velásquez, M.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Rodríguez, J.;Rodríguez, J.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Bastardo, A.;Bastardo, A.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Añez, R.;Añez, R.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Coll, D.S.;Coll, D.S.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Gallegos, J.C.P.;Gallegos, J.C.P.;Silverman Learning Styles Model,Learning Styles,Felder,Felder & Soloman Questionnaire (Test),Fuzzy Logic;
+Rocco, C.M.;Rocco, C.M.;ordered weighted averaging,multicriteria decision analysis,stochastic ranking;
+Barker, K.;Barker, K.;ordered weighted averaging,multicriteria decision analysis,stochastic ranking;
+Hernández-Perdomo, E.;Hernández-Perdomo, E.;ordered weighted averaging,multicriteria decision analysis,stochastic ranking;
+Lopez, G.;Lopez, G.;Certification,Ontology,Evaluation,Social Semantic Web,Trust;
+Leon, C.;Leon, C.;Certification,Ontology,Evaluation,Social Semantic Web,Trust;
+García-Martínez, A.;García-Martínez, A.;Learning curve of innovation,Relational coordination,Dynamic capabilities,Viability;
+Rivas-Rangel, J.;Rivas-Rangel, J.;Learning curve of innovation,Relational coordination,Dynamic capabilities,Viability;
+Rangel-Quintos, J.;Rangel-Quintos, J.;Learning curve of innovation,Relational coordination,Dynamic capabilities,Viability;
+Barba, C.;Barba, C.;Learning curve of innovation,Relational coordination,Dynamic capabilities,Viability;
+de-Pablos-Heredero, C.;de-Pablos-Heredero, C.;Learning curve of innovation,Relational coordination,Dynamic capabilities,Viability;
+Leal, D.L.;Leal, D.L.;real-time systems,Experimentation environments,embedded or built-in systems,microcontrollers;
+Celi, M.R.;Celi, M.R.;real-time systems,Experimentation environments,embedded or built-in systems,microcontrollers;
+Alvarez, E.;Alvarez, E.;real-time systems,Experimentation environments,embedded or built-in systems,microcontrollers;
+Moreno, F.;Moreno, F.;framework,interoperability,kinect,open source,image processing;
+Ramírez, E.;Ramírez, E.;framework,interoperability,kinect,open source,image processing;
+Sans, F.;Sans, F.;framework,interoperability,kinect,open source,image processing;
+Carmona, R.;Carmona, R.;framework,interoperability,kinect,open source,image processing;
 Portilla, O.;Portilla, O.;web service,patrimony web,web archiving,Semantic recommender;
 Aguilar, J.;Aguilar, J.;web service,patrimony web,web archiving,Semantic recommender;
 León, C.;León, C.;web service,patrimony web,web archiving,Semantic recommender;
-Vivas, J.;Vivas, J.;Cell proliferation,Cell adhesion,Cellular automaton,Computer simulation;
-Garzón-Alvarado, D.;Garzón-Alvarado, D.;Cell proliferation,Cell adhesion,Cellular automaton,Computer simulation;
-Cerrolaza, M.;Cerrolaza, M.;Cell proliferation,Cell adhesion,Cellular automaton,Computer simulation;
-Ordaz, O.;Ordaz, O.;Zero-sum problem,quality requirements,product derivation,Davenport constant,software product line,Cap set,Weighted subsum,bottom-up design,non-functional requirements,reference architecture,bottom-up process,quality model,software product lines,Linear intersecting code,Finite abelian group;
-Villapol, M.E.;Villapol, M.E.;Wireless Mesh Network (WMN),Hybrid Wireless Mesh Protocol (HWMP),Optimized Link State Routing Protocol (OLSR),Urban Geography,Metropolitan Area of Caracas;
-Cordero, C.;Cordero, C.;Wireless Mesh Network (WMN),Hybrid Wireless Mesh Protocol (HWMP),Optimized Link State Routing Protocol (OLSR),Urban Geography,Metropolitan Area of Caracas;
-Marchan, L.E.;Marchan, L.E.;Zero-sum problem,Davenport constant,Cap set,Weighted subsum,Linear intersecting code,Finite abelian group;
-Santos, I.;Santos, I.;Zero-sum problem,Davenport constant,Cap set,Weighted subsum,Linear intersecting code,Finite abelian group;
-Schmid, W.A.;Schmid, W.A.;Zero-sum problem,Davenport constant,Cap set,Weighted subsum,Linear intersecting code,Finite abelian group;
+Vivas, J.;Vivas, J.;Cell adhesion,Cellular automaton,Computer simulation,Cell proliferation;
+Garzón-Alvarado, D.;Garzón-Alvarado, D.;Cell adhesion,Cellular automaton,Computer simulation,Cell proliferation;
+Cerrolaza, M.;Cerrolaza, M.;Cell adhesion,Cellular automaton,Computer simulation,Cell proliferation;
+Ordaz, O.;Ordaz, O.;Weighted subsum,product derivation,quality model,bottom-up design,software product line,Davenport constant,Zero-sum problem,software product lines,Finite abelian group,reference architecture,quality requirements,Cap set,bottom-up process,Linear intersecting code,non-functional requirements;
+Villapol, M.E.;Villapol, M.E.;Optimized Link State Routing Protocol (OLSR),Metropolitan Area of Caracas,Hybrid Wireless Mesh Protocol (HWMP),Wireless Mesh Network (WMN),Urban Geography;
+Cordero, C.;Cordero, C.;Optimized Link State Routing Protocol (OLSR),Metropolitan Area of Caracas,Hybrid Wireless Mesh Protocol (HWMP),Wireless Mesh Network (WMN),Urban Geography;
+Marchan, L.E.;Marchan, L.E.;Weighted subsum,Davenport constant,Zero-sum problem,Finite abelian group,Cap set,Linear intersecting code;
+Santos, I.;Santos, I.;Weighted subsum,Davenport constant,Zero-sum problem,Finite abelian group,Cap set,Linear intersecting code;
+Schmid, W.A.;Schmid, W.A.;Weighted subsum,Davenport constant,Zero-sum problem,Finite abelian group,Cap set,Linear intersecting code;
 López-González, J.C.;López-González, J.C.;;
 Rueda-Toicen, A.;Rueda-Toicen, A.;;
-Bermúdez, M.A.;Bermúdez, M.A.;Fission-track age,Poisson distribution,Mixtures,Homogeneity,Uranium concentration,Age dispersion;
-Glotzbach, C.;Glotzbach, C.;Fission-track age,Poisson distribution,Mixtures,Homogeneity,Uranium concentration,Age dispersion;
-Alson, P.;Alson, P.;Fission-track age,Poisson distribution,Mixtures,Homogeneity,Uranium concentration,Age dispersion;
-Contreras, M.;Contreras, M.;Wireless networks,Network simulator,Counting nodes,INET,OMNeT++,Algorithm;
-Chang, O.;Chang, O.;Affordance perception,Cooperative neural agents,Deep learning,Robotic vision;
-Esteller, V.;Esteller, V.;software product line,bottom-up design,non-functional requirements,reference architecture,quality model;
-Dalmagro, F.;Dalmagro, F.;social systems,agent models,Game theory,conflicts;
-Jimenez, J.;Jimenez, J.;social systems,agent models,Game theory,conflicts;
+Bermúdez, M.A.;Bermúdez, M.A.;Age dispersion,Fission-track age,Homogeneity,Mixtures,Poisson distribution,Uranium concentration;
+Glotzbach, C.;Glotzbach, C.;Age dispersion,Fission-track age,Homogeneity,Mixtures,Poisson distribution,Uranium concentration;
+Alson, P.;Alson, P.;Age dispersion,Fission-track age,Homogeneity,Mixtures,Poisson distribution,Uranium concentration;
+Contreras, M.;Contreras, M.;Counting nodes,Wireless networks,INET,Algorithm,OMNeT++,Network simulator;
+Chang, O.;Chang, O.;Affordance perception,Deep learning,Cooperative neural agents,Robotic vision;
+Esteller, V.;Esteller, V.;bottom-up design,software product line,quality model,reference architecture,non-functional requirements;
+Dalmagro, F.;Dalmagro, F.;agent models,Game theory,conflicts,social systems;
+Jimenez, J.;Jimenez, J.;agent models,Game theory,conflicts,social systems;
 Zambrano, H.;Zambrano, H.;;
 Bencomo, A.;Bencomo, A.;;
 Trujillo, L.;Trujillo, L.;;

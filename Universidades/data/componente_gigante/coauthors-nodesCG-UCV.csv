@@ -1,13 +1,13 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Gamess, E.;Gamess, E.;Wireless networks,Network simulator,Counting nodes,INET,OMNeT++,Algorithm;Asterisk,Corosync,Mobile application,Benchmarking tools,SIPp,Geolocation,Shopping center,SIP,Access points,WiFi,LLMNR,VoIP,IPv6,Kamailio,Cluster,Link-local multicast name resolution,Load balancer,Zero-configuration networking,Web application,High availability,Performance evaluation
-Garroz, J.;Garroz, J.;;LLMNR,Zero-configuration networking,IPv6,Link-local multicast name resolution,Performance evaluation,Benchmarking tools
-Martin, A.;Martin, A.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
-Urribarri, D.;Urribarri, D.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
-Gómez, J.;Gómez, J.;;Load balancer,VoIP,Asterisk,Corosync,SIPp,High availability,Kamailio,Cluster,SIP
-Andrade, L.;Andrade, L.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
-Quintero, J.;Quintero, J.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
-Russoniello, A.;Russoniello, A.;;Mobile application,Web application,Geolocation,Shopping center,Access points,WiFi
+Gamess, E.;Gamess, E.;Counting nodes,Wireless networks,INET,Algorithm,OMNeT++,Network simulator;Shopping center,IPv6,SIPp,Load balancer,SIP,Cluster,LLMNR,Link-local multicast name resolution,Access points,Web application,Corosync,Zero-configuration networking,Geolocation,VoIP,Performance evaluation,Kamailio,WiFi,Asterisk,Benchmarking tools,High availability,Mobile application
+Garroz, J.;Garroz, J.;;Zero-configuration networking,IPv6,LLMNR,Link-local multicast name resolution,Benchmarking tools,Performance evaluation
+Martin, A.;Martin, A.;;Kamailio,SIP,Cluster,SIPp,Corosync,Load balancer,Asterisk,VoIP,High availability
+Urribarri, D.;Urribarri, D.;;Kamailio,SIP,Cluster,SIPp,Corosync,Load balancer,Asterisk,VoIP,High availability
+Gómez, J.;Gómez, J.;;Kamailio,SIP,Cluster,SIPp,Corosync,Load balancer,Asterisk,VoIP,High availability
+Andrade, L.;Andrade, L.;;Shopping center,WiFi,Access points,Web application,Geolocation,Mobile application
+Quintero, J.;Quintero, J.;;Shopping center,WiFi,Access points,Web application,Geolocation,Mobile application
+Russoniello, A.;Russoniello, A.;;Shopping center,WiFi,Access points,Web application,Geolocation,Mobile application
 Swenson, B.;Swenson, B.;;
 Ricardo, M.;Ricardo, M.;;
 Henderson, T.R.;Henderson, T.R.;;
-Contreras, M.;Contreras, M.;Wireless networks,Network simulator,Counting nodes,INET,OMNeT++,Algorithm;
+Contreras, M.;Contreras, M.;Counting nodes,Wireless networks,INET,Algorithm,OMNeT++,Network simulator;

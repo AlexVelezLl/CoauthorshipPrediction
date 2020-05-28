@@ -1,20 +1,20 @@
 ID;Label;KeywordsB2018;KeywordsA2018
 Acevedo, D.;Acevedo, D.;;
-Negri, P.;Negri, P.;;Support vector machine,Multi-style license plate recognition,Histogram of oriented gradients,Sequential minimal optimization
+Negri, P.;Negri, P.;;Support vector machine,Histogram of oriented gradients,Sequential minimal optimization,Multi-style license plate recognition
 Buemi, M.E.;Buemi, M.E.;;
 Fernandez, F.G.;Fernandez, F.G.;;
-Mejail, M.;Mejail, M.;RGB-D,Point clouds,Object recognition,Tracking;
-Pedre, S.;Pedre, S.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
-Krajník, T.;Krajník, T.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
-Todorovich, E.;Todorovich, E.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
-Borensztejn, P.;Borensztejn, P.;Hardware acceleration,Multithreaded programming,High level synthesis,Real-time image processing,High level modeling,Methodology for hardware/software co-design in FPGA,Multiple robot localization;
+Mejail, M.;Mejail, M.;Object recognition,Tracking,RGB-D,Point clouds;
+Pedre, S.;Pedre, S.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
+Krajník, T.;Krajník, T.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
+Todorovich, E.;Todorovich, E.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
+Borensztejn, P.;Borensztejn, P.;Multiple robot localization,High level modeling,High level synthesis,Methodology for hardware/software co-design in FPGA,Real-time image processing,Multithreaded programming,Hardware acceleration;
 Calderon, S.;Calderon, S.;;
 Saenz, A.;Saenz, A.;;
 Mora, R.;Mora, R.;;
 Orozco, I.;Orozco, I.;;
 Cristóforis, P.D.;Cristóforis, P.D.;;
 Nitsche, M.A.;Nitsche, M.A.;;
-Bianchi, M.;Bianchi, M.;RGB-D,Point clouds,Object recognition,Tracking;
-Heredia, N.;Heredia, N.;RGB-D,Point clouds,Object recognition,Tracking;
-Gómez-Fernández, F.;Gómez-Fernández, F.;RGB-D,Point clouds,Object recognition,Tracking;
-Pardo, A.;Pardo, A.;RGB-D,Point clouds,Object recognition,Tracking;
+Bianchi, M.;Bianchi, M.;Object recognition,Tracking,RGB-D,Point clouds;
+Heredia, N.;Heredia, N.;Object recognition,Tracking,RGB-D,Point clouds;
+Gómez-Fernández, F.;Gómez-Fernández, F.;Object recognition,Tracking,RGB-D,Point clouds;
+Pardo, A.;Pardo, A.;Object recognition,Tracking,RGB-D,Point clouds;

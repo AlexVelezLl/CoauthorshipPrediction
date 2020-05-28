@@ -2,64 +2,64 @@ ID;Label;KeywordsB2018;KeywordsA2018
 Proano, E.;Proano, E.;;
 Navarro, M.;Navarro, M.;;
 Sanchez, A.;Sanchez, A.;;
-Benitez, D.S.;Benitez, D.S.;Magnetic Field,Magnetic field imaging,Nanoparticles,Sensor array,Baropodometry,Eyewink Detection,EEG,Hurst-operator,Image processing,signal processing,Edge-detection,Texture Analysis,Magnetoinductive sensors,Neural Network Classification,instrumented shoes,Magneto-inductive sensors,NDE,Brain Computer Interface;system capacity,MS,wavelet transforms,vehicle classification,WiMAX,pattern classification,System Identification,Coupler,S matrix,PID control,signal detection,Seismic signal processing,ARM,IEEE 802.16,Mode-Matching,Numerical Methods,NCTUns,T-RS,NT-RS,Energy Reduction,real-time systems,Model Predictive Control,MmR,Odroid-XU4,vehicle detection
-Pico, L.C.;Pico, L.C.;;Odroid-XU4,ARM,vehicle classification,vehicle detection
-Sotomayor, D.;Sotomayor, D.;Speed determination,ARM,Vehicle identification,ODROID-U3;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Castellanos, S.;Castellanos, S.;;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Arcos-Aviles, D.;Arcos-Aviles, D.;;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Benítez, D.;Benítez, D.;througput,QoS,Robotic Arm,Emotiv EPOC Headset,WDS,Head Computer Interface,packet loss,jitter,Low Complexity,Ad-Hoc,IEEE 802.11.b,delay;faults detection,induction motor modeling,induction motors,broken bars,frequency analysis
-Canizares, A.;Canizares, A.;;Low Cost Prosthesis,Prosthesis,Prosthetic Arm,Bionic Arm,EMG,Myoelectric Sensor,3D-printable
-Pazos, J.;Pazos, J.;;Low Cost Prosthesis,Prosthesis,Prosthetic Arm,Bionic Arm,EMG,Myoelectric Sensor,3D-printable
-Benitez, D.;Benitez, D.;propagation model,IEEE 802.16-2004,WiMAX,Volcanic events,feature selection,signal classification,semi-empirical,machine learning;Low Cost Prosthesis,Prosthesis,Prosthetic Arm,Bionic Arm,EMG,Myoelectric Sensor,3D-printable
-Lara-Cueva, R.;Lara-Cueva, R.;Volcanic events,througput,QoS,WDS,feature selection,signal classification,machine learning,packet loss,jitter,Ad-Hoc,IEEE 802.11.b,delay;NT-RS,WiMAX,pattern classification,real-time systems,Seismic signal processing,system capacity,IEEE 802.16,MS,wavelet transforms,MmR,NCTUns,T-RS,signal detection
-Paillacho, V.;Paillacho, V.;;pattern classification,real-time systems,Seismic signal processing,wavelet transforms,signal detection
-Villalva, M.;Villalva, M.;;pattern classification,real-time systems,Seismic signal processing,wavelet transforms,signal detection
-Rojo-Alvarez, J.L.;Rojo-Alvarez, J.L.;;pattern classification,real-time systems,Seismic signal processing,wavelet transforms,signal detection
-Caiza, L.;Caiza, L.;;PID control,Model Predictive Control,Energy Reduction,System Identification
-Rosich-Oliva, A.;Rosich-Oliva, A.;;PID control,Model Predictive Control,Energy Reduction,System Identification
-Ocampo-Martinez, C.;Ocampo-Martinez, C.;;PID control,Model Predictive Control,Energy Reduction,System Identification
-Custodio-Rivera, D.;Custodio-Rivera, D.;;NT-RS,WiMAX,system capacity,IEEE 802.16,MS,MmR,NCTUns,T-RS
-Carrera, E.V.;Carrera, E.V.;support vector machines,Volcanic events,feature selection,signal classification,machine learning,Diabetic retinopathy,digital image processing;Digital image processing,Machine learning algorithms,Finger-vein biometry
+Benitez, D.S.;Benitez, D.S.;Magnetic field imaging,Magnetoinductive sensors,Magnetic Field,Image processing,Brain Computer Interface,Neural Network Classification,Baropodometry,Eyewink Detection,Texture Analysis,NDE,instrumented shoes,signal processing,Magneto-inductive sensors,Hurst-operator,Edge-detection,EEG,Sensor array,Nanoparticles;ARM,Mode-Matching,NCTUns,NT-RS,MmR,WiMAX,vehicle detection,pattern classification,Seismic signal processing,signal detection,S matrix,vehicle classification,MS,Odroid-XU4,wavelet transforms,System Identification,PID control,Coupler,system capacity,T-RS,real-time systems,Model Predictive Control,Energy Reduction,Numerical Methods,IEEE 802.16
+Pico, L.C.;Pico, L.C.;;vehicle detection,ARM,vehicle classification,Odroid-XU4
+Sotomayor, D.;Sotomayor, D.;Vehicle identification,ARM,ODROID-U3,Speed determination;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Castellanos, S.;Castellanos, S.;;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Arcos-Aviles, D.;Arcos-Aviles, D.;;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Benítez, D.;Benítez, D.;Ad-Hoc,Head Computer Interface,delay,jitter,Robotic Arm,Low Complexity,througput,QoS,Emotiv EPOC Headset,packet loss,WDS,IEEE 802.11.b;faults detection,broken bars,induction motor modeling,induction motors,frequency analysis
+Canizares, A.;Canizares, A.;;3D-printable,Bionic Arm,Prosthetic Arm,EMG,Low Cost Prosthesis,Prosthesis,Myoelectric Sensor
+Pazos, J.;Pazos, J.;;3D-printable,Bionic Arm,Prosthetic Arm,EMG,Low Cost Prosthesis,Prosthesis,Myoelectric Sensor
+Benitez, D.;Benitez, D.;IEEE 802.16-2004,machine learning,propagation model,feature selection,semi-empirical,WiMAX,Volcanic events,signal classification;3D-printable,Bionic Arm,Prosthetic Arm,EMG,Low Cost Prosthesis,Prosthesis,Myoelectric Sensor
+Lara-Cueva, R.;Lara-Cueva, R.;Ad-Hoc,delay,jitter,machine learning,througput,QoS,feature selection,packet loss,WDS,Volcanic events,IEEE 802.11.b,signal classification;real-time systems,pattern classification,MS,NCTUns,NT-RS,T-RS,MmR,Seismic signal processing,wavelet transforms,signal detection,WiMAX,IEEE 802.16,system capacity
+Paillacho, V.;Paillacho, V.;;real-time systems,pattern classification,Seismic signal processing,wavelet transforms,signal detection
+Villalva, M.;Villalva, M.;;real-time systems,pattern classification,Seismic signal processing,wavelet transforms,signal detection
+Rojo-Alvarez, J.L.;Rojo-Alvarez, J.L.;;real-time systems,pattern classification,Seismic signal processing,wavelet transforms,signal detection
+Caiza, L.;Caiza, L.;;System Identification,PID control,Model Predictive Control,Energy Reduction
+Rosich-Oliva, A.;Rosich-Oliva, A.;;System Identification,PID control,Model Predictive Control,Energy Reduction
+Ocampo-Martinez, C.;Ocampo-Martinez, C.;;System Identification,PID control,Model Predictive Control,Energy Reduction
+Custodio-Rivera, D.;Custodio-Rivera, D.;;NCTUns,NT-RS,MS,T-RS,MmR,WiMAX,IEEE 802.16,system capacity
+Carrera, E.V.;Carrera, E.V.;machine learning,Diabetic retinopathy,support vector machines,feature selection,Volcanic events,digital image processing,signal classification;Digital image processing,Machine learning algorithms,Finger-vein biometry
 Izurieta, S.;Izurieta, S.;;Digital image processing,Machine learning algorithms,Finger-vein biometry
-Carrera, R.;Carrera, R.;Diabetic retinopathy,support vector machines,machine learning,digital image processing;Digital image processing,Machine learning algorithms,Finger-vein biometry
-Haro-Baez, R.;Haro-Baez, R.;Linecalc,Microstrip,Effective electric length,S Parameters,Coupler,Coupling factor C,C-Band;Mode-Matching,Coupler,Numerical Methods,S matrix
-Benítez, D.S.;Benítez, D.S.;insects,Microstrip,Integral equations,Speed determination,Effective electric length,ODROID-U3,Method of Moments,patterns,Coupling factor C,Vehicle identification,centers,Adaptive baseline estimation,Least Square method,Coupler,morphological wings analysis,skeleton,Linecalc,edges,ARM,radii,C-Band,cells,Gaussian noise,QRS-onset detection,Pocklington Equation,S Parameters,Electromagnetic theory,ECG;
-Navarro, M.S.;Navarro, M.S.;Pocklington Equation,Integral equations,Least Square method,Electromagnetic theory,Method of Moments;
-Sánchez, A.;Sánchez, A.;Wireless,Pocklington Equation,Integral equations,Least Square method,White spaces,Interference mitigation,Electromagnetic theory,Method of Moments,Self-orga-nized,Self-coexistence;
-Fiallos-Silva, C.;Fiallos-Silva, C.;Linecalc,Microstrip,Effective electric length,S Parameters,Coupler,Coupling factor C,C-Band;
-Acosta-Buenaño, F.;Acosta-Buenaño, F.;Linecalc,Microstrip,Effective electric length,S Parameters,Coupler,Coupling factor C,C-Band;
-Rosero, M.F.;Rosero, M.F.;Speed determination,ARM,Vehicle identification,ODROID-U3;
-Leon, P.;Leon, P.;propagation model,IEEE 802.16-2004,WiMAX,Speed determination,ARM,ODROID-U3,semi-empirical,Vehicle identification;
-Gonzalez, A.;Gonzalez, A.;Diabetic retinopathy,support vector machines,machine learning,digital image processing;
-Aguiar, S.;Aguiar, S.;Glove,Robotic Arm,Emotiv EPOC Headset,Hearing Impairment,Morse Code,Sign Language,Head Computer Interface,Speech Disorders,Communication,Low Complexity;
-Yánez, W.;Yánez, W.;Robotic Arm,Head Computer Interface,Emotiv EPOC Headset,Low Complexity;
-Guerrón, A.;Guerrón, A.;morphological wings analysis,insects,edges,radii,patterns,cells,centers,skeleton,Gaussian noise;
-Zapata, S.;Zapata, S.;morphological wings analysis,insects,edges,radii,patterns,cells,centers,skeleton,Gaussian noise;
-Augot, D.;Augot, D.;morphological wings analysis,insects,edges,radii,patterns,cells,centers,skeleton,Gaussian noise;
+Carrera, R.;Carrera, R.;support vector machines,Diabetic retinopathy,digital image processing,machine learning;Digital image processing,Machine learning algorithms,Finger-vein biometry
+Haro-Baez, R.;Haro-Baez, R.;Linecalc,S Parameters,Microstrip,Coupling factor C,Coupler,Effective electric length,C-Band;Coupler,Numerical Methods,Mode-Matching,S matrix
+Benítez, D.S.;Benítez, D.S.;QRS-onset detection,ARM,ODROID-U3,edges,Integral equations,skeleton,centers,Pocklington Equation,cells,morphological wings analysis,Effective electric length,ECG,Gaussian noise,patterns,Adaptive baseline estimation,Vehicle identification,Coupler,C-Band,Least Square method,Method of Moments,Linecalc,radii,S Parameters,Speed determination,insects,Microstrip,Coupling factor C,Electromagnetic theory;
+Navarro, M.S.;Navarro, M.S.;Method of Moments,Pocklington Equation,Least Square method,Integral equations,Electromagnetic theory;
+Sánchez, A.;Sánchez, A.;Interference mitigation,Method of Moments,Pocklington Equation,Least Square method,Self-orga-nized,Wireless,Integral equations,White spaces,Self-coexistence,Electromagnetic theory;
+Fiallos-Silva, C.;Fiallos-Silva, C.;Linecalc,S Parameters,Microstrip,Coupling factor C,Coupler,Effective electric length,C-Band;
+Acosta-Buenaño, F.;Acosta-Buenaño, F.;Linecalc,S Parameters,Microstrip,Coupling factor C,Coupler,Effective electric length,C-Band;
+Rosero, M.F.;Rosero, M.F.;Vehicle identification,ARM,ODROID-U3,Speed determination;
+Leon, P.;Leon, P.;ARM,IEEE 802.16-2004,ODROID-U3,Speed determination,propagation model,Vehicle identification,semi-empirical,WiMAX;
+Gonzalez, A.;Gonzalez, A.;support vector machines,Diabetic retinopathy,digital image processing,machine learning;
+Aguiar, S.;Aguiar, S.;Head Computer Interface,Speech Disorders,Robotic Arm,Low Complexity,Glove,Hearing Impairment,Morse Code,Emotiv EPOC Headset,Communication,Sign Language;
+Yánez, W.;Yánez, W.;Emotiv EPOC Headset,Head Computer Interface,Robotic Arm,Low Complexity;
+Guerrón, A.;Guerrón, A.;Gaussian noise,cells,radii,edges,patterns,insects,skeleton,centers,morphological wings analysis;
+Zapata, S.;Zapata, S.;Gaussian noise,cells,radii,edges,patterns,insects,skeleton,centers,morphological wings analysis;
+Augot, D.;Augot, D.;Gaussian noise,cells,radii,edges,patterns,insects,skeleton,centers,morphological wings analysis;
 Redrobán, M.;Redrobán, M.;;
 Aguirre, O.;Aguirre, O.;;
-Aráuz, J.;Aráuz, J.;Wireless,White spaces,Interference mitigation,Self-orga-nized,Self-coexistence;
-Erazo, A.;Erazo, A.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Romero, S.;Romero, S.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Atiencia, V.;Atiencia, V.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Figueroa, J.P.;Figueroa, J.P.;Glove,Hearing Impairment,Morse Code,Sign Language,Speech Disorders,Communication;
-Toscano, S.;Toscano, S.;Eyewink Detection,EEG,Neural Network Classification,Brain Computer Interface;
-Silva, A.;Silva, A.;Eyewink Detection,EEG,Neural Network Classification,Brain Computer Interface;
-Pineda-Lopez, F.;Pineda-Lopez, F.;signal processing,Baropodometry,instrumented shoes;
-Guerra, A.;Guerra, A.;signal processing,Baropodometry,instrumented shoes;
-Montes, E.;Montes, E.;signal processing,Baropodometry,instrumented shoes;
-Lara-Cueva, R.A.;Lara-Cueva, R.A.;propagation model,IEEE 802.16-2004,WiMAX,semi-empirical;
-Aguilar, D.;Aguilar, D.;propagation model,IEEE 802.16-2004,WiMAX,semi-empirical;
-Almeida, D.;Almeida, D.;propagation model,IEEE 802.16-2004,WiMAX,semi-empirical;
+Aráuz, J.;Aráuz, J.;Interference mitigation,Self-orga-nized,Wireless,White spaces,Self-coexistence;
+Erazo, A.;Erazo, A.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Romero, S.;Romero, S.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Atiencia, V.;Atiencia, V.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Figueroa, J.P.;Figueroa, J.P.;Speech Disorders,Hearing Impairment,Glove,Morse Code,Communication,Sign Language;
+Toscano, S.;Toscano, S.;Neural Network Classification,EEG,Eyewink Detection,Brain Computer Interface;
+Silva, A.;Silva, A.;Neural Network Classification,EEG,Eyewink Detection,Brain Computer Interface;
+Pineda-Lopez, F.;Pineda-Lopez, F.;instrumented shoes,Baropodometry,signal processing;
+Guerra, A.;Guerra, A.;instrumented shoes,Baropodometry,signal processing;
+Montes, E.;Montes, E.;instrumented shoes,Baropodometry,signal processing;
+Lara-Cueva, R.A.;Lara-Cueva, R.A.;propagation model,semi-empirical,IEEE 802.16-2004,WiMAX;
+Aguilar, D.;Aguilar, D.;propagation model,semi-empirical,IEEE 802.16-2004,WiMAX;
+Almeida, D.;Almeida, D.;propagation model,semi-empirical,IEEE 802.16-2004,WiMAX;
 Arauz, J.;Arauz, J.;;
 McClure, J.W.;McClure, J.W.;;
 Miller, Z.;Miller, Z.;;
 Morejon, J.F.;Morejon, J.F.;feature selection,signal classification,Volcanic events,machine learning;
 Llano, D.;Llano, D.;;
 Mancheno, S.;Mancheno, S.;;
-Quek, S.;Quek, S.;Magnetic Field,Magnetic field imaging,Sensor array,Magnetoinductive sensors,Magneto-inductive sensors,NDE;
-Gaydecki, P.;Gaydecki, P.;Magnetic Field,Magnetic field imaging,Sensor array,Magnetoinductive sensors,Magneto-inductive sensors,NDE;
-Debut, A.;Debut, A.;Nanoparticles,Hurst-operator,Image processing,Edge-detection,Texture Analysis;
-Cumbal, L.;Cumbal, L.;Nanoparticles,Hurst-operator,Image processing,Edge-detection,Texture Analysis;
-Fernández, C.;Fernández, C.;througput,QoS,WDS,packet loss,jitter,Ad-Hoc,IEEE 802.11.b,delay;
-Morales, C.;Morales, C.;througput,QoS,WDS,packet loss,jitter,Ad-Hoc,IEEE 802.11.b,delay;
+Quek, S.;Quek, S.;Magnetic field imaging,Magnetoinductive sensors,NDE,Magneto-inductive sensors,Magnetic Field,Sensor array;
+Gaydecki, P.;Gaydecki, P.;Magnetic field imaging,Magnetoinductive sensors,NDE,Magneto-inductive sensors,Magnetic Field,Sensor array;
+Debut, A.;Debut, A.;Image processing,Texture Analysis,Hurst-operator,Edge-detection,Nanoparticles;
+Cumbal, L.;Cumbal, L.;Image processing,Texture Analysis,Hurst-operator,Edge-detection,Nanoparticles;
+Fernández, C.;Fernández, C.;Ad-Hoc,delay,jitter,througput,QoS,packet loss,WDS,IEEE 802.11.b;
+Morales, C.;Morales, C.;Ad-Hoc,delay,jitter,througput,QoS,packet loss,WDS,IEEE 802.11.b;

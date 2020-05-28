@@ -1,296 +1,296 @@
 ID;Label;KeywordsB2018;KeywordsA2018
-Buitrago Boret, S.E.;Buitrago Boret, S.E.;Complex internal boundaries,Finite volumes,Quadrilateral mesh,Finite differences,Grid generation,Reservoir simulation;Surrogate model,Response surface,Approximation model,Experimental design,Probabilistic production forecast,Cyclic steam injection
-Romero Marin, O.;Romero Marin, O.;;Surrogate model,Response surface,Approximation model,Experimental design,Probabilistic production forecast,Cyclic steam injection
-Andruchow, E.;Andruchow, E.;;Pairs of projections,Projections,Differences of projections
-Corach, G.;Corach, G.;;Pairs of projections,Projections,Differences of projections
-Recht, L.;Recht, L.;;Pairs of projections,Projections,Differences of projections
-Severeyn, E.;Severeyn, E.;Anthropometric measures,Older subjects,metabolic syndrome,Optimal Data Fusion,Digital Filtering,QRS Complex Detection,random cross validation,ECG Signal Processing,Oral glucose tolerance test,statistical analysis,Insulin sensitivity,Metabolic syndrome,oral glucose tolerance test;Electrocardiogram,Empirical Correlation,ROC curves,BMI,insulin resistance,Empirical correlation,unsupervided learning,K-means,HOMA-IR,elderly,Insulin Resistance,Frequency-domain analysis,Dimensional analysis,Random sub-sampling cross validation,Homa-IR,Metabolic Syndrome,Monte Carlo Cross-validation,Quicki,metabolic syndrome,medical database,Heart rate variability,Obesity,Time-domain analysis,theorem π of Vaschy-Buckingham,Metabolic syndrome
-Velásquez, J.;Velásquez, J.;Anthropometric measures,Older subjects,metabolic syndrome,random cross validation,Oral glucose tolerance test,statistical analysis,Insulin sensitivity,Metabolic syndrome,oral glucose tolerance test;Metabolic Syndrome,Empirical Correlation,Monte Carlo Cross-validation,Random sub-sampling cross validation,Empirical correlation,Metabolic syndrome
-Herrera, H.;Herrera, H.;Anthropometric measures,Older subjects,metabolic syndrome,random cross validation,Oral glucose tolerance test,statistical analysis,Insulin sensitivity,Metabolic syndrome,oral glucose tolerance test;Metabolic Syndrome,Empirical Correlation,Monte Carlo Cross-validation,HOMA-IR,metabolic syndrome,medical database,ROC curves,BMI,Random sub-sampling cross validation,Dimensional analysis,Insulin Resistance,Obesity,Empirical correlation,theorem π of Vaschy-Buckingham,Metabolic syndrome
-Wong, S.;Wong, S.;Anthropometric measures,Older subjects,metabolic syndrome,random cross validation,Oral glucose tolerance test,statistical analysis,Insulin sensitivity,Metabolic syndrome,oral glucose tolerance test;Electrocardiogram,Empirical Correlation,ROC curves,BMI,insulin resistance,Empirical correlation,unsupervided learning,K-means,HOMA-IR,elderly,Insulin Resistance,Frequency-domain analysis,Dimensional analysis,Random sub-sampling cross validation,Homa-IR,Metabolic Syndrome,Monte Carlo Cross-validation,Quicki,metabolic syndrome,medical database,Heart rate variability,Obesity,Time-domain analysis,theorem π of Vaschy-Buckingham,Metabolic syndrome
-Altuve, M.;Altuve, M.;Hidden semi-Markov models,Haar-wavelet Transform,Electrocardiogram,Principal Component Analysis,Abdominal Fetal Electrocardiogram,Support Vector Machine,Apnea–bradycardia,Data mining,Time series analysis,Optimal Data Fusion,Digital Filtering,QRS Complex Detection,ECG Signal Processing,fQRS Complex Detection;Frequency-domain analysis,Electrocardiogram,Metabolic Syndrome,Empirical Correlation,Monte Carlo Cross-validation,Heart rate variability,Time-domain analysis
-Perpiñan, G.;Perpiñan, G.;Wearable ECG monitoring,EEMD,FFT,Arm-ECG,Paroxysmal arrhythmias,EMD,Bipolar ECG lead,Signal averaging,ECG denoising,Long-term ECG;Frequency-domain analysis,Electrocardiogram,Time-domain analysis,Heart rate variability
-Cardinale, Y.;Cardinale, Y.;QoS-aware,transactional service,Peerto-peer Infrastructure,Digital Ecosystem,Datatype inference,Multimedia sharing,Semantic Web,Composite web services,Digital Ecosystems,checkpointing,Self-healing systems,recovery techniques,Multimedia,Self-healing,Fault tolerance,RDF,Datatype hierarchy,Social event detection,XML,Ontologies,Knowledgebased,Sharing,Composite Service,Social networks,Datatype similarity,Ontology,Fault-tolerance,Social Environments,Dynamic recovery techniques,QoS monitoring,Datatype analysis,Adaptative systems,XML Schema,Semantic clustering,Reliable service execution,Collaboration,Formal concept analysis;Domain Specific Language,Analytical data management applications,Sensor network,SSN,ifcOWL,cloud computing services,Occupant behavior,Semantic Web,Multimedia,Event processing,Pervasive Computing,fault tolerance,Building infrastructure,Big data analytic,Reasoning,Semantic interoperability,Datatype,Ontology,service composition,self-adaptive execution,Pervasive Health Systems and Services,Feature-oriented Programming,Atomic event,Inference,Semantic ontology,Multimedia sensors,AGGIR grid,Analytic models for big data,Complex event,relaxed atomicity
-El Haddad, J.;El Haddad, J.;checkpointing,Reliable service execution,recovery techniques,transactional service;fault tolerance,cloud computing services,service composition,self-adaptive execution,relaxed atomicity
-Manouvrier, M.;Manouvrier, M.;Self-healing,QoS-aware,transactional service,Reliable service execution,Fault-tolerance,Knowledgebased,Composite Service,checkpointing,recovery techniques;fault tolerance,cloud computing services,service composition,self-adaptive execution,relaxed atomicity
-Rukoz, M.;Rukoz, M.;Analytical data management applications,Self-healing,Fault tolerance,QoS-aware,transactional service,Analytic models for big data,QoS monitoring,Adaptative systems,Big data analytic,Reliable service execution,Fault-tolerance,Knowledgebased,Composite web services,Self-healing systems,Composite Service,checkpointing,recovery techniques,Dynamic recovery techniques;Analytical data management applications,fault tolerance,Analytic models for big data,cloud computing services,service composition,Big data analytic,self-adaptive execution,relaxed atomicity
-Rodríguez-Montoya, C.;Rodríguez-Montoya, C.;;Higher education,Educational information systems,Onlinesystems,Onlineinformationsystems,Information user studies,Postgraduate courses,Knowledge Management
-Zerpa García, C.E.;Zerpa García, C.E.;;Higher education,Educational information systems,Onlinesystems,Onlineinformationsystems,Information user studies,Postgraduate courses,Knowledge Management
+Buitrago Boret, S.E.;Buitrago Boret, S.E.;Finite volumes,Quadrilateral mesh,Reservoir simulation,Finite differences,Grid generation,Complex internal boundaries;Cyclic steam injection,Approximation model,Experimental design,Response surface,Surrogate model,Probabilistic production forecast
+Romero Marin, O.;Romero Marin, O.;;Cyclic steam injection,Approximation model,Experimental design,Response surface,Surrogate model,Probabilistic production forecast
+Andruchow, E.;Andruchow, E.;;Differences of projections,Pairs of projections,Projections
+Corach, G.;Corach, G.;;Differences of projections,Pairs of projections,Projections
+Recht, L.;Recht, L.;;Differences of projections,Pairs of projections,Projections
+Severeyn, E.;Severeyn, E.;Insulin sensitivity,metabolic syndrome,Oral glucose tolerance test,statistical analysis,oral glucose tolerance test,Digital Filtering,QRS Complex Detection,Optimal Data Fusion,Anthropometric measures,Older subjects,Metabolic syndrome,ECG Signal Processing,random cross validation;HOMA-IR,K-means,medical database,Dimensional analysis,Monte Carlo Cross-validation,Homa-IR,elderly,Empirical correlation,metabolic syndrome,Obesity,Heart rate variability,Time-domain analysis,ROC curves,Random sub-sampling cross validation,unsupervided learning,Metabolic Syndrome,Metabolic syndrome,BMI,Quicki,insulin resistance,Electrocardiogram,Empirical Correlation,theorem π of Vaschy-Buckingham,Insulin Resistance,Frequency-domain analysis
+Velásquez, J.;Velásquez, J.;Insulin sensitivity,metabolic syndrome,Oral glucose tolerance test,statistical analysis,oral glucose tolerance test,Anthropometric measures,Older subjects,Metabolic syndrome,random cross validation;Monte Carlo Cross-validation,Random sub-sampling cross validation,Empirical correlation,Metabolic Syndrome,Empirical Correlation,Metabolic syndrome
+Herrera, H.;Herrera, H.;Insulin sensitivity,metabolic syndrome,Oral glucose tolerance test,statistical analysis,oral glucose tolerance test,Anthropometric measures,Older subjects,Metabolic syndrome,random cross validation;Monte Carlo Cross-validation,Random sub-sampling cross validation,Empirical correlation,Metabolic Syndrome,metabolic syndrome,Obesity,Empirical Correlation,HOMA-IR,theorem π of Vaschy-Buckingham,Insulin Resistance,medical database,ROC curves,Metabolic syndrome,BMI,Dimensional analysis
+Wong, S.;Wong, S.;Insulin sensitivity,metabolic syndrome,Oral glucose tolerance test,statistical analysis,oral glucose tolerance test,Anthropometric measures,Older subjects,Metabolic syndrome,random cross validation;HOMA-IR,K-means,medical database,Dimensional analysis,Monte Carlo Cross-validation,Homa-IR,elderly,Empirical correlation,metabolic syndrome,Obesity,Heart rate variability,Time-domain analysis,ROC curves,Random sub-sampling cross validation,unsupervided learning,Metabolic Syndrome,Metabolic syndrome,BMI,Quicki,insulin resistance,Electrocardiogram,Empirical Correlation,theorem π of Vaschy-Buckingham,Insulin Resistance,Frequency-domain analysis
+Altuve, M.;Altuve, M.;Haar-wavelet Transform,Abdominal Fetal Electrocardiogram,Apnea–bradycardia,ECG Signal Processing,Electrocardiogram,Digital Filtering,QRS Complex Detection,Optimal Data Fusion,Time series analysis,Support Vector Machine,Hidden semi-Markov models,fQRS Complex Detection,Principal Component Analysis,Data mining;Monte Carlo Cross-validation,Metabolic Syndrome,Electrocardiogram,Empirical Correlation,Heart rate variability,Time-domain analysis,Frequency-domain analysis
+Perpiñan, G.;Perpiñan, G.;Arm-ECG,FFT,Paroxysmal arrhythmias,Signal averaging,EEMD,ECG denoising,EMD,Wearable ECG monitoring,Long-term ECG,Bipolar ECG lead;Electrocardiogram,Time-domain analysis,Frequency-domain analysis,Heart rate variability
+Cardinale, Y.;Cardinale, Y.;checkpointing,Fault tolerance,Composite web services,Multimedia,Semantic clustering,Social Environments,Self-healing systems,Peerto-peer Infrastructure,Digital Ecosystem,recovery techniques,Datatype hierarchy,Digital Ecosystems,Ontology,Multimedia sharing,QoS-aware,Semantic Web,Self-healing,XML Schema,Adaptative systems,Social event detection,RDF,Reliable service execution,Formal concept analysis,Ontologies,XML,Sharing,Dynamic recovery techniques,Knowledgebased,Collaboration,Datatype inference,QoS monitoring,transactional service,Datatype similarity,Composite Service,Social networks,Datatype analysis,Fault-tolerance;fault tolerance,Multimedia,self-adaptive execution,SSN,Multimedia sensors,Occupant behavior,Event processing,service composition,Analytical data management applications,Building infrastructure,Feature-oriented Programming,Ontology,AGGIR grid,Semantic Web,Atomic event,Datatype,Big data analytic,ifcOWL,Sensor network,Inference,Semantic interoperability,cloud computing services,Pervasive Computing,Analytic models for big data,Pervasive Health Systems and Services,relaxed atomicity,Complex event,Semantic ontology,Domain Specific Language,Reasoning
+El Haddad, J.;El Haddad, J.;checkpointing,Reliable service execution,recovery techniques,transactional service;fault tolerance,self-adaptive execution,cloud computing services,service composition,relaxed atomicity
+Manouvrier, M.;Manouvrier, M.;QoS-aware,checkpointing,Composite Service,Knowledgebased,Self-healing,Reliable service execution,Fault-tolerance,recovery techniques,transactional service;fault tolerance,self-adaptive execution,cloud computing services,service composition,relaxed atomicity
+Rukoz, M.;Rukoz, M.;QoS-aware,checkpointing,QoS monitoring,Fault tolerance,Composite Service,Composite web services,Dynamic recovery techniques,Big data analytic,Knowledgebased,Self-healing,transactional service,Adaptative systems,Reliable service execution,Fault-tolerance,Self-healing systems,Analytic models for big data,recovery techniques,Analytical data management applications;fault tolerance,Big data analytic,self-adaptive execution,Analytical data management applications,cloud computing services,service composition,Analytic models for big data,relaxed atomicity
+Rodríguez-Montoya, C.;Rodríguez-Montoya, C.;;Knowledge Management,Information user studies,Postgraduate courses,Onlineinformationsystems,Onlinesystems,Higher education,Educational information systems
+Zerpa García, C.E.;Zerpa García, C.E.;;Knowledge Management,Information user studies,Postgraduate courses,Onlineinformationsystems,Onlinesystems,Higher education,Educational information systems
 Urutegui, A.;Urutegui, A.;;
 Lattarulo, R.;Lattarulo, R.;;
-Fernández-López, G.;Fernández-López, G.;Perception system,Dynamic movement primitives,Autonomous backhoe machine,Learning from demonstration;optimization and optimal control,behavior analysis,autonomous vehicles,human-computer interaction,pedestrian identification,motion and path planning,Legged robots
-Quelal, R.;Quelal, R.;;Systematic Literature Review,Text Mining,Big Data,Agile Methodologies
-Mendoza, L.E.;Mendoza, L.E.;Methodological approach,Software verification,Safety-critical systems software,Model checking,Compositional verification,Software specification,Critical computer-based systems;Systematic Literature Review,Medium and large companies,Big Data,Text Mining,Agile software development,Survey,Ecuador,Agile Methodologies
-Villavicencio, M.;Villavicencio, M.;Task model,Model checking,Timed automata,Qualitative analysis,Business process;Systematic Literature Review,Medium and large companies,Big Data,Text Mining,Agile software development,Survey,Ecuador,Agile Methodologies
-Abad, J.;Abad, J.;;Monitoring,WSN,Coffee crops
-Farez, J.;Farez, J.;;Monitoring,WSN,Coffee crops
-Chasi, P.;Chasi, P.;;Monitoring,WSN,Coffee crops
-Clotet, R.;Clotet, R.;Distributed Databases,Greenhouse,Public Healthcare,ZigBee,Databases Synchronization,Electronic Medical Record,tremors,orchid,monitoring,smartwatches,Electronic Medical Records,Parkinson,Healthcare System;Wireless Sensor Network,WSN,Monitoring,Agriculture,Coffee crops,IoT,Oil palm,Bud rot
-Huerta, M.;Huerta, M.;Distributed Databases,Sensors and Parkinson's disease,ZIGBEE,FAST sowftware,Wireless Sensor Networks,Body Motion,Electronic Medical Record,tremors,Post-Seismic Assessments,orchid,frost,greenhouse,WiFiPhone,LabVIEW,Generator,accelerographic data,Greenhouse,wind turbine,VisualSense,Parkinson,Wireless Sensor Network,Public Healthcare,Databases Synchronization,Wireless sensor network,Quality of Service(QoS),monitoring,smartwatches,Electronic Medical Records,modeling,Structural health monitoring,roses,ZigBee,computational fluid dynamics,Healthcare System;Wireless Sensor Network,Oil palm,WSN,Security,Monitoring,Agriculture,Coffee crops,IoT,Automatic Identification,RFID,Bud rot
-Guillermo, J.C.;Guillermo, J.C.;;IoT,Wireless Sensor Network,Agriculture,Monitoring
-García-Cedeño, A.;García-Cedeño, A.;;IoT,Wireless Sensor Network,Agriculture,Monitoring
-Rivas-Lalaleo, D.;Rivas-Lalaleo, D.;FAST sowftware,wind turbine,computational fluid dynamics,Generator,modeling;IoT,Wireless Sensor Network,Agriculture,Monitoring
-Chbeir, R.;Chbeir, R.;Peerto-peer Infrastructure,Digital Ecosystem,Datatype inference,Multimedia sharing,Semantic Web,Digital Ecosystems,Multimedia,RDF,Datatype hierarchy,Social event detection,XML,Ontologies,Sharing,Social networks,Datatype similarity,Ontology,Social Environments,Datatype analysis,XML Schema,Semantic clustering,Collaboration,Formal concept analysis;Multimedia,Multimedia sensors,Sensor network,SSN,ifcOWL,Event processing,Datatype,Ontology,Building infrastructure,Complex event,Reasoning,Semantic interoperability,Occupant behavior,Semantic Web,Inference,Atomic event,Semantic ontology
-Corchero, A.;Corchero, A.;;SSN,ifcOWL,Building infrastructure,Occupant behavior,Semantic ontology
-Angsuchotmetee, C.;Angsuchotmetee, C.;;Multimedia,Multimedia sensors,Sensor network,SSN,ifcOWL,Event processing,Ontology,Building infrastructure,Complex event,Reasoning,Semantic interoperability,Occupant behavior,Atomic event,Semantic ontology
-Calis, G.;Calis, G.;;SSN,ifcOWL,Building infrastructure,Occupant behavior,Semantic ontology
+Fernández-López, G.;Fernández-López, G.;Learning from demonstration,Autonomous backhoe machine,Perception system,Dynamic movement primitives;behavior analysis,pedestrian identification,motion and path planning,Legged robots,optimization and optimal control,human-computer interaction,autonomous vehicles
+Quelal, R.;Quelal, R.;;Agile Methodologies,Systematic Literature Review,Big Data,Text Mining
+Mendoza, L.E.;Mendoza, L.E.;Compositional verification,Methodological approach,Critical computer-based systems,Software verification,Safety-critical systems software,Software specification,Model checking;Ecuador,Agile software development,Systematic Literature Review,Survey,Agile Methodologies,Medium and large companies,Big Data,Text Mining
+Villavicencio, M.;Villavicencio, M.;Business process,Timed automata,Qualitative analysis,Task model,Model checking;Ecuador,Agile software development,Systematic Literature Review,Survey,Agile Methodologies,Medium and large companies,Big Data,Text Mining
+Abad, J.;Abad, J.;;Coffee crops,WSN,Monitoring
+Farez, J.;Farez, J.;;Coffee crops,WSN,Monitoring
+Chasi, P.;Chasi, P.;;Coffee crops,WSN,Monitoring
+Clotet, R.;Clotet, R.;monitoring,orchid,Greenhouse,Parkinson,Databases Synchronization,Public Healthcare,tremors,Electronic Medical Records,smartwatches,Healthcare System,Electronic Medical Record,Distributed Databases,ZigBee;IoT,Bud rot,Wireless Sensor Network,Coffee crops,Oil palm,WSN,Agriculture,Monitoring
+Huerta, M.;Huerta, M.;orchid,accelerographic data,Parkinson,ZIGBEE,tremors,Healthcare System,Structural health monitoring,Distributed Databases,monitoring,computational fluid dynamics,frost,Body Motion,Wireless Sensor Network,Sensors and Parkinson's disease,WiFiPhone,ZigBee,Greenhouse,Public Healthcare,Wireless Sensor Networks,Electronic Medical Records,smartwatches,wind turbine,roses,VisualSense,Databases Synchronization,modeling,greenhouse,Wireless sensor network,Post-Seismic Assessments,FAST sowftware,Electronic Medical Record,LabVIEW,Generator,Quality of Service(QoS);IoT,Bud rot,Wireless Sensor Network,RFID,Coffee crops,Automatic Identification,Oil palm,WSN,Agriculture,Monitoring,Security
+Guillermo, J.C.;Guillermo, J.C.;;IoT,Agriculture,Wireless Sensor Network,Monitoring
+García-Cedeño, A.;García-Cedeño, A.;;IoT,Agriculture,Wireless Sensor Network,Monitoring
+Rivas-Lalaleo, D.;Rivas-Lalaleo, D.;computational fluid dynamics,modeling,wind turbine,FAST sowftware,Generator;IoT,Agriculture,Wireless Sensor Network,Monitoring
+Chbeir, R.;Chbeir, R.;Multimedia,Semantic clustering,Social Environments,Peerto-peer Infrastructure,Digital Ecosystem,Datatype hierarchy,Digital Ecosystems,Ontology,Multimedia sharing,Semantic Web,XML Schema,Social event detection,RDF,Formal concept analysis,Ontologies,XML,Sharing,Collaboration,Datatype inference,Datatype similarity,Social networks,Datatype analysis;Building infrastructure,Ontology,Complex event,Inference,Semantic Web,Atomic event,Multimedia,Semantic ontology,Datatype,SSN,Semantic interoperability,Multimedia sensors,ifcOWL,Occupant behavior,Event processing,Sensor network,Reasoning
+Corchero, A.;Corchero, A.;;Building infrastructure,Semantic ontology,SSN,ifcOWL,Occupant behavior
+Angsuchotmetee, C.;Angsuchotmetee, C.;;Building infrastructure,Ontology,Complex event,Semantic interoperability,Atomic event,Multimedia,Semantic ontology,SSN,Multimedia sensors,ifcOWL,Occupant behavior,Event processing,Sensor network,Reasoning
+Calis, G.;Calis, G.;;Building infrastructure,Semantic ontology,SSN,ifcOWL,Occupant behavior
 Debattista, J.;Debattista, J.;;
 Fernández, J.D.;Fernández, J.D.;;
-Vidal, M.-E.;Vidal, M.-E.;Crowdsourcing,Enterprise knowledge graphs,Volumetric Image,Knowledge graph,Semantic Annotations,Enterprise information systems,Data-driven tasks,RDF-Molecule,Semantic data integration,RDF Data,DICOM Ontology,Microtasks,Graph partitioning,Linked data,Semantic web technologies,Relation discovery,RDF,Query execution,Linked enterprise data,Fragment replication,Semantic similarity measures,Hybrid system,SPARQL Query,Crowd Knowledge,Federated query processing,AutomationML,Integration on demand,Crowd knowledge,Query decomposition,Source selection,Semantic similarity,Hybrid System,Query Execution,Web 3D-Visualizer,SPARQL query,Completeness model,Completeness Model,RDF data,Industry 4.0;Test Cases,Big Data Applications,RDF,Dependency Graph,Oceanographic Data,Big Data,Test-Driven Ontology Development,Data integration,Maritime Applications,RDF molecules,Ontology Engineering,Knowledge graphs
+Vidal, M.-E.;Vidal, M.-E.;Source selection,Linked enterprise data,AutomationML,Hybrid system,Relation discovery,Completeness model,Enterprise knowledge graphs,Query Execution,RDF Data,Data-driven tasks,Graph partitioning,Volumetric Image,RDF,Linked data,Web 3D-Visualizer,Crowd Knowledge,RDF data,Semantic similarity measures,Industry 4.0,Crowd knowledge,SPARQL query,RDF-Molecule,Crowdsourcing,Semantic data integration,Semantic Annotations,Knowledge graph,Microtasks,DICOM Ontology,Federated query processing,Semantic similarity,Enterprise information systems,Semantic web technologies,Hybrid System,Query decomposition,Fragment replication,SPARQL Query,Integration on demand,Query execution,Completeness Model;Ontology Engineering,Knowledge graphs,Maritime Applications,Dependency Graph,Test-Driven Ontology Development,Data integration,Oceanographic Data,RDF,Big Data,Big Data Applications,Test Cases,RDF molecules
 Umbrich, J.;Umbrich, J.;;
 Soltane, M.;Soltane, M.;;
-Angarita, R.;Angarita, R.;Self-healing,Fault tolerance,QoS-aware,Adaptative systems,Fault-tolerance,Knowledgebased,Composite web services,Self-healing systems,Composite Service,QoS monitoring,Dynamic recovery techniques;
+Angarita, R.;Angarita, R.;QoS-aware,Fault tolerance,Composite Service,Composite web services,Dynamic recovery techniques,Knowledgebased,Self-healing,Adaptative systems,Self-healing systems,Fault-tolerance,QoS monitoring;
 Makhlouf, D.;Makhlouf, D.;;
 Okba, K.;Okba, K.;;
-Negrete Ramírez, J.M.;Negrete Ramírez, J.M.;;Domain Specific Language,AGGIR grid,Pervasive Computing,Pervasive Health Systems and Services,Feature-oriented Programming
-Roose, P.;Roose, P.;;Domain Specific Language,AGGIR grid,Pervasive Computing,Mobile application,Beacon,Proxemic interaction,Pervasive Health Systems and Services,Feature-oriented Programming
-Dalmau, M.;Dalmau, M.;;Domain Specific Language,AGGIR grid,Pervasive Computing,Pervasive Health Systems and Services,Feature-oriented Programming
-Velasquez, J.;Velasquez, J.;;HOMA-IR,metabolic syndrome,medical database,ROC curves,BMI,Dimensional analysis,Obesity,Insulin Resistance,theorem π of Vaschy-Buckingham
-Encalada, L.;Encalada, L.;Anthropometric measures,Older subjects,metabolic syndrome,random cross validation,Oral glucose tolerance test,statistical analysis,Insulin sensitivity,Metabolic syndrome,oral glucose tolerance test;Quicki,HOMA-IR,elderly,BMI,Dimensional analysis,Obesity,Insulin Resistance,Homa-IR,insulin resistance,unsupervided learning,K-means
-Cipriano, D.;Cipriano, D.;;DPC,transient stability,DTC,DIFG
-Rengifo, J.;Rengifo, J.;;Analytical loss models,transient stability,energy efficiency,harmonic analysis,DTC,finite element analysis,DPC,DIFG,efficiency testing standards
-Aller, J.M.;Aller, J.M.;Pv panels,space vectors,Wind generator,Fault tolerant circuits,Mppt,Z-source inverter,Permanent magnet machine;Analytical loss models,transient stability,energy efficiency,two-phase systems,harmonic analysis,grid connected inverter,DTC,finite element analysis,DPC,active power filter,DIFG,efficiency testing standards,reactive power compensation
-Romero, J.;Romero, J.;;Analytical loss models,energy efficiency,harmonic analysis,finite element analysis,efficiency testing standards
-Viola, J.;Viola, J.;predictive control,approximate parameter estimation,temperature,PV model,power electronics,direct current control,LCL coupling,irradiation;active power filter,two-phase systems,reactive power compensation,grid connected inverter
-Fajardo, M.;Fajardo, M.;;active power filter,two-phase systems,reactive power compensation,grid connected inverter
-Restrepo, J.;Restrepo, J.;predictive control,power electronics,LCL coupling,direct current control;active power filter,two-phase systems,reactive power compensation,grid connected inverter
-Quizhpi, F.;Quizhpi, F.;predictive control,approximate parameter estimation,temperature,linear matrix inequality (LMI),quadruple-tank process,PV model,multivariable PID control,static output feedback (SOF),power electronics,direct current control,LCL coupling,irradiation,polytopic uncertainty;active power filter,two-phase systems,reactive power compensation,grid connected inverter
-Quiroz, A.;Quiroz, A.;;power system stability,series compensation,Auto-reclosing,stability limit
-Sorrentino, E.;Sorrentino, E.;optimal operation of power systems,dispatch center,AGC,Automatic Generation Control;asynchronous generators,Auto-reclosing,stability limit,power system stability,wind generators,series compensation,Power system stability
-Orea, E.;Orea, E.;;power system stability,series compensation,Auto-reclosing,stability limit
-Trejo, O.;Trejo, O.;;Non-English,MOOC Translations,Multilingual Learning
-Diaz, V.V.;Diaz, V.V.;;5G,simulator,3GPP,path loss
-Marcano Aviles, D.;Marcano Aviles, D.;;5G,simulator,3GPP,path loss
-Pérez, P.;Pérez, P.;;Mobile application,Beacon,Proxemic interaction
-Couture, N.;Couture, N.;;Mobile application,Beacon,Proxemic interaction
-Marc, D.;Marc, D.;;Mobile application,Beacon,Proxemic interaction
-Masson, D.;Masson, D.;;Mobile application,Beacon,Proxemic interaction
-Morales-Álvarez, W.;Morales-Álvarez, W.;;pedestrian identification,autonomous vehicles,behavior analysis,human-computer interaction
-Gómez-Silva, M.J.;Gómez-Silva, M.J.;;pedestrian identification,autonomous vehicles,behavior analysis,human-computer interaction
-Garca-Fernández, F.;Garca-Fernández, F.;;pedestrian identification,autonomous vehicles,behavior analysis,human-computer interaction
-Olaverri-Monreal, C.;Olaverri-Monreal, C.;;pedestrian identification,autonomous vehicles,behavior analysis,human-computer interaction
-Badra, R.E.;Badra, R.E.;gated transmission,power control,component,uplink transmit power,CDMA2000 1XRTT;adjacent channel interference,optimization,component,frequency planning,LTE,carrier spacing,genetic algorithm,802.11n,femtocell,indoor wireless service
-Mozo, E.;Mozo, E.;;adjacent channel interference,component,frequency planning,carrier spacing,802.11n
-Figueras, G.E.;Figueras, G.E.;;adjacent channel interference,optimization,component,frequency planning,LTE,carrier spacing,genetic algorithm,802.11n,femtocell,indoor wireless service
-Theoktisto, V.;Theoktisto, V.;;Higher Order Functions,Teaching Strategies for Computer Programming,Functional Programming,Recursion
-Flaviani, F.;Flaviani, F.;;Induction,Weakest Precondition,Set Theory,Invariant Assertions,Denotational Semantics,Fully Assessable Assertions,GCL,Formal Program Verification,Calculus
+Negrete Ramírez, J.M.;Negrete Ramírez, J.M.;;Feature-oriented Programming,AGGIR grid,Domain Specific Language,Pervasive Computing,Pervasive Health Systems and Services
+Roose, P.;Roose, P.;;Feature-oriented Programming,Mobile application,AGGIR grid,Domain Specific Language,Pervasive Computing,Proxemic interaction,Beacon,Pervasive Health Systems and Services
+Dalmau, M.;Dalmau, M.;;Feature-oriented Programming,AGGIR grid,Domain Specific Language,Pervasive Computing,Pervasive Health Systems and Services
+Velasquez, J.;Velasquez, J.;;metabolic syndrome,Obesity,HOMA-IR,theorem π of Vaschy-Buckingham,Insulin Resistance,medical database,ROC curves,BMI,Dimensional analysis
+Encalada, L.;Encalada, L.;Insulin sensitivity,metabolic syndrome,Oral glucose tolerance test,statistical analysis,oral glucose tolerance test,Anthropometric measures,Older subjects,Metabolic syndrome,random cross validation;Homa-IR,insulin resistance,unsupervided learning,elderly,Obesity,HOMA-IR,K-means,Insulin Resistance,BMI,Dimensional analysis,Quicki
+Cipriano, D.;Cipriano, D.;;DIFG,DTC,DPC,transient stability
+Rengifo, J.;Rengifo, J.;;DIFG,finite element analysis,DPC,harmonic analysis,transient stability,energy efficiency,Analytical loss models,DTC,efficiency testing standards
+Aller, J.M.;Aller, J.M.;Fault tolerant circuits,Pv panels,space vectors,Wind generator,Permanent magnet machine,Z-source inverter,Mppt;DIFG,grid connected inverter,finite element analysis,two-phase systems,DPC,harmonic analysis,transient stability,active power filter,energy efficiency,Analytical loss models,DTC,reactive power compensation,efficiency testing standards
+Romero, J.;Romero, J.;;finite element analysis,harmonic analysis,energy efficiency,Analytical loss models,efficiency testing standards
+Viola, J.;Viola, J.;direct current control,LCL coupling,approximate parameter estimation,temperature,irradiation,PV model,power electronics,predictive control;two-phase systems,active power filter,reactive power compensation,grid connected inverter
+Fajardo, M.;Fajardo, M.;;two-phase systems,active power filter,reactive power compensation,grid connected inverter
+Restrepo, J.;Restrepo, J.;direct current control,power electronics,predictive control,LCL coupling;two-phase systems,active power filter,reactive power compensation,grid connected inverter
+Quizhpi, F.;Quizhpi, F.;linear matrix inequality (LMI),direct current control,LCL coupling,approximate parameter estimation,multivariable PID control,temperature,irradiation,PV model,polytopic uncertainty,quadruple-tank process,static output feedback (SOF),power electronics,predictive control;two-phase systems,active power filter,reactive power compensation,grid connected inverter
+Quiroz, A.;Quiroz, A.;;power system stability,Auto-reclosing,series compensation,stability limit
+Sorrentino, E.;Sorrentino, E.;optimal operation of power systems,AGC,dispatch center,Automatic Generation Control;Auto-reclosing,series compensation,wind generators,power system stability,asynchronous generators,Power system stability,stability limit
+Orea, E.;Orea, E.;;power system stability,Auto-reclosing,series compensation,stability limit
+Trejo, O.;Trejo, O.;;Multilingual Learning,Non-English,MOOC Translations
+Diaz, V.V.;Diaz, V.V.;;3GPP,simulator,path loss,5G
+Marcano Aviles, D.;Marcano Aviles, D.;;3GPP,simulator,path loss,5G
+Pérez, P.;Pérez, P.;;Beacon,Mobile application,Proxemic interaction
+Couture, N.;Couture, N.;;Beacon,Mobile application,Proxemic interaction
+Marc, D.;Marc, D.;;Beacon,Mobile application,Proxemic interaction
+Masson, D.;Masson, D.;;Beacon,Mobile application,Proxemic interaction
+Morales-Álvarez, W.;Morales-Álvarez, W.;;behavior analysis,pedestrian identification,human-computer interaction,autonomous vehicles
+Gómez-Silva, M.J.;Gómez-Silva, M.J.;;behavior analysis,pedestrian identification,human-computer interaction,autonomous vehicles
+Garca-Fernández, F.;Garca-Fernández, F.;;behavior analysis,pedestrian identification,human-computer interaction,autonomous vehicles
+Olaverri-Monreal, C.;Olaverri-Monreal, C.;;behavior analysis,pedestrian identification,human-computer interaction,autonomous vehicles
+Badra, R.E.;Badra, R.E.;gated transmission,power control,component,uplink transmit power,CDMA2000 1XRTT;genetic algorithm,frequency planning,femtocell,indoor wireless service,LTE,component,optimization,carrier spacing,adjacent channel interference,802.11n
+Mozo, E.;Mozo, E.;;frequency planning,component,carrier spacing,adjacent channel interference,802.11n
+Figueras, G.E.;Figueras, G.E.;;genetic algorithm,frequency planning,femtocell,indoor wireless service,LTE,component,optimization,carrier spacing,adjacent channel interference,802.11n
+Theoktisto, V.;Theoktisto, V.;;Teaching Strategies for Computer Programming,Higher Order Functions,Recursion,Functional Programming
+Flaviani, F.;Flaviani, F.;;Weakest Precondition,GCL,Invariant Assertions,Formal Program Verification,Induction,Fully Assessable Assertions,Calculus,Denotational Semantics,Set Theory
 Warrick, P.;Warrick, P.;;
-Homsi, M.N.;Homsi, M.N.;Spam Classification,Cost-Sensitive Classifier,Twitter,Topic Discovering,Random Forest;Machine Learning,DAWQAS,Natural Language Processing,Why Question Answering System,Discourse Markers,Rhetorical Relations
-Sosa Jones, G.;Sosa Jones, G.;;Mimetic methods,Finite difference methods,Steady-state diffusion equation,Boundary layer,Conservative methods
-Arteaga, J.;Arteaga, J.;;Mimetic methods,Finite difference methods,Steady-state diffusion equation,Boundary layer,Conservative methods
-Jiménez, O.;Jiménez, O.;;Mimetic methods,Finite difference methods,Steady-state diffusion equation,Boundary layer,Conservative methods
-Aceituno-Cabezas, B.;Aceituno-Cabezas, B.;Robust Optimization,Motion and Path Planning,Multilegged Robots;optimization and optimal control,motion and path planning,Legged robots
-Mastalli, C.;Mastalli, C.;Perception system,Dynamic movement primitives,Autonomous backhoe machine,Learning from demonstration;optimization and optimal control,motion and path planning,Legged robots
-Dai, H.;Dai, H.;Robust Optimization,Motion and Path Planning,Multilegged Robots;optimization and optimal control,motion and path planning,Legged robots
-Semini, C.;Semini, C.;;optimization and optimal control,motion and path planning,Legged robots
-Quelal, R.E.;Quelal, R.E.;;Survey,Ecuador,Medium and large companies,Agile software development
-Dongo, I.;Dongo, I.;RDF,Datatype hierarchy,Datatype similarity,Datatype analysis,Ontology,XML Schema,XML,Datatype inference,Semantic Web;Inference,Semantic Web,Datatype
-Yokoyama, S.;Yokoyama, S.;;Complex event,Sensor network,Atomic event,Multimedia
-Barroso, R.H.;Barroso, R.H.;;Homogenization,Diamagnetism,Metamaterial,Matching,Broadband,UTL
-Malpica, W.N.;Malpica, W.N.;;Homogenization,Diamagnetism,Metamaterial,Matching,Broadband,UTL
+Homsi, M.N.;Homsi, M.N.;Topic Discovering,Cost-Sensitive Classifier,Twitter,Random Forest,Spam Classification;Rhetorical Relations,Machine Learning,Why Question Answering System,Natural Language Processing,Discourse Markers,DAWQAS
+Sosa Jones, G.;Sosa Jones, G.;;Mimetic methods,Conservative methods,Boundary layer,Finite difference methods,Steady-state diffusion equation
+Arteaga, J.;Arteaga, J.;;Mimetic methods,Conservative methods,Boundary layer,Finite difference methods,Steady-state diffusion equation
+Jiménez, O.;Jiménez, O.;;Mimetic methods,Conservative methods,Boundary layer,Finite difference methods,Steady-state diffusion equation
+Aceituno-Cabezas, B.;Aceituno-Cabezas, B.;Robust Optimization,Motion and Path Planning,Multilegged Robots;Legged robots,optimization and optimal control,motion and path planning
+Mastalli, C.;Mastalli, C.;Learning from demonstration,Autonomous backhoe machine,Perception system,Dynamic movement primitives;Legged robots,optimization and optimal control,motion and path planning
+Dai, H.;Dai, H.;Robust Optimization,Motion and Path Planning,Multilegged Robots;Legged robots,optimization and optimal control,motion and path planning
+Semini, C.;Semini, C.;;Legged robots,optimization and optimal control,motion and path planning
+Quelal, R.E.;Quelal, R.E.;;Ecuador,Medium and large companies,Agile software development,Survey
+Dongo, I.;Dongo, I.;Datatype similarity,Ontology,XML,Semantic Web,XML Schema,RDF,Datatype analysis,Datatype inference,Datatype hierarchy;Semantic Web,Datatype,Inference
+Yokoyama, S.;Yokoyama, S.;;Atomic event,Multimedia,Complex event,Sensor network
+Barroso, R.H.;Barroso, R.H.;;Homogenization,UTL,Broadband,Matching,Metamaterial,Diamagnetism
+Malpica, W.N.;Malpica, W.N.;;Homogenization,UTL,Broadband,Matching,Metamaterial,Diamagnetism
 Lytra, I.;Lytra, I.;;Oceanographic Data,Maritime Applications,Big Data,Big Data Applications
 Orlandi, F.;Orlandi, F.;;Oceanographic Data,Maritime Applications,Big Data,Big Data Applications
 Attard, J.;Attard, J.;;Oceanographic Data,Maritime Applications,Big Data,Big Data Applications
-Cones, E.;Cones, E.;;Power system stability,asynchronous generators,wind generators
-Roviello, A.;Roviello, A.;;Power system stability,asynchronous generators,wind generators
-De Oliveira De Jesus, P.;De Oliveira De Jesus, P.;;Power system stability,asynchronous generators,wind generators
-Ferreira, J.;Ferreira, J.;;Automatic Identification,RFID,Security
-Rodriguez, L.;Rodriguez, L.;;Automatic Identification,RFID,Security
-Gonzalez, R.;Gonzalez, R.;accelerographic data,Sensors and Parkinson's disease,patterns catalog,Structural health monitoring,Wireless Sensor Networks,Body Motion,mobile devices,VisualSense,Wireless sensor network,Post-Seismic Assessments,Mobile applications,software engineering,Quality of Service(QoS),software components,WiFiPhone;Automatic Identification,RFID,Security
-Rivas, D.;Rivas, D.;Distributed Databases,accelerographic data,ZIGBEE,Structural health monitoring,Wireless Sensor Network,Wireless Sensor Networks,Public Healthcare,VisualSense,Wireless sensor network,Post-Seismic Assessments,roses,Quality of Service(QoS),LabVIEW,monitoring,frost,greenhouse,WiFiPhone,Electronic Medical Records;Oil palm,WSN,Security,Automatic Identification,RFID,Bud rot
-Castillo, F.;Castillo, F.;;Helicopters,Model Predictive Control,Unmanned Aerial Vehicles
-Sanchez, G.;Sanchez, G.;Laguerre Identification,Random Search,PID control optimization;Helicopters,Model Predictive Control,Unmanned Aerial Vehicles
-Vintimilla, C.;Vintimilla, C.;;Quicki,elderly,Homa-IR,insulin resistance,unsupervided learning,K-means
-Astudillo-Salinas, F.;Astudillo-Salinas, F.;;Quicki,metabolic syndrome,elderly,medical database,ROC curves,Dimensional analysis,Homa-IR,insulin resistance,unsupervided learning,K-means,theorem π of Vaschy-Buckingham
-Ismail, W.S.;Ismail, W.S.;;Machine Learning,DAWQAS,Natural Language Processing,Why Question Answering System,Discourse Markers,Rhetorical Relations
-Fernández, B.R.;Fernández, B.R.;;Series-Elastic Actuator,Applied Intelligence,Recurrent Neural Network,Parameter Estimation
-Rincon, J.S.;Rincon, J.S.;;Series-Elastic Actuator,Applied Intelligence,Recurrent Neural Network,Parameter Estimation
-Morantes, G.;Morantes, G.;;Series-Elastic Actuator,Applied Intelligence,Recurrent Neural Network,Parameter Estimation
+Cones, E.;Cones, E.;;wind generators,asynchronous generators,Power system stability
+Roviello, A.;Roviello, A.;;wind generators,asynchronous generators,Power system stability
+De Oliveira De Jesus, P.;De Oliveira De Jesus, P.;;wind generators,asynchronous generators,Power system stability
+Ferreira, J.;Ferreira, J.;;RFID,Automatic Identification,Security
+Rodriguez, L.;Rodriguez, L.;;RFID,Automatic Identification,Security
+Gonzalez, R.;Gonzalez, R.;software components,accelerographic data,Body Motion,Mobile applications,Sensors and Parkinson's disease,Wireless Sensor Networks,mobile devices,WiFiPhone,patterns catalog,Wireless sensor network,Post-Seismic Assessments,software engineering,Structural health monitoring,VisualSense,Quality of Service(QoS);RFID,Automatic Identification,Security
+Rivas, D.;Rivas, D.;monitoring,accelerographic data,frost,greenhouse,Wireless Sensor Network,Public Healthcare,ZIGBEE,Wireless Sensor Networks,WiFiPhone,Electronic Medical Records,Wireless sensor network,Post-Seismic Assessments,LabVIEW,Structural health monitoring,roses,VisualSense,Distributed Databases,Quality of Service(QoS);Bud rot,RFID,Automatic Identification,Oil palm,WSN,Security
+Castillo, F.;Castillo, F.;;Helicopters,Unmanned Aerial Vehicles,Model Predictive Control
+Sanchez, G.;Sanchez, G.;Random Search,PID control optimization,Laguerre Identification;Helicopters,Unmanned Aerial Vehicles,Model Predictive Control
+Vintimilla, C.;Vintimilla, C.;;Homa-IR,insulin resistance,unsupervided learning,elderly,K-means,Quicki
+Astudillo-Salinas, F.;Astudillo-Salinas, F.;;Homa-IR,insulin resistance,unsupervided learning,elderly,metabolic syndrome,K-means,medical database,ROC curves,theorem π of Vaschy-Buckingham,Dimensional analysis,Quicki
+Ismail, W.S.;Ismail, W.S.;;Rhetorical Relations,Machine Learning,Why Question Answering System,Natural Language Processing,Discourse Markers,DAWQAS
+Fernández, B.R.;Fernández, B.R.;;Parameter Estimation,Applied Intelligence,Recurrent Neural Network,Series-Elastic Actuator
+Rincon, J.S.;Rincon, J.S.;;Parameter Estimation,Applied Intelligence,Recurrent Neural Network,Series-Elastic Actuator
+Morantes, G.;Morantes, G.;;Parameter Estimation,Applied Intelligence,Recurrent Neural Network,Series-Elastic Actuator
 Bonet, B.;Bonet, B.;;
 Geffner, H.;Geffner, H.;;
 Bandres, W.;Bandres, W.;;
-González-Lapea, J.;González-Lapea, J.;;Interference Microscopy,Quantitative phase microscopy.,Optical phase,Cell morphology,Cell adhesion
-Márquez, A.H.;Márquez, A.H.;;Interference Microscopy,Quantitative phase microscopy.,Optical phase,Cell morphology,Cell adhesion
-Darias, J.R.;Darias, J.R.;;Interference Microscopy,Quantitative phase microscopy.,Optical phase,Cell morphology,Cell adhesion
-Noris-Suárez, K.;Noris-Suárez, K.;;Interference Microscopy,Quantitative phase microscopy.,Optical phase,Cell morphology,Cell adhesion
-Murrugarra, C.;Murrugarra, C.;;Dynamics,Vibrations,Flexible,Transverse deflection,Robot,Manipulator
-De Castro, O.;De Castro, O.;;Dynamics,Vibrations,Flexible,Transverse deflection,Robot,Manipulator
-Terrones, A.;Terrones, A.;;Dynamics,Vibrations,Flexible,Transverse deflection,Robot,Manipulator
-Revollar, S.;Revollar, S.;;Economic model predictive control,fuzzy systems,neural networks
-Álvarez, H.;Álvarez, H.;;Economic model predictive control,fuzzy systems,neural networks
-Lamanna, R.;Lamanna, R.;;Economic model predictive control,fuzzy systems,neural networks
-Vega, P.;Vega, P.;;Economic model predictive control,fuzzy systems,neural networks
-Goldar, A.;Goldar, A.;;Economic model predictive control,fuzzy systems,neural networks
-Halilaj, L.;Halilaj, L.;AutomationML,Industry 4.0,Semantic data integration;Ontology Engineering,Test Cases,Test-Driven Ontology Development,Dependency Graph
-Grangel-González, I.;Grangel-González, I.;AutomationML,Industry 4.0,Semantic data integration;Ontology Engineering,Test Cases,Test-Driven Ontology Development,Dependency Graph
-Lohmann, S.;Lohmann, S.;;Ontology Engineering,Test Cases,Test-Driven Ontology Development,Dependency Graph
-Auer, S.;Auer, S.;Semantic web technologies,RDF,Enterprise knowledge graphs,Knowledge graph,AutomationML,Linked enterprise data,Enterprise information systems,RDF-Molecule,Semantic data integration,Integration on demand,Industry 4.0;Test Cases,RDF,Dependency Graph,Test-Driven Ontology Development,Data integration,RDF molecules,Ontology Engineering,Knowledge graphs
-Romero Marino, B.D.;Romero Marino, B.D.;;Human-computer interaction,information technology,modeling,user interfaces
-Rodriguez-Fortiz, M.J.;Rodriguez-Fortiz, M.J.;;Human-computer interaction,information technology,modeling,user interfaces
-Hurtado Torres, M.V.;Hurtado Torres, M.V.;;Human-computer interaction,information technology,modeling,user interfaces
-Haddad, H.M.;Haddad, H.M.;User profile,Accessibility,E-inclusion,AEGIS/ACCESSIBLE ontology;Human-computer interaction,information technology,modeling,user interfaces
-Piamonte, M.;Piamonte, M.;;Oil palm,WSN,Bud rot
-Vargas, T.;Vargas, T.;;Oil palm,WSN,Bud rot
-Guehis, S.;Guehis, S.;Analytical data management applications,Big data analytic,Analytic models for big data;Analytical data management applications,Big data analytic,Analytic models for big data
+González-Lapea, J.;González-Lapea, J.;;Cell morphology,Quantitative phase microscopy.,Optical phase,Interference Microscopy,Cell adhesion
+Márquez, A.H.;Márquez, A.H.;;Cell morphology,Quantitative phase microscopy.,Optical phase,Interference Microscopy,Cell adhesion
+Darias, J.R.;Darias, J.R.;;Cell morphology,Quantitative phase microscopy.,Optical phase,Interference Microscopy,Cell adhesion
+Noris-Suárez, K.;Noris-Suárez, K.;;Cell morphology,Quantitative phase microscopy.,Optical phase,Interference Microscopy,Cell adhesion
+Murrugarra, C.;Murrugarra, C.;;Manipulator,Robot,Flexible,Dynamics,Vibrations,Transverse deflection
+De Castro, O.;De Castro, O.;;Manipulator,Robot,Flexible,Dynamics,Vibrations,Transverse deflection
+Terrones, A.;Terrones, A.;;Manipulator,Robot,Flexible,Dynamics,Vibrations,Transverse deflection
+Revollar, S.;Revollar, S.;;neural networks,fuzzy systems,Economic model predictive control
+Álvarez, H.;Álvarez, H.;;neural networks,fuzzy systems,Economic model predictive control
+Lamanna, R.;Lamanna, R.;;neural networks,fuzzy systems,Economic model predictive control
+Vega, P.;Vega, P.;;neural networks,fuzzy systems,Economic model predictive control
+Goldar, A.;Goldar, A.;;neural networks,fuzzy systems,Economic model predictive control
+Halilaj, L.;Halilaj, L.;Semantic data integration,AutomationML,Industry 4.0;Dependency Graph,Ontology Engineering,Test-Driven Ontology Development,Test Cases
+Grangel-González, I.;Grangel-González, I.;Semantic data integration,AutomationML,Industry 4.0;Dependency Graph,Ontology Engineering,Test-Driven Ontology Development,Test Cases
+Lohmann, S.;Lohmann, S.;;Dependency Graph,Ontology Engineering,Test-Driven Ontology Development,Test Cases
+Auer, S.;Auer, S.;Enterprise information systems,Linked enterprise data,Semantic web technologies,Industry 4.0,RDF-Molecule,Enterprise knowledge graphs,AutomationML,Semantic data integration,RDF,Knowledge graph,Integration on demand;Ontology Engineering,Knowledge graphs,Dependency Graph,Test-Driven Ontology Development,Data integration,RDF,Test Cases,RDF molecules
+Romero Marino, B.D.;Romero Marino, B.D.;;Human-computer interaction,user interfaces,modeling,information technology
+Rodriguez-Fortiz, M.J.;Rodriguez-Fortiz, M.J.;;Human-computer interaction,user interfaces,modeling,information technology
+Hurtado Torres, M.V.;Hurtado Torres, M.V.;;Human-computer interaction,user interfaces,modeling,information technology
+Haddad, H.M.;Haddad, H.M.;AEGIS/ACCESSIBLE ontology,E-inclusion,User profile,Accessibility;Human-computer interaction,user interfaces,modeling,information technology
+Piamonte, M.;Piamonte, M.;;Bud rot,WSN,Oil palm
+Vargas, T.;Vargas, T.;;Bud rot,WSN,Oil palm
+Guehis, S.;Guehis, S.;Big data analytic,Analytic models for big data,Analytical data management applications;Big data analytic,Analytic models for big data,Analytical data management applications
 Musyaffa, F.A.;Musyaffa, F.A.;;
 Li, Y.;Li, Y.;;
-Collarana, D.;Collarana, D.;RDF,Knowledge graph,AutomationML,RDF-Molecule,Semantic data integration,Integration on demand,Industry 4.0;Data integration,Knowledge graphs,RDF molecules,RDF
-Galkin, M.;Galkin, M.;Semantic web technologies,RDF,Enterprise knowledge graphs,Knowledge graph,Linked enterprise data,Enterprise information systems,RDF-Molecule,Integration on demand;Data integration,Knowledge graphs,RDF molecules,RDF
-Lange, C.;Lange, C.;RDF,Integration on demand,RDF-Molecule,Knowledge graph;Data integration,Knowledge graphs,RDF molecules,RDF
+Collarana, D.;Collarana, D.;Industry 4.0,RDF-Molecule,AutomationML,Semantic data integration,RDF,Knowledge graph,Integration on demand;Knowledge graphs,RDF,RDF molecules,Data integration
+Galkin, M.;Galkin, M.;Enterprise information systems,Linked enterprise data,Semantic web technologies,RDF-Molecule,Enterprise knowledge graphs,RDF,Knowledge graph,Integration on demand;Knowledge graphs,RDF,RDF molecules,Data integration
+Lange, C.;Lange, C.;RDF,RDF-Molecule,Knowledge graph,Integration on demand;Knowledge graphs,RDF,RDF molecules,Data integration
 Gangemi, A.;Gangemi, A.;;
 Navigli, R.;Navigli, R.;;
 Hollink, L.;Hollink, L.;;
 Tordai, A.;Tordai, A.;;
-Da Silva, M.G.;Da Silva, M.G.;;Virtual rehabilitation,Psychological alterations,Satisfaction,Accessibility,Lower limb disorders,Emotions,Children with cerebral palsy,Behavior,Human computer interaction
-Albiol-Pérez, S.;Albiol-Pérez, S.;;Virtual rehabilitation,Psychological alterations,Satisfaction,Accessibility,Lower limb disorders,Emotions,Children with cerebral palsy,Behavior,Human computer interaction
-Lombano, J.L.;Lombano, J.L.;;Virtual rehabilitation,Satisfaction,Accessibility,Lower limb disorders,Human computer interaction
-Jacho-Guanoluisa, N.;Jacho-Guanoluisa, N.;;Virtual rehabilitation,Satisfaction,Accessibility,Lower limb disorders,Human computer interaction
-Collazos, C.A.;Collazos, C.A.;;Virtual rehabilitation,Satisfaction,Accessibility,Lower limb disorders,Human computer interaction
-Cano, S.;Cano, S.;;Virtual rehabilitation,Psychological alterations,Satisfaction,Emotions,Children with cerebral palsy,Behavior
-Estellés, E.;Estellés, E.;;Virtual rehabilitation,Psychological alterations,Satisfaction,Emotions,Children with cerebral palsy,Behavior
-Ruiz, M.A.;Ruiz, M.A.;;Virtual rehabilitation,Psychological alterations,Satisfaction,Emotions,Children with cerebral palsy,Behavior
-Tur, G.;Tur, G.;Spam Classification,Cost-Sensitive Classifier,Twitter,Topic Discovering,Random Forest;
-Kidanu, S.A.;Kidanu, S.A.;Multimedia,Peerto-peer Infrastructure,Digital Ecosystem,Ontologies,Social Environments,Sharing,Digital Ecosystems,Collaboration;
+Da Silva, M.G.;Da Silva, M.G.;;Emotions,Accessibility,Satisfaction,Lower limb disorders,Human computer interaction,Children with cerebral palsy,Psychological alterations,Behavior,Virtual rehabilitation
+Albiol-Pérez, S.;Albiol-Pérez, S.;;Emotions,Accessibility,Satisfaction,Lower limb disorders,Human computer interaction,Children with cerebral palsy,Psychological alterations,Behavior,Virtual rehabilitation
+Lombano, J.L.;Lombano, J.L.;;Accessibility,Satisfaction,Lower limb disorders,Human computer interaction,Virtual rehabilitation
+Jacho-Guanoluisa, N.;Jacho-Guanoluisa, N.;;Accessibility,Satisfaction,Lower limb disorders,Human computer interaction,Virtual rehabilitation
+Collazos, C.A.;Collazos, C.A.;;Accessibility,Satisfaction,Lower limb disorders,Human computer interaction,Virtual rehabilitation
+Cano, S.;Cano, S.;;Emotions,Satisfaction,Children with cerebral palsy,Psychological alterations,Behavior,Virtual rehabilitation
+Estellés, E.;Estellés, E.;;Emotions,Satisfaction,Children with cerebral palsy,Psychological alterations,Behavior,Virtual rehabilitation
+Ruiz, M.A.;Ruiz, M.A.;;Emotions,Satisfaction,Children with cerebral palsy,Psychological alterations,Behavior,Virtual rehabilitation
+Tur, G.;Tur, G.;Topic Discovering,Cost-Sensitive Classifier,Twitter,Random Forest,Spam Classification;
+Kidanu, S.A.;Kidanu, S.A.;Ontologies,Sharing,Multimedia,Social Environments,Collaboration,Peerto-peer Infrastructure,Digital Ecosystem,Digital Ecosystems;
 Ocando, M.G.;Ocando, M.G.;;
-Certad, N.;Certad, N.;gait generation,Control,AR. Drone,Trajectory Generation,Trajectory Tracking,circular hexapod,Quadcopter,Artificial Potential Fields,Bezier curves,AR Marker Recognition,walking robots,foothold planning,terrains with forbidden zones,ROS;
+Certad, N.;Certad, N.;walking robots,foothold planning,AR. Drone,Trajectory Tracking,Control,gait generation,Artificial Potential Fields,Bezier curves,terrains with forbidden zones,circular hexapod,AR Marker Recognition,ROS,Trajectory Generation,Quadcopter;
 Alvarado, S.;Alvarado, S.;;
 López, G.F.;López, G.F.;;
 González, M.;González, M.;;
-Cappelletto, J.;Cappelletto, J.;gait generation,Robust Optimization,circular hexapod,Motion and Path Planning,Multilegged Robots,walking robots,foothold planning,terrains with forbidden zones;
-Grieco, J.C.;Grieco, J.C.;gait generation,Robust Optimization,circular hexapod,Motion and Path Planning,Multilegged Robots,walking robots,foothold planning,terrains with forbidden zones;
-Fernandez-Lopez, G.;Fernandez-Lopez, G.;Robust Optimization,Artificial general intelligence,Cognitive function synthesis,Hybrid architectures,Imagination,Motion and Path Planning,Consciousness,Multilegged Robots,Autonomous feature extraction;
-Escalona, O.J.;Escalona, O.J.;Wearable ECG monitoring,EEMD,FFT,Arm-ECG,Paroxysmal arrhythmias,EMD,Bipolar ECG lead,Signal averaging,ECG denoising,Long-term ECG;
-Lynn, W.D.;Lynn, W.D.;Wearable ECG monitoring,EEMD,FFT,Arm-ECG,Paroxysmal arrhythmias,EMD,Bipolar ECG lead,Signal averaging,ECG denoising,Long-term ECG;
-McFrederick, L.;McFrederick, L.;Wearable ECG monitoring,EEMD,FFT,Arm-ECG,Paroxysmal arrhythmias,EMD,Bipolar ECG lead,Signal averaging,ECG denoising,Long-term ECG;
-McEneaney, D.J.;McEneaney, D.J.;Wearable ECG monitoring,EEMD,FFT,Arm-ECG,Paroxysmal arrhythmias,EMD,Bipolar ECG lead,Signal averaging,ECG denoising,Long-term ECG;
-Figuera, M.;Figuera, M.;Spreadsheets,Asynchronous web clients;
-Torrealba, R.R.;Torrealba, R.R.;Bézier curves,Variable impedance actuator,Differential evolution,Knee joint actuator,Cam shape design,Variable impedance actuators,Stiffness variability,Human knee joint,Gait rehabilitation exoskeleton,Variable stiffness mechanism,Robotic-assisted gait training;
-Udelman, S.B.;Udelman, S.B.;Bézier curves,Variable impedance actuator,Differential evolution,Knee joint actuator,Cam shape design,Variable impedance actuators,Stiffness variability,Human knee joint,Gait rehabilitation exoskeleton,Variable stiffness mechanism,Robotic-assisted gait training;
-Fonseca-Rojas, E.D.;Fonseca-Rojas, E.D.;Variable impedance actuator,Human knee joint,Gait rehabilitation exoskeleton,Variable stiffness mechanism,Robotic-assisted gait training;
-Bravo, M.;Bravo, M.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
-Bermeo, A.;Bermeo, A.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
-Soto, A.;Soto, A.;Greenhouse,ZigBee,tremors,orchid,monitoring,smartwatches,Parkinson;
-Alvizu, R.;Alvizu, R.;Mobile metro-core network,Prediction,optical network,Dynamic optical routing,Software-defined networking,Artificial neural networks,Machine learning,Network optimization,fiber delay line,Energy efficiency,Multipath routing,optimization model,differential delay compensation;
-Troia, S.;Troia, S.;Mobile metro-core network,Prediction,Dynamic optical routing,Software-defined networking,Artificial neural networks,Machine learning,Network optimization,Energy efficiency;
-Maier, G.;Maier, G.;Mobile metro-core network,Prediction,optical network,Dynamic optical routing,Software-defined networking,Artificial neural networks,Machine learning,Network optimization,fiber delay line,Energy efficiency,Multipath routing,optimization model,differential delay compensation;
-Pattavina, A.;Pattavina, A.;Mobile metro-core network,Prediction,Dynamic optical routing,Software-defined networking,Artificial neural networks,Machine learning,Network optimization,Energy efficiency;
-Acosta, M.;Acosta, M.;Crowdsourcing,RDF data,Crowd Knowledge,Hybrid System,Query execution,Query Execution,SPARQL query,Completeness model,RDF Data,Completeness Model,Microtasks,Crowd knowledge,Hybrid system,SPARQL Query;
-Simperl, E.;Simperl, E.;Crowdsourcing,RDF data,Crowd Knowledge,Hybrid System,Query execution,Query Execution,SPARQL query,Completeness model,RDF Data,Completeness Model,Microtasks,Crowd knowledge,Hybrid system,SPARQL Query;
-Flöck, F.;Flöck, F.;Crowdsourcing,RDF data,Crowd Knowledge,Hybrid System,Query execution,Query Execution,SPARQL query,Completeness model,RDF Data,Completeness Model,Microtasks,Crowd knowledge,Hybrid system,SPARQL Query;
-Rodríguez, R.;Rodríguez, R.;Multimedia,Peerto-peer Infrastructure,Ontologies,Social Environments,Sharing,Digital Ecosystems;
-Ibanez, C.A.R.;Ibanez, C.A.R.;Multimedia,Peerto-peer Infrastructure,Ontologies,Social Environments,Sharing,Digital Ecosystems;
-Morales, L.E.M.;Morales, L.E.M.;Task model,Critical software systems,Model checking,Compositional verification,Formal verification approach,Timed automata,Qualitative analysis,Business process,Safety-critical systems;
-Monsalve, C.;Monsalve, C.;Task model,Model checking,Timed automata,Qualitative analysis,Business process;
-Jiménez P.;Jiménez P.;Complex internal boundaries,Finite volumes,Quadrilateral mesh,Finite differences,Grid generation,Reservoir simulation;
-O.J.;O.J.;Complex internal boundaries,Finite volumes,Quadrilateral mesh,Finite differences,Grid generation,Reservoir simulation;
-Fernandez, L.;Fernandez, L.;orchid,Greenhouse,monitoring,ZigBee;
-Sagbay, G.;Sagbay, G.;accelerographic data,Greenhouse,Parkinson's Disease,Burg Periodogram,Structural health monitoring,Telemedicine,ZigBee,LTE,tremors,Wireless sensor network,orchid,monitoring,PSD,Ambulance,smartwatches,WiFiPhone,Three-axis Accelerometer,Parkinson;
-Hernandez, E.;Hernandez, E.;Distributed Databases,Public Healthcare,Electronic Medical Record,Databases Synchronization,Electronic Medical Records,Healthcare System;
-Ortiz-Conde, A.;Ortiz-Conde, A.;Mobility degradation,parameter extraction,Parasitic series resistance,MOSFET;
-Sucre-Gonzalez, A.;Sucre-Gonzalez, A.;Mobility degradation,parameter extraction,Parasitic series resistance,MOSFET;
-Zarate-Rincon, F.;Zarate-Rincon, F.;Mobility degradation,parameter extraction,Parasitic series resistance,MOSFET;
-Liou, J.J.;Liou, J.J.;Mobility degradation,parameter extraction,Parasitic series resistance,MOSFET;
-Garcia-Sanchez, F.J.;Garcia-Sanchez, F.J.;Mobility degradation,parameter extraction,Parasitic series resistance,MOSFET;
-Torres, R.;Torres, R.;Body Motion,Sensors and Parkinson's disease;
-Bermeo, J.;Bermeo, J.;Body Motion,Sensors and Parkinson's disease;
-Vayas, G.;Vayas, G.;Body Motion,Sensors and Parkinson's disease;
-Martínez, J.M.;Martínez, J.M.;Trust-region strategies,Regularization,Cubic modeling,Newton-type methods,Smooth unconstrained minimization;
-Raydan, M.;Raydan, M.;Energy localization,Trust-region strategies,Quadratic Rayleigh quotient,Data approximation,Algorithms,Inverse-free methods,Regularization,Cubic modeling,Nonlinear programming,Newton-type methods,Multiresolution algorithms,Quadratic matrix model updating,Smooth unconstrained minimization,Powell–Sabin element,Noise reduction;
-Ariza García, E.;Ariza García, E.;Associated spaces,Interior estimates,Associated Operators,Initial value problem;
-Di Teodoro, A.;Di Teodoro, A.;Dirichlet problem,Clifford-type algebras depending on parameters,Interior estimates,Associated Operators,Initial value problem,Associated spaces,Meta-monogenic functions;
-Sapiain, M.;Sapiain, M.;Associated spaces,Interior estimates,Associated Operators,Initial value problem;
-Vargas, F.;Vargas, F.;Associated spaces,Interior estimates,Associated Operators,Initial value problem;
-Garrán, P.T.;Garrán, P.T.;Linear Quadratic Regulator (LQR),Extended State Observer (ESO),Active Disturbance Rejection Control (ADRC),Coupled Tanks System,Proportional-Integral-Derivative (PID) Controller;
-Garcia, G.;Garcia, G.;Linear Quadratic Regulator (LQR),Extended State Observer (ESO),Active Disturbance Rejection Control (ADRC),Coupled Tanks System,Proportional-Integral-Derivative (PID) Controller;
-Aller, J.;Aller, J.;predictive control,approximate parameter estimation,temperature,PV model,power electronics,direct current control,LCL coupling,irradiation;
-Ginart, A.;Ginart, A.;PV model,approximate parameter estimation,irradiation,temperature;
-Salazar, A.;Salazar, A.;PV model,approximate parameter estimation,irradiation,temperature;
+Cappelletto, J.;Cappelletto, J.;Robust Optimization,walking robots,foothold planning,Motion and Path Planning,gait generation,terrains with forbidden zones,circular hexapod,Multilegged Robots;
+Grieco, J.C.;Grieco, J.C.;Robust Optimization,walking robots,foothold planning,Motion and Path Planning,gait generation,terrains with forbidden zones,circular hexapod,Multilegged Robots;
+Fernandez-Lopez, G.;Fernandez-Lopez, G.;Robust Optimization,Motion and Path Planning,Imagination,Consciousness,Autonomous feature extraction,Artificial general intelligence,Cognitive function synthesis,Hybrid architectures,Multilegged Robots;
+Escalona, O.J.;Escalona, O.J.;Arm-ECG,FFT,Paroxysmal arrhythmias,Signal averaging,EEMD,ECG denoising,EMD,Wearable ECG monitoring,Long-term ECG,Bipolar ECG lead;
+Lynn, W.D.;Lynn, W.D.;Arm-ECG,FFT,Paroxysmal arrhythmias,Signal averaging,EEMD,ECG denoising,EMD,Wearable ECG monitoring,Long-term ECG,Bipolar ECG lead;
+McFrederick, L.;McFrederick, L.;Arm-ECG,FFT,Paroxysmal arrhythmias,Signal averaging,EEMD,ECG denoising,EMD,Wearable ECG monitoring,Long-term ECG,Bipolar ECG lead;
+McEneaney, D.J.;McEneaney, D.J.;Arm-ECG,FFT,Paroxysmal arrhythmias,Signal averaging,EEMD,ECG denoising,EMD,Wearable ECG monitoring,Long-term ECG,Bipolar ECG lead;
+Figuera, M.;Figuera, M.;Asynchronous web clients,Spreadsheets;
+Torrealba, R.R.;Torrealba, R.R.;Gait rehabilitation exoskeleton,Cam shape design,Stiffness variability,Human knee joint,Variable impedance actuators,Variable stiffness mechanism,Variable impedance actuator,Differential evolution,Knee joint actuator,Bézier curves,Robotic-assisted gait training;
+Udelman, S.B.;Udelman, S.B.;Gait rehabilitation exoskeleton,Cam shape design,Stiffness variability,Human knee joint,Variable impedance actuators,Variable stiffness mechanism,Variable impedance actuator,Differential evolution,Knee joint actuator,Bézier curves,Robotic-assisted gait training;
+Fonseca-Rojas, E.D.;Fonseca-Rojas, E.D.;Gait rehabilitation exoskeleton,Human knee joint,Variable stiffness mechanism,Variable impedance actuator,Robotic-assisted gait training;
+Bravo, M.;Bravo, M.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
+Bermeo, A.;Bermeo, A.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
+Soto, A.;Soto, A.;monitoring,orchid,Greenhouse,Parkinson,tremors,smartwatches,ZigBee;
+Alvizu, R.;Alvizu, R.;fiber delay line,Energy efficiency,optimization model,Mobile metro-core network,Multipath routing,differential delay compensation,Artificial neural networks,optical network,Prediction,Machine learning,Software-defined networking,Dynamic optical routing,Network optimization;
+Troia, S.;Troia, S.;Energy efficiency,Mobile metro-core network,Artificial neural networks,Prediction,Machine learning,Software-defined networking,Dynamic optical routing,Network optimization;
+Maier, G.;Maier, G.;fiber delay line,Energy efficiency,optimization model,Mobile metro-core network,Multipath routing,differential delay compensation,Artificial neural networks,optical network,Prediction,Machine learning,Software-defined networking,Dynamic optical routing,Network optimization;
+Pattavina, A.;Pattavina, A.;Energy efficiency,Mobile metro-core network,Artificial neural networks,Prediction,Machine learning,Software-defined networking,Dynamic optical routing,Network optimization;
+Acosta, M.;Acosta, M.;Crowd Knowledge,RDF data,Hybrid System,Crowd knowledge,SPARQL query,Query Execution,RDF Data,Hybrid system,Crowdsourcing,SPARQL Query,Completeness model,Query execution,Microtasks,Completeness Model;
+Simperl, E.;Simperl, E.;Crowd Knowledge,RDF data,Hybrid System,Crowd knowledge,SPARQL query,Query Execution,RDF Data,Hybrid system,Crowdsourcing,SPARQL Query,Completeness model,Query execution,Microtasks,Completeness Model;
+Flöck, F.;Flöck, F.;Crowd Knowledge,RDF data,Hybrid System,Crowd knowledge,SPARQL query,Query Execution,RDF Data,Hybrid system,Crowdsourcing,SPARQL Query,Completeness model,Query execution,Microtasks,Completeness Model;
+Rodríguez, R.;Rodríguez, R.;Ontologies,Sharing,Multimedia,Social Environments,Peerto-peer Infrastructure,Digital Ecosystems;
+Ibanez, C.A.R.;Ibanez, C.A.R.;Ontologies,Sharing,Multimedia,Social Environments,Peerto-peer Infrastructure,Digital Ecosystems;
+Morales, L.E.M.;Morales, L.E.M.;Compositional verification,Safety-critical systems,Business process,Timed automata,Qualitative analysis,Formal verification approach,Task model,Critical software systems,Model checking;
+Monsalve, C.;Monsalve, C.;Business process,Timed automata,Qualitative analysis,Task model,Model checking;
+Jiménez P.;Jiménez P.;Finite volumes,Quadrilateral mesh,Reservoir simulation,Finite differences,Grid generation,Complex internal boundaries;
+O.J.;O.J.;Finite volumes,Quadrilateral mesh,Reservoir simulation,Finite differences,Grid generation,Complex internal boundaries;
+Fernandez, L.;Fernandez, L.;monitoring,orchid,Greenhouse,ZigBee;
+Sagbay, G.;Sagbay, G.;monitoring,orchid,Greenhouse,Burg Periodogram,Parkinson's Disease,Parkinson,accelerographic data,Telemedicine,tremors,Ambulance,WiFiPhone,PSD,Wireless sensor network,Structural health monitoring,smartwatches,Three-axis Accelerometer,LTE,ZigBee;
+Hernandez, E.;Hernandez, E.;Public Healthcare,Electronic Medical Records,Healthcare System,Electronic Medical Record,Distributed Databases,Databases Synchronization;
+Ortiz-Conde, A.;Ortiz-Conde, A.;MOSFET,parameter extraction,Parasitic series resistance,Mobility degradation;
+Sucre-Gonzalez, A.;Sucre-Gonzalez, A.;MOSFET,parameter extraction,Parasitic series resistance,Mobility degradation;
+Zarate-Rincon, F.;Zarate-Rincon, F.;MOSFET,parameter extraction,Parasitic series resistance,Mobility degradation;
+Liou, J.J.;Liou, J.J.;MOSFET,parameter extraction,Parasitic series resistance,Mobility degradation;
+Garcia-Sanchez, F.J.;Garcia-Sanchez, F.J.;MOSFET,parameter extraction,Parasitic series resistance,Mobility degradation;
+Torres, R.;Torres, R.;Sensors and Parkinson's disease,Body Motion;
+Bermeo, J.;Bermeo, J.;Sensors and Parkinson's disease,Body Motion;
+Vayas, G.;Vayas, G.;Sensors and Parkinson's disease,Body Motion;
+Martínez, J.M.;Martínez, J.M.;Smooth unconstrained minimization,Cubic modeling,Newton-type methods,Trust-region strategies,Regularization;
+Raydan, M.;Raydan, M.;Energy localization,Inverse-free methods,Smooth unconstrained minimization,Cubic modeling,Quadratic matrix model updating,Quadratic Rayleigh quotient,Newton-type methods,Trust-region strategies,Nonlinear programming,Regularization,Data approximation,Powell–Sabin element,Algorithms,Noise reduction,Multiresolution algorithms;
+Ariza García, E.;Ariza García, E.;Initial value problem,Interior estimates,Associated Operators,Associated spaces;
+Di Teodoro, A.;Di Teodoro, A.;Dirichlet problem,Initial value problem,Interior estimates,Meta-monogenic functions,Clifford-type algebras depending on parameters,Associated spaces,Associated Operators;
+Sapiain, M.;Sapiain, M.;Initial value problem,Interior estimates,Associated Operators,Associated spaces;
+Vargas, F.;Vargas, F.;Initial value problem,Interior estimates,Associated Operators,Associated spaces;
+Garrán, P.T.;Garrán, P.T.;Coupled Tanks System,Linear Quadratic Regulator (LQR),Active Disturbance Rejection Control (ADRC),Proportional-Integral-Derivative (PID) Controller,Extended State Observer (ESO);
+Garcia, G.;Garcia, G.;Coupled Tanks System,Linear Quadratic Regulator (LQR),Active Disturbance Rejection Control (ADRC),Proportional-Integral-Derivative (PID) Controller,Extended State Observer (ESO);
+Aller, J.;Aller, J.;direct current control,LCL coupling,approximate parameter estimation,temperature,irradiation,PV model,power electronics,predictive control;
+Ginart, A.;Ginart, A.;approximate parameter estimation,irradiation,temperature,PV model;
+Salazar, A.;Salazar, A.;approximate parameter estimation,irradiation,temperature,PV model;
 Pasarella, E.;Pasarella, E.;;
 Zoltan, C.;Zoltan, C.;;
-Capel, M.I.;Capel, M.I.;Methodological approach,Software verification,Critical software systems,Architectural patterns,Safety-critical systems software,Model checking,Formal verification approach,Compositional verification,Software architecture,Software specification,Software quality factors,Design patterns,Critical computer-based systems,Safety-critical systems;
-Jaffe, K.;Jaffe, K.;Assortation,Inclusive fitness,Homophily,Kin,Evolution,Social synergy;
+Capel, M.I.;Capel, M.I.;Compositional verification,Safety-critical systems,Methodological approach,Software architecture,Critical computer-based systems,Safety-critical systems software,Design patterns,Formal verification approach,Software verification,Software quality factors,Critical software systems,Software specification,Architectural patterns,Model checking;
+Jaffe, K.;Jaffe, K.;Assortation,Social synergy,Homophily,Evolution,Kin,Inclusive fitness;
 Formica, G.;Formica, G.;;
 Ponte, M.;Ponte, M.;;
-De Lima, F.;De Lima, F.;optimal operation of power systems,dispatch center,AGC,Automatic Generation Control;
-De Lima, O.;De Lima, O.;optimal operation of power systems,dispatch center,AGC,Automatic Generation Control;
-Machín, I.;Machín, I.;Acentric factor,correlation,computational chemistry,molecular energies;
-Olivera-Fuentes, C.;Olivera-Fuentes, C.;Acentric factor,correlation,computational chemistry,molecular energies;
-Durán-García, M.E.;Durán-García, M.E.;Residual biomass,polymath 6.0 educational,coal efficiency,steam biomass;
-Zeppieri, S.;Zeppieri, S.;Residual biomass,polymath 6.0 educational,coal efficiency,steam biomass;
+De Lima, F.;De Lima, F.;optimal operation of power systems,AGC,dispatch center,Automatic Generation Control;
+De Lima, O.;De Lima, O.;optimal operation of power systems,AGC,dispatch center,Automatic Generation Control;
+Machín, I.;Machín, I.;molecular energies,Acentric factor,computational chemistry,correlation;
+Olivera-Fuentes, C.;Olivera-Fuentes, C.;molecular energies,Acentric factor,computational chemistry,correlation;
+Durán-García, M.E.;Durán-García, M.E.;coal efficiency,polymath 6.0 educational,Residual biomass,steam biomass;
+Zeppieri, S.;Zeppieri, S.;coal efficiency,polymath 6.0 educational,Residual biomass,steam biomass;
 Buendía, G.M.;Buendía, G.M.;;
 Pommerening, F.;Pommerening, F.;;
 Helmert, M.;Helmert, M.;;
-Montoya, G.;Montoya, G.;Federated query processing,Fragment replication,Query decomposition,Linked data,Source selection;
-Skaf-Molli, H.;Skaf-Molli, H.;Federated query processing,Fragment replication,Query decomposition,Linked data,Source selection;
-Molli, P.;Molli, P.;Federated query processing,Fragment replication,Query decomposition,Linked data,Source selection;
-Grimán, A.;Grimán, A.;Software quality factors,Architectural patterns,Software architecture,Design patterns;
-Garví, E.;Garví, E.;Software quality factors,Architectural patterns,Software architecture,Design patterns;
-Priyatna, F.;Priyatna, F.;Services,Data profiling,Linked Data,Quality;
-Ruckhaus, E.;Ruckhaus, E.;Services,Data profiling,Linked Data,Quality;
-Mihindukulasooriya, N.;Mihindukulasooriya, N.;Services,Data profiling,Linked Data,Quality;
-Corcho, O.;Corcho, O.;Biomedical ontologies,Knowledge representation,Semantic web,Natural language processing,Graph theory;
-Saturno, N.;Saturno, N.;Services,Data profiling,Linked Data,Quality;
-García-Castro, R.;García-Castro, R.;Services,Data profiling,Linked Data,Quality;
+Montoya, G.;Montoya, G.;Source selection,Query decomposition,Fragment replication,Linked data,Federated query processing;
+Skaf-Molli, H.;Skaf-Molli, H.;Source selection,Query decomposition,Fragment replication,Linked data,Federated query processing;
+Molli, P.;Molli, P.;Source selection,Query decomposition,Fragment replication,Linked data,Federated query processing;
+Grimán, A.;Grimán, A.;Software architecture,Design patterns,Software quality factors,Architectural patterns;
+Garví, E.;Garví, E.;Software architecture,Design patterns,Software quality factors,Architectural patterns;
+Priyatna, F.;Priyatna, F.;Services,Data profiling,Quality,Linked Data;
+Ruckhaus, E.;Ruckhaus, E.;Services,Data profiling,Quality,Linked Data;
+Mihindukulasooriya, N.;Mihindukulasooriya, N.;Services,Data profiling,Quality,Linked Data;
+Corcho, O.;Corcho, O.;Semantic web,Knowledge representation,Biomedical ontologies,Graph theory,Natural language processing;
+Saturno, N.;Saturno, N.;Services,Data profiling,Quality,Linked Data;
+García-Castro, R.;García-Castro, R.;Services,Data profiling,Quality,Linked Data;
 Barbieri, G.;Barbieri, G.;;
 Barbery, I.I.;Barbery, I.I.;;
 Rodriguez, C.F.;Rodriguez, C.F.;;
-Mirena, J.;Mirena, J.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Moreno, M.;Moreno, M.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Sogne, G.;Sogne, G.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Papa, J.;Papa, J.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Pittol, J.;Pittol, J.;statistical test,model discrimination,cross-validation test,Kinetic modeling,anaerobic oxidative dehydrogenation,non-linear regression;
-Pounder, G.A.J.;Pounder, G.A.J.;Artificial general intelligence,Cognitive function synthesis,Hybrid architectures,Imagination,Consciousness,Autonomous feature extraction;
-Ellis, R.L.A.;Ellis, R.L.A.;Artificial general intelligence,Cognitive function synthesis,Hybrid architectures,Imagination,Consciousness,Autonomous feature extraction;
-Dávila, M.;Dávila, M.;Altarpiece,Heritage,San jacinto de Caracas convent,Augmented reality;
-Marín, O.;Marín, O.;Altarpiece,Heritage,San jacinto de Caracas convent,Augmented reality;
+Mirena, J.;Mirena, J.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Moreno, M.;Moreno, M.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Sogne, G.;Sogne, G.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Papa, J.;Papa, J.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Pittol, J.;Pittol, J.;Kinetic modeling,statistical test,cross-validation test,non-linear regression,model discrimination,anaerobic oxidative dehydrogenation;
+Pounder, G.A.J.;Pounder, G.A.J.;Imagination,Consciousness,Autonomous feature extraction,Artificial general intelligence,Cognitive function synthesis,Hybrid architectures;
+Ellis, R.L.A.;Ellis, R.L.A.;Imagination,Consciousness,Autonomous feature extraction,Artificial general intelligence,Cognitive function synthesis,Hybrid architectures;
+Dávila, M.;Dávila, M.;Altarpiece,Heritage,Augmented reality,San jacinto de Caracas convent;
+Marín, O.;Marín, O.;Altarpiece,Heritage,Augmented reality,San jacinto de Caracas convent;
 Sure-Vetter, Y.;Sure-Vetter, Y.;Semantic similarity measures,Data-driven tasks,Knowledge graph;
-Al-Khalil, F.;Al-Khalil, F.;RDF,Datatype analysis,XML,Datatype inference,Semantic Web;
-Al Khalil, F.;Al Khalil, F.;RDF,Datatype hierarchy,Datatype similarity,Ontology,XML Schema,XML,Semantic Web;
+Al-Khalil, F.;Al-Khalil, F.;XML,Semantic Web,RDF,Datatype analysis,Datatype inference;
+Al Khalil, F.;Al Khalil, F.;Datatype similarity,Ontology,XML,Semantic Web,XML Schema,RDF,Datatype hierarchy;
 Morales, C.;Morales, C.;;
 Borges, M.;Borges, M.;;
 McLaughlin, J.;McLaughlin, J.;;
 McEneaney, D.;McEneaney, D.;;
-Romero-Mariño, B.D.;Romero-Mariño, B.D.;User profile,Accessibility,E-inclusion,AEGIS/ACCESSIBLE ontology;
-Espín, V.;Espín, V.;User profile,Accessibility,E-inclusion,AEGIS/ACCESSIBLE ontology;
-Rodríguez-Fórtiz, M.J.;Rodríguez-Fórtiz, M.J.;User profile,Accessibility,E-inclusion,AEGIS/ACCESSIBLE ontology;
-Ramos, L.;Ramos, L.;User profile,Accessibility,E-inclusion,AEGIS/ACCESSIBLE ontology;
-Mansour, E.;Mansour, E.;Social networks,Social event detection,Semantic clustering,Multimedia sharing,Formal concept analysis;
-Tekli, G.;Tekli, G.;Multimedia,Social networks,Social event detection,Digital Ecosystem,Semantic clustering,Multimedia sharing,Collaboration,Sharing,Formal concept analysis;
-Arnould, P.;Arnould, P.;Social networks,Social event detection,Semantic clustering,Multimedia sharing,Formal concept analysis;
-Scerri, S.;Scerri, S.;Semantic web technologies,Linked enterprise data,Enterprise information systems,Enterprise knowledge graphs;
+Romero-Mariño, B.D.;Romero-Mariño, B.D.;AEGIS/ACCESSIBLE ontology,E-inclusion,User profile,Accessibility;
+Espín, V.;Espín, V.;AEGIS/ACCESSIBLE ontology,E-inclusion,User profile,Accessibility;
+Rodríguez-Fórtiz, M.J.;Rodríguez-Fórtiz, M.J.;AEGIS/ACCESSIBLE ontology,E-inclusion,User profile,Accessibility;
+Ramos, L.;Ramos, L.;AEGIS/ACCESSIBLE ontology,E-inclusion,User profile,Accessibility;
+Mansour, E.;Mansour, E.;Multimedia sharing,Semantic clustering,Social networks,Social event detection,Formal concept analysis;
+Tekli, G.;Tekli, G.;Multimedia sharing,Sharing,Semantic clustering,Social networks,Multimedia,Social event detection,Collaboration,Digital Ecosystem,Formal concept analysis;
+Arnould, P.;Arnould, P.;Multimedia sharing,Semantic clustering,Social networks,Social event detection,Formal concept analysis;
+Scerri, S.;Scerri, S.;Enterprise knowledge graphs,Enterprise information systems,Linked enterprise data,Semantic web technologies;
 De Giacomo, G.;De Giacomo, G.;;
 Rubin, S.;Rubin, S.;;
-Velásquez, M.;Velásquez, M.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Rodríguez, J.;Rodríguez, J.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Bastardo, A.;Bastardo, A.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Añez, R.;Añez, R.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Coll, D.S.;Coll, D.S.;DFT,chlorobencene,Molybdenum carbide,presulfidation,HDC,electrostatic potential;
-Cardinal, Y.;Cardinal, Y.;Analytical data management applications,Big data analytic,Analytic models for big data;
-Traverso-Ribón, I.;Traverso-Ribón, I.;Relation discovery,Graph partitioning,Semantic similarity;
+Velásquez, M.;Velásquez, M.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Rodríguez, J.;Rodríguez, J.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Bastardo, A.;Bastardo, A.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Añez, R.;Añez, R.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Coll, D.S.;Coll, D.S.;chlorobencene,DFT,Molybdenum carbide,electrostatic potential,HDC,presulfidation;
+Cardinal, Y.;Cardinal, Y.;Big data analytic,Analytic models for big data,Analytical data management applications;
+Traverso-Ribón, I.;Traverso-Ribón, I.;Semantic similarity,Relation discovery,Graph partitioning;
 Goncalves, M.;Goncalves, M.;;
 Mendoza, J.N.;Mendoza, J.N.;;
-Ibáñiez, M.-B.;Ibáñiez, M.-B.;Assessment,Interactive learning environments,Technology acceptance model,Augmented reality;
-Di Scrio, A.;Di Scrio, A.;Assessment,Interactive learning environments,Technology acceptance model,Augmented reality;
-Villarán, D.;Villarán, D.;Assessment,Interactive learning environments,Technology acceptance model,Augmented reality;
-Delgado-Kloos, C.;Delgado-Kloos, C.;Assessment,behavioral pattern,Technology acceptance model,Augmented reality,Interactive learning environments,scaffolding,science learning,computer simulations,augmented reality;
+Ibáñiez, M.-B.;Ibáñiez, M.-B.;Interactive learning environments,Augmented reality,Technology acceptance model,Assessment;
+Di Scrio, A.;Di Scrio, A.;Interactive learning environments,Augmented reality,Technology acceptance model,Assessment;
+Villarán, D.;Villarán, D.;Interactive learning environments,Augmented reality,Technology acceptance model,Assessment;
+Delgado-Kloos, C.;Delgado-Kloos, C.;behavioral pattern,Interactive learning environments,computer simulations,scaffolding,Augmented reality,augmented reality,science learning,Technology acceptance model,Assessment;
 Cappelleto, J.;Cappelleto, J.;;
 Fernandez, G.;Fernandez, G.;;
 Torrealba, R.;Torrealba, R.;;
 Guerrero, S.;Guerrero, S.;;
-Mogrovejo, D.;Mogrovejo, D.;quadruple-tank process,linear matrix inequality (LMI),multivariable PID control,static output feedback (SOF),polytopic uncertainty;
-Granado, E.;Granado, E.;quadruple-tank process,linear matrix inequality (LMI),Random Search,PID control optimization,multivariable PID control,static output feedback (SOF),Laguerre Identification,polytopic uncertainty;
-Colmenares, W.;Colmenares, W.;quadruple-tank process,linear matrix inequality (LMI),multivariable PID control,static output feedback (SOF),polytopic uncertainty;
-Zambrano, J.;Zambrano, J.;quadruple-tank process,linear matrix inequality (LMI),multivariable PID control,static output feedback (SOF),polytopic uncertainty;
+Mogrovejo, D.;Mogrovejo, D.;linear matrix inequality (LMI),multivariable PID control,quadruple-tank process,polytopic uncertainty,static output feedback (SOF);
+Granado, E.;Granado, E.;linear matrix inequality (LMI),Random Search,PID control optimization,multivariable PID control,Laguerre Identification,quadruple-tank process,polytopic uncertainty,static output feedback (SOF);
+Colmenares, W.;Colmenares, W.;linear matrix inequality (LMI),multivariable PID control,quadruple-tank process,polytopic uncertainty,static output feedback (SOF);
+Zambrano, J.;Zambrano, J.;linear matrix inequality (LMI),multivariable PID control,quadruple-tank process,polytopic uncertainty,static output feedback (SOF);
 Ciaccia, M.;Ciaccia, M.;bone failure,Monte Carlo,confidence level,convergence criterion;
 Muller-Karger, C.;Muller-Karger, C.;bone failure,Monte Carlo,confidence level,convergence criterion;
 Casanova, E.;Casanova, E.;bone failure,Monte Carlo,confidence level,convergence criterion;
 San Antonio, T.;San Antonio, T.;bone failure,Monte Carlo,confidence level,convergence criterion;
-Espinoza, J.;Espinoza, J.;Telemedicine,LTE,Ambulance;
-Chandy, D.;Chandy, D.;Telemedicine,LTE,Ambulance;
-Ochoa, S.;Ochoa, S.;Telemedicine,LTE,Ambulance;
-Avila, R.;Avila, R.;Telemedicine,LTE,Ambulance;
-Contreras, R.;Contreras, R.;Parkinson's Disease,Burg Periodogram,tremors,PSD,smartwatches,Three-axis Accelerometer,Parkinson;
-Llumiguano, C.;Llumiguano, C.;Three-axis Accelerometer,Parkinson's Disease,Burg Periodogram,PSD;
+Espinoza, J.;Espinoza, J.;LTE,Telemedicine,Ambulance;
+Chandy, D.;Chandy, D.;LTE,Telemedicine,Ambulance;
+Ochoa, S.;Ochoa, S.;LTE,Telemedicine,Ambulance;
+Avila, R.;Avila, R.;LTE,Telemedicine,Ambulance;
+Contreras, R.;Contreras, R.;Burg Periodogram,Parkinson's Disease,Parkinson,tremors,smartwatches,Three-axis Accelerometer,PSD;
+Llumiguano, C.;Llumiguano, C.;Burg Periodogram,Three-axis Accelerometer,Parkinson's Disease,PSD;
 Perpinan, G.;Perpinan, G.;;
 Pacheco, M.;Pacheco, M.;;
 Quintero, L.;Quintero, L.;;
@@ -303,80 +303,80 @@ Kämpgen, B.;Kämpgen, B.;Semantic similarity measures,Data-driven tasks,Knowled
 Rengifo, P.;Rengifo, P.;;
 Rodríguez, D.A.;Rodríguez, D.A.;;
 Martínez, I.C.;Martínez, I.C.;;
-Fortes, M.A.;Fortes, M.A.;Energy localization,Data approximation,Inverse-free methods,Multiresolution algorithms,Powell–Sabin element,Noise reduction;
-Sajo-Castelli, A.M.;Sajo-Castelli, A.M.;Energy localization,Data approximation,Inverse-free methods,Multiresolution algorithms,Powell–Sabin element,Noise reduction;
-Perez, A.;Perez, A.;Quality of Service(QoS),VisualSense,Post-Seismic Assessments,Wireless Sensor Networks;
-Hernandez, Y.;Hernandez, Y.;Quality of Service(QoS),VisualSense,Post-Seismic Assessments,Wireless Sensor Networks;
-Valencia, J.;Valencia, J.;optical network,fiber delay line,Multipath routing,optimization model,differential delay compensation;
-Leal, D.L.;Leal, D.L.;embedded or built-in systems,Experimentation environments,real-time systems,microcontrollers;
-Celi, M.R.;Celi, M.R.;embedded or built-in systems,Experimentation environments,real-time systems,microcontrollers;
-Alvarez, E.;Alvarez, E.;embedded or built-in systems,Experimentation environments,real-time systems,microcontrollers;
+Fortes, M.A.;Fortes, M.A.;Energy localization,Inverse-free methods,Data approximation,Powell–Sabin element,Noise reduction,Multiresolution algorithms;
+Sajo-Castelli, A.M.;Sajo-Castelli, A.M.;Energy localization,Inverse-free methods,Data approximation,Powell–Sabin element,Noise reduction,Multiresolution algorithms;
+Perez, A.;Perez, A.;Post-Seismic Assessments,Wireless Sensor Networks,VisualSense,Quality of Service(QoS);
+Hernandez, Y.;Hernandez, Y.;Post-Seismic Assessments,Wireless Sensor Networks,VisualSense,Quality of Service(QoS);
+Valencia, J.;Valencia, J.;fiber delay line,optimization model,Multipath routing,differential delay compensation,optical network;
+Leal, D.L.;Leal, D.L.;real-time systems,Experimentation environments,embedded or built-in systems,microcontrollers;
+Celi, M.R.;Celi, M.R.;real-time systems,Experimentation environments,embedded or built-in systems,microcontrollers;
+Alvarez, E.;Alvarez, E.;real-time systems,Experimentation environments,embedded or built-in systems,microcontrollers;
 Medina, N.;Medina, N.;;
 Hernandez, M.;Hernandez, M.;;
 Quintana, A.;Quintana, A.;;
-Sorrentino Ramirez, E.;Sorrentino Ramirez, E.;electromechanical transients in power systems,control of synchronous generators,Transient stability;
-Villafuerte, P.;Villafuerte, P.;electromechanical transients in power systems,control of synchronous generators,Transient stability;
-Rojas, M.;Rojas, M.;gait generation,circular hexapod,walking robots,foothold planning,terrains with forbidden zones;
-Velez, P.;Velez, P.;Control,AR. Drone,Trajectory Generation,Trajectory Tracking,Quadcopter,Artificial Potential Fields,Bezier curves,AR Marker Recognition,ROS;
-Ruiz, E.;Ruiz, E.;Control,Path-planning,AR. Drone,Trajectory Generation,Trajectory Tracking,Navigation,Quadcopter,Artificial Potential Fields,Bezier curves,AR Marker Recognition,Kinect,Fuzzy,Mobile robots,ROS;
-Strauss, V.A.;Strauss, V.A.;Negative eigenvalues,Selfadjoint extensions,Singular perturbation,Harmonic oscillator;
-Winklmeier, M.A.;Winklmeier, M.A.;Negative eigenvalues,Selfadjoint extensions,Singular perturbation,Harmonic oscillator;
-Requez, J.;Requez, J.;Laguerre Identification,Random Search,PID control optimization;
-Strefezza, M.;Strefezza, M.;Laguerre Identification,Random Search,PID control optimization;
-Troya, D.P.C.;Troya, D.P.C.;Permanent magnet machine,space vectors,Wind generator;
-Mendez, C.;Mendez, C.;Permanent magnet machine,space vectors,Wind generator;
-Segarra, J.;Segarra, J.;Permanent magnet machine,space vectors,Wind generator;
-Acuña, R.;Acuña, R.;Control,Path-planning,Navigation,Kinect,Fuzzy,Mobile robots,ROS;
-Chacón-Troya, D.P.;Chacón-Troya, D.P.;Fault tolerant circuits,Mppt,Pv panels,Z-source inverter;
-Alvarez, C.J.;Alvarez, C.J.;Fault tolerant circuits,Mppt,Pv panels,Z-source inverter;
-Pablo, E.G.;Pablo, E.G.;Fault tolerant circuits,Mppt,Pv panels,Z-source inverter;
+Sorrentino Ramirez, E.;Sorrentino Ramirez, E.;control of synchronous generators,electromechanical transients in power systems,Transient stability;
+Villafuerte, P.;Villafuerte, P.;control of synchronous generators,electromechanical transients in power systems,Transient stability;
+Rojas, M.;Rojas, M.;walking robots,foothold planning,gait generation,terrains with forbidden zones,circular hexapod;
+Velez, P.;Velez, P.;Trajectory Tracking,AR. Drone,Control,Artificial Potential Fields,Bezier curves,AR Marker Recognition,ROS,Trajectory Generation,Quadcopter;
+Ruiz, E.;Ruiz, E.;Trajectory Tracking,AR. Drone,Control,Kinect,Artificial Potential Fields,Bezier curves,Navigation,Fuzzy,AR Marker Recognition,ROS,Trajectory Generation,Path-planning,Mobile robots,Quadcopter;
+Strauss, V.A.;Strauss, V.A.;Selfadjoint extensions,Negative eigenvalues,Harmonic oscillator,Singular perturbation;
+Winklmeier, M.A.;Winklmeier, M.A.;Selfadjoint extensions,Negative eigenvalues,Harmonic oscillator,Singular perturbation;
+Requez, J.;Requez, J.;Random Search,PID control optimization,Laguerre Identification;
+Strefezza, M.;Strefezza, M.;Random Search,PID control optimization,Laguerre Identification;
+Troya, D.P.C.;Troya, D.P.C.;space vectors,Wind generator,Permanent magnet machine;
+Mendez, C.;Mendez, C.;space vectors,Wind generator,Permanent magnet machine;
+Segarra, J.;Segarra, J.;space vectors,Wind generator,Permanent magnet machine;
+Acuña, R.;Acuña, R.;Control,Kinect,Navigation,Fuzzy,ROS,Path-planning,Mobile robots;
+Chacón-Troya, D.P.;Chacón-Troya, D.P.;Pv panels,Fault tolerant circuits,Z-source inverter,Mppt;
+Alvarez, C.J.;Alvarez, C.J.;Pv panels,Fault tolerant circuits,Z-source inverter,Mppt;
+Pablo, E.G.;Pablo, E.G.;Pv panels,Fault tolerant circuits,Z-source inverter,Mppt;
 Grimán, A.C.;Grimán, A.C.;;
-Andretta, M.;Andretta, M.;Quadratic Rayleigh quotient,Quadratic matrix model updating,Algorithms,Nonlinear programming;
-Birgin, E.G.;Birgin, E.G.;Quadratic Rayleigh quotient,Quadratic matrix model updating,Algorithms,Nonlinear programming;
-Ibáñez, M.-B.;Ibáñez, M.-B.;behavioral pattern,scaffolding,science learning,computer simulations,augmented reality;
-Di-Serio, A.;Di-Serio, A.;behavioral pattern,scaffolding,science learning,computer simulations,augmented reality;
-Villarán-Molina, D.;Villarán-Molina, D.;behavioral pattern,scaffolding,science learning,computer simulations,augmented reality;
+Andretta, M.;Andretta, M.;Quadratic Rayleigh quotient,Nonlinear programming,Quadratic matrix model updating,Algorithms;
+Birgin, E.G.;Birgin, E.G.;Quadratic Rayleigh quotient,Nonlinear programming,Quadratic matrix model updating,Algorithms;
+Ibáñez, M.-B.;Ibáñez, M.-B.;behavioral pattern,computer simulations,scaffolding,augmented reality,science learning;
+Di-Serio, A.;Di-Serio, A.;behavioral pattern,computer simulations,scaffolding,augmented reality,science learning;
+Villarán-Molina, D.;Villarán-Molina, D.;behavioral pattern,computer simulations,scaffolding,augmented reality,science learning;
 Pinto, R.T.;Pinto, R.T.;;
 Christian Alejandro, L.R.;Christian Alejandro, L.R.;;
 Aragüés-Peñalba, M.;Aragüés-Peñalba, M.;;
 Sumper, A.;Sumper, A.;;
 Castillo, S.;Castillo, S.;;
-Palma, G.;Palma, G.;Relation discovery,Graph partitioning,Semantic similarity;
+Palma, G.;Palma, G.;Semantic similarity,Relation discovery,Graph partitioning;
 Breslin, J.G.;Breslin, J.G.;;
-Bellary, S.A.I.;Bellary, S.A.I.;Surrogate model,Multi-objective optimization,Genetic algorithm,Electrical submersible pump,Centrifugal pump impeller;
-Adhav, R.;Adhav, R.;Surrogate model,Multi-objective optimization,Genetic algorithm,Electrical submersible pump,Centrifugal pump impeller;
-Siddique, M.H.;Siddique, M.H.;Surrogate model,Multi-objective optimization,Genetic algorithm,Electrical submersible pump,Centrifugal pump impeller;
-Kenyery, F.;Kenyery, F.;Surrogate model,Multi-objective optimization,Genetic algorithm,Electrical submersible pump,Centrifugal pump impeller;
-Samad, A.;Samad, A.;Surrogate model,Multi-objective optimization,Genetic algorithm,Electrical submersible pump,Centrifugal pump impeller;
+Bellary, S.A.I.;Bellary, S.A.I.;Multi-objective optimization,Electrical submersible pump,Surrogate model,Centrifugal pump impeller,Genetic algorithm;
+Adhav, R.;Adhav, R.;Multi-objective optimization,Electrical submersible pump,Surrogate model,Centrifugal pump impeller,Genetic algorithm;
+Siddique, M.H.;Siddique, M.H.;Multi-objective optimization,Electrical submersible pump,Surrogate model,Centrifugal pump impeller,Genetic algorithm;
+Kenyery, F.;Kenyery, F.;Multi-objective optimization,Electrical submersible pump,Surrogate model,Centrifugal pump impeller,Genetic algorithm;
+Samad, A.;Samad, A.;Multi-objective optimization,Electrical submersible pump,Surrogate model,Centrifugal pump impeller,Genetic algorithm;
 Bianchi, M.;Bianchi, M.;;
 Cornaro, A.;Cornaro, A.;;
 Palacios, J.L.;Palacios, J.L.;;
 Renom, J.M.;Renom, J.M.;;
 Torriero, A.;Torriero, A.;;
-Flores, A.;Flores, A.;Relation discovery,Graph partitioning,Semantic similarity;
-Mundarain, D.F.;Mundarain, D.F.;Quantum correlations,Quantum entanglement,Quantum discord;
-de Guevara, M.L.L.;de Guevara, M.L.L.;Quantum correlations,Quantum entanglement,Quantum discord;
-Curiel, M.;Curiel, M.;patterns catalog,mobile devices,Mobile applications,software engineering,software components;
-Delgado, J.A.;Delgado, J.A.;Haar-wavelet Transform,Principal Component Analysis,Abdominal Fetal Electrocardiogram,Support Vector Machine,fQRS Complex Detection;
+Flores, A.;Flores, A.;Semantic similarity,Relation discovery,Graph partitioning;
+Mundarain, D.F.;Mundarain, D.F.;Quantum entanglement,Quantum discord,Quantum correlations;
+de Guevara, M.L.L.;de Guevara, M.L.L.;Quantum entanglement,Quantum discord,Quantum correlations;
+Curiel, M.;Curiel, M.;software components,Mobile applications,mobile devices,patterns catalog,software engineering;
+Delgado, J.A.;Delgado, J.A.;Haar-wavelet Transform,Abdominal Fetal Electrocardiogram,Support Vector Machine,fQRS Complex Detection,Principal Component Analysis;
 Perez, W.;Perez, W.;;
-Tello, A.;Tello, A.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
+Tello, A.;Tello, A.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
 Saquicela, V.;Saquicela, V.;;
-La Cruz, A.;La Cruz, A.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
-Garran, P.T.;Garran, P.T.;Output derivative,Transient response,Lightly damped system,LQR,Vibration reduction;
-Nardone, V.;Nardone, V.;Output derivative,Transient response,Lightly damped system,LQR,Vibration reduction;
-Diez, J.R.;Diez, J.R.;Output derivative,Transient response,Lightly damped system,LQR,Vibration reduction;
-Vanegas, J.;Vanegas, J.;Dirichlet problem,Clifford-type algebras depending on parameters,Meta-monogenic functions;
+La Cruz, A.;La Cruz, A.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
+Garran, P.T.;Garran, P.T.;LQR,Lightly damped system,Vibration reduction,Transient response,Output derivative;
+Nardone, V.;Nardone, V.;LQR,Lightly damped system,Vibration reduction,Transient response,Output derivative;
+Diez, J.R.;Diez, J.R.;LQR,Lightly damped system,Vibration reduction,Transient response,Output derivative;
+Vanegas, J.;Vanegas, J.;Meta-monogenic functions,Clifford-type algebras depending on parameters,Dirichlet problem;
 Callaos, N.;Callaos, N.;;
 Alibrandi, S.;Alibrandi, S.;;
 Bravo, S.;Bravo, S.;;
-Guzmán, A.;Guzmán, A.;KDP,induced birefringence,Weak Measurement;
-Ladera, C.;Ladera, C.;KDP,induced birefringence,Weak Measurement;
-Giraldo, O.;Giraldo, O.;Biomedical ontologies,Knowledge representation,Semantic web,Natural language processing,Graph theory;
-Garcia, A.;Garcia, A.;Biomedical ontologies,Knowledge representation,Semantic web,Natural language processing,Graph theory;
-Figueredo, J.;Figueredo, J.;Biomedical ontologies,Knowledge representation,Semantic web,Natural language processing,Graph theory;
+Guzmán, A.;Guzmán, A.;Weak Measurement,KDP,induced birefringence;
+Ladera, C.;Ladera, C.;Weak Measurement,KDP,induced birefringence;
+Giraldo, O.;Giraldo, O.;Semantic web,Knowledge representation,Biomedical ontologies,Graph theory,Natural language processing;
+Garcia, A.;Garcia, A.;Semantic web,Knowledge representation,Biomedical ontologies,Graph theory,Natural language processing;
+Figueredo, J.;Figueredo, J.;Semantic web,Knowledge representation,Biomedical ontologies,Graph theory,Natural language processing;
 Röjger, G.;Röjger, G.;;
-Ramírez, J.L.;Ramírez, J.L.;Recurrences,K-bonacci sequence,The k-Narayana sequence,Lattice paths,Combinatorial identities,Riordan arrays,Generating function;
-Sirvent, V.F.;Sirvent, V.F.;Recurrences,K-bonacci sequence,The k-Narayana sequence,Lattice paths,Combinatorial identities,Riordan arrays,Generating function;
+Ramírez, J.L.;Ramírez, J.L.;Combinatorial identities,K-bonacci sequence,Recurrences,Riordan arrays,Generating function,The k-Narayana sequence,Lattice paths;
+Sirvent, V.F.;Sirvent, V.F.;Combinatorial identities,K-bonacci sequence,Recurrences,Riordan arrays,Generating function,The k-Narayana sequence,Lattice paths;
 Overby, C.L.;Overby, C.L.;;
 Zotkina, E.;Zotkina, E.;;
 Raschid, L.;Raschid, L.;;
@@ -384,33 +384,33 @@ Matute, A.;Matute, A.;;
 Chang, C.;Chang, C.;Cloud detection,Object-based image analysis,Fuzzy artmap neural network;
 Vaca, F.;Vaca, F.;Cloud detection,Object-based image analysis,Fuzzy artmap neural network;
 Lugo, M.V.;Lugo, M.V.;gated transmission,power control,component,uplink transmit power,CDMA2000 1XRTT;
-Diaz, C.;Diaz, C.;Omeprazole,TDDFT,Bezimidazole,Computational chemistry,Tautomerism;
-Llovera, L.;Llovera, L.;Omeprazole,TDDFT,Bezimidazole,Computational chemistry,Tautomerism;
-Echevarria, L.;Echevarria, L.;Omeprazole,TDDFT,Bezimidazole,Computational chemistry,Tautomerism;
-Hernández, F.E.;Hernández, F.E.;Omeprazole,TDDFT,Bezimidazole,Computational chemistry,Tautomerism;
-Vega, F.;Vega, F.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
-Pérez, W.;Pérez, W.;Semantic Annotations,DICOM Ontology,Web 3D-Visualizer,Volumetric Image;
-Nabhan Homsi, M.;Nabhan Homsi, M.;Haar-wavelet Transform,Principal Component Analysis,Abdominal Fetal Electrocardiogram,Support Vector Machine,fQRS Complex Detection;
-Ledezma, C.A.;Ledezma, C.A.;QRS Complex Detection,Optimal Data Fusion,Digital Filtering,ECG Signal Processing;
-Perpinañ, G.;Perpinañ, G.;QRS Complex Detection,Optimal Data Fusion,Digital Filtering,ECG Signal Processing;
+Diaz, C.;Diaz, C.;Omeprazole,TDDFT,Computational chemistry,Tautomerism,Bezimidazole;
+Llovera, L.;Llovera, L.;Omeprazole,TDDFT,Computational chemistry,Tautomerism,Bezimidazole;
+Echevarria, L.;Echevarria, L.;Omeprazole,TDDFT,Computational chemistry,Tautomerism,Bezimidazole;
+Hernández, F.E.;Hernández, F.E.;Omeprazole,TDDFT,Computational chemistry,Tautomerism,Bezimidazole;
+Vega, F.;Vega, F.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
+Pérez, W.;Pérez, W.;DICOM Ontology,Semantic Annotations,Web 3D-Visualizer,Volumetric Image;
+Nabhan Homsi, M.;Nabhan Homsi, M.;Haar-wavelet Transform,Abdominal Fetal Electrocardiogram,Support Vector Machine,fQRS Complex Detection,Principal Component Analysis;
+Ledezma, C.A.;Ledezma, C.A.;Optimal Data Fusion,ECG Signal Processing,Digital Filtering,QRS Complex Detection;
+Perpinañ, G.;Perpinañ, G.;Optimal Data Fusion,ECG Signal Processing,Digital Filtering,QRS Complex Detection;
 Pacheco, M.L.;Pacheco, M.L.;;
 Fernandes, K.;Fernandes, K.;;
 Porco, A.;Porco, A.;;
-Dalmagro, F.;Dalmagro, F.;social systems,agent models,Game theory,conflicts;
-Jimenez, J.;Jimenez, J.;social systems,agent models,Game theory,conflicts;
-Ordoñez, E.;Ordoñez, E.;accelerographic data,WiFiPhone,Structural health monitoring,Wireless sensor network;
+Dalmagro, F.;Dalmagro, F.;agent models,Game theory,conflicts,social systems;
+Jimenez, J.;Jimenez, J.;agent models,Game theory,conflicts,social systems;
+Ordoñez, E.;Ordoñez, E.;Structural health monitoring,Wireless sensor network,accelerographic data,WiFiPhone;
 Folz, P.;Folz, P.;;
 Haag, E.;Haag, E.;;
 Thor, A.;Thor, A.;;
-Carrault, G.;Carrault, G.;Hidden semi-Markov models,Electrocardiogram,Apnea–bradycardia,Data mining,Time series analysis;
-Beuchée, A.;Beuchée, A.;Hidden semi-Markov models,Electrocardiogram,Apnea–bradycardia,Data mining,Time series analysis;
-Pladys, P.;Pladys, P.;Hidden semi-Markov models,Electrocardiogram,Apnea–bradycardia,Data mining,Time series analysis;
-Hernández, A.I.;Hernández, A.I.;Hidden semi-Markov models,Electrocardiogram,Apnea–bradycardia,Data mining,Time series analysis;
-Erazo, M.;Erazo, M.;ZIGBEE,Wireless Sensor Network,roses,monitoring,frost,greenhouse,LabVIEW;
-Perez, M.;Perez, M.;ZIGBEE,Wireless Sensor Network,roses,monitoring,frost,greenhouse,LabVIEW;
-Rojo, J.L.;Rojo, J.L.;ZIGBEE,Generator,FAST sowftware,Wireless Sensor Network,wind turbine,roses,computational fluid dynamics,monitoring,frost,greenhouse,LabVIEW,modeling;
-Perez-Gutierrez, M.F.;Perez-Gutierrez, M.F.;FAST sowftware,wind turbine,computational fluid dynamics,Generator,modeling;
-Erazo-Rodas, M.;Erazo-Rodas, M.;FAST sowftware,wind turbine,computational fluid dynamics,Generator,modeling;
+Carrault, G.;Carrault, G.;Apnea–bradycardia,Electrocardiogram,Time series analysis,Hidden semi-Markov models,Data mining;
+Beuchée, A.;Beuchée, A.;Apnea–bradycardia,Electrocardiogram,Time series analysis,Hidden semi-Markov models,Data mining;
+Pladys, P.;Pladys, P.;Apnea–bradycardia,Electrocardiogram,Time series analysis,Hidden semi-Markov models,Data mining;
+Hernández, A.I.;Hernández, A.I.;Apnea–bradycardia,Electrocardiogram,Time series analysis,Hidden semi-Markov models,Data mining;
+Erazo, M.;Erazo, M.;monitoring,frost,greenhouse,Wireless Sensor Network,ZIGBEE,LabVIEW,roses;
+Perez, M.;Perez, M.;monitoring,frost,greenhouse,Wireless Sensor Network,ZIGBEE,LabVIEW,roses;
+Rojo, J.L.;Rojo, J.L.;monitoring,computational fluid dynamics,frost,greenhouse,Wireless Sensor Network,ZIGBEE,modeling,wind turbine,FAST sowftware,LabVIEW,roses,Generator;
+Perez-Gutierrez, M.F.;Perez-Gutierrez, M.F.;computational fluid dynamics,modeling,wind turbine,FAST sowftware,Generator;
+Erazo-Rodas, M.;Erazo-Rodas, M.;computational fluid dynamics,modeling,wind turbine,FAST sowftware,Generator;
 Ceballos, M.R.;Ceballos, M.R.;;
 Gorricho, J.L.;Gorricho, J.L.;;
 Palma Gamboa, O.;Palma Gamboa, O.;;
